@@ -1,0 +1,48 @@
+{% extends 'recipes/base.html' %}
+
+{% block content %}
+	<div class="row">
+		<div class="col-sm-6">
+			<h3>{{ recipe.title }}</h3>
+			<p>
+				<a href="{{ recipe.url }}"><img class="resize" src="{{ recipe.image }}"></a>
+			</p>
+
+			<h4>Ingredients</h4>
+			<p>
+				{% if ingredients %}
+					{% for ingredient in ingredients %}
+						{{ ingredient }} <br>
+					{% endfor %}
+				{% endif %}
+			</p>
+
+			<h4>Steps</h4>
+			<ol>
+				{% if steps %}
+					{% for step in steps %}
+						<li>{{ step }}</li>
+					{% endfor %}
+				{% endif %}
+			</ol>
+		</div>
+
+		<div class="col-sm-3">
+			<h3>Update</h3>
+			<form action="" method="post">
+	    		{% csrf_token %}
+	    		{{ form }}
+	    		<input type="submit" value="Submit">
+			</form>
+
+			{% if tags %}
+				<h3>Tags</h3>
+			    <ul id="horizontal-list">
+			    {% for tag in tags %}
+			        <li><a href="{% url 'recipes:tag' tag.id %}">{{ tag.name }}</a></li>
+			    {% endfor %}
+			    </ul>
+			{% endif %}
+		</div>
+	</div>
+{% endblock %}
