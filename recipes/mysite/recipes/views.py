@@ -1,6 +1,7 @@
-from django.shortcuts import render
+from django.shortcuts import render, get_object_or_404
 from django.http import HttpResponse
 from .models import Tag, Recipe
+from django.http import HttpResponseRedirect
 from .forms import RecipeForm
 import json
 
@@ -21,21 +22,19 @@ def index(request):
     return render(request, 'recipes/index.html', context)
 
 def detail(request, recipe_id):
-	recipe = Recipe.objects.get(id=recipe_id)
+	recipe = get_object_or_404(Recipe, id=recipe_id)
 	ingredients  = json.loads(recipe.ingredients)
 	steps = json.loads(recipe.steps)
-	form = RecipeForm(request.POST)
+	form = RecipeForm(instance=recipe)
 
-	context = {'recipe': recipe, 'tags': recipe.tags.all(), 'ingredients': ingredients['ingredients'], 'steps': steps['steps'], 'form': form}
-	
 	if request.method == 'POST':
+		form = RecipeForm(request.POST, instance=recipe)
 		if form.is_valid():
-			# need to sanitize and set variables
-			recipe.this_week = form.cleaned_data['this_week']
-			recipe.next_week = form.cleaned_data["next_week"]
+			print('save')
 			recipe.save()
-			return render(request, 'recipes/detail.html', context)
+			return HttpResponseRedirect('/recipes')
 	
+	context = {'recipe': recipe, 'tags': recipe.tags.all(), 'ingredients': ingredients['ingredients'], 'steps': steps['steps'], 'form': form}
 	return render(request, 'recipes/detail.html', context)
 
 def tag(request, tag_id):
