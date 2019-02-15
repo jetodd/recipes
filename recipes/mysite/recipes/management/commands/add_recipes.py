@@ -10,15 +10,16 @@ class Command(BaseCommand):
 			recipes = data["recipes"]
 			for recipe in recipes:
 				tag_ids = []
-				for tag in recipe['tags']:
-					if Tag.objects.filter(name=tag):
-						print('Tag ' + tag + ' already exists, skipping')
-						tag_ids.append(Tag.objects.filter(name=tag)[0].id)
-					else:
-						print('Adding new tag for ' + tag)
-						new_tag = Tag(name=tag)
-						new_tag.save()
-						tag_ids.append(new_tag.id)
+				if 'tags' in recipe:
+					for tag in recipe['tags']:
+						if Tag.objects.filter(name=tag):
+							print('Tag ' + tag + ' already exists, skipping')
+							tag_ids.append(Tag.objects.filter(name=tag)[0].id)
+						else:
+							print('Adding new tag for ' + tag)
+							new_tag = Tag(name=tag)
+							new_tag.save()
+							tag_ids.append(new_tag.id)
 				if Recipe.objects.filter(title=recipe['title']):
 					print('Recipe ' + recipe['title'] + ' already exists, updating')
 					update_recipe = Recipe.objects.filter(title=recipe['title'])[0]
@@ -30,7 +31,11 @@ class Command(BaseCommand):
 					update_recipe.ingredients = string_ingredients
 					update_recipe.steps = string_steps
 					update_recipe.save()
-					update_recipe.tags.set(tag_ids)
+
+					tags_blah = recipe['tags']
+
+					if tags_blah:
+						update_recipe.tags.set(tag_ids)
 				else:
 					print('Adding new recipe for ' + recipe['title'])
 					string_ingredients = '{"ingredients":' + json.dumps(recipe['ingredients']) + '}'
@@ -38,4 +43,5 @@ class Command(BaseCommand):
 					r = Recipe(title=recipe['title'], pub_date=timezone.now(), url=recipe['url'], ingredients=string_ingredients, 
 						steps=string_steps, image=recipe['image'])
 					r.save()
-					r.tags.set(tag_ids)
+					if 'tags' in recipe:
+						r.tags.set(tag_ids)
