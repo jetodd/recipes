@@ -5,10 +5,13 @@ body {
 
 ul#horizontal-list {
 	list-style: none;
+	text-align: center;
 }
 
 ul#horizontal-list li {
-	display: inline;	
+	display: inline-block;
+	margin:0 auto;
+	height: 45px;
 }
 
 ul#horizontal-list li a {
