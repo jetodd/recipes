@@ -20,7 +20,17 @@ class Command(BaseCommand):
 						new_tag.save()
 						tag_ids.append(new_tag.id)
 				if Recipe.objects.filter(title=recipe['title']):
-					print('Recipe ' + recipe['title'] + ' already exists, skipping')
+					print('Recipe ' + recipe['title'] + ' already exists, updating')
+					update_recipe = Recipe.objects.filter(title=recipe['title'])[0]
+					string_ingredients = '{"ingredients":' + json.dumps(recipe['ingredients']) + '}'
+					string_steps = '{"steps":' + json.dumps(recipe['steps']) + '}'
+
+					update_recipe.title = recipe['title']
+					update_recipe.url = recipe['url']
+					update_recipe.ingredients = string_ingredients
+					update_recipe.steps = string_steps
+					update_recipe.save()
+					update_recipe.tags.set(tag_ids)
 				else:
 					print('Adding new recipe for ' + recipe['title'])
 					string_ingredients = '{"ingredients":' + json.dumps(recipe['ingredients']) + '}'
