@@ -27,4 +27,19 @@ Finally create a super user with
 To run application use:
 ```python manage.py runserver```
 
-Application will run by default locally on http://127.0.0.1:8000/recipes/
+or if you are developing locally you'll want livereload
+
+On the first time run:
+```
+$ npm install
+$ npm install -g gulp-cli
+```
+
+Then:
+```bash
+$ gulp
+```
+
+This will start the application and a livereload server
+
+Application will run by default locally on http://127.0.0.1:8000/
