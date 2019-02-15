@@ -30,6 +30,11 @@
             "In a bowl whisk together the sweet chilli, soy sauce, sriracha, water and peanut butter.",
             "Cook the noodles according to packet directions",
             "Add the tofu, noodles and sauce into the vegetables and mix well."
+         ],
+         "tags":[
+            "Asian",
+            "Chinese",
+            "Vegetarian"
          ]
       },
       {  
@@ -66,6 +71,10 @@
             "Add the spinach to the wok and mix in.",
             "Turn off heat and add the pasta and baby tomatoes to the sauce.",
             "Serve topped with pine nuts, basil and mozarella"
+         ],
+         "tags":[
+            "Italian",
+            "Vegetarian"
          ]
       },
       {
@@ -104,6 +113,10 @@
             "Bake covered at 400 deg F / 200ºc for 20 minutes.",
             "Cook sausages",
             "Uncover and bake another 15 minutes or until the potatoes are tender."
+         ],
+         "tags":[
+            "Potatoes",
+            "Vegan"
          ]
       },
       {
@@ -133,6 +146,11 @@
             "Whisk eggs together and cook for scrambled eggs.",
             "Mix tofu and cumin to make tofu scramble.",
             "Assemble burritos by adding a mixture of the salsa, eggs or tofu and halloumi or nuggies."
+         ],
+         "tags":[
+            "Mexican",
+            "Brinner",
+            "Vegetarian"
          ]
       },
             {
@@ -165,6 +183,10 @@
             "Spoon half of the vegetables into the baking dish followed by half the tomato sauce and lasagna sheets.",
             "Repeat the above step.",
             "Cover the top with spinach and ricotta mixture then bake for 20mins covered and 10 mins uncovered."
+         ],
+         "tags":[
+            "Italian",
+            "Vegetarian"
          ]
       },
       {
@@ -191,6 +213,9 @@
             "Pour the tomato stock into the skillet, one ladle at a time. Stirring continuously.",
             "Remove from heat and toss in the butter and cheese.",
             "Add the spinach and toss until wilted."
+         ],
+         "tags":[
+            "Italian"
          ]
       },
       {
@@ -220,6 +245,9 @@
             "Cover, bring to the boil then simmer for 10 minutes.",
             "If sauce is not thickening add a cornstrarch slurry.",
             "Stir in peas and cook for several minutes."
+         ],
+         "tags":[
+            "Rice"
          ]
       },
       {
@@ -247,6 +275,12 @@
             "Once carrots are tender cover mixture in boiling water. Add the courgette and simmer until vegetables are cooked.",
             "Turn off the heat, add the tofu and break in the golden curry block",
             "Stir until block is completely dissolved, simmer a few more minutes."
+         ],
+         "tags":[
+            "Asian",
+            "Japanese",
+            "Vegetarian",
+            "Rice"
          ]
       },
       {
@@ -280,6 +314,10 @@
             "Finely chop red onion, garlic, avocado, tomatoes and half the coriander and mix together for salsa.",
             "Add cumin and squeeze one tbsp of lime juice over salsa.",
             "Mix the remaining chopped coriander and lime juice into the rice."
+         ],
+         "tags":[
+            "Rice",
+            "Vegan"
          ]
       },
       {
@@ -306,6 +344,11 @@
             "Fold in the cheddar cheese and chiles.",
             "Spray waffle iron with cooking spray. Pour batter into waffle iron and cook until golden brown.",
             "Eat half of the waffles while cooking because Jess said so."
+         ],
+         "tags":[
+            "Vegetarian",
+            "Brinner",
+            "Sweet"
          ]
       },
       {
@@ -334,6 +377,9 @@
             "Mix together remaining ingredients and pour over sausages.",
             "Bake in the oven for 20 mins.",
             "Cook rice."
+         ],
+         "tags":[
+            "Rice"
          ]
       },
       {
@@ -360,6 +406,10 @@
             "Add the tinned tomatoes and simmer.",
             "Arrange corn chips on plates and pour mixture over.",
             "Top with chopped avocado."
+         ],
+         "tags":[
+            "Mexican",
+            "Vegetarian"
          ]
       },
       {
@@ -383,6 +433,10 @@
             "Melt butter in a the frying pan.",
             "Place bread slices in frying pan and cook until golden brown on each side.",
             "Top with berries, banana, maple syrup or whatever toppings you have."
+         ],
+         "tags":[
+            "Brinner",
+            "Sweet"
          ]
       },
       {
@@ -421,6 +475,10 @@
             "In the frying pan on medium heat add the curry paste and cool for 2 minutes.",
             "Add the carrot, green pepper, red pepper, mushroom, courgette and pak choi stems. Pausing between each one to cook them.",
             "Add the broth, tofu and coconut milk and bring to a boil. Reduce heat and add noodles. Simmer until noodles are cooked."
+         ],
+         "tags":[
+            "Asian",
+            "Vegan"
          ]
       },
       {
@@ -445,6 +503,10 @@
             "Slowly stir in milk and 1 1/2 cups of the cheese. Heat to boiling, stirring constantly. Boil and stir 1 minute until the cheese is completely melted.",
             "Spread potatoes in casserole dish. Pour cheese sauce over potatoes. Bake uncovered for 1 hour.",
             "Mix remaining cheese and bread crumbs, sprinkle over potatoes. Bake uncovered 15 minutes or until top is brown and bubbly."
+         ],
+         "tags":[
+            "Potatoes",
+            "French"
          ]
       },
       {
@@ -472,6 +534,9 @@
             "Stir in the cream, ½ cup of the Parmesan, and 3 tablespoons of the basil.",
             "Transfer to the casserole dish and sprinkle the mozzarella and remaining ¼ cup Parmesan on top.",
             "Bake uncovered in the oven for 10 minutes. Sprinkle with remaning basil and fancy mozarella."
+         ],
+         "tags":[
+            "Italian"
          ]
       },
       {
@@ -506,6 +571,10 @@
             "Stir the spinach and fresh basil into the wok, once cooked add the gnocchi and remove from heat.",
             "Transfer to the casserole dish and sprinkle half the mozzarella on top.",
             "Bake uncovered in the oven for 10 minutes. Sprinkle with basil and fancy mozarella."
+         ],
+         "tags":[
+            "Italian",
+            "Vegetarian"
          ]
       },
       {
@@ -538,6 +607,10 @@
             "Add the green pepper, red pepper and courgette along with the spices.",
             "Pour in the stock and lentils then bring to a boil and simmer for ten minutes.",
             "Add in the tomatoes and peanut butter, simmer until all vegetables are cooked."
+         ],
+         "tags":[
+            "Rice",
+            "Vegan"
          ]
       },
       {
@@ -571,6 +644,12 @@
             "Mix together the soy sauce, vinegar, honey, Sriracha, red chili flakes and water.",
             "Pour the sauce over the vegetables and cook until sauce has thickened.",
             "Add pak choi leaves in and mix until cooked."
+         ],
+         "tags":[
+            "Asian",
+            "Chinese",
+            "Vegetarian",
+            "Rice"
          ]
       },
       {
@@ -606,6 +685,11 @@
             "Cook salmon in the oven for roughly 15 minutes.",
             "Add carrot, green pepper, red pepper, courgette, pak choi stalks and leaves in that order to the wok.",
             "Add tofu back to the wok to heat up."
+         ],
+         "tags":[
+            "Asian",
+            "Japanese",
+            "Rice"
          ]
       },
       {
@@ -641,6 +725,9 @@
             "Lift the rounds onto two floured baking sheets.",
             "Smooth sauce over the base and add cheese. Bake in oven for 8 - 10 minutes or until crisp.",
             "Top with fresh basil."
+         ],
+         "tags":[
+            "Italian"
          ]
       },
       {
@@ -674,6 +761,11 @@
             "Add the tinned tomatoes and cook until mixture starts bubbling.",
             "Thrown in the milk, and the cubed paneer. Cook covered for 8-10 mins until everything is cooked.",
             "When done, add the garam masala and the cream or cashew paste."
+         ],
+         "tags":[
+            "Indian",
+            "Vegetarian",
+            "Rice"
          ]
       },
       {
@@ -711,6 +803,44 @@
             "Throw sauce all over the floor, pour what remains on top of the enchiladas along with some cheese.",
             "Bake in the oven until heated through.",
             "Serve with sliced avocado."
+         ],
+         "tags":[
+            "Mexican"
+         ]
+      },
+      {
+         "title": "Masala frittata",
+         "url": "https://www.bbcgoodfood.com/recipes/masala-frittata-avocado-salsa",
+         "image": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2016/01/masala-frittata-with-avocado-salsa.jpg",
+         "ingredients": [
+            "3 onions",
+            "2 tbsp madras curry paste",
+            "cherry tomatoes",
+            "1 red chilli",
+            "coriander",
+            "8 eggs",
+            "1 red onion",
+            "2 cloves garlic",
+            "1 avocado",
+            "2 tomatoes",
+            "1 lime",
+            "1 bunch coriander",
+            "1/2 tsp cumin",
+            "1 red pepper",
+            "1 green pepper",
+            "one yellow pepper",
+            "spinach"
+         ],
+         "steps": [
+            "In a pan cook the onion. Once softened add the peppers.",
+            "Add the green pepper, red pepper, courgette in order leaving each a few minutes to cook.",
+            "Add the Madras paste and fry for 1 min more, then tip in the cherry tomatoes and the chilli.",
+            "Finely chop red onion, garlic, avocado, tomatoes and half the coriander and mix together.",
+            "Add cumin and squeeze lime juice over salsa.",
+            "Add the remaining coriander and eggs to the onion mixture and cook until egg has set stirring infrequently."
+         ],
+         "tags":[
+            "Vegetarian"
          ]
       },
       {  
