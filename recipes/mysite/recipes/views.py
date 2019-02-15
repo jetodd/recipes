@@ -42,3 +42,8 @@ def tag(request, tag_id):
 	recipes = Recipe.objects.filter(tags__in=[tag_id])
 	context = {'tag': tag, 'recipes': recipes}
 	return render(request, 'recipes/tag.html', context)
+
+def all(request):
+	recipes = Recipe.objects.all()
+	context = {'recipes': recipes}
+	return render(request, 'recipes/all.html', context)

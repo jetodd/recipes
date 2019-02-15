@@ -1,0 +1,15 @@
+{% extends 'recipes/base.html' %}
+
+{% block content %}
+	<h3>All recipes</h3>
+
+	{% if recipes %}
+		<ul>
+			{% for recipe in recipes %}
+				<li><a href="{% url 'recipes:detail' recipe.id %}">{{ recipe.title }}</a></li>
+			{% endfor %}
+		</ul>
+	{% else %}
+		<p>Nothing here yet, should probably migrate.</p>
+	{% endif %}
+{% endblock %}
