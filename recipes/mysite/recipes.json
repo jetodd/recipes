@@ -713,5 +713,55 @@
             "Serve with sliced avocado."
          ]
       },
+      {  
+         "title": "Mint oreos",
+         "url": "http://whiskandaprayer.blogspot.com/2011/02/st-pattys-day-mint-oreos.html",
+         "image" : "http://1.bp.blogspot.com/-JheQXY6TIF8/TWZ_q-ENGxI/AAAAAAAAEEQ/LTQ9kcGUGeo/s320/P1010063.jpg",
+         "ingredients":[  
+            "1 cup all purpose flour",
+            "1/2 cup unsweetened cocoa powder",
+            "1/4 teaspoon baking soda",
+            "1/4 teaspoon salt",
+            "6 tablespoons unsalted butter",
+            "1 1/6 cup light brown sugar",
+            "1 teaspoon vanilla extract",
+            "1 large egg white"
+         ],
+         "steps":[  
+            "In a bowl, whisk together the flour, cocoa powder, baking soda, and salt.",
+            "In another bowl beat the butter, sugar and vanilla.",
+            "Beat in the egg white. Add the flour mixture and beat just until incorporated.",
+            "Place the dough on your work surface and, using your hands, form the dough into a log shape.",
+            "Carefully wrap the dough in parchment paper and fold the ends. Refrigerate for at least one hour or overnight.",
+            "Preheat the oven to 180° C. Line two baking sheets.",
+            "Slice dough into 1/4 inch thick wafers. Place on the baking sheet about 2.5 cm apart. Bake for approximately 10-12 minutes."
+         ],
+         "tags":[
+            "Sweet"
+         ]
+      },
+      {  
+         "title": "Protein pancakes",
+         "url": "http://www.thewholesomefork.com/2015/09/19/banana-oatmeal-protein-pancakes-gluten-free/",
+         "image" : "http://www.thewholesomefork.com/wp-content/uploads/2015/09/Banana-oat-pancakes-new-2.jpg",
+         "ingredients":[  
+            "1 medium ripe banana",
+            "2 large eggs",
+            "1/3 cup oats",
+            "1/4 tsp cinnamon"
+         ],
+         "steps":[  
+            "Put the banana in a bowl and mash with a fork.",
+            "Add the eggs and mix until well combined.",
+            "Put the oats in a blender and blend until fine.",
+            "Add the blended oats and cinnamon to the banana mix, and stir well.",
+            "Heat a skillet over a medium heat with a dash of vegetable oil.",
+            "Pour 1/4 cup of mixture into skillet, cook on both sides."
+         ],
+         "tags":[
+            "Sweet",
+            "Brinner"
+         ]
+      }
    ]
 }
