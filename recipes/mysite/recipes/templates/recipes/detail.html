@@ -1,9 +1,10 @@
-{% extends 'recipes/base.html' %}
+\{% extends 'recipes/base.html' %}
 
 {% block content %}
 	<div class="row">
 		<div class="col-sm-6">
 			<h3>{{ recipe.title }}</h3>
+
 			<p>
 				<a href="{{ recipe.url }}"><img class="resize" src="{{ recipe.image }}"></a>
 			</p>
@@ -32,7 +33,7 @@
 			<form action="" method="post">
 	    		{% csrf_token %}
 	    		{{ form.as_p }}
-	    		<input type="submit" value="Submit">
+	    		<input class="btn btn-primary" type="submit" value="Submit">
 	    		{% if form.errors %}
 	    			{% for field in form %}
 	    				{% for error in field.errors %}
@@ -44,6 +45,14 @@
 	    			{% endfor %}
 	    		{% endif %}
 			</form>
+
+			{% if recipe.this_week %}
+				<form action="cooked" method="post">
+					{% csrf_token %}
+					<input class="btn btn-primary" type="submit" value="Cooked">
+				</form>
+			{% endif %}
+
 
 			{% if tags %}
 				<h3>Tags</h3>

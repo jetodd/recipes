@@ -37,6 +37,20 @@ def detail(request, recipe_id):
 	context = {'recipe': recipe, 'tags': recipe.tags.all(), 'ingredients': ingredients['ingredients'], 'steps': steps['steps'], 'form': form}
 	return render(request, 'recipes/detail.html', context)
 
+def cooked(request, recipe_id):
+	recipe = get_object_or_404(Recipe, id=recipe_id)
+	ingredients = json.loads(recipe.ingredients)
+	steps = json.loads(recipe.steps)
+	form = RecipeForm(instance=recipe)
+
+	if request.method == 'POST':
+		print('save')
+		recipe.cooked_count += 1
+		recipe.this_week = False
+		recipe.save()
+		return HttpResponseRedirect('/recipes')
+
+
 def tag(request, tag_id):
 	tag = Tag.objects.get(id=tag_id)
 	recipes = Recipe.objects.filter(tags__in=[tag_id])
