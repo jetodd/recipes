@@ -16,5 +16,6 @@ class Recipe(models.Model):
 	tags = models.ManyToManyField(Tag)
 	this_week = models.BooleanField(default=False)
 	next_week = models.BooleanField(default=False)
+	cooked_count = models.IntegerField(default=0)
 	def __str__(self):
 		return self.title
