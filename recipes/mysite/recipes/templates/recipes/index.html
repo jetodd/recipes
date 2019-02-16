@@ -30,6 +30,15 @@
 			</ul>
 		{% endif %}
 
+		<h3>Most popular recipes</h3>
+		{% if most_popular_recipes_list %}
+		<ul>
+			{% for recipe in most_popular_recipes_list %}
+			<li><a href="{% url 'recipes:detail' recipe.id %}">{{ recipe.title }}</a></li>
+			{% endfor %}
+		</ul>
+		{% endif %}
+
 		{% if this_week %}
 			<h3>This week</h3>
 			<ul>

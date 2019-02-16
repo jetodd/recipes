@@ -13,6 +13,7 @@ def index(request):
     tags_list = Tag.objects.all()
     this_week = Recipe.objects.filter(this_week=True)
     next_week = Recipe.objects.filter(next_week=True)
+    most_popular_recipes_list = Recipe.objects.all().filter(cooked_count__gt=0).order_by('-cooked_count')[:5]
 
     queryset_list = Recipe.objects.all()
     query = request.GET.get("q")
@@ -21,7 +22,7 @@ def index(request):
 
     context = {'latest_recipes_list': latest_recipes_list, 'tags_list': tags_list, 'this_week': this_week,
                'next_week': next_week,
-               'query': query, 'queryset_list': queryset_list}
+               'query': query, 'queryset_list': queryset_list, 'most_popular_recipes_list': most_popular_recipes_list}
     return render(request, 'recipes/index.html', context)
 
 
@@ -70,12 +71,12 @@ def move(request):
 
 def tag(request, tag_id):
     tag = Tag.objects.get(id=tag_id)
-    recipes = Recipe.objects.filter(tags__in=[tag_id])
+    recipes = Recipe.objects.filter(tags__in=[tag_id]).order_by('-cooked_count')
     context = {'tag': tag, 'recipes': recipes}
     return render(request, 'recipes/tag.html', context)
 
 
 def all(request):
-    recipes = Recipe.objects.all()
+    recipes = Recipe.objects.all().order_by('-cooked_count')
     context = {'recipes': recipes}
     return render(request, 'recipes/all.html', context)
