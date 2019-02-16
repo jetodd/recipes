@@ -34,16 +34,6 @@
 	    		{% csrf_token %}
 	    		{{ form.as_p }}
 	    		<input class="btn btn-primary" type="submit" value="Submit">
-	    		{% if form.errors %}
-	    			{% for field in form %}
-	    				{% for error in field.errors %}
-	    				<strong>{{ error|escape }}</strong>
-	    				{% endfor %}
-	    			{% endfor %}
-	    			{% for error in form.non_field_errors %}
-	    				<strong>{{ error|escape }}</strong>
-	    			{% endfor %}
-	    		{% endif %}
 			</form>
 
 			{% if recipe.this_week %}

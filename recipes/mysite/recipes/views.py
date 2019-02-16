@@ -30,7 +30,6 @@ def detail(request, recipe_id):
 	if request.method == 'POST':
 		form = RecipeForm(request.POST, instance=recipe)
 		if form.is_valid():
-			print('save')
 			recipe.save()
 			return HttpResponseRedirect('/recipes')
 	
@@ -48,6 +47,17 @@ def cooked(request, recipe_id):
 		recipe.cooked_count += 1
 		recipe.this_week = False
 		recipe.save()
+		return HttpResponseRedirect('/recipes')
+
+def move(request):
+	recipes = Recipe.objects.filter(next_week=True)
+
+	if request.method == 'POST':
+		for recipe in recipes:
+			print (recipe)
+			recipe.this_week = True
+			recipe.next_week = False
+			recipe.save()
 		return HttpResponseRedirect('/recipes')
 
 
