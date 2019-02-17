@@ -1,4 +1,26 @@
 {% extends 'recipes/base.html' %}
 
 {% block content %}
+
+<h3>Shopping</h3>
+
+{% if items %}
+	<ul>
+		{% for item in items %}
+			<li>{{ item.name }}</li>
+		{% endfor %}
+	</ul>
+{% else %}
+	<p>Nothing here yet.</p>
+{% endif %}
+
+<h3>Add item</h3>
+
+<form action="" method="post">
+	{% csrf_token %}
+	{{ form.as_p }}
+	<input class="btn btn-primary" type="submit" value="Add">
+</form>
+
+
 {% endblock %}

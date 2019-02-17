@@ -1,6 +1,6 @@
 from django import forms
 
-from .models import Recipe
+from .models import Recipe, ShoppingItem
 
 class RecipeForm(forms.ModelForm):
     class Meta:
@@ -17,3 +17,11 @@ class RecipeForm(forms.ModelForm):
     def clean_next_week(self):
     	data = self.cleaned_data['next_week']
     	return data
+
+class ShoppingForm(forms.ModelForm):
+    class Meta:
+        model = ShoppingItem
+        fields = ('name',)
+
+    def __init__(self, *args, **kwargs):
+        super(ShoppingForm, self).__init__(*args, **kwargs)

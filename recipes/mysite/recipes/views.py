@@ -3,7 +3,7 @@ import json
 from django.http import HttpResponseRedirect
 from django.shortcuts import render, get_object_or_404
 
-from .forms import RecipeForm
+from .forms import RecipeForm, ShoppingForm
 from .models import Tag, Recipe, ShoppingItem
 
 
@@ -50,16 +50,23 @@ def cooked(request, recipe_id):
     form = RecipeForm(instance=recipe)
 
     if request.method == 'POST':
-        print('save')
         recipe.cooked_count += 1
         recipe.this_week = False
-        recipe.save()
+        recipe.save(self)
         return HttpResponseRedirect('/recipes')
 
 def shopping(request):
-	shopping = ShoppingItem.objects.all()
-	context = {'items': shopping}
-	return render(request, 'recipes/shopping.html', context)
+    shopping = ShoppingItem.objects.all()
+    form = ShoppingForm()
+    context = {'items': shopping, 'form': form}
+
+    if request.method == 'POST':
+        if form.is_valid:
+            post = form.save(commit=False)
+            post.name = request.POST['name']#form.cleaned_data['name']
+            post.save()
+
+    return render(request, 'recipes/shopping.html', context)
 
 
 def move(request):
@@ -67,7 +74,6 @@ def move(request):
 
     if request.method == 'POST':
         for recipe in recipes:
-            print(recipe)
             recipe.this_week = True
             recipe.next_week = False
             recipe.save()
