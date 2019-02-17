@@ -52,7 +52,7 @@ def cooked(request, recipe_id):
     if request.method == 'POST':
         recipe.cooked_count += 1
         recipe.this_week = False
-        recipe.save(self)
+        recipe.save()
         return HttpResponseRedirect('/recipes')
 
 def shopping(request):
