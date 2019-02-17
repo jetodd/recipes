@@ -23,4 +23,4 @@ class Recipe(models.Model):
 class ShoppingItem(models.Model):
 	name = models.CharField(max_length=200)
 	def __str__(self):
-		return self.title
+		return self.name
