@@ -10,6 +10,11 @@
 			<li>{{ item.name }}</li>
 		{% endfor %}
 	</ul>
+	<h3>Delete all items</h3>
+	<form action="deleteshopping" method="post">
+		{% csrf_token %}
+		<input class="btn btn-danger" type="submit" value="Delete">
+	</form>
 {% else %}
 	<p>Nothing here yet.</p>
 {% endif %}
@@ -21,6 +26,8 @@
 	{{ form.as_p }}
 	<input class="btn btn-primary" type="submit" value="Add">
 </form>
+
+
 
 
 {% endblock %}
