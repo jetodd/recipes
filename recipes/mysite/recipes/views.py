@@ -4,7 +4,7 @@ from django.http import HttpResponseRedirect
 from django.shortcuts import render, get_object_or_404
 
 from .forms import RecipeForm
-from .models import Tag, Recipe
+from .models import Tag, Recipe, ShoppingItem
 
 
 # Create your views here.
@@ -55,6 +55,11 @@ def cooked(request, recipe_id):
         recipe.this_week = False
         recipe.save()
         return HttpResponseRedirect('/recipes')
+
+def shopping(request):
+	shopping = ShoppingItem.objects.all()
+	context = {'items': shopping}
+	return render(request, 'recipes/shopping.html', context)
 
 
 def move(request):
