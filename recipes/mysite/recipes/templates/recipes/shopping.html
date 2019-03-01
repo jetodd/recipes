@@ -9,7 +9,7 @@
 			<form action="deleteitems" method="post">
 				<p>
 				{% for item in items %}
-						<input type="checkbox" name="item" value="{{item.name}}" /> {{item.name}}<br />
+						<input type="checkbox" name="item" value="{{item.name}}" /> {{item.name}} {% if item.recipe != None %}({{item.recipe}}){% endif %}<br />
 					{% endfor %}
 				{% csrf_token %}
 				</p>
