@@ -21,7 +21,7 @@ class RecipeForm(forms.ModelForm):
 class ShoppingForm(forms.ModelForm):
     class Meta:
         model = ShoppingItem
-        fields = ('name',)
+        fields = ('name','recipe')
 
     def __init__(self, *args, **kwargs):
         super(ShoppingForm, self).__init__(*args, **kwargs)

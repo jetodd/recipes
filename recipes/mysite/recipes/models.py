@@ -22,5 +22,6 @@ class Recipe(models.Model):
 
 class ShoppingItem(models.Model):
 	name = models.CharField(max_length=200)
+	recipe = models.ForeignKey(Recipe, on_delete=models.CASCADE, blank=True, null=True)
 	def __str__(self):
 		return self.name
