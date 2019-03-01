@@ -11,5 +11,6 @@ urlpatterns= [
 	path('tag/<int:tag_id>', views.tag, name='tag'),
 	path('all', views.all, name='all'),
 	path('shopping', views.shopping, name='shopping'),
-	path('deleteshopping', views.deleteshopping, name='deleteshopping')
+	path('deleteshopping', views.deleteshopping, name='deleteshopping'),
+	path('deleteitems', views.deleteitems, name='deleteitems')
 ]

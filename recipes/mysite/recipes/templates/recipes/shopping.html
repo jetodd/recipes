@@ -5,11 +5,15 @@
 <h3>Shopping</h3>
 
 {% if items %}
-	<ul>
+	<form action="deleteitems" method="post">
+		<p>
 		{% for item in items %}
-			<li>{{ item.name }}</li>
-		{% endfor %}
-	</ul>
+				<input type="checkbox" name="item" value="{{item.name}}" /> {{item.name}}<br />
+			{% endfor %}
+		{% csrf_token %}
+		</p>
+		<input class="btn btn-danger" type="submit" value="Delete selected">
+	</form>
 	<h3>Delete all items</h3>
 	<form action="deleteshopping" method="post">
 		{% csrf_token %}

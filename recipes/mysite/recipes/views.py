@@ -63,7 +63,7 @@ def shopping(request):
     if request.method == 'POST':
         if form.is_valid:
             post = form.save(commit=False)
-            post.name = request.POST['name']#form.cleaned_data['name']
+            post.name = request.POST['name']
             post.save()
 
     return render(request, 'recipes/shopping.html', context)
@@ -85,6 +85,13 @@ def deleteshopping(request):
     if request.method == 'POST':
         for item in shopping:
             item.delete()
+        return HttpResponseRedirect('/recipes/shopping')
+
+def deleteitems(request):
+    if request.method == 'POST':
+        for item in request.POST.getlist('item'):
+            delete_item = ShoppingItem.objects.filter(name=item)
+            delete_item[0].delete()
         return HttpResponseRedirect('/recipes/shopping')
 
 
