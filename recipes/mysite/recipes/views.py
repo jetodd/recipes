@@ -46,6 +46,8 @@ def detail(request, recipe_id):
 
 def cooked(request, recipe_id):
     recipe = get_object_or_404(Recipe, id=recipe_id)
+    shopping = ShoppingItem.objects.filter(recipe=recipe)
+    print(shopping)
     ingredients = json.loads(recipe.ingredients)
     steps = json.loads(recipe.steps)
     form = RecipeForm(instance=recipe)
@@ -54,6 +56,9 @@ def cooked(request, recipe_id):
         recipe.cooked_count += 1
         recipe.this_week = False
         recipe.save()
+        if (shopping):
+            for item in shopping:
+                item.delete()
         return HttpResponseRedirect('/recipes')
 
 def shopping(request):
