@@ -1,6 +1,6 @@
 body {
 	font-family: Tahoma, Geneva, Verdana, sans-serif;
-	font-size: 0.6em;
+	font-size: 0.7em;
 }
 
 ul#horizontal-list {
@@ -63,6 +63,11 @@ a:hover {
 .btn-primary {
 	background-color: #4ac9ba;
 	border-color: #4ac9ba;
+}
+
+.btn {
+	width:70%;
+	max-width: 180px;
 }
 
 .navbar-light .navbar-brand, .navbar-light .navbar-nav .nav-link {
