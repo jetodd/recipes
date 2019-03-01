@@ -55,7 +55,7 @@
 					<li><a href="{% url 'recipes:detail' recipe.id %}">{{ recipe.title }}</a>
 					{% for item in shopping %}
 						{% ifequal item.recipe.id recipe.id %}
-							{{ item.name }}
+							({{ item.name }})
 						{% endifequal %}
 					{% endfor %}
 				{% endfor %}
