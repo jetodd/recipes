@@ -43,7 +43,13 @@
 			<h3>This week</h3>
 			<ul>
 				{% for recipe in this_week %}
-					<li><a href="{% url 'recipes:detail' recipe.id %}">{{ recipe.title }}</a></li>
+					<li><a href="{% url 'recipes:detail' recipe.id %}">{{ recipe.title }}</a>
+						{% for item in shopping %}
+							{% ifequal item.recipe.id recipe.id %}
+								({{ item.name }})
+							{% endifequal %}
+						{% endfor %}
+					</li>
 				{% endfor %}
 			</ul>
 		{% endif %}
@@ -59,7 +65,7 @@
 						{% endifequal %}
 					{% endfor %}
 				{% endfor %}
-			</li>
+				</li>
 			</ul>
 			<h3>Move recipes</h3>
 			<form action="move" method="post">
