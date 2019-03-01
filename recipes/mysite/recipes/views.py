@@ -14,6 +14,7 @@ def index(request):
     this_week = Recipe.objects.filter(this_week=True)
     next_week = Recipe.objects.filter(next_week=True)
     most_popular_recipes_list = Recipe.objects.all().filter(cooked_count__gt=0).order_by('-cooked_count')[:5]
+    shopping = ShoppingItem.objects.filter(recipe__isnull=False)
 
     queryset_list = Recipe.objects.all()
     query = request.GET.get("q")
@@ -21,7 +22,7 @@ def index(request):
         queryset_list = queryset_list.filter(title__icontains=query)
 
     context = {'latest_recipes_list': latest_recipes_list, 'tags_list': tags_list, 'this_week': this_week,
-               'next_week': next_week,
+               'next_week': next_week, 'shopping': shopping,
                'query': query, 'queryset_list': queryset_list, 'most_popular_recipes_list': most_popular_recipes_list}
     return render(request, 'recipes/index.html', context)
 
@@ -64,6 +65,9 @@ def shopping(request):
         if form.is_valid:
             post = form.save(commit=False)
             post.name = request.POST['name']
+            if request.POST['recipe']:
+                post.recipe = get_object_or_404(Recipe, id=request.POST['recipe'])
+
             post.save()
 
     return render(request, 'recipes/shopping.html', context)
