@@ -83,14 +83,6 @@ def move(request):
             recipe.save()
         return HttpResponseRedirect('/recipes')
 
-def deleteshopping(request):
-    shopping = ShoppingItem.objects.all()
-
-    if request.method == 'POST':
-        for item in shopping:
-            item.delete()
-        return HttpResponseRedirect('/recipes/shopping')
-
 def deleteitems(request):
     if request.method == 'POST':
         for item in request.POST.getlist('item'):

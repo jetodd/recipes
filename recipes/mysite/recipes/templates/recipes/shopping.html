@@ -2,36 +2,36 @@
 
 {% block content %}
 
-<h3>Shopping</h3>
+<div class="row">
+	<div class="col-sm-4">
+		<h3>Shopping</h3>
+		{% if items %}
+			<form action="deleteitems" method="post">
+				<p>
+				{% for item in items %}
+						<input type="checkbox" name="item" value="{{item.name}}" /> {{item.name}}<br />
+					{% endfor %}
+				{% csrf_token %}
+				</p>
+				<input class="btn btn-danger" type="submit" value="Delete selected">
+				<input class="btn btn-primary" value="Select all" id="select_all">
+			</form>
+		{% else %}
+			<p>Nothing here yet.</p>
+		{% endif %}
+	</div>
 
-{% if items %}
-	<form action="deleteitems" method="post">
-		<p>
-		{% for item in items %}
-				<input type="checkbox" name="item" value="{{item.name}}" /> {{item.name}}<br />
-			{% endfor %}
-		{% csrf_token %}
-		</p>
-		<input class="btn btn-danger" type="submit" value="Delete selected">
-	</form>
-	<h3>Delete all items</h3>
-	<form action="deleteshopping" method="post">
-		{% csrf_token %}
-		<input class="btn btn-danger" type="submit" value="Delete">
-	</form>
-{% else %}
-	<p>Nothing here yet.</p>
-{% endif %}
+	<div class="col-sm-3">
+		<h3>Add item</h3>
 
-<h3>Add item</h3>
+		<form action="" method="post">
+			{% csrf_token %}
+			{{ form.as_p }}
+			<input class="btn btn-primary" type="submit" value="Add">
+		</form>
+	</div>
 
-<form action="" method="post">
-	{% csrf_token %}
-	{{ form.as_p }}
-	<input class="btn btn-primary" type="submit" value="Add">
-</form>
-
-
+</div>
 
 
 {% endblock %}
