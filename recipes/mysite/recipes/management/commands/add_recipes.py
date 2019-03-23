@@ -29,6 +29,7 @@ class Command(BaseCommand):
 
 						update_recipe.title = recipe['title']
 						update_recipe.url = recipe['url']
+						update_recipe.image = recipe['image']
 						update_recipe.ingredients = string_ingredients
 						update_recipe.steps = string_steps
 						update_recipe.save()
