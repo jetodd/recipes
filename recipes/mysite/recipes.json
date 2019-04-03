@@ -1046,6 +1046,33 @@
             "Sweet",
             "Vegan"
          ]
+      },
+      {
+         "title": "Amazing asian salad",
+         "url": "https://www.youtube.com/watch?v=oHg5SJYRHA0",
+         "image": "https://www.dashofsanity.com/wp-content/uploads/2017/04/CHOPPED-ASIAN-SALAD-TWITTER.jpg",
+         "ingredients": [
+            "2 Carrot",
+            "1 Bell pepper",
+            "1 Red onion",
+            "2 Avocado",
+            "Sesame oil",
+            "Soy sauce",
+            "Sweet chilli",
+            "Brown sugar",
+            "Noodles - whatever is in the pantry"
+         ],
+         "steps": [
+            "Cut everything really finely",
+            "Mix sauce in bowl",
+            "Cook noodles according to packet instructions",
+            "Add sauce to noodles"
+         ],
+         "tags":[
+            "Asian",
+            "Vegan",
+            "Noodles"
+         ]
       }
    ] 
 }
