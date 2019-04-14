@@ -59,15 +59,6 @@ Production is deployed to heroku automatically on a push to master
 $ brew tap heroku/brew && brew install heroku
 $ heroku login
 $ heroku git:remote -a stitchs-recipes
-```
+$ heroku logs --tail
 
-### Making changes
-Database migrations and recipes updating are manual
-
-```bash
-$ heroku run python manage.py migrate
-```
-
-```bash
-$ heroku run python manage.py add_recipes
 ```
