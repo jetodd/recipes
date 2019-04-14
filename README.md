@@ -13,7 +13,7 @@ Install Pip if not already installed:
 https://www.makeuseof.com/tag/install-pip-for-python/
 
 Install Django:
-```pip install Django```
+```pip install -r requirements.txt```
 
 To update initial database with models change into the directory with manage.py and run:
 ```python manage.py migrate```
