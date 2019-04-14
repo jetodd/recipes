@@ -1,5 +1,7 @@
 # Recipes
 
+## Required tools
+
 Check if Python is installed using:
 ```python --version```
 
@@ -11,6 +13,9 @@ Check if Pip is installed using:
 
 Install Pip if not already installed:
 https://www.makeuseof.com/tag/install-pip-for-python/
+
+
+## Getting started
 
 Install Django:
 ```pip install -r requirements.txt```
@@ -43,3 +48,26 @@ $ gulp
 This will start the application and a livereload server
 
 Application will run by default locally on http://127.0.0.1:8000/
+
+## Updating production
+
+Production is deployed to heroku automatically on a push to master
+
+### Setup for interacting with heroku
+
+```bash
+$ brew tap heroku/brew && brew install heroku
+$ heroku login
+$ heroku git:remote -a stitchs-recipes
+```
+
+### Making changes
+Database migrations and recipes updating are manual
+
+```bash
+$ heroku run python manage.py migrate
+```
+
+```bash
+$ heroku run python manage.py add_recipes
+```
