@@ -1,10 +1,10 @@
-{  
-   "recipes":[  
-      {  
+{
+   "recipes": [
+      {
          "title": "Spicy sweet chilli vegetable noodles",
          "url": "https://cupfulofkale.com/spicy-sweet-chilli-veggie-noodles/",
-         "image" : "https://i1.wp.com/cupfulofkale.com/wp-content/uploads/2019/01/Vegan-Spicy-Sweet-Chilli-Noodles.jpeg?resize=480%2C480&ssl=1",
-         "ingredients":[  
+         "image": "https://i1.wp.com/cupfulofkale.com/wp-content/uploads/2019/01/Vegan-Spicy-Sweet-Chilli-Noodles.jpeg?resize=480%2C480&ssl=1",
+         "ingredients": [
             "Rice noodles",
             "1 block tofu",
             "2 onions",
@@ -22,7 +22,7 @@
             "4 tbsp peanut butter",
             "1 tsp sesame oil"
          ],
-         "steps":[  
+         "steps": [
             "Drain and press the tofu.",
             "Heat a tbsp of oil in the wok on medium heat.",
             "Cook the pressed tofu until golden brown then remove from the wok.",
@@ -32,18 +32,18 @@
             "Cook the noodles according to packet directions",
             "Add the tofu, noodles and sauce into the vegetables and mix well."
          ],
-         "tags":[
+         "tags": [
             "Asian",
             "Chinese",
             "Vegetarian",
             "Noodles"
          ]
       },
-      {  
-         "title":"Roasted tomato and basil pasta",
+      {
+         "title": "Roasted tomato and basil pasta",
          "url": "https://www.lazycatkitchen.com/roasted-tomato-basil-pasta/",
          "image": "https://cdn77-s3.lazycatkitchen.com/wp-content/uploads/2018/07/roasted-tomato-basil-portion-800x1200.jpg",
-         "ingredients":[  
+         "ingredients": [
             "Spaghetti",
             "1 red pepper",
             "1 green pepper",
@@ -62,7 +62,7 @@
             "Thyme",
             "Mozarella"
          ],
-         "steps":[  
+         "steps": [
             "Preheat the oven to 200° C and get a baking tray ready.",
             "Halve the tomatoes and arrange them on the prepared baking tray, cut side up. Sprinkle with olive oil, dried basil, salt and pepper. Bake,.",
             "Heat up the wok on low-medium heat. Once hot, add the pine nuts and dry-roast them until golden. Remove from wok.",
@@ -74,7 +74,7 @@
             "Turn off heat and add the pasta and baby tomatoes to the sauce.",
             "Serve topped with pine nuts, basil and mozarella"
          ],
-         "tags":[
+         "tags": [
             "Italian",
             "Vegetarian",
             "Pasta"
@@ -117,7 +117,7 @@
             "Cook sausages",
             "Uncover and bake another 15 minutes or until the potatoes are tender."
          ],
-         "tags":[
+         "tags": [
             "Potatoes",
             "Vegan"
          ]
@@ -150,13 +150,13 @@
             "Mix tofu and cumin to make tofu scramble.",
             "Assemble burritos by adding a mixture of the salsa, eggs or tofu and halloumi or nuggies."
          ],
-         "tags":[
+         "tags": [
             "Mexican",
             "Brinner",
             "Vegetarian"
          ]
       },
-            {
+      {
          "title": "Vegetable lasagna",
          "url": "https://www.bbcgoodfood.com/recipes/5586/fiveveg-lasagne",
          "image": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe_images/recipe-image-legacy-id--1273596_8.jpg?itok=nrxChdkb",
@@ -187,7 +187,7 @@
             "Repeat the above step.",
             "Cover the top with spinach and ricotta mixture then bake for 20mins covered and 10 mins uncovered."
          ],
-         "tags":[
+         "tags": [
             "Italian",
             "Vegetarian"
          ]
@@ -217,7 +217,7 @@
             "Remove from heat and toss in the butter and cheese.",
             "Add the spinach and toss until wilted."
          ],
-         "tags":[
+         "tags": [
             "Italian",
             "Sausage",
             "Rice"
@@ -251,7 +251,7 @@
             "If sauce is not thickening add a cornstrarch slurry.",
             "Stir in peas and cook for several minutes."
          ],
-         "tags":[
+         "tags": [
             "Rice",
             "Sausage"
          ]
@@ -282,7 +282,7 @@
             "Turn off the heat, add the tofu and break in the golden curry block",
             "Stir until block is completely dissolved, simmer a few more minutes."
          ],
-         "tags":[
+         "tags": [
             "Asian",
             "Japanese",
             "Vegetarian",
@@ -321,7 +321,7 @@
             "Add cumin and squeeze one tbsp of lime juice over salsa.",
             "Mix the remaining chopped coriander and lime juice into the rice."
          ],
-         "tags":[
+         "tags": [
             "Rice",
             "Vegan"
          ]
@@ -351,7 +351,7 @@
             "Spray waffle iron with cooking spray. Pour batter into waffle iron and cook until golden brown.",
             "Eat half of the waffles while cooking because Jess said so."
          ],
-         "tags":[
+         "tags": [
             "Vegetarian",
             "Brinner",
             "Sweet"
@@ -384,7 +384,7 @@
             "Bake in the oven for 20 mins.",
             "Cook rice."
          ],
-         "tags":[
+         "tags": [
             "Rice",
             "Sausage"
          ]
@@ -414,7 +414,7 @@
             "Arrange corn chips on plates and pour mixture over.",
             "Top with chopped avocado."
          ],
-         "tags":[
+         "tags": [
             "Mexican",
             "Vegetarian"
          ]
@@ -441,7 +441,7 @@
             "Place bread slices in frying pan and cook until golden brown on each side.",
             "Top with berries, banana, maple syrup or whatever toppings you have."
          ],
-         "tags":[
+         "tags": [
             "Brinner",
             "Sweet"
          ]
@@ -483,7 +483,7 @@
             "Add the carrot, green pepper, red pepper, mushroom, courgette and pak choi stems. Pausing between each one to cook them.",
             "Add the broth, tofu and coconut milk and bring to a boil. Reduce heat and add noodles. Simmer until noodles are cooked."
          ],
-         "tags":[
+         "tags": [
             "Asian",
             "Vegan",
             "Malaysian",
@@ -513,7 +513,7 @@
             "Spread potatoes in casserole dish. Pour cheese sauce over potatoes. Bake uncovered for 1 hour.",
             "Mix remaining cheese and bread crumbs, sprinkle over potatoes. Bake uncovered 15 minutes or until top is brown and bubbly."
          ],
-         "tags":[
+         "tags": [
             "Potatoes",
             "French"
          ]
@@ -544,7 +544,7 @@
             "Transfer to the casserole dish and sprinkle the mozzarella and remaining ¼ cup Parmesan on top.",
             "Bake uncovered in the oven for 10 minutes. Sprinkle with remaning basil and fancy mozarella."
          ],
-         "tags":[
+         "tags": [
             "Italian",
             "Pasta",
             "Sausage"
@@ -583,7 +583,7 @@
             "Transfer to the casserole dish and sprinkle half the mozzarella on top.",
             "Bake uncovered in the oven for 10 minutes. Sprinkle with basil and fancy mozarella."
          ],
-         "tags":[
+         "tags": [
             "Italian",
             "Vegetarian"
          ]
@@ -619,7 +619,7 @@
             "Pour in the stock and lentils then bring to a boil and simmer for ten minutes.",
             "Add in the tomatoes and peanut butter, simmer until all vegetables are cooked."
          ],
-         "tags":[
+         "tags": [
             "Rice",
             "Vegan",
             "African"
@@ -657,7 +657,7 @@
             "Pour the sauce over the vegetables and cook until sauce has thickened.",
             "Add pak choi leaves in and mix until cooked."
          ],
-         "tags":[
+         "tags": [
             "Asian",
             "Chinese",
             "Vegetarian",
@@ -698,7 +698,7 @@
             "Add carrot, green pepper, red pepper, courgette, pak choi stalks and leaves in that order to the wok.",
             "Add tofu back to the wok to heat up."
          ],
-         "tags":[
+         "tags": [
             "Asian",
             "Japanese",
             "Rice"
@@ -738,7 +738,7 @@
             "Smooth sauce over the base and add cheese. Bake in oven for 8 - 10 minutes or until crisp.",
             "Top with fresh basil."
          ],
-         "tags":[
+         "tags": [
             "Italian",
             "Bread"
          ]
@@ -775,7 +775,7 @@
             "Thrown in the milk, and the cubed paneer. Cook covered for 8-10 mins until everything is cooked.",
             "When done, add the garam masala and the cream or cashew paste."
          ],
-         "tags":[
+         "tags": [
             "Indian",
             "Vegetarian",
             "Rice",
@@ -818,7 +818,7 @@
             "Bake in the oven until heated through.",
             "Serve with sliced avocado."
          ],
-         "tags":[
+         "tags": [
             "Mexican",
             "Chicken"
          ]
@@ -854,16 +854,16 @@
             "Add cumin and squeeze lime juice over salsa.",
             "Add the remaining coriander and eggs to the onion mixture and cook until egg has set stirring infrequently."
          ],
-         "tags":[
+         "tags": [
             "Vegetarian",
             "Eggs"
          ]
       },
-      {  
+      {
          "title": "Mint oreos",
          "url": "http://whiskandaprayer.blogspot.com/2011/02/st-pattys-day-mint-oreos.html",
-         "image" : "http://1.bp.blogspot.com/-JheQXY6TIF8/TWZ_q-ENGxI/AAAAAAAAEEQ/LTQ9kcGUGeo/s320/P1010063.jpg",
-         "ingredients":[  
+         "image": "http://1.bp.blogspot.com/-JheQXY6TIF8/TWZ_q-ENGxI/AAAAAAAAEEQ/LTQ9kcGUGeo/s320/P1010063.jpg",
+         "ingredients": [
             "1 cup all purpose flour",
             "1/2 cup unsweetened cocoa powder",
             "1/4 teaspoon baking soda",
@@ -878,7 +878,7 @@
             "1 tsp mint extract",
             "A few drops green food colouring"
          ],
-         "steps":[  
+         "steps": [
             "In a bowl, whisk together the flour, cocoa powder, baking soda, and salt.",
             "In another bowl beat the butter, sugar and vanilla.",
             "Beat in the egg white. Add the flour mixture and beat just until incorporated.",
@@ -890,22 +890,22 @@
             "Add powdered sugar slowly until you reach your desired consistency.",
             "Ice one cookie then smoosh another one on top of the icing."
          ],
-         "tags":[
+         "tags": [
             "Sweet",
             "Cookie"
          ]
       },
-      {  
+      {
          "title": "Protein pancakes",
          "url": "http://www.thewholesomefork.com/2015/09/19/banana-oatmeal-protein-pancakes-gluten-free/",
-         "image" : "http://www.thewholesomefork.com/wp-content/uploads/2015/09/Banana-oat-pancakes-new-2.jpg",
-         "ingredients":[  
+         "image": "http://www.thewholesomefork.com/wp-content/uploads/2015/09/Banana-oat-pancakes-new-2.jpg",
+         "ingredients": [
             "1 medium ripe banana",
             "2 large eggs",
             "1/3 cup oats",
             "1/4 tsp cinnamon"
          ],
-         "steps":[  
+         "steps": [
             "Put the banana in a bowl and mash with a fork.",
             "Add the eggs and mix until well combined.",
             "Put the oats in a blender and blend until fine.",
@@ -913,16 +913,16 @@
             "Heat a skillet over a medium heat with a dash of vegetable oil.",
             "Pour 1/4 cup of mixture into skillet, cook on both sides."
          ],
-         "tags":[
+         "tags": [
             "Sweet",
             "Brinner"
          ]
       },
-      {  
+      {
          "title": "Peanut butter protein balls",
          "url": "https://www.texanerin.com/peanut-butter-protein-balls/",
-         "image" : "https://www.texanerin.com/content/uploads/2017/01/vegan-peanut-butter-protein-balls-1-650x975.jpg",
-         "ingredients":[  
+         "image": "https://www.texanerin.com/content/uploads/2017/01/vegan-peanut-butter-protein-balls-1-650x975.jpg",
+         "ingredients": [
             "1 cup natural peanut butter",
             "1/4 cup (80 grams) honey",
             "2 teaspoons vanilla extract",
@@ -932,7 +932,7 @@
             "1/3 cup mini chocolate chips",
             "2-4 teaspoons water or additional vanilla extract"
          ],
-         "steps":[  
+         "steps": [
             "In a medium mixing bowl, stir together the peanut butter, brown rice syrup or honey and vanilla extract.",
             "Stir in the oats, coconut and salt until well combined and then add the chocolate chips.",
             "If the mixture doesn’t hold together well when pinched together, add the additional water or vanilla.",
@@ -1042,7 +1042,7 @@
             "Blend all remaining ingredients together.",
             "Put into the same tin as the base and freeze for ~two hours."
          ],
-         "tags":[
+         "tags": [
             "Sweet",
             "Vegan"
          ]
@@ -1068,7 +1068,7 @@
             "Cook noodles according to packet instructions",
             "Add sauce to noodles"
          ],
-         "tags":[
+         "tags": [
             "Asian",
             "Vegan",
             "Noodles"
@@ -1078,7 +1078,7 @@
          "title": "Burritos",
          "url": "https://gimmedelicious.com/2016/03/08/quick-veggie-and-rice-burritos/",
          "image": "https://gimmedelicious.com/wp-content/uploads/2016/01/veggie-burritos-7-of-9.jpg",
-         "ingredients" : [
+         "ingredients": [
             "Rice",
             "1 red pepper",
             "1 green pepper",
@@ -1146,14 +1146,6 @@
          "url": "",
          "image": "https://www.eatingbirdfood.com/wp-content/uploads/2018/10/eggplant-pizza-3-768x1152.jpg",
          "ingredients": [
-            "Dough",
-            "2 large roasting tins",
-            "450g strong white bread flour (pick your favourite I use Doves Farm)",
-            "275ml warm water",
-            "1 tsp salt",
-            "2 tsp instant yeast (10g pretty much)",
-            "1 tbsp olive oil",
-            "----------------------------",
             "Aubergines",
             "3 aubergines",
             "Mint",
@@ -1162,7 +1154,15 @@
             "1 garlic clove (or 2 if you like)",
             "1 chilly finely chopped",
             "Some olive oil",
-            "Some salt"
+            "Some salt",
+            "----------------------------",
+            "Dough",
+            "2 large roasting tins",
+            "450g strong white bread flour (pick your favourite I use Doves Farm)",
+            "275ml warm water",
+            "1 tsp salt",
+            "2 tsp instant yeast (10g pretty much)",
+            "1 tbsp olive oil",
          ],
          "steps": [
             "Cut the aubergines in wedges, place them in a bowl.",
@@ -1183,5 +1183,5 @@
             "Vegetarian"
          ]
       }
-   ] 
+   ]
 }
