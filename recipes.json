@@ -1140,6 +1140,48 @@
             "Indian",
             "Vegan"
          ]
+      },
+      {
+         "title": "Eggplant pizza thing",
+         "url": "",
+         "image": "https://www.eatingbirdfood.com/wp-content/uploads/2018/10/eggplant-pizza-3-768x1152.jpg",
+         "ingredients": [
+            "Dough",
+            "2 large roasting tins",
+            "450g strong white bread flour (pick your favourite I use Doves Farm)",
+            "275ml warm water",
+            "1 tsp salt",
+            "2 tsp instant yeast (10g pretty much)",
+            "1 tbsp olive oil",
+            "----------------------------",
+            "Aubergines",
+            "3 aubergines",
+            "Mint",
+            "Oregano (or your favourite herbs)",
+            "Juice + grated zest of 1 lemon",
+            "1 garlic clove (or 2 if you like)",
+            "1 chilly finely chopped",
+            "Some olive oil",
+            "Some salt"
+         ],
+         "steps": [
+            "Cut the aubergines in wedges, place them in a bowl.",
+            "Add salt and olive oil.",
+            "Mix everything with your hands.",
+            "Place on a roasting tray covered with some baking parchment.",
+            "Put it in the oven at 210C for around 25-30min - The aubergines need to be roasted, their colour will tell you.",
+            "When you take them out of the oven put them in a bowl with all the marinating ingredients and mix well.",
+            "Leave to rest for 1 hour min. If you do this the previous day you can put everything in the fridge to marinate otherwise you can leave it out.",
+            "Wait over night.",
+            "When the pizza dough is ready to bake, oil the tins lightly, spread the dough there.",
+            "Cook at 230C for around 8-10min.",
+            "You have to check the bottom of the pizzas really, tap them with the flat of a knife and see what noise they make as it very much depends on your oven.",
+            "When the pizza base is done, put the aubergines on and buffalo mozzarella broken in big chunks."
+         ],
+         "tags": [
+            "Pizza",
+            "Vegetarian"
+         ]
       }
    ] 
 }
