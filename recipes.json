@@ -1254,6 +1254,49 @@
             "Vegan",
             "Asian"
          ]
+      },
+      {
+         "title": "Mashed potatoes",
+         "url": "http://allrecipes.co.uk/recipe/41552/basic-mashed-potatoes.aspx",
+         "image": "http://ukcdn.ar-cdn.com/recipes/port500/9592e9d3-43e3-4ef9-826a-6bce22f4b697.jpg",
+         "ingredients": [
+            "900g baking potatoes, peeled and quartered",
+            "2 tablespoons butter",
+            "240ml milk, or as needed"
+         ],
+         "steps": [
+            "Bring a pot of salted water to the boil. Add potatoes and cook until tender but still firm, about 15 minutes; drain.",
+            "In a saucepan heat butter and milk on low until butter is melted.",
+            "Using a potato masher slowly blend milk mixture into potatoes until smooth and creamy.",
+            "Season with salt and pepper to taste."
+         ],
+         "tags": [
+            "Potatoes",
+            "Vegetarian"
+         ]
+      },
+      {
+         "title": "Crispy potato pancakes",
+         "url": "https://thedishnextdoor.com/crispy-potato-pancakes/",
+         "image": "https://i0.wp.com/thedishnextdoor.com/wp-content/uploads/2019/04/LRM_EXPORT_103983117335755_20190414_204555098.jpg?w=2000&ssl=1",
+         "ingredients": [
+            "2 cups mashed potatoes",
+            "1 tsp garlic powder",
+            "2 cloves garlic",
+            "1 cup cheese",
+            "1 cup flour",
+            "1 egg, beaten",
+            "Chives"
+         ],
+         "steps": [
+            "In a large bowl combine all of the ingredients until it becomes a soft dough.",
+            "In a frying pan over medium-low heat, add 2 tablespoons of butter or oil.",
+            "Once hot, scoop the potatoes mixture by the tablespoon and flatten into the pan, forming a pancake.",
+            "Cook in batches and until golden brown, about 3-5 minutes per side. Drain on a paper towel and let cool."         ],
+         "tags": [
+            "Vegetarian",
+            "Potatoes"
+         ]
       }
    ]
 }
