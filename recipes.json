@@ -1256,6 +1256,7 @@
          ]
       },
       {
+<<<<<<< HEAD
          "title": "Mashed potatoes",
          "url": "http://allrecipes.co.uk/recipe/41552/basic-mashed-potatoes.aspx",
          "image": "http://ukcdn.ar-cdn.com/recipes/port500/9592e9d3-43e3-4ef9-826a-6bce22f4b697.jpg",
@@ -1297,6 +1298,65 @@
             "Vegetarian",
             "Potatoes"
          ]
+      },
+      {
+         "title": "Tomatillo Salsa Verde",
+         "url": "https://www.allrecipes.com/recipe/94028/tomatillo-salsa-verde/",
+         "image": "https://images.media-allrecipes.com/userphotos/125x70/818535.jpg",
+         "ingredients": [
+            "1 pound tomatillos, husked",
+            "1/2 cup finely chopped onion",
+            "1 teaspoon minced garlic",
+            "1 serrano chilli",
+            "2 tablespoons chopped coriander",
+            "1 tablespoon chopped fresh oregano",
+            "1/2 teaspoon ground cumin",
+            "1 1/2 teaspoon salt or to taste",
+            "2 cups water"
+         ],
+         "steps": [
+            "Place tomatillos, onion, garlic, and chile pepper into a saucepan. Season with cilantro, oregano, cumin, and salt; pour in water. Bring to a boil over high heat, then reduce heat to medium-low, and simmer until the tomatillos are soft, 10 to 15 minutes.",
+            "Using a blender, carefully puree the tomatillos and water in batches until smooth."
+         ],
+         "tags": [
+            "Mexican"
+         ] 
+      },
+      {
+         "title": "Easy Chicken Enchiladas Verdes",
+         "url": "https://dudethatcookz.com/easy-chicken-enchiladas-verdes/",
+         "image": "https://images.media-allrecipes.com/userphotos/125x70/818535.jpg",
+         "ingredients": [
+            "Sauce:",
+            "1 pound tomatillos, husked",
+            "1/2 cup finely chopped onion",
+            "1 teaspoon minced garlic",
+            "1 serrano chilli",
+            "2 tablespoons chopped coriander",
+            "1 tablespoon chopped fresh oregano",
+            "1/2 teaspoon ground cumin",
+            "1 1/2 teaspoon salt or to taste",
+            "2 cups water",
+            "Enchiladas:",
+            "8 oz Chicken Shredded",
+            "2 cups of sauce",
+            "1 and 1/2 cup Monterey Jack cheese",
+            "8 Corn tortillas"
+         ],
+         "steps": [
+            "Sauce:",
+            "Place tomatillos, onion, garlic, and chile pepper into a saucepan. Season with cilantro, oregano, cumin, and salt; pour in water. Bring to a boil over high heat, then reduce heat to medium-low, and simmer until the tomatillos are soft, 10 to 15 minutes.",
+            "Using a blender, carefully puree the tomatillos and water in batches until smooth.",
+            "Enchiladas:",
+            "Begin by cooking each tortilla for 25 seconds in cooking oil at medium heat then set to the side.",
+            "To assemble enchiladas, place about 3 ounces of tomatillo sauce on the bottom of a casserole dish.",
+            "Fill each softened tortilla and roll about 1.5 ounces of chicken in each tortilla then place each rolled enchilada seam side down in the casserole dish. Repeat this step until all of the tortillas are rolled with chicken and placed in the casserole dish.",
+            "Once the enchiladas are in the casserole dish, cover enchiladas with remaining tomatillo sauce.",
+            "Top enchiladas with Monterrey Jack cheese and bake 15 minutes. Serve hot."
+         ],
+         "tags": [
+            "Mexican"
+         ] 
       }
    ]
 }
