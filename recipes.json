@@ -1356,6 +1356,108 @@
          "tags": [
             "Mexican"
          ] 
+      },
+      {
+         "title": "Sweet and sour tofu",
+         "url": "https://cupfulofkale.com/vegan-marinated-teriyaki-eggplant/",
+         "image": "https://cupfulofkale.com/wp-content/uploads/2019/05/Marinated-Teriyaki-Eggplant-4.jpeg",
+         "ingredients": [
+            "3 tbsp mirin",
+            "3 tbsp ketchup",
+            "1-2 tbsp brown sugar",
+            "1/2 cup vegetable stock",
+            "1 tbsp rice wine vinegar",
+            "1 inch ginger",
+            "6 garlic cloves",
+            "1 red pepper",
+            "1 green pepper",
+            "Pak choi",
+            "1 block tofu",
+            "1 1/3 cups rice",
+            "3 tbsp cornstarch",
+            "1 tbsp flour"
+         ],
+         "steps": [
+            "Drain and press the tofu",
+            "Whisk the sauce ingredients in a bowl, making sure the sugar is dissolved.",
+            "Add cubed tofu to a large bowl. Sprinkle 1 tbsp cornstarch, flour, salt, garlic, and pepper.",
+            "Close the top of the bowl with a plate or lid and shake to coat.",
+            "Add more cornstarch and shake again.",
+            "Wash and cook the rice.",
+            "Cook tofu in batches.",
+            "Cook the vegetables in order, once all are done add the tofu and sauce then stir to coat.",
+            "If sauce doesn't thicken then add a cornstarch slurry."
+         ],
+         "tags": [
+            "Vegan",
+            "Asian"
+         ]
+      },
+      {
+         "title": "Avocado toast",
+         "url": "https://www.bbcgoodfood.com/recipes/avocado-toast",
+         "image": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2018/03/avocado-on-toast.jpg?itok=yV6yyvoX",
+         "ingredients": [
+            "Avocado",
+            "Toast",
+            "Lime",
+            "Chilli flakes",
+            "Butter"
+         ],
+         "steps": [
+            "Toast bread in toaster.",
+            "Cut avocado into slices.",
+            "Once toasted butter the bread.",
+            "Top with lime juice and chilli flakes if you like."
+         ],
+         "tags": [
+            "Vegan",
+            "Millenial"
+         ]
+      },
+      {
+         "title": "Vegan bun chay",
+         "url": "https://thewanderlustkitchen.com/vegan-bun-chay-vietnamese-noodle-salad/",
+         "image": "https://thewanderlustkitchen.com/wp-content/uploads/2017/02/vegan-bun-chay-vietnamese-noodle-salad-6.jpg",
+         "ingredients": [
+            "1/4 cup rice vinegar",
+            "3 tablespoons lime juice",
+            "3 teaspoons brown sugar",
+            "2 tablespoons soy sauce",
+            "2 tablespoons freshly grated lemongrass (white part only)",
+            "1 clove garlic, grated",
+            "1 to 2 bird's eye chilies, sliced (optional)",
+            "1 tablespoon water",
+            "8 ounces thin rice noodles",
+            "2 carrots, julienned",
+            "2 large bell peppers, thinly sliced",
+            "1 red onion, thinly sliced",
+            "1 avocado",
+            "1 cup cilantro stems and leaves",
+            "1/2 cup mint leaves",
+            "1/2 cup chopped peanuts",
+            "Lime wedges for serving",
+            "1 tablespoon peanut oil",
+            "1 block tofu",
+            "2 teaspoons soy sauce",
+            "1 tablespoon sesame oil",
+            "1 tablespoon brown sugar"
+         ],
+         "steps": [
+            "Set a large pot of water on the stove to boil.",
+            "Whisk the dressing ingredients together in a small bowl. Set aside to infuse.",
+            "Cook the noodles according to package directions; rinse with cold water, drain well.",
+            "Heat one tablespoon of peanut oil in a large skillet, add the tofu pieces and fry until golden brown.",
+            "While tofu is frying, stir soy sauce, sesame oil, and sugar in a small bowl until the sugar has dissolved.",
+            "Once tofu is browned, pour this mixture into the pan. Allow the sauce to cook in the pan until it thickens",
+            "Flip the tofu to ensure the sauce coats and sticks to each side.",
+            "Top the noodle bowls with tofu, carrot, bell pepper, avocado, red onion, herbs, and peanuts.",
+            "Pour a quarter of the prepared dressing over each serving."
+         ],
+         "tags": [
+            "Vegan",
+            "Asian"
+         ]
       }
    ]
 }
