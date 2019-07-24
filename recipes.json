@@ -1416,6 +1416,56 @@
          ]
       },
       {
+         "title": "Burgers",
+         "url": "https://i.ytimg.com/vi/a19EY3YNStA/maxresdefault.jpg",
+         "image": "https://i.ytimg.com/vi/a19EY3YNStA/maxresdefault.jpg",
+         "ingredients": [
+            "Avocado",
+            "Buns",
+            "Cheese",
+            "Red onion",
+            "Buns",
+            "Patties",
+            "Seasoning"
+         ],
+         "steps": [
+            "Season patties",
+            "Cook patties",
+            "Cut veggies",
+            "Cut buns open",
+            "Assemble burgers"
+         ],
+         "tags": [
+            "Burgers"
+         ]
+      },
+      {
+         "title": "Wedges",
+         "url": "https://cafedelites.com/wp-content/uploads/2016/06/Crispy-Garlic-Wedges-5.jpg",
+         "image": "https://cafedelites.com/wp-content/uploads/2016/06/Crispy-Garlic-Wedges-5.jpg",
+         "ingredients": [
+            "Potatoes",
+            "2 tbsp flour",
+            "1 tbsp parmesan",
+            "1 tsp cumin",
+            "1 tsp paprika",
+            "1/4 tsp salt",
+            "1 tsp hot curry powder",
+            "Oil"
+         ],
+         "steps": [
+            "Cut potatoes into wedges",
+            "Mix dry ingredients in a large bowl",
+            "Add potatoes to bowl",
+            "Add some oil",
+            "Cover bowl and shake till well mixed",
+            "Cook for ~20 minutes at 180"
+         ],
+         "tags": [
+            "Potatoes"
+         ]
+      },
+      {
          "title": "Vegan bun chay",
          "url": "https://thewanderlustkitchen.com/vegan-bun-chay-vietnamese-noodle-salad/",
          "image": "https://thewanderlustkitchen.com/wp-content/uploads/2017/02/vegan-bun-chay-vietnamese-noodle-salad-6.jpg",
