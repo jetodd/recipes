@@ -1458,6 +1458,77 @@
             "Vegan",
             "Asian"
          ]
+      },
+      {
+         "title": "Green curry",
+         "url": "https://tasty.co/recipe/thai-green-curry-with-chicken-by-chef-fern",
+         "image": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2018/03/avocado-on-toast.jpg?itok=yV6yyvoX",
+         "ingredients": [
+            "3 thai eggplants",
+            "6 cloves garlic",
+            "ginger",
+"1 can coconut milk",
+"2 tablespoons green curry paste",
+"1 tablespoon lime juice",
+"2 tablespoons granulated sugar",
+"1 can bamboo shoots",
+"5 kaffir lime leaves",
+"1 red pepper",
+"1 green pepper",
+"Green beans",
+"1 can coconut milk",
+"1 cup fresh thai sweet basil",
+"Rice"
+         ],
+         "steps": [
+            "Heat the wok. Add vegetable oil and green curry paste.",
+"Add a splash of the coconut milk, stirring until it forms a paste.",
+"Cook the rice",
+"Add the ginger, garlic and beans, cook a little. Add the bell peppers, the rest of the coconut milk, and the eggplant.",
+"Season with the lime juice and sugar. Increase the heat to medium high and bring to a boil for 2-3 minutes.",
+"Stir in the bamboo shoots, kaffir leaves",
+"Add the Thai basil."
+         ],
+         "tags": [
+            "Vegan"
+         ]
+      },
+      {
+         "title": "Ratatouille",
+         "url": "https://tasty.co/recipe/ratatouille",
+         "image": "https://img.buzzfeed.com/video-api-prod/assets/eb44570519264864814264f7f0a5e47a/BFV13909_BakedRatatouille-ThumbTextless1080.jpg",
+         "ingredients": [
+            "2 eggplants",
+"6 roma tomatoes",
+"2 yellow squashes",
+"2 zucchinis",
+"1 onion, diced",
+"4 cloves garlic, minced",
+"1 red pepper",
+"1 yellow pepper", 
+"2 tins tomatoes",
+"4 tablespoons chopped fresh basil",
+"1 teaspoon garlic",
+"2 tablespoons chopped fresh parsley",
+"2 teaspoons fresh thyme",
+"4 tablespoons olive oil"
+
+         ],
+         "steps": [
+            "Preheat the oven for 190˚C.",
+"Slice the eggplant, tomatoes, squash, and zucchini into approximately ¹⁄₁₆-inch (1-mm) rounds, then set aside.",
+"Make the sauce: Heat olive oil in a pan over medium-high heat.", 
+"Sauté the onion, garlic, and bell peppers until soft, about 10 minutes." ,
+"Add the crushed tomatoes. Stir until the ingredients are fully incorporated.",
+"Remove from heat, then add the basil.",
+"Arrange the sliced veggies in alternating patterns on top of the sauce from the outer edge to the middle of the pan.",
+"Cover the pan with foil and bake for 40 minutes.",
+"Uncover, then bake for another 20 minutes, until the vegetables are softened.",
+"Mix herb seasoning ingredients and pour over the cooked ratatouille."
+         ],
+         "tags": [
+            "Vegan"
+         ]
       }
    ]
 }
