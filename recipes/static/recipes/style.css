@@ -113,7 +113,12 @@ a:hover {
 
 .searchbar:hover > .search_icon{
     background: white;
-    color: #e74c3c;
+    color: #404ec9;
+    text-decoration: none;
+}
+
+.btn:hover {
+background: #404ec9;
 }
 
 .search_icon{
