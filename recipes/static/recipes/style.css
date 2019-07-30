@@ -77,10 +77,71 @@ a:hover {
 }
 
 .navbar-brand {
-	font-size: 1.8em;
-	font-weight: bold;
+	font-size: 2em;
 }
 
 .navbar-light .navbar-brand:hover, .navbar-light .navbar-nav .nav-link:hover {
 	color: #4ac9ba;
+}
+
+.searchbar {
+    margin-bottom: auto;
+    margin-top: auto;
+    height: 50px;
+    background-color: #4ac9ba;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+.search_input {
+    color: white;
+    border: 0;
+    outline: 0;
+    background: none;
+    width: 0;
+    caret-color:transparent;
+    line-height: 30px;
+    transition: width 0.4s linear;
+}
+
+.searchbar:hover > .search_input{
+    padding: 0 10px;
+    width: 150px;
+    caret-color:red;
+    transition: width 0.4s linear;
+}
+
+.searchbar:hover > .search_icon{
+    background: white;
+    color: #e74c3c;
+}
+
+.search_icon{
+    height: 30px;
+    width: 30px;
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    color:white;
+}
+
+.card {
+	border:none;
+}
+
+.card-image {
+	height: 100px;
+	width: 180px;
+	overflow:hidden;
+	border-radius: 5px;
+}
+
+.card-title {
+	padding-top:5px;
+}
+
+.img-card {
+	width: 200px;
 }
