@@ -108,8 +108,10 @@ def all(request):
 
 def search(request):
     queryset_list = Recipe.objects.all()
+    tags_list = Tag.objects.all()
     query = request.GET.get("q")
     if query:
         queryset_list = queryset_list.filter(title__icontains=query)
-    context = {'queryset_list': queryset_list, 'query': query}
+        tags_list = tags_list.filter(name__icontains=query)
+    context = {'queryset_list': queryset_list, 'tags_list': tags_list,'query': query}
     return render(request, 'recipes/search.html', context)

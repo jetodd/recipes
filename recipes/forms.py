@@ -25,3 +25,5 @@ class ShoppingForm(forms.ModelForm):
 
     def __init__(self, *args, **kwargs):
         super(ShoppingForm, self).__init__(*args, **kwargs)
+        self.fields['name'].widget.attrs.update({'class' : 'form-control'})
+        self.fields['recipe'].widget.attrs.update({'class': 'form-control'})
