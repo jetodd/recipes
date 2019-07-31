@@ -17,8 +17,7 @@ class Command(BaseCommand):
 							f.write(picture_request.content)
 				im = Image.open(imagePath)
 				width, height = im.size
-				print('width: ' + str(width) + ', height: ' + str(height))
 				newHeight = math.ceil((180 * height) / width)
 
-				im = im.resize((180,newHeight), Image.ANTIALIAS)
+				im = im.resize((180, newHeight), Image.ANTIALIAS)
 				im.save(imagePath)
