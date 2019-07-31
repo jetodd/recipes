@@ -10,7 +10,6 @@ from .models import Tag, Recipe, ShoppingItem
 # Create your views here.
 def index(request):
     latest_recipes_list = Recipe.objects.order_by('-pub_date')[:5]
-    tags_list = Tag.objects.all()
     this_week = Recipe.objects.filter(this_week=True)
     next_week = Recipe.objects.filter(next_week=True)
     most_popular_recipes_list = Recipe.objects.all().filter(cooked_count__gt=0).order_by('-cooked_count')[:5]
@@ -21,7 +20,7 @@ def index(request):
     if query:
         queryset_list = queryset_list.filter(title__icontains=query)
 
-    context = {'latest_recipes_list': latest_recipes_list, 'tags_list': tags_list, 'this_week': this_week,
+    context = {'latest_recipes_list': latest_recipes_list, 'this_week': this_week,
                'next_week': next_week, 'shopping': shopping,
                'query': query, 'queryset_list': queryset_list, 'most_popular_recipes_list': most_popular_recipes_list}
     return render(request, 'recipes/index.html', context)
@@ -47,7 +46,6 @@ def detail(request, recipe_id):
 def cooked(request, recipe_id):
     recipe = get_object_or_404(Recipe, id=recipe_id)
     shopping = ShoppingItem.objects.filter(recipe=recipe)
-    print(shopping)
     ingredients = json.loads(recipe.ingredients)
     steps = json.loads(recipe.steps)
     form = RecipeForm(instance=recipe)

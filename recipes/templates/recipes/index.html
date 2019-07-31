@@ -80,7 +80,7 @@
 		</div>
 		{% endif %}
 	</div>
-	
+
 	<div class="col-sm-3">
 		{% if this_week %}
 			<h3>This week</h3>
@@ -116,14 +116,7 @@
 			</form>
 
 		{% endif %}
-		{% if tags_list %}
-			<h3>Tags</h3>
-		    <ul id="horizontal-list">
-		    {% for tag in tags_list %}
-		        <li><a href="{% url 'recipes:tag' tag.id %}">{{ tag.name }}</a></li>
-		    {% endfor %}
-		    </ul>
-		{% endif %}
+		
 	</div>
 </div>
 </div>
