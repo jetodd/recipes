@@ -1,4 +1,5 @@
 from django import forms
+from django.db.models import Q
 
 from .models import Recipe, ShoppingItem
 
@@ -27,3 +28,5 @@ class ShoppingForm(forms.ModelForm):
         super(ShoppingForm, self).__init__(*args, **kwargs)
         self.fields['name'].widget.attrs.update({'class' : 'form-control'})
         self.fields['recipe'].widget.attrs.update({'class': 'form-control'})
+
+        self.fields['recipe'].queryset = Recipe.objects.filter(Q(this_week = True) | Q(next_week=True))
