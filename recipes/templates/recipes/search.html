@@ -4,6 +4,8 @@
 
 <h3>Search results</h3>
 {% if queryset_list %}
+	<p>Results for: {{ query }}</p>
+
 	<div class="container">
 			<div class="row">
 		{% for recipe in queryset_list %}
@@ -25,6 +27,6 @@
 	</div>
 	</ul>
 {% else %}
-	<p>No results</p>
+	<p>No results for: {{ query }}</p>
 {% endif %}
 {% endblock %}
