@@ -38,11 +38,14 @@ h3, h4 {
 	font-family: Tahoma, Geneva, Verdana, sans-serif;
 	font-weight: normal;
 	letter-spacing: 1px;
-	font-size: 18px;
+}
+
+h3 {
+	font-size: 1.5em;
 }
 
 h4 {
-	font-size: 14px;
+	font-size: 1.1em;
 	color: #404ec9;
 }
 
@@ -107,7 +110,7 @@ a:hover {
 .searchbar:hover > .search_input{
     padding: 0 10px;
     width: 150px;
-    caret-color:red;
+    caret-color:#fff;
     transition: width 0.4s linear;
 }
 
@@ -118,7 +121,7 @@ a:hover {
 }
 
 .btn:hover {
-background: #404ec9;
+	background: #404ec9;
 }
 
 .search_icon{
@@ -149,4 +152,16 @@ background: #404ec9;
 
 .img-card {
 	width: 200px;
+}
+
+.card-border {
+	border:1px solid #404ec9;
+	border-radius: 4px;
+	margin: 10px;
+	padding: 5px;
+	background-color: #daefea;
+}
+
+::placeholder {
+	color: #404ec9;
 }
