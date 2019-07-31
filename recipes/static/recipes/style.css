@@ -3,6 +3,10 @@ body {
 	font-size: 0.8em;
 }
 
+.searchbutton {
+  all: unset;
+}
+
 ul#horizontal-list {
 	list-style: none;
 	padding-top:20px;
@@ -114,18 +118,8 @@ a:hover {
     transition: width 0.4s linear;
 }
 
-.searchbar:hover > .search_icon{
-    background: white;
-    color: #404ec9;
-    text-decoration: none;
-}
-
-.btn:hover {
-	background: #404ec9;
-}
-
-.search_icon{
-    height: 30px;
+.searchbutton {
+	height: 30px;
     width: 30px;
     float: right;
     display: flex;

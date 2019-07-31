@@ -30,14 +30,18 @@
             </li>
           </ul>
         </div>
+        <form method='GET' action="search">
         <div class="h-100">
           <div class="d-flex justify-content-center h-100">
             <div class="searchbar">
-              <input class="search_input" type="text" name="" placeholder="Search...">
-              <a href="#" class="search_icon"><i class="fas fa-search"></i></a>
+              <input class="search_input" type="text" placeholder="Search..." name='q' value="{{ request.GET.q }}">
+              <button class="searchbutton">
+                <i class="fas fa-search"></i>
+              </button>
             </div>
           </div>
         </div>
+      </form>
       </nav>
 
       <div class="content container">

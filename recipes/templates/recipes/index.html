@@ -3,39 +3,6 @@
 {% block content %}
 <div class="row">
 	<div class="col-lg-8">
-		<form method='GET' action=''>
-			<input type='text' name='q' placeholder='Search recipes' value="{{ request.GET.q }}" />
-			<input type="submit" value="Search" />
-		</form>
-	
-		{% if query %}
-			<h3>Search results</h3>
-			{% if queryset_list %}
-			<div class="container">
-  				<div class="row">
-				{% for recipe in queryset_list %}
-					<!--<li><a href="{% url 'recipes:detail' recipe.id %}">{{ recipe.title }}</a></li>-->
-					<div class="col-md-4">
-      					<div class="card">
-      						<a href="{% url 'recipes:detail' recipe.id %}">
-      							<div class="card-image">
-	      					<img class="img-card" src="{{ recipe.image }}">
-	      				</div>
-		      				<div class="card-content">
-		        				<h4 class="card-title">{{ recipe.title }}</h4>
-		      				</div>
-		      			</a>
-	  					</div>
-					</div>
-				{% endfor %}
-				</div>
-			</div>
-			</ul>
-			{% else %}
-				<p>No results</p>
-			{% endif %}
-		{% endif %}
-
 			<h3>Newest recipes</h3>
 			{% if latest_recipes_list %}
 				<div class="container">

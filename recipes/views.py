@@ -105,3 +105,11 @@ def all(request):
     recipes = Recipe.objects.all().order_by('-cooked_count')
     context = {'recipes': recipes}
     return render(request, 'recipes/all.html', context)
+
+def search(request):
+    queryset_list = Recipe.objects.all()
+    query = request.GET.get("q")
+    if query:
+        queryset_list = queryset_list.filter(title__icontains=query)
+    context = {'queryset_list': queryset_list, 'query': query}
+    return render(request, 'recipes/search.html', context)
