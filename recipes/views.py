@@ -115,5 +115,6 @@ def search(request):
         tags_list = tags_list.filter(name__icontains=query)
     if queryset_list.count() == 1 and tags_list.count() == 0:
         return HttpResponseRedirect('/recipes/' + str(queryset_list[0].id) + "/detail")
+    
     context = {'queryset_list': queryset_list, 'tags_list': tags_list,'query': query}
     return render(request, 'recipes/search.html', context)
