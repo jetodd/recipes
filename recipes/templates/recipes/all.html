@@ -1,25 +1,32 @@
 {% extends 'recipes/base.html' %}
 
 {% block content %}
-	<h3>All recipes</h3>
+<div class="row">
+	<div class="col-lg-6">
+		<h3>All recipes</h3>
 
-	{% if recipes %}
-		<div class="container">
-			<div class="row">
-			{% for recipe in recipes %}
-				<div class="col-sm-4">
-					<a href="{% url 'recipes:detail' recipe.id %}">
-	  					<div class="card card-border">
-		      				<div class="card-content">
-		        				<h4 class="card-title">{{ recipe.title }}</h4>
-		      				</div>
-	  					</div>
-	  				</a>
-				</div>
-			{% endfor %}
-			</div>
-		</div>
-	{% else %}
-		<p>Nothing here yet, should probably migrate.</p>
-	{% endif %}
+		{% if recipes %}
+			<ul class="list-group">
+				{% for recipe in recipes %}
+						<a href="{% url 'recipes:detail' recipe.id %}">
+		  					<li class="list-group-item">{{ recipe.title }}</li>
+		  				</a>
+				{% endfor %}
+			</ul>
+		{% else %}
+			<p>Nothing here yet, should probably migrate.</p>
+		{% endif %}
+	</div>
+
+	<div class="col-sm-4">
+		{% if tags %}
+			<h3>Tags</h3>
+		    <ul id="horizontal-list">
+		    {% for tag in tags %}
+		        <li><a href="{% url 'recipes:tag' tag.id %}">{{ tag.name }}</a></li>
+		    {% endfor %}
+		    </ul>
+		{% endif %}
+	</div>
+</div>
 {% endblock %}

@@ -103,7 +103,8 @@ def tag(request, tag_id):
 
 def all(request):
     recipes = Recipe.objects.all().order_by('-cooked_count')
-    context = {'recipes': recipes}
+    tags = Tag.objects.all();
+    context = {'recipes': recipes, 'tags': tags}
     return render(request, 'recipes/all.html', context)
 
 def search(request):
