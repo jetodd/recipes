@@ -1,6 +1,7 @@
 body {
 	font-family: Tahoma, Geneva, Verdana, sans-serif;
 	font-size: 0.8em;
+	background-color: #fff;
 }
 
 .searchbutton {
@@ -23,43 +24,47 @@ ul#horizontal-list li a {
 	color:#fff;
 	text-decoration: none;
 	margin:0 5px;
-	background: #4ac9ba;
+	background: #4AD7D1;
 	padding: 6px 8px; 
 	border-radius: 6px;
 }
 
 ul#horizontal-list li a:hover {
-	background: #404ec9;
+	background: #5559e6;
 }
 
 .navbar {
 	margin-bottom: 40px;
-	background-color: #404ec9;
+	padding-top:14px;
+	background: rgb(90,218,194);
+background: linear-gradient(90deg, rgba(85,89,230,1) 0%, rgba(63,200,228,1) 50%, rgba(90,218,194,1) 100%);
 }
 
 h3, h4 {
-	color: #4ac9ba;
-	font-family: Tahoma, Geneva, Verdana, sans-serif;
 	font-weight: normal;
 	letter-spacing: 1px;
 }
 
 h3 {
-	font-size: 1.5em;
+	font-family: Cambria, Georgia, serif;
+	font-style:italic;
+	font-size: 1.4em;
+	color: #5559e6;
 }
 
 h4 {
-	font-size: 1.1em;
+	font-size: 1em;
 	color: #404ec9;
 }
 
 a {
-	color: #404ec9;
+	color: #4AD7D1;
 	text-decoration: none;
 }
 
 a:hover {
-	color: #4ac9ba;
+	color: #5559e6;
+	text-decoration: none;
 }
 
 .resize {
@@ -68,13 +73,20 @@ a:hover {
 }
 
 .btn-primary {
-	background-color: #4ac9ba;
-	border-color: #4ac9ba;
+	background-color: #4AD7D1;
+	border-color: #4AD7D1;
+}
+
+.btn-primary:hover {
+	background-color: #5559e6;
+	border-color: #5559e6;
 }
 
 .btn {
 	width:70%;
 	max-width: 180px;
+	font-size: 1em;
+	letter-spacing:1px;
 }
 
 .navbar-brand, .nav-link {
@@ -84,18 +96,37 @@ a:hover {
 }
 
 .navbar-brand {
-	font-size: 2em;
+	text-transform: uppercase;
+	font-size: 1.4em;
 }
 
-.navbar-light .navbar-brand:hover, .navbar-light .navbar-nav .nav-link:hover {
-	color: #4ac9ba;
+.navbar-brand:hover, .nav-link:hover {
+	color: #fff;
+}
+
+.lime, .lime:visited {
+  text-decoration: none;
+  position: relative;
+}
+
+.lime:after, .lime:visited:after {
+  content: '';
+  height: 3px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0%;
+  background: #F8DD2E;
+  transition: 0.2s;
+}
+
+.lime:hover:after, .lime:visited:hover:after {
+  width: 100%;
 }
 
 .searchbar {
-    margin-bottom: auto;
-    margin-top: auto;
     height: 50px;
-    background-color: #4ac9ba;
+    background-color: #5559e6;
     border-radius: 25px;
     padding: 10px;
 }
@@ -114,7 +145,7 @@ a:hover {
 .searchbar:hover > .search_input{
     padding: 0 10px;
     width: 150px;
-    caret-color:#fff;
+    caret-color: #fff;
     transition: width 0.4s linear;
 }
 
@@ -129,8 +160,13 @@ a:hover {
     color:white;
 }
 
+.fas {
+	color:#F8DD2E;
+}
+
 .card {
 	border:none;
+	background: none;
 }
 
 .card-image {
@@ -138,23 +174,25 @@ a:hover {
 	width: 180px;
 	overflow:hidden;
 	border-radius: 5px;
+	border: 1px solid #F8DD2E;
 }
 
 .card-title {
 	padding-top:5px;
 }
 
+div.card-image:hover + p.text {
+	color:#5559e6;
+}
+
+p.text {
+  transition: color 1s ease;
+}
+
 .img-card {
 	width: 200px;
 }
 
-.card-border {
-	border:1px solid #404ec9;
-	border-radius: 4px;
-	margin: 10px;
-	padding: 5px;
-}
-
 ::placeholder {
-	color: #404ec9;
+	color: #F8DD2E;
 }
