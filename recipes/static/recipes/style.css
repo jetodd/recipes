@@ -175,13 +175,19 @@ a:hover {
 	overflow:hidden;
 	border-radius: 5px;
 	border: 1px solid #F8DD2E;
+	transition: border-color 1s ease;
 }
 
 .card-title {
 	padding-top:5px;
 }
 
-div.card-image:hover + p.text {
+.card-image:hover {
+	transition: border-color 1s ease;
+	border: 1px solid #5559e6;
+}
+
+.card-image:hover + p.text {
 	color:#5559e6;
 }
 
