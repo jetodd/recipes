@@ -96,7 +96,7 @@ a:hover {
 
 .navbar-brand {
 	text-transform: uppercase;
-	font-size: 1.4em;
+	font-size: 1.6em;
 }
 
 .navbar-brand:hover, .nav-link:hover {
@@ -124,9 +124,9 @@ a:hover {
 }
 
 .searchbar {
-    height: 50px;
+    height: 40px;
     background-color: #5559e6;
-    border-radius: 25px;
+    border-radius: 20px;
     padding: 10px;
 }
 
@@ -137,7 +137,7 @@ a:hover {
     background: none;
     width: 0;
     caret-color:transparent;
-    line-height: 30px;
+    line-height: 20px;
     transition: width 0.4s linear;
 }
 
@@ -149,8 +149,8 @@ a:hover {
 }
 
 .searchbutton {
-	height: 30px;
-    width: 30px;
+	height: 20px;
+    width: 20px;
     float: right;
     display: flex;
     justify-content: center;
