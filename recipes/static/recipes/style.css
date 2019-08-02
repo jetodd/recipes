@@ -4,40 +4,14 @@ body {
 	background-color: #fff;
 }
 
-.searchbutton {
-  all: unset;
-}
-
-ul#horizontal-list {
-	list-style: none;
-	padding-top:20px;
-	padding-left: 0px;
-}
-
-ul#horizontal-list li {
-	display: inline-block;
-	margin:0 auto;
-	height: 45px;
-}
-
-ul#horizontal-list li a {
-	color:#fff;
+a {
+	color: #3bd3cc;
 	text-decoration: none;
-	margin:0 5px;
-	background: #4AD7D1;
-	padding: 6px 8px; 
-	border-radius: 6px;
 }
 
-ul#horizontal-list li a:hover {
-	background: #5559e6;
-}
-
-.navbar {
-	margin-bottom: 40px;
-	padding-top:14px;
-	background: rgb(90,218,194);
-background: linear-gradient(90deg, rgba(85,89,230,1) 0%, rgba(63,200,228,1) 50%, rgba(90,218,194,1) 100%);
+a:hover {
+	color: #5559e6;
+	text-decoration: none;
 }
 
 h3, h4 {
@@ -57,35 +31,12 @@ h4 {
 	color: #404ec9;
 }
 
-a {
-	color: #4AD7D1;
-	text-decoration: none;
-}
-
-a:hover {
-	color: #5559e6;
-	text-decoration: none;
-}
-
-.resize {
-	height: 200px;
-	width: auto;
-}
-
-.btn-primary {
-	background-color: #4AD7D1;
-	border-color: #4AD7D1;
-}
-
-.btn-primary:hover {
-	background-color: #5559e6;
-	border-color: #5559e6;
-}
-
-.btn {
-	font-size: 1em;
-	letter-spacing:1px;
-	width: 100%;
+/************ Header (navigation) ************/
+.navbar {
+	margin-bottom: 40px;
+	padding-top:14px;
+	background: rgb(90,218,194);
+background: linear-gradient(90deg, rgba(85,89,230,1) 0%, rgba(63,200,228,1) 50%, rgba(59,211,204,1) 100%);
 }
 
 .navbar-brand, .nav-link {
@@ -103,6 +54,7 @@ a:hover {
 	color: #fff;
 }
 
+/************ Header (link hover) ************/
 .lime, .lime:visited {
   text-decoration: none;
   position: relative;
@@ -123,11 +75,16 @@ a:hover {
   width: 100%;
 }
 
+/************ Header (search) ************/
 .searchbar {
     height: 40px;
     background-color: #5559e6;
     border-radius: 20px;
     padding: 10px;
+}
+
+.searchbutton {
+  all: unset;
 }
 
 .search_input {
@@ -163,6 +120,60 @@ a:hover {
 	color:#F8DD2E;
 }
 
+::placeholder {
+	color: #F8DD2E;
+}
+
+/************ Tags ************/
+ul#horizontal-list {
+	list-style: none;
+	padding-top:20px;
+	padding-left: 0px;
+}
+
+ul#horizontal-list li {
+	display: inline-block;
+	margin:0 auto;
+	height: 45px;
+}
+
+ul#horizontal-list li a {
+	color:#fff;
+	text-decoration: none;
+	margin:0 5px;
+	background: #3bd3cc;
+	padding: 6px 8px; 
+	border-radius: 6px;
+}
+
+ul#horizontal-list li a:hover {
+	background: #5559e6;
+}
+
+
+.resize {
+	height: 200px;
+	width: auto;
+}
+
+/************ Buttons ************/
+.btn {
+	font-size: 1em;
+	letter-spacing:1px;
+	width: 100%;
+}
+
+.btn-primary {
+	background-color: #3bd3cc;
+	border-color: #3bd3cc;
+}
+
+.btn-primary:hover {
+	background-color: #5559e6;
+	border-color: #5559e6;
+}
+
+/************ Recipe cards ************/
 .card {
 	border:none;
 	background: none;
@@ -174,11 +185,7 @@ a:hover {
 	overflow:hidden;
 	border-radius: 5px;
 	border: 1px solid transparent;
-	transition: border-color 1s ease;
-}
-
-.card-title {
-	padding-top:5px;
+	transition: border-color 0.8s ease;
 }
 
 .card-image:hover {
@@ -191,13 +198,9 @@ a:hover {
 }
 
 p.text {
-  transition: color 1s ease;
+  transition: color 0.8s ease;
 }
 
 .img-card {
-	width: 200px;
-}
-
-::placeholder {
-	color: #F8DD2E;
+	width: 180px;
 }
