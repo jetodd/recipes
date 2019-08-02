@@ -83,10 +83,9 @@ a:hover {
 }
 
 .btn {
-	width:70%;
-	max-width: 180px;
 	font-size: 1em;
 	letter-spacing:1px;
+	width: 100%;
 }
 
 .navbar-brand, .nav-link {
