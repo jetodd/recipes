@@ -173,7 +173,7 @@ a:hover {
 	width: 180px;
 	overflow:hidden;
 	border-radius: 5px;
-	border: 1px solid #F8DD2E;
+	border: 1px solid transparent;
 	transition: border-color 1s ease;
 }
 
@@ -183,7 +183,7 @@ a:hover {
 
 .card-image:hover {
 	transition: border-color 1s ease;
-	border: 1px solid #5559e6;
+	border: 1px solid #F8DD2E;
 }
 
 .card-image:hover + p.text {
