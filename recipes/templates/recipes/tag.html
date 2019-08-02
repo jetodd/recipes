@@ -4,11 +4,22 @@
 	<h3>{{ tag.name }}</h3>
 
 	{% if recipes %}
-		<ul>
-			{% for recipe in recipes %}
-				<li><a href="{% url 'recipes:detail' recipe.id %}">{{ recipe.title }}</a></li>
-			{% endfor %}
-		</ul>
+		<div class="container">
+		<div class="row">
+		{% for recipe in recipes %}
+			<div class="col-md-4">
+				<div class="card">
+					<a href="{% url 'recipes:detail' recipe.id %}">
+						<div class="card-image">
+  							<img class="img-card" src="/static/img/{{ recipe.id }}.jpg">
+  						</div>
+	      				<p class="text">{{ recipe.title }}</p>
+      				</a>
+				</div>
+			</div>
+		{% endfor %}
+		</div>
+	</div>
 	{% else %}
 		<p>Nothing here yet, don't get hangry.</p>
 	{% endif %}
