@@ -141,7 +141,7 @@ ul#horizontal-list li a {
 	text-decoration: none;
 	margin:0 5px;
 	background: #3bd3cc;
-	padding: 6px 8px; 
+	padding: 6px 8px;
 	border-radius: 6px;
 }
 
@@ -202,4 +202,9 @@ p.text {
 
 .img-card {
 	width: 180px;
+}
+
+/************ Shopping ************/
+.shopping-list {
+	margin-bottom: 1rem;
 }

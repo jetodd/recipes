@@ -7,14 +7,19 @@
 		<h3>Shopping</h3>
 		{% if items %}
 			<form action="deleteitems" method="post">
-				<p>
+				<div class="shopping-list">
 				{% for item in items %}
-						<input type="checkbox" name="item" value="{{item.name}}" /> {{item.name}} {% if item.recipe != None %}({{item.recipe}}){% endif %}<br />
-					{% endfor %}
+					<div class="form-check">
+						<label class="form-check-label">
+							<input class="form-check-input" type="checkbox" name="item" value="{{item.name}}" />
+							{{item.name}} {% if item.recipe != None %}({{item.recipe}}){% endif %}
+						</label>
+					</div>
+				{% endfor %}
+				</div>
 				{% csrf_token %}
-				</p>
 				<p>
-				<input class="btn btn-danger" type="submit" value="Delete selected">
+					<input class="btn btn-danger" type="submit" value="Delete selected">
 				</p>
 				<p>
 				<button class="btn btn-primary" type="button" id="select_all">Select all</button>
