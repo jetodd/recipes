@@ -10,14 +10,21 @@ class Command(BaseCommand):
 	def handle(self, *args, **options):
 		for r in Recipe.objects.all():
 			imagePath = os.getcwd() + "/recipes/static/img/" + str(r.id) + ".jpg"
+
 			if not os.path.exists(imagePath):
+				print ("Retrieving image for " + r.title)
 				picture_request = requests.get(r.image)
 				if picture_request.status_code == 200:
 						with open(imagePath, 'wb') as f:
 							f.write(picture_request.content)
+							print ("Image saved")
+
+			if os.path.exists(imagePath):
 				im = Image.open(imagePath)
 				width, height = im.size
-				newHeight = math.ceil((180 * height) / width)
+				if not width == 180:
+					print ("Resizing image for " + r.title)
+					newHeight = math.ceil((180 * height) / width)
 
-				im = im.resize((180, newHeight), Image.ANTIALIAS)
-				im.save(imagePath)
+					im = im.resize((180, newHeight), Image.ANTIALIAS)
+					im.save(imagePath)
