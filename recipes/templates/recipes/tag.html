@@ -7,7 +7,7 @@
 		<div class="container">
 		<div class="row">
 		{% for recipe in recipes %}
-			<div class="col-md-4">
+			<div class="col-12 col-sm-6 col-md-6 col-lg-4">
 				<div class="card">
 					<a href="{% url 'recipes:detail' recipe.id %}">
 						<div class="card-image">
