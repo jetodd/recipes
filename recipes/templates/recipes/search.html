@@ -6,7 +6,7 @@
 {% if queryset_list %}
 	<p>Results for: {{ query }}</p>
 
-		<div class="row">
+		<div class="row" id="more">
 		{% for recipe in queryset_list %}
 				<div class="card">
 					<a href="{% url 'recipes:detail' recipe.id %}">

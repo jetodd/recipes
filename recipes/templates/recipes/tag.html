@@ -4,7 +4,7 @@
 	<h3>{{ tag.name }}</h3>
 
 	{% if recipes %}
-		<div class="row">
+		<div class="row" id="more">
 			{% for recipe in recipes %}
 					<div class="card">
 						<a href="{% url 'recipes:detail' recipe.id %}">

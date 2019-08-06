@@ -250,6 +250,9 @@ p.text {
 		-webkit-columns: 1;
 		-moz-columns: 1;
 	}
+	#more .card {
+		width: 19%;
+	}
 }
 
 @media (min-width: 1200px) 
