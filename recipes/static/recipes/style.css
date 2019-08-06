@@ -37,6 +37,10 @@ ul {
   -moz-columns: 2;
 }
 
+.round {
+	border-radius: 5px;
+}
+
 /************ Header (navigation) ************/
 .navbar {
 	margin-bottom: 40px;
@@ -217,6 +221,20 @@ p.text {
 /************ Shopping ************/
 .shopping-list {
 	margin-bottom: 1rem;
+}
+
+/************ Pagination ************/
+.pagination {
+	margin-top: 20px;
+}
+
+.page-item.active .page-link {
+    background-color: #5559e6;
+    border-color: #5559e6;
+}
+
+.page-link {
+	color: #5559e6;
 }
 
 /************ Media queries ************/

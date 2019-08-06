@@ -2,6 +2,7 @@ import json
 
 from django.http import HttpResponseRedirect
 from django.shortcuts import render, get_object_or_404
+from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
 
 from .forms import RecipeForm, ShoppingForm
 from .models import Tag, Recipe, ShoppingItem
@@ -102,8 +103,18 @@ def tag(request, tag_id):
 
 
 def all(request):
-    recipes = Recipe.objects.all().order_by('-cooked_count')
+    recipes_list = Recipe.objects.all().order_by('-cooked_count')
+    page = request.GET.get('page', 1)
+    paginator = Paginator(recipes_list, 8)
     tags = Tag.objects.all();
+
+    try:
+        recipes = paginator.page(page)
+    except PageNotAnInteger:
+        recipes = paginator.page(1)
+    except EmptyPage:
+        recipes = paginator.page(paginator.num_pages)
+
     context = {'recipes': recipes, 'tags': tags}
     return render(request, 'recipes/all.html', context)
 

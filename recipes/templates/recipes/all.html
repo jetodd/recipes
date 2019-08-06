@@ -13,11 +13,35 @@
 		  				</a>
 				{% endfor %}
 			</ul>
+			
+			{% if recipes.has_other_pages %}
+	  			<ul class="pagination justify-content-center">
+	    			{% if recipes.has_previous %}
+	      				<li class="page-item"><a class="page-link" href="?page={{ recipes.previous_page_number }}">&laquo;</a></li>
+	    			{% else %}
+	      				<li class="page-item disabled"><span class="page-link">&laquo;</span></li>
+	    			{% endif %}
+	    			{% for i in recipes.paginator.page_range %}
+      					{% if recipes.number == i %}
+        					<li class="page-item active"><span class="page-link">{{ i }} <span class="sr-only">(current)</span></span></li>
+      					{% else %}
+        					<li class="page-item"><a class="page-link" href="?page={{ i }}">{{ i }}</a></li>
+      					{% endif %}
+   					{% endfor %}
+	    			{% if recipes.has_next %}
+	      				<li class="page-item"><a class="page-link" href="?page={{ recipes.next_page_number }}">&raquo;</a></li>
+	    			{% else %}
+	      				<li class="page-item disabled"><span class="page-link">&raquo;</span></li>
+	    			{% endif %}
+	  			</ul>
+			{% endif %}
+
 		{% else %}
 			<p>Nothing here yet, should probably migrate.</p>
 		{% endif %}
 	</div>
 
+	
 	<div class="col-md-12 col-lg-5">
 		{% if tags %}
 			<h3>Tags</h3>
