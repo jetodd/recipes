@@ -2,7 +2,7 @@
 
 {% block content %}
 	<div class="row">
-		<div class="col-md-12 col-lg-9">
+		<div class="col-md-12 order-md-2 col-lg-9 order-lg-1">
 			<h3>{{ recipe.title }}</h3>
 
 			<p>
@@ -30,7 +30,7 @@
 			</ol>
 		</div>
 
-		<div class="col-md-12 col-lg-3">
+		<div class="col-md-12 order-md-1 col-lg-3 order-lg-2">
 			<h3>Update</h3>
 			<form action="" method="post">
 	    		{% csrf_token %}

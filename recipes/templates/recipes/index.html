@@ -2,7 +2,7 @@
 
 {% block content %}
 <div class="row">
-	<div class="col-md-12 col-lg-8">
+	<div class="col-md-12 order-md-2 col-lg-8 order-lg-1">
 		<h3>Newest recipes</h3>
 		{% if latest_recipes_list %}
 					<div class="row">
@@ -36,7 +36,7 @@
 		{% endif %}
 	</div>
 
-	<div class="col-md-12 col-lg-3">
+	<div class="col-md-12 order-md-1 col-lg-3 order-lg-2">
 		{% if this_week %}
 			<h3>This week</h3>
 			<ul class="single">

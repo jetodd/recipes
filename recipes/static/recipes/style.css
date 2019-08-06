@@ -192,13 +192,13 @@ ul#horizontal-list li a:hover {
 .card-image {
 	width: 100%;
 	border-radius: 10px;
-	border: 1px solid transparent;
+	border: 2px solid transparent;
 	transition: border-color 0.8s ease;
 }
 
 .card-image:hover {
 	transition: border-color 1s ease;
-	border: 1px solid #F8DD2E;
+	border: 2px solid #F8DD2E;
 }
 
 .card-image:hover + p.text {
