@@ -2,49 +2,41 @@
 
 {% block content %}
 <div class="row">
-	<div class="col-lg-8">
-			<h3>Newest recipes</h3>
-			{% if latest_recipes_list %}
-				<div class="container">
-  					<div class="row">
-					{% for recipe in latest_recipes_list %}
-						<div class="col-md-4">
-	      					<div class="card">
-	      						<a href="{% url 'recipes:detail' recipe.id %}">
-			  						<div class="card-image">
-			      						<img class="img-card" src="/static/img/{{ recipe.id }}.jpg">
-			      					</div>
-				        			<p class="text">{{ recipe.title }}</p>
-		      					</a>
-		  					</div>
-						</div>
-					{% endfor %}
-					</div>
-				</div>
-			{% endif %}
-
-		<h3>Most popular recipes</h3>
-		{% if most_popular_recipes_list %}
-		<div class="container">
-  			<div class="row">
-				{% for recipe in most_popular_recipes_list %}
-					<div class="col-sm-4">
+	<div class="col-md-12 col-lg-8">
+		<h3>Newest recipes</h3>
+		{% if latest_recipes_list %}
+					<div class="row">
+				{% for recipe in latest_recipes_list %}
 	  					<div class="card">
 	  						<a href="{% url 'recipes:detail' recipe.id %}">
 		  						<div class="card-image">
 		      						<img class="img-card" src="/static/img/{{ recipe.id }}.jpg">
 		      					</div>
+			        			<p class="text">{{ recipe.title }}</p>
+	      					</a>
+	  					</div>
+				{% endfor %}
+				</div>
+		{% endif %}
+
+		<h3>Most popular recipes</h3>
+		{% if most_popular_recipes_list %}
+			<div class="row">
+				{% for recipe in most_popular_recipes_list %}
+							<div class="card">
+								<a href="{% url 'recipes:detail' recipe.id %}">
+		  						<div class="card-image">
+		      						<img class="img-card" src="/static/img/{{ recipe.id }}.jpg">
+		      					</div>
 			      				<p class="text">{{ recipe.title }}</p>
 		      				</a>
-	  					</div>
-					</div>
+							</div>
 				{% endfor %}
 			</div>
-		</div>
 		{% endif %}
 	</div>
 
-	<div class="col-sm-3">
+	<div class="col-md-12 col-lg-3">
 		{% if this_week %}
 			<h3>This week</h3>
 			<ul>
@@ -77,10 +69,8 @@
 				{% csrf_token %}
 				<input class="btn btn-primary" type="submit" value="Move">
 			</form>
-
 		{% endif %}
-		
 	</div>
 </div>
-</div>
+
 {% endblock %}

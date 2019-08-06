@@ -1,7 +1,7 @@
 body {
 	font-family: Tahoma, Geneva, Verdana, sans-serif;
 	background-color: #fff;
-	font-size: 0.9rem;
+	font-size: 1.6rem;
 }
 
 a {
@@ -31,12 +31,17 @@ h4 {
 	color: #404ec9;
 }
 
+ul {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+}
+
 /************ Header (navigation) ************/
 .navbar {
 	margin-bottom: 40px;
 	padding-top:14px;
-	background: rgb(90,218,194);
-background: linear-gradient(90deg, rgba(85,89,230,1) 0%, rgba(63,200,228,1) 50%, rgba(59,211,204,1) 100%);
+    background: linear-gradient(90deg, rgba(85,89,230,1) 0%, rgba(63,200,228,1) 50%, rgba(59,211,204,1) 100%);
 }
 
 .navbar-brand, .nav-link {
@@ -129,12 +134,15 @@ ul#horizontal-list {
 	list-style: none;
 	padding-top:20px;
 	padding-left: 0px;
+	columns: 1;
+	-webkit-columns: 1;
+	-moz-columns: 1;
 }
 
 ul#horizontal-list li {
 	display: inline-block;
 	margin:0 auto;
-	height: 45px;
+	height: 60px;
 }
 
 ul#horizontal-list li a {
@@ -177,13 +185,13 @@ ul#horizontal-list li a:hover {
 .card {
 	border:none;
 	background: none;
+	width:45%;
+	margin:3%;
 }
 
 .card-image {
-	height: 100px;
-	width: 180px;
-	overflow:hidden;
-	border-radius: 5px;
+	width: 100%;
+	border-radius: 10px;
 	border: 1px solid transparent;
 	transition: border-color 0.8s ease;
 }
@@ -202,10 +210,43 @@ p.text {
 }
 
 .img-card {
-	width: 180px;
+	width: 100%;
+	border-radius: 10px;
 }
 
 /************ Shopping ************/
 .shopping-list {
 	margin-bottom: 1rem;
+}
+
+/************ Media queries ************/
+@media (min-width: 576px) 
+{
+	.card {
+		width:44%;
+	}
+}
+
+@media (min-width: 768px) 
+{
+	.card {
+		width: 44%;
+	}
+}
+
+@media (min-width: 992px) 
+{
+	.card {
+		width: 27%;
+	}
+	body {
+		font-size: 0.8rem;
+	}
+	ul#horizontal-list li {
+		height: 40px;
+	}
+}
+
+@media (min-width: 1200px) 
+{
 }

@@ -2,19 +2,21 @@
 
 {% block content %}
 	<div class="row">
-		<div class="col-sm-6">
+		<div class="col-md-12 col-lg-9">
 			<h3>{{ recipe.title }}</h3>
 
 			<p>
-				<a href="{{ recipe.url }}"><img class="resize" src="{{ recipe.image }}"></a>
+				<a href="{{ recipe.url }}"><img src="/static/img/{{ recipe.id }}.jpg" height="240px" width="240px"></a>
 			</p>
 
 			<h4>Ingredients</h4>
 			<p>
 				{% if ingredients %}
-					{% for ingredient in ingredients %}
-						{{ ingredient }} <br>
-					{% endfor %}
+					<ul class="columns" data-columns="2">
+						{% for ingredient in ingredients %}
+							<li>{{ ingredient }}</li>
+						{% endfor %}
+					</ul>
 				{% endif %}
 			</p>
 
@@ -28,7 +30,7 @@
 			</ol>
 		</div>
 
-		<div class="col-sm-3">
+		<div class="col-md-12 col-lg-3">
 			<h3>Update</h3>
 			<form action="" method="post">
 	    		{% csrf_token %}
