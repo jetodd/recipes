@@ -22,9 +22,9 @@ class Command(BaseCommand):
 			if os.path.exists(imagePath):
 				im = Image.open(imagePath)
 				width, height = im.size
-				if not width == 180:
+				if not width == 480:
 					print ("Resizing image for " + r.title)
-					newHeight = math.ceil((180 * height) / width)
+					newHeight = math.ceil((480 * height) / width)
 
-					im = im.resize((180, newHeight), Image.ANTIALIAS)
+					im = im.resize((480, newHeight), Image.ANTIALIAS)
 					im.save(imagePath)
