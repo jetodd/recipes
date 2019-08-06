@@ -245,6 +245,11 @@ p.text {
 	ul#horizontal-list li {
 		height: 40px;
 	}
+	ul.single {
+		columns: 1;
+		-webkit-columns: 1;
+		-moz-columns: 1;
+	}
 }
 
 @media (min-width: 1200px) 
