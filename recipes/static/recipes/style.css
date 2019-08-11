@@ -45,7 +45,7 @@ ul {
 .navbar {
 	margin-bottom: 40px;
 	padding-top:14px;
-    background: linear-gradient(90deg, rgba(85,89,230,1) 0%, rgba(63,200,228,1) 50%, rgba(59,211,204,1) 100%);
+    background: linear-gradient(90deg, rgba(59,211,204,1) 0%, rgba(63,200,228,1) 50%, rgba(85,89,230,1) 100%);
 }
 
 .navbar-brand, .nav-link {
@@ -69,6 +69,11 @@ ul {
 
 .navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
     color: rgba(255,255,255,1);
+}
+
+.navbar-dark .navbar-toggler {
+    color: rgba(255,255,255,.8);
+    border-color: rgba(255,255,255,.8);
 }
 
 /************ Header (link hover) ************/
