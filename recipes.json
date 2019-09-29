@@ -1832,17 +1832,15 @@
          ]
       },
       {
-         "title": "Butter tofu paneer",
+         "title": "Butter paneer",
          "url": "https://www.veganricha.com/2017/05/butter-tofu-paneer-tofu-butter-masala-recipe.html",
          "image": "https://www.veganricha.com/wp-content/uploads/2017/05/vegan-tofu-butter-masala-veganricha-0773.jpg",
          "ingredients": [
-            "1 block tofu",
+            "1 block paneer",
             "1 tsp garam masala",
             "2 tsp minced ginger",
             "2 tsp minced garlic",
             "2 tsp lemon juice",
-            "1.5 tsp water",
-            "1.5 tbsp cornstarch",
             "6 cloves garlic",
             "1 red pepper",
             "1 green pepper",
@@ -1850,7 +1848,7 @@
             "2 tins tomatoes",
             "1 inch ginger",
             "2 chillies",
-            "1/4 cup cashews",
+            "1/2 cup cashews",
             "1 tsp garam masala",
             "1 tsp cumin",
             "1 tsp paprika",
@@ -1860,15 +1858,14 @@
             "Naan"
          ],
          "steps": [
-            "Drain and press the tofu. In a bowl mix the ingredients up to and including cornstarch with 1 tsp oil.",
-            "Soak the cashews in water and cook the rice.",
-            "Marinate for 15 min then bake at 200 C for 15 to 20 mins.",
+            "Soak the cashews in water",
             "Puree the tomatoes with the ginger and half the chopped chilli in a blender.",
-            "without cleaning the blender blend the cashews with half a cup of water until smooth.",
-            "In the wok cook the garlic. Once mostly cooked add the peppers and then the onions.",
-            "Add the tomato mixture to the wok and simmer until thickened.",
-            "Add the cashew cream and spices to the wok, use 1/2 cup water to rinse blender and add that too.",
-            "Fold in the baked tofu and simmer for a minute."
+            "Leave the tomatoes in the blender.",
+            "In the wok cook the onion. Once mostly cooked add the peppers and then the garlic.",
+            "Cook the rice.",
+            "Add the tomato mixture and paneer to the wok and simmer until thickened.",
+            "Without cleaning the blender blend the cashews with half a cup of water until smooth.",
+            "Add the cashew cream and spices to the wok, use 1/2 cup water to rinse blender and add that too."
          ],
          "tags": [
             "Vegan",
@@ -1893,7 +1890,7 @@
             "Chilli flakes",
             "Cumin"
          ],
-         "step": [
+         "steps": [
             "Preheat the oven to 220C.",
             "Slice the eggplants lengthwise until they are almost sliced all the way through.",
             "Sprinkle a pinch of sea salt onto each half of eggplant.",
@@ -1908,6 +1905,43 @@
          ],
          "tags": [
             "Vegan"
+         ]
+      },
+      {
+         "title": "Baked eggplant rollatini",
+         "url": "https://asimplepalate.com/blog/baked-eggplant-rollatini/",
+         "image": "https://tz28kgkdrb-flywheel.netdna-ssl.com/wp-content/uploads/2019/08/eggplant-rollatini-2.jpg",
+         "ingredients": [
+            "4 eggplants",
+            "1 cup ricotta cheese",
+            "1/2 cup grated hard cheese",
+            "1 egg",
+            "8 garlic cloves",
+            "3 tbsp basil, chopped",
+            "2 tins tomatoes",
+            "1 onion",
+            "Basil",
+            "Chilli flakes",
+            "Rosemary",
+            "Thyme",
+            "Oregano",
+            "1/2 cup mozzarella cheese"
+         ],
+         "steps": [
+            "In the wok cook onion then add garlic, tinned tomatoes and dried herbs and simmer.",
+            "Preheat oven to 200C.",
+            "Slice eggplants into 1/2-inch thick slices.",
+            "Salt on both sides and let sit to “sweat” for 10 minutes",
+            "Pat dry with paper towel and wipe off remaining salt.",
+            "Lay eggplant on a lightly greased pan and bake for 10 minutes.",
+            "Mix in a bowl ricotta cheese, hard cheese, egg, salt & pepper, garlic, and basil.",
+            "Add half the tomato sauce to bottom of baking dish.",
+            "After eggplant has cooled spoon 1-2 Tablespoons of filling on eggplant, then roll and lay in baking dish.",
+            "Put rest of sauce over eggplant, sprinkle with mozzarella cheese.",
+            "Cover and bake for 30 minutes, then uncover and bake for 10 minutes."
+         ],
+         "tags": [
+            "Vegetarian"
          ]
       }
    ]
