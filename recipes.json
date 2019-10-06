@@ -1943,6 +1943,33 @@
          "tags": [
             "Vegetarian"
          ]
+      },
+      {
+         "title": "Mushroom risotto",
+         "url": "http://allrecipes.co.uk/recipe/6422/mushroom-risotto.aspx",
+         "image": "https://thebusybaker.ca/wp-content/uploads/2018/03/easy-mushroom-risotto-fbigBEST.jpg",
+         "ingredients": [
+            "1.4L vegetable stock, divided",
+            "500g mushrooms, thinly sliced",
+            "2 shallots, diced",
+            "5 cloves garlic"
+            "Arborio",
+            "125ml dry white wine",
+            "3 tablespoons finely chopped chives",
+            "60g butter",
+            "5 tablespoons grated hard cheese"
+         ],
+         "steps": [
+             "In a saucepan, warm the stock over low heat.",
+             "Cook the mushrooms until softened and remove them and any liquid from the pan.",
+             "Cook the shallots then garlic then add the rice to the pan, toast for one minute.",
+             "Pour in the wine and stir constantly until fully absorbed.",
+             "Add stock slowly while stirring until rice is fully cooked.",
+             "Remove from heat, and stir in mushrooms with their liquid, butter, chives and cheese."
+         ],
+         "tags": [
+            "vegetarian"
+         ]
       }
    ]
 }
