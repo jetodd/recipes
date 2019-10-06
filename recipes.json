@@ -1970,6 +1970,70 @@
          "tags": [
             "vegetarian"
          ]
+      },
+      {
+         "title": "Scallion pancakes",
+         "url": "https://www.bonappetit.com/recipe/scallion-pancakes-2",
+         "image": "https://assets.bonappetit.com/photos/57b61dab3e1d654349a2fefc/16:9/w_2560,c_limit/scallion-pancakes.jpg",
+         "ingredients": [
+            "2½ cups all-purpose flour",
+            "1 tablespoon sesame oil",
+            "1/3 cup vegetable oil",
+            "2 bunches scallions, thinly sliced (about 2 cups)",
+            "8 tablespoons vegetable oil"
+         ],
+         "steps": [
+            "Whisk 2.5 cups flour and 1 tsp salt in a large bowl. Mix in sesame oil and 1 cup boiling water with a wooden spoon until a dough forms.",
+            "Turn out dough onto a lightly floured surface and knead, adding flour as needed to prevent sticking, until dough is smooth, about 5 minutes.",
+            "Cover with plastic wrap; let rest at room temperature 1 hour.",
+            "Divide dough into 8 pieces.",
+            "Roll out piece on a lightly floured work surface as thin as possible (~10 inches diameter).",
+            "Brush about 2 tsp. oil on dough and top with about ¼ cup scallions; season with salt.", 
+            "Roll dough away from you (like a jelly roll) into a thin cylinder, then, starting at 1 end, wind roll onto itself to create a coil (like a cinnamon roll). Cover with plastic wrap and repeat with remaining dough. Let rest at room temperature 15 minutes.",
+            "Working with 1 coil at a time, roll out on a lightly floured surface to a 5 inch round (keep other coils covered). Repeat with remaining dough and stack as you go, separating with parchment or lightly greased foil brushed with vegetable oil.",
+            "Heat 1 Tbsp. vegetable oil in a medium skillet over medium-low. Working with one at a time, cook pancake, turning frequently to prevent scallions from burning, until golden brown and crisp on both sides and cooked through, 8–10 minutes. Transfer pancakes to a wire rack and let rest about 5 minutes before cutting into wedges."
+         ],
+         "tags": [
+            "Vegan"
+         ]
+      },
+      {
+         "title": "Vegan mapo tofu",
+         "url": "https://cooking.nytimes.com/recipes/1017358-vegan-mapo-tofu",
+         "image": "https://static01.nyt.com/images/2019/02/24/dining/dt-vegetarian-mapo-tofu/dt-vegetarian-mapo-tofu-articleLarge.jpg",
+         "ingredients": [
+            "8 ounces shiitake mushrooms",
+            "15 ounce block of soft tofu (do not use silken)",
+            "Rice",
+            "3 small dried hot chilies",
+            "1 tablespoon fermented black beans",
+            "1 tablespoon fermented spicy broad bean paste (doubanjiang)",
+            "2 teaspoons minced garlic",
+            "1 tablespoon grated ginger",
+            "1 red pepper",
+            "1 green pepper",
+            "2 teaspoons soy sauce",
+            "1 teaspoon toasted sesame oil",
+            "1 teaspoon finely ground Sichuan pepper",
+            "1 tablespoon cornstarch",
+            "1/2 cup sliced scallions"
+         ],
+         "steps": [
+            "Remove stems from mushrooms.",
+            "Make mushroom broth by simmering stems in 2 cups water for 15 minutes. Drain.",
+            "Cut tofu into 1-inch cubes. Cover with boiling salted water, let steep for 15 minutes, then drain.",
+            "Cook the rice.",
+            "Cook bell peppers, chilli, black beans and bean paste, stirring until fragrant.",
+            "Add garlic and ginger and let sizzle, then add mushrooms, soy sauce, sesame oil and Sichuan pepper.",
+            "Add 1 1/2 cups mushroom broth and cook mixture gently for 2 minutes.",
+            "Carefully add tofu cubes. Shake pan to distribute sauce, using a wooden spoon to help.",
+            "Drizzle in cornstarch mixture, gently swirling pan to incorporate and simmer tofu in sauce for 2 minutes more.",
+            "Thin with a little mushroom broth if necessary."
+         ],
+         "tags": [
+            "Asian",
+            "Vegan"
+         ]
       }
    ]
 }
