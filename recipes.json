@@ -1517,10 +1517,12 @@
          "url": "https://tasty.co/recipe/thai-green-curry-with-chicken-by-chef-fern",
          "image": "https://cdn77-s3.lazycatkitchen.com/wp-content/uploads/2019/03/vegan-thai-green-curry-pot-800x1200.jpg",
          "ingredients": [
-            "3 thai eggplants",
+            "1 block tofu",
+            "1 to 2 carrots",
+            "1 courgette",
+            "Mushrooms",
             "6 cloves garlic",
             "1 inch ginger",
-            "1 can coconut milk",
             "2 tablespoons curry paste",
             "1 tablespoon lime juice",
             "2 tablespoons sugar",
@@ -1528,19 +1530,21 @@
             "5 kaffir lime leaves",
             "1 red pepper",
             "1 green pepper",
-            "Green beans",
             "2 cans coconut milk",
             "1 cup thai basil",
             "Rice"
          ],
          "steps": [
+            "Drain and press the tofu.",
             "Heat the wok. Add vegetable oil and green curry paste.",
             "Add a splash of the coconut milk, stirring until it forms a paste.",
             "Cook the rice",
-            "Add the ginger, garlic and beans, cook a little. Add the bell peppers, the rest of the coconut milk, and the eggplant.",
-            "Season with the lime juice and sugar. Increase the heat to medium high and bring to a boil for 2-3 minutes.",
-            "Stir in the bamboo shoots, kaffir leaves",
-            "Add the Thai basil."
+            "In the frying pan cook the tofu until golden.",
+            "Add the ginger, garlic and beans, cook a little. Add the carrot, then bell peppers, courgette the rest of the coconut milk nd the mushrooms",
+            "Season with the lime juice and sugar.", 
+            "Increase the heat to medium high and simmer for 2-3 minutes.",
+            "Stir in the bamboo shoots, tofu and kaffir leaves.",
+            "Turnb off heat and mix in the Thai basil."
          ],
          "tags": [
             "Vegan"
