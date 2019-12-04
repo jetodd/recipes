@@ -5,9 +5,9 @@
 	<div class="col-md-12 order-md-2 col-lg-8 order-lg-1">
 		<h3>Newest recipes</h3>
 		{% if latest_recipes_list %}
-					<div class="row">
+					<div class="row home">
 				{% for recipe in latest_recipes_list %}
-	  					<div class="card">
+	  					<div class="card recipe-card">
 	  						<a href="{% url 'recipes:detail' recipe.id %}">
 		  						<div class="card-image">
 		      						<img class="img-card" src="/static/img/{{ recipe.id }}.jpg">
@@ -23,7 +23,7 @@
 		{% if most_popular_recipes_list %}
 			<div class="row">
 				{% for recipe in most_popular_recipes_list %}
-							<div class="card">
+							<div class="card recipe-card">
 								<a href="{% url 'recipes:detail' recipe.id %}">
 		  						<div class="card-image">
 		      						<img class="img-card" src="/static/img/{{ recipe.id }}.jpg">

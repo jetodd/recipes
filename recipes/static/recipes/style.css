@@ -37,6 +37,11 @@ ul {
   -moz-columns: 2;
 }
 
+.smol-img {
+	height:100%;
+	width:100%;
+}
+
 .round {
 	border-radius: 5px;
 }
@@ -203,11 +208,10 @@ ul#horizontal-list li a:hover {
 }
 
 /************ Recipe cards ************/
-.card {
-	border:none;
-	background: none;
+.recipe-card {
 	width: 45%;
 	margin: 0.1rem 3%;
+	border:none;
 }
 
 .card-image {
@@ -233,6 +237,31 @@ p.text {
 .img-card {
 	width: 100%;
 	border-radius: 10px;
+}
+
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+}
+
+.all img {
+	height:100%;
+	width: auto;
+}
+
+.card-all {
+	min-height: 100px;
+	color: #3bd3cc;
+}
+
+.card-img {
+	height: 200%;
+	width: auto;
+	overflow: hidden;
+}
+
+.card-img-top {
+	margin-top: -140px;
 }
 
 /************ Shopping ************/

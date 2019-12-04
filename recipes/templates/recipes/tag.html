@@ -6,7 +6,7 @@
 	{% if recipes %}
 		<div class="row" id="more">
 			{% for recipe in recipes %}
-					<div class="card">
+					<div class="card recipe-card">
 						<a href="{% url 'recipes:detail' recipe.id %}">
 							<div class="card-image">
 	  							<img class="img-card" src="/static/img/{{ recipe.id }}.jpg">

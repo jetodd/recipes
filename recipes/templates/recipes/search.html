@@ -6,9 +6,9 @@
 {% if queryset_list %}
 	<p>Results for: {{ query }}</p>
 
-		<div class="row" id="more">
+		<div class="row">
 		{% for recipe in queryset_list %}
-				<div class="card">
+				<div class="card recipe-card">
 					<a href="{% url 'recipes:detail' recipe.id %}">
 						<div class="card-image">
   							<img class="img-card" src="/static/img/{{ recipe.id }}.jpg">
