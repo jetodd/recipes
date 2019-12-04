@@ -2075,6 +2075,46 @@
             "Asian",
             "Spicy"
          ]
+      },
+      {
+         "title": "Ramen",
+         "url": "https://www.bbcgoodfood.com/recipes/vegan-ramen",
+         "image": "https://www.bbcgoodfood.com/sites/default/files/styles/recipe/public/recipe/recipe-image/2018/12/miso-ramen.jpg",
+         "ingredients": [
+            "2 cloves garlic",
+            "Ginger",
+            "1 small onion",
+            "4 tbsp miso paste",
+            "10 dried shiitake mushrooms",
+            "1L vegetable stock",
+            "2 tbsp soy sauce",
+            "1 tbsp sesame oil",
+            "1 block tofu",
+            "Noodles",
+            "1 carrot, cut into fine matchsticks",
+            "Pak choi",
+            "Shiitake mushrooms",
+            "2 tbsp soy sauce",
+            "2 tbsp sesame oil",
+            "Red chillis",
+            "Spring onion",
+            "Seaweed"
+         ],
+         "steps": [
+            "Drain and press the tofu.",
+            "Put everything up to (not including) the tofu in a pot and simmer for five mins.",
+            "Soak the tofu in the soy sauc and sesame oil (both sides).",
+            "Cook the tofu in the frying pan.",
+            "Don't clean the frying pan yet, cook the shiitake mushrooms in it.",
+            "Cook the noodles then drain them.",
+            "Add the pak choi and spring onion whites to the broth and gently reheat.",
+            "Divide noodles between bowls then ladel in the broth (discarding the floaties).",
+            "Top with carrot, tofu, spring onions greens, chilli, seaweed, sesame oil, etc."
+         ],
+         "tags": [
+            "Vegan",
+            "Asian"
+         ]
       }
    ]
 }
