@@ -2066,7 +2066,7 @@
             "Cube tofu and toss (gently) with the cornstarch until coated.",
             "Arrange tofu, broccoli, carrot, courgette and peppers on a baking tray.",
             "Drizzle with olive oil and salt.",
-            "Roast both pans at 425 degrees for 20-30 minutes.",
+            "Roast both pans at 200 degrees for 20-30 minutes.",
             "Cook the rice.",
             "Make the sauce by blending everything in a blender or food processor."
          ],
@@ -2114,6 +2114,33 @@
          "tags": [
             "Vegan",
             "Asian"
+         ]
+      },
+      {
+         "title": "Banana Berry Smoothie Bowl",
+         "url": "https://tasty.co/recipe/banana-berry-smoothie-bowl",
+         "image": "",
+         "ingredients": [
+            "3 cups almond milk",
+            "2.5 cups strawberry"
+            "1 cup raspberry",
+            "1 cup blackberry",
+            "1 cup banana, sliced",
+            "3 cups ice",
+            "Toppings",
+            "Berries",
+            "Dessicated coconut",
+            "Chia seeds",
+            "Nuts",
+            "Kiwifruit",
+            "Banana"
+         ],
+         "steps": [
+            "Add all ingredients to blender and mix.",
+            "Pour into a bowl and add toppings."
+         ],
+         "tags": [
+            "Sweet"
          ]
       }
    ]
