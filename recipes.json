@@ -2142,6 +2142,30 @@
          "tags": [
             "Sweet"
          ]
+      },
+      {
+         "title": "Banana Nice Cream",
+         "url": "https://tasty.co/compilation/banana-ice-cream-4-ways",
+         "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/e37d75b95520441a94f720aac94a11e4/FULL_1.jpg",
+         "ingredients": [
+            "3 bananas, cut and frozen",
+            "1/4 cup of milk",
+            "1 tsp vanilla",
+            "One of:",
+            "2 tbsp peanut butter and 1 tbsp cocoa powder",
+            "1 teaspoon vanilla bean",
+            "1/2 cup dark chocolate chips",
+            "1/2 cup strawberry (75 g), frozen"
+
+         ],
+         "steps": [
+            "Place all ingredients into a food processor or blender and blend until smooth.",
+            "Pour contents into a container:",
+            "Freeze one hour or until solid."
+         ],
+         "tags": [
+            "sweet"
+         ]
       }
    ]
 }

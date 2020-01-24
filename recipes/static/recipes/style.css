@@ -37,11 +37,6 @@ ul {
   -moz-columns: 2;
 }
 
-.smol-img {
-	height:100%;
-	width:100%;
-}
-
 .round {
 	border-radius: 5px;
 }
