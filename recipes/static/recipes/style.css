@@ -250,8 +250,8 @@ p.text {
 }
 
 .card-img {
-	height: 200%;
-	width: auto;
+	height: 100%;
+	width: 50%;
 	overflow: hidden;
 }
 
