@@ -6,24 +6,23 @@
 		<h3>All recipes</h3>
 
 		{% if recipes %}
+		<div class="row">
 			{% for recipe in recipes %}
-				<div class="row">
-					<div class="col-lg-6 col-md-12 col-sm-12">
-						<a href="/recipes/{{recipe.id}}/detail">
-							<div class="card border-0 card-all mb-3 w-100">
-								<div class="row no-gutters">
-									<div class="col-md-5 overflow-hidden">
-										<img src="/static/img/{{recipe.id}}.jpg" class="card-img">
-									</div>
-									<div class="col-md-7">
-										<div class="card-body" style="min-height: 120px;">
-											{{recipe.title}}
-										</div>
-									</div>
-								</div>
-							</div>
-						</a>
-					</div>
+				<div class="col-lg-6 col-md-12 col-sm-12">
+					<a href="/recipes/{{recipe.id}}/detail">
+						<div class="card border-0 card-all mb-3 w-100">
+				  			<div class="row no-gutters">
+				    			<div class="col-md-5 overflow-hidden">
+				      				<img src="/static/img/{{recipe.id}}.jpg" class="card-img">
+				    			</div>
+				    			<div class="col-md-7">
+				      				<div class="card-body" style="min-height: 120px;">
+				      					{{recipe.title}}
+				      				</div>
+				    			</div>
+				  			</div>
+						</div>
+					</a>
 				</div>
 			{% endfor %}
 		</div>
