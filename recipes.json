@@ -2166,6 +2166,27 @@
          "tags": [
             "sweet"
          ]
+      },
+      {
+         "title": "Baked potato",
+         "url": "https://www.delish.com/uk/cooking/a29557931/how-to-bake-a-potato-in-the-oven/",
+         "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-baked-potatoes-horizontal-1532986298.png?crop=1xw:1xh;center,top&resize=768:*",
+         "ingredients": [
+           "Potatoes",
+           "Butter",
+           "Salt / Pepper",
+           "Oil"
+         ],
+         "steps": [
+            "Preheat oven to 180",
+            "Pierce potatoes all over with a fork. Rub with oil and season generously with salt and pepper.",
+            "Bake until potatoes are easily pierced with a fork, 1 hour to 1 hour 30 minutes. ",
+            "Top em"
+         ],
+         "tags": [
+            "sweet"
+         ]
       }
+
    ]
 }
