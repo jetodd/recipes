@@ -1,34 +1,33 @@
 body {
-	font-family: Tahoma, Geneva, Verdana, sans-serif;
-	background-color: #fff;
-	font-size: 1.6rem;
+	font-family: "Century Gothic", CenturyGothic, Tahoma, sans-serif;
+	background-color: #ff9999;
+	font-size: 1.4rem;
 }
 
 a {
-	color: #3bd3cc;
+	color: #fff;
 	text-decoration: none;
 }
 
 a:hover {
-	color: #5559e6;
+	color: #ff4d4d;
 	text-decoration: none;
 }
 
 h3, h4 {
-	font-weight: normal;
 	letter-spacing: 1px;
+	color: #fff;
 }
 
 h3 {
-	font-family: Cambria, Georgia, serif;
-	font-style:italic;
-	font-size: 1.4em;
-	color: #5559e6;
+	font-size: 1.8em;
+	text-align: center;
+	text-transform: uppercase;
+	margin-top: 15px;
 }
 
 h4 {
-	font-size: 1em;
-	color: #404ec9;
+	font-size: 1.2em;
 }
 
 ul {
@@ -41,11 +40,37 @@ ul {
 	border-radius: 5px;
 }
 
+hr {
+    height: 2px;
+    color: #ff6666;
+    background: #ff6666;
+    font-size: 0;
+    border: 0;
+    width: 40%;
+    margin: 25px auto;
+}
+
+ol {
+   list-style: none;
+   counter-reset: item;
+}
+
+ol li {
+   counter-increment: item;
+   margin-bottom: 8px;
+}
+ol li:before {
+   margin-right: 20px;
+   content: counter(item);
+   color: #ff4d4d;
+   font-size: 1.8em;
+}
+
 /************ Header (navigation) ************/
 .navbar {
 	margin-bottom: 40px;
 	padding-top:14px;
-    background: linear-gradient(90deg, rgba(59,211,204,1) 0%, rgba(63,200,228,1) 50%, rgba(85,89,230,1) 100%);
+    background-color: #ff4d4d;
 }
 
 .navbar-brand, .nav-link {
@@ -84,7 +109,7 @@ ul {
   bottom: 0;
   left: 0;
   width: 0%;
-  background: #F8DD2E;
+  background: #ff9999;
   transition: 0.2s;
 }
 
@@ -104,7 +129,7 @@ ul {
 /************ Header (search) ************/
 .searchbar {
     height: 40px;
-    background-color: rgba(63,200,228,1);
+    background-color: #fff;
     border-radius: 20px;
     padding: 10px;
 }
@@ -114,7 +139,7 @@ ul {
 }
 
 .search_input {
-    color: white;
+    color: #ff4d4d;
     border: 0;
     outline: 0;
     background: none;
@@ -127,7 +152,7 @@ ul {
 .searchbar:hover > .search_input{
     padding: 0 10px;
     width: 150px;
-    caret-color: #fff;
+    caret-color: #ff4d4d;
     transition: width 0.4s linear;
 }
 
@@ -143,11 +168,11 @@ ul {
 }
 
 .fas {
-	color:#F8DD2E;
+	color:#ff4d4d;
 }
 
 ::placeholder {
-	color: #F8DD2E;
+	color: #ff4d4d;
 }
 
 /************ Tags ************/
@@ -170,19 +195,24 @@ ul#horizontal-list li a {
 	color:#fff;
 	text-decoration: none;
 	margin:0 5px;
-	background: #3bd3cc;
+	background: #ff4d4d;
 	padding: 6px 8px;
 	border-radius: 6px;
 }
 
 ul#horizontal-list li a:hover {
-	background: #5559e6;
+	background: #ff6666;
 }
 
 
 .resize {
 	height: 200px;
 	width: auto;
+}
+
+ul.single, ul.block {
+	list-style-type: none;
+	padding:0;
 }
 
 /************ Buttons ************/
@@ -193,45 +223,72 @@ ul#horizontal-list li a:hover {
 }
 
 .btn-primary {
-	background-color: #3bd3cc;
-	border-color: #3bd3cc;
+	background-color: #ff4d4d;
+	border: none;
 }
 
-.btn-primary:hover {
-	background-color: #5559e6;
-	border-color: #5559e6;
+.btn-primary:hover, .btn-primary:active, .btn-primary:focus {
+	background-color: #ff6666;
+}
+
+/************ Checkboxes ************/
+.form-check input {
+  padding: 0;
+  height: initial;
+  width: initial;
+  margin-bottom: 0;
+  display: none;
+}
+
+.form-check label {
+  position: relative;
+}
+
+.form-check label:before {
+  content:'';
+  -webkit-appearance: none;
+  border: 2px solid #ff4d4d;
+  padding: 10px;
+  display: inline-block;
+  position: relative;
+  vertical-align: middle;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.form-check input:checked + label:after {
+  content: '';
+  display: block;
+  position: absolute;
+  top: 4px;
+  left: 9px;
+  width: 6px;
+  height: 14px;
+  border: solid #ff4d4d;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
 }
 
 /************ Recipe cards ************/
+.card {
+	border-radius: 0;
+}
+
 .recipe-card {
 	width: 45%;
 	margin: 0.1rem 3%;
 	border:none;
+	margin-bottom: 10px;
 }
 
 .card-image {
 	width: 100%;
-	border-radius: 10px;
-	border: 2px solid transparent;
-	transition: border-color 0.8s ease;
-}
-
-.card-image:hover {
-	transition: border-color 1s ease;
-	border: 2px solid #F8DD2E;
-}
-
-.card-image:hover + p.text {
-	color:#5559e6;
-}
-
-p.text {
-  transition: color 0.8s ease;
+	height: 140px;
+	overflow: hidden;
 }
 
 .img-card {
 	width: 100%;
-	border-radius: 10px;
 }
 
 .card-horizontal {
@@ -259,6 +316,13 @@ p.text {
 	margin-top: -140px;
 }
 
+.card-title {
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 1.2em;
+	letter-spacing: 1px;
+}
+
 /************ Shopping ************/
 .shopping-list {
 	margin-bottom: 1rem;
@@ -270,12 +334,12 @@ p.text {
 }
 
 .page-item.active .page-link {
-    background-color: #5559e6;
-    border-color: #5559e6;
+    background-color: #ff4d4d;
+    border-color: #ff4d4d;
 }
 
 .page-link {
-	color: #5559e6;
+	color: #ff4d4d;
 }
 
 /************ Media queries ************/
@@ -299,7 +363,7 @@ p.text {
 		width: 27%;
 	}
 	body {
-		font-size: 0.8rem;
+		font-size: 0.9rem;
 	}
 	ul#horizontal-list li {
 		height: 40px;

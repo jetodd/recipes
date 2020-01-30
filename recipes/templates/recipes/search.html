@@ -3,21 +3,23 @@
 {% block content %}
 
 <h3>Search results</h3>
+<hr />
 {% if queryset_list %}
-	<p>Results for: {{ query }}</p>
-
-		<div class="row">
+	<p><b>Results for: {{ query }}</b></p>
+	<div class="row">
 		{% for recipe in queryset_list %}
-				<div class="card recipe-card">
-					<a href="{% url 'recipes:detail' recipe.id %}">
-						<div class="card-image">
-  							<img class="img-card" src="/static/img/{{ recipe.id }}.jpg">
-  						</div>
-	      				<p class="text">{{ recipe.title }}</p>
-      				</a>
+			<div class="card recipe-card">
+				<div class="card-image">
+					<img class="img-card" src="/static/img/{{ recipe.id }}.jpg">
 				</div>
+				<div class="card-body">
+	    			<h5 class="card-title">{{ recipe.title }}</h5>
+	    			<hr />
+	    			<a href="{% url 'recipes:detail' recipe.id %}" class="card-link btn btn-primary">View recipe</a>
+	  			</div>
+			</div>
 		{% endfor %}
-		</div>
+	</div>
 {% else %}
 	<p>No results for: {{ query }}</p>
 {% endif %}

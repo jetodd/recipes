@@ -5,11 +5,12 @@
 <div class="row">
 	<div class="col-md-12 col-lg-6">
 		<h3>Shopping</h3>
+		<hr />
 		{% if items %}
 			<form action="deleteitems" method="post">
 				<div class="shopping-list">
 				{% for item in items %}
-					<div class="form-check">
+					<div class="form-check form-group">
 						<input class="form-check-input" name="item" type="checkbox" value="{{item.name}}" id="shoppingItem{{item.id}}" />	
 						<label class="form-check-label" for="shoppingItem{{item.id}}">{{item.name}} {% if item.recipe != None %}({{item.recipe}}){% endif %}</label>
 					</div>
@@ -30,7 +31,7 @@
 
 	<div class="col-md-12 col-lg-6">
 		<h3>Add item</h3>
-
+		<hr />
 		<form action="" method="post">
 			{% csrf_token %}
 			{{ form.as_p }}
