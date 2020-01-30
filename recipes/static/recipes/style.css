@@ -49,6 +49,7 @@ hr {
 ol {
    list-style: none;
    counter-reset: item;
+   padding-left: 0;
 }
 
 ol li {
