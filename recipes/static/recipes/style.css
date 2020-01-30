@@ -1,11 +1,11 @@
 body {
 	font-family: "Century Gothic", CenturyGothic, Tahoma, sans-serif;
-	background-color: #ff9999;
+	background-color: #ffdfdf;
 	font-size: 1.4rem;
 }
 
 a {
-	color: #fff;
+	color: #805959;
 	text-decoration: none;
 }
 
@@ -16,7 +16,7 @@ a:hover {
 
 h2, h3, h4 {
 	letter-spacing: 1px;
-	color: #fff;
+	color: #805959;
 }
 
 h2, h3 {
@@ -24,10 +24,6 @@ h2, h3 {
 	text-align: center;
 	text-transform: uppercase;
 	margin-top: 15px;
-}
-
-h2 {
-	color: #ff9999;
 }
 
 h4 {
@@ -109,7 +105,7 @@ ol li:before {
   bottom: 0;
   left: 0;
   width: 0%;
-  background: #ff9999;
+  background: #ffdfdf;
   transition: 0.2s;
 }
 
