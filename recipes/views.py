@@ -105,7 +105,7 @@ def tag(request, tag_id):
 def all(request):
     recipes_list = Recipe.objects.all().order_by('-cooked_count')
     page = request.GET.get('page', 1)
-    paginator = Paginator(recipes_list, 10)
+    paginator = Paginator(recipes_list, 9)
     tags = Tag.objects.all();
 
     try:
