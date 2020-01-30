@@ -2,7 +2,7 @@
 
 {% block content %}
 	<div class="row">
-		<div class="col-md-12 order-md-2 col-lg-9 order-lg-1">
+		<div class="col-md-12 col-lg-9 mt-4">
 			<h3>{{ recipe.title }}</h3>
 			<hr />
 			<p>
@@ -32,8 +32,8 @@
 			</ol>
 		</div>
 
-		<div class="col-md-12 order-md-1 col-lg-3 order-lg-2">
-			<h3>Update</h3>
+		<div class="col-md-12 col-lg-3 bg-light mt-4 mb-4">
+			<h2>Update</h2>
 			<hr/>
 			<form action="" method="post">
 	    		{% csrf_token %}
@@ -50,7 +50,7 @@
 
 
 			{% if tags %}
-				<h3>Tags</h3>
+				<h2>Tags</h2>
 				<hr/>
 			    <ul id="horizontal-list">
 			    {% for tag in tags %}
