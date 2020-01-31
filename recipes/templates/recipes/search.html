@@ -2,10 +2,10 @@
 
 {% block content %}
 
-<h3>Search results</h3>
+<h3>Search results:</h3>
+<h1>{{ query }}</h1>
 <hr />
 {% if queryset_list %}
-	<p>Results for: {{ query }}</p>
 	<div class="row">
 		{% for recipe in queryset_list %}
 			<div class="card recipe-card">

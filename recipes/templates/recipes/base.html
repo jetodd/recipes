@@ -29,18 +29,22 @@
               <a class="nav-link lime" href="/recipes/shopping">Shopping</a>
             </li>
           </ul>
-        </div>
-        <form method='GET' action="/recipes/search" class="d-none d-lg-block">
+        </div>      
+          <button class="searchbutton">
+            <i class="fas fa-search" id="toggle_search"></i>
+          </button>
+      </nav>
+
+      <form method='GET' action="/recipes/search" id="search_form" class="d-none d-lg-block search_form">
           <div class="d-flex justify-content-center">
             <div class="searchbar">
               <input class="search_input" type="text" placeholder="Search..." name='q' value="{{ request.GET.q }}">
               <button class="searchbutton">
-                <i class="fas fa-search"></i>
+                <i class="fas fa-search big"></i>
               </button>
             </div>
         </div>
       </form>
-      </nav>
 
       <div class="content container">
         {% block content %}

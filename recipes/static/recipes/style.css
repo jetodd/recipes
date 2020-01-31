@@ -18,6 +18,13 @@ a:hover {
 	text-decoration: none;
 }
 
+h1 {
+	font-size: 3.2em;
+	text-transform: uppercase;
+	text-align: center;
+	color: #ff4d4d;
+}
+
 h2, h3, h4 {
 	letter-spacing: 1px;
 }
@@ -60,6 +67,7 @@ ol li {
    counter-increment: item;
    margin-bottom: 8px;
 }
+
 ol li:before {
    margin-right: 20px;
    content: counter(item);
@@ -67,9 +75,12 @@ ol li:before {
    font-size: 1.8em;
 }
 
+*:focus {
+    outline: 0 !important;
+}
+
 /************ Header (navigation) ************/
 .navbar {
-	margin-bottom: 40px;
 	padding-top:14px;
     background-color: #ff4d4d;
 }
@@ -129,9 +140,7 @@ ol li:before {
 
 /************ Header (search) ************/
 .searchbar {
-    height: 40px;
     background-color: #fff;
-    border-radius: 20px;
     padding: 10px;
 }
 
@@ -144,17 +153,11 @@ ol li:before {
     border: 0;
     outline: 0;
     background: none;
-    width: 0;
-    caret-color:transparent;
-    line-height: 20px;
-    transition: width 0.4s linear;
-}
-
-.searchbar:hover > .search_input{
-    padding: 0 10px;
-    width: 150px;
+    line-height: 60px;
+    font-size:60px;
+    width: 80%;
     caret-color: #ff4d4d;
-    transition: width 0.4s linear;
+    border-bottom: 3px solid #ff4d4d;
 }
 
 .searchbutton {
@@ -168,12 +171,30 @@ ol li:before {
     color:white;
 }
 
-.fas {
-	color:#ff4d4d;
-}
-
 ::placeholder {
 	color: #ff4d4d;
+}
+
+.big {
+	font-size: 40px;
+	margin-top: 20px;
+}
+
+.search_form {
+	background-color: #fff;
+	overflow:hidden;
+	height: 0;
+	-webkit-transition: all .3s linear 0s;
+	transition: all .3s linear 0s;
+}
+
+.search_form.show {
+	height: 100px;
+}
+
+.search_form .fas {
+		color:#ff4d4d;
+
 }
 
 /************ Tags ************/
