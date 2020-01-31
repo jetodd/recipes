@@ -69,6 +69,11 @@ ol li:before {
    font-size: 1.8em;
 }
 
+.box {
+	background-color: #ff8c8c;
+	padding:15px;
+}
+
 /************ Pagination ************/
 .page-link {    
     border-color: #ff6666;
