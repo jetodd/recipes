@@ -39,6 +39,7 @@ h2, h3 {
 
 h4 {
 	font-size: 1.2em;
+	color: #ff4d4d;
 }
 
 ul {
@@ -77,6 +78,21 @@ ol li:before {
 
 *:focus {
     outline: 0 !important;
+
+.box {
+	background-color: #ff8c8c;
+	padding:15px;
+}
+
+/************ Pagination ************/
+.page-link {    
+    border-color: #ff6666;
+}
+
+.page-link:hover {
+    color: #fff;
+    background-color: #ff6666;
+    border-color: #ff6666;
 }
 
 /************ Header (navigation) ************/
