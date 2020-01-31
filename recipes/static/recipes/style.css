@@ -78,6 +78,7 @@ ol li:before {
 
 *:focus {
     outline: 0 !important;
+}
 
 .box {
 	background-color: #ff8c8c;
