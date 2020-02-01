@@ -201,8 +201,8 @@ ol li:before {
 	background-color: #fff;
 	overflow:hidden;
 	height: 0;
-	-webkit-transition: all .3s linear 0s;
-	transition: all .3s linear 0s;
+	-webkit-transition: all .2s linear 0s;
+	transition: all .2s linear 0s;
 }
 
 .search_form.show {
@@ -211,7 +211,10 @@ ol li:before {
 
 .search_form .fas {
 		color:#ff4d4d;
+}
 
+#toggle_search {
+	color: #fff;
 }
 
 /************ Tags ************/
