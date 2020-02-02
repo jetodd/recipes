@@ -170,9 +170,9 @@ ol li:before {
     border: 0;
     outline: 0;
     background: none;
-    line-height: 60px;
-    font-size:60px;
-    width: 80%;
+    line-height: 20px;
+    font-size:20px;
+    width: 90%;
     caret-color: #ff4d4d;
     border-bottom: 3px solid #ff4d4d;
 }
@@ -185,7 +185,11 @@ ol li:before {
     justify-content: center;
     align-items: center;
     border-radius: 50%;
-    color:white;
+	color:white;
+}
+
+.searchbutton:hover {
+	cursor: pointer;
 }
 
 ::placeholder {
@@ -206,7 +210,19 @@ ol li:before {
 }
 
 .search_form.show {
-	height: 100px;
+	height: 50px;
+}
+
+@media only screen 
+  and (max-device-width: 812px) 
+  and (orientation: portrait) { 
+	.navbar > .searchbutton {
+		display:none;
+	}
+
+	.search_form {
+		height: 50px;
+	}
 }
 
 .search_form .fas {
