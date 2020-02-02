@@ -221,7 +221,24 @@ ol li:before {
 	}
 
 	.search_form {
-		height: 50px;
+		height: 100px;
+	}
+
+	.searchbutton {
+		height: 100px;
+	}
+
+	.search_form.show {
+		height: 80px;
+	}
+
+	.search_input {
+		font-size:40px;
+		margin-top: 20px;
+	}
+
+	.searchbutton > .fa-search {
+		font-size: 40px;
 	}
 }
 
