@@ -2,10 +2,11 @@
 
 {% block content %}
 
-<h3>Search results:</h3>
-<h1>{{ query }}</h1>
-<hr />
+
 {% if queryset_list %}
+	<h3>Search results:</h3>
+	<h1>{{ query }}</h1>
+	<hr />
 	<div class="row">
 		{% for recipe in queryset_list %}
 			<div class="card recipe-card">
@@ -21,7 +22,8 @@
 		{% endfor %}
 	</div>
 {% else %}
-	<p>No results for: {{ query }}</p>
+	<h3>No results found for:</h3>
+	<h1>{{ query }}</h1>
 {% endif %}
 
 {% if tags_list %}
