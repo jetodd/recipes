@@ -1,6 +1,6 @@
 body {
 	font-family: "Century Gothic", CenturyGothic, Tahoma, sans-serif;
-	background-color: #ffa8a8;
+	background-color: #b7e8df;
 	font-size: 1.4rem;
 }
 
@@ -22,7 +22,7 @@ h1 {
 	font-size: 3.2em;
 	text-transform: uppercase;
 	text-align: center;
-	color: #ff4d4d;
+	color: #3ed1bd;
 }
 
 h2, h3, h4 {
@@ -39,7 +39,7 @@ h2, h3 {
 
 h4 {
 	font-size: 1.2em;
-	color: #ff4d4d;
+	color: #3ed1bd;
 }
 
 ul {
@@ -50,8 +50,8 @@ ul {
 
 hr {
     height: 2px;
-    color: #ff6666;
-    background: #ff6666;
+    color: #5fddca;
+    background: #5fddca;
     font-size: 0;
     border: 0;
     width: 40%;
@@ -72,7 +72,7 @@ ol li {
 ol li:before {
    margin-right: 20px;
    content: counter(item);
-   color: #ff4d4d;
+   color: #3ed1bd;
    font-size: 1.8em;
 }
 
@@ -81,25 +81,25 @@ ol li:before {
 }
 
 .box {
-	background-color: #ff8c8c;
+	background-color: #7ae2d1;
 	padding:15px;
 }
 
 /************ Pagination ************/
 .page-link {    
-    border-color: #ff6666;
+    border-color: #5fddca;
 }
 
 .page-link:hover {
     color: #fff;
-    background-color: #ff6666;
-    border-color: #ff6666;
+    background-color: #5fddca;
+    border-color: #5fddca;
 }
 
 /************ Header (navigation) ************/
 .navbar {
 	padding-top:14px;
-    background-color: #ff4d4d;
+    background-color: #3ed1bd;
 }
 
 .navbar-brand, .nav-link {
@@ -138,7 +138,7 @@ ol li:before {
   bottom: 0;
   left: 0;
   width: 0%;
-  background: #ffdfdf;
+  background: #fff;
   transition: 0.2s;
 }
 
@@ -166,15 +166,15 @@ ol li:before {
 }
 
 .search_input {
-    color: #ff4d4d;
+    color: #3ed1bd;
     border: 0;
     outline: 0;
     background: none;
-    line-height: 20px;
-    font-size:20px;
-    width: 90%;
-    caret-color: #ff4d4d;
-    border-bottom: 3px solid #ff4d4d;
+    line-height: 30px;
+    font-size:30px;
+    width: 80%;
+    caret-color: #3ed1bd;
+    border-bottom: 2px solid #3ed1bd;
 }
 
 .searchbutton {
@@ -185,7 +185,8 @@ ol li:before {
     justify-content: center;
     align-items: center;
     border-radius: 50%;
-	color:white;
+	color: white;
+	font-size: 20px;
 }
 
 .searchbutton:hover {
@@ -193,12 +194,7 @@ ol li:before {
 }
 
 ::placeholder {
-	color: #ff4d4d;
-}
-
-.big {
-	font-size: 40px;
-	margin-top: 20px;
+	color: #3ed1bd;
 }
 
 .search_form {
@@ -210,7 +206,12 @@ ol li:before {
 }
 
 .search_form.show {
-	height: 50px;
+	height: 60px;
+}
+
+.search_form .fas {
+	color: #3ed1bd;
+	margin-top:10px;
 }
 
 @media only screen 
@@ -220,16 +221,8 @@ ol li:before {
 		display:none;
 	}
 
-	.search_form {
-		height: 100px;
-	}
-
-	.searchbutton {
-		height: 100px;
-	}
-
 	.search_form.show {
-		height: 80px;
+		height: 100px;
 	}
 
 	.search_input {
@@ -238,12 +231,13 @@ ol li:before {
 	}
 
 	.searchbutton > .fa-search {
-		font-size: 40px;
+		font-size: 30px;
+		margin-top: 15px;
 	}
-}
 
-.search_form .fas {
-		color:#ff4d4d;
+	.search_form .fas {
+		margin-top: 25px;
+	}
 }
 
 #toggle_search {
@@ -267,10 +261,10 @@ ul#horizontal-list li {
 }
 
 ul#horizontal-list li a {
-	color:#fff;
+	color: #fff;
 	text-decoration: none;
 	margin:0 5px;
-	background: #ff4d4d;
+	background: #3ed1bd;
 	padding: 6px 8px;
 	border-radius: 6px;
 }
@@ -298,12 +292,12 @@ ul.single, ul.block {
 }
 
 .btn-primary {
-	background-color: #ff4d4d;
+	background-color: #3ed1bd;
 	border: none;
 }
 
 .btn-primary:hover, .btn-primary:active, .btn-primary:focus {
-	background-color: #ff6666;
+	background-color: #5fddca;
 }
 
 /************ Checkboxes ************/
@@ -322,7 +316,7 @@ ul.single, ul.block {
 .form-check label:before {
   content:'';
   -webkit-appearance: none;
-  border: 2px solid #ff4d4d;
+  border: 2px solid #3ed1bd;
   padding: 10px;
   display: inline-block;
   position: relative;
@@ -339,7 +333,7 @@ ul.single, ul.block {
   left: 9px;
   width: 6px;
   height: 14px;
-  border: solid #ff4d4d;
+  border: solid #3ed1bd;
   border-width: 0 2px 2px 0;
   transform: rotate(45deg);
 }
@@ -409,12 +403,12 @@ ul.single, ul.block {
 }
 
 .page-item.active .page-link {
-    background-color: #ff4d4d;
-    border-color: #ff4d4d;
+    background-color: #3ed1bd;
+    border-color: #3ed1bd;
 }
 
 .page-link {
-	color: #ff4d4d;
+	color: #3ed1bd;
 }
 
 /************ Media queries ************/
