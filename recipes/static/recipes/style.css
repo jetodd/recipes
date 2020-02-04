@@ -221,7 +221,8 @@ ol li:before {
 		display:none;
 	}
 
-	.search_form.show {
+
+	.search_form {
 		height: 100px;
 	}
 
