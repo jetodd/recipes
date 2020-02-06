@@ -4,7 +4,7 @@ $(document).ready(function() {
 		checkBoxes.attr( "checked" , true );
 	});
 
-	//$('#toggle_search').click(function() {
-	//	$('#search_form').toggleClass('show');
-	//});
+	$('#toggle_search').click(function() {
+		$('#search_form').toggleClass('show');
+	});
 });

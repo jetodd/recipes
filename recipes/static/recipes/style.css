@@ -200,6 +200,7 @@ ol li:before {
 .search_form {
 	background-color: #fff;
 	overflow:hidden;
+	height:0;
 	-webkit-transition: all .2s linear 0s;
 	transition: all .2s linear 0s;
 }
@@ -238,6 +239,11 @@ ol li:before {
 	.search_form .fas {
 		margin-top: 25px;
 	}
+
+	.search_form.show {
+		height: 100px;
+	}
+
 }
 
 #toggle_search {
