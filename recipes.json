@@ -2221,6 +2221,41 @@
          "tags":[ 
             "Thai"
          ]
+      },
+      {
+         "title": "Vegan Shakshuka",
+         "url": "https://dietitiandebbie.com/vegan-shakshuka/",
+         "image": "https://dietitiandebbie.com/wp-content/uploads/2016/06/Vegan-Shakshuka-2.jpg",
+         "ingredients": [
+            "1 onion",
+            "6 garlic cloves",
+            "1 red pepper",
+            "1 green pepper",
+            "1 eggplant",
+            "Spinach",
+            "2 cans tomatoes",
+            "2 tomatoes",
+            "1 tbsp tomato paste",
+            "1 tsp cumin",
+            "1 tsp paprika",
+            "1 tsp chilli",
+            "2 tsp brown sugar",
+            "1 block tofu",
+            "2 chilies",
+            "Coriander"
+         ],
+         "steps": [
+            "Drain and press the tofu.",
+            "Saute the onions and chillies until the onions start to brown.",
+            "Add the garlic and bell peppers.",
+            "Add the eggplant.",
+            "Add the canned tomates, tomato paste, sugar, tofu and spices. Simmer.",
+            "Add the spinach and mix until wilted.",
+            "Serve with bread and fresh coriander"
+         ],
+         "tags": [
+            "Vegan"
+         ]
       }
    ]
 }
