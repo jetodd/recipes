@@ -30,7 +30,6 @@ class Command(BaseCommand):
 
 						update_recipe.title = recipe['title']
 						update_recipe.url = recipe['url']
-						update_recipe.image = recipe['image']
 						update_recipe.ingredients = string_ingredients
 						update_recipe.steps = string_steps
 						update_recipe.save()
@@ -42,7 +41,7 @@ class Command(BaseCommand):
 						string_ingredients = '{"ingredients":' + json.dumps(recipe['ingredients']) + '}'
 						string_steps = '{"steps":' + json.dumps(recipe['steps']) + '}'
 						r = Recipe(title=recipe['title'], pub_date=timezone.now(), url=recipe['url'], ingredients=string_ingredients, 
-							steps=string_steps, image=recipe['image'])
+							steps=string_steps)
 						r.save()
 						if 'tags' in recipe:
 							r.tags.set(tag_ids)

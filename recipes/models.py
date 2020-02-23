@@ -12,7 +12,6 @@ class Recipe(models.Model):
 	url = models.CharField(max_length=200)
 	ingredients = models.TextField()
 	steps = models.TextField()
-	image = models.CharField(max_length=200)
 	tags = models.ManyToManyField(Tag)
 	this_week = models.BooleanField(default=False)
 	next_week = models.BooleanField(default=False)
