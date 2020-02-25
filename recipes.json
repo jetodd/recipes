@@ -2015,6 +2015,34 @@
         "Serve over noodles"
       ],
       "tags": ["Asian"]
+    },
+    {
+      "title": "Cauliflower steak",
+      "url": "https://www.jessicagavin.com/roasted-cauliflower-steaks/",
+      "ingredients": [
+         "1 cauliflower",
+         "Cumin",
+         "Paprika",
+         "Coriander",
+         "Cayenne",
+         "Cinnamon",
+         "3 cloves garlic, crushed",
+         "1 handful coriander",
+         "1 handful parsley",
+         "Cumin",
+         "Cayenne",
+         "Juice of 1 lime",
+         "Brown sugar"
+      ],
+      "steps": [
+         "Cut the cauliflower in half then cut into 1 inch slices.",
+         "Mix the spices together.",
+         "Drizzle olive oil on the cauliflower then rub in the spice mix on both sides.",
+         "Blend the coriander, parsley, cumin, cayenne, lime juice, brown sugar and garlic with some olive oil."
+      ],
+      "tags": [
+         "vegan"
+      ]
     }
   ]
 }
