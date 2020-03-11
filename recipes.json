@@ -2080,7 +2080,7 @@
     },
     {
       "title": "Palak paneer",
-      "url": "",
+      "url": "https://minimalistbaker.com/vegan-palak-paneer-with-curried-tofu/",
       "ingredients": [
         "Rice",
         "Naan",
@@ -2111,6 +2111,42 @@
         "Add tofu to the sauce and serve over rice with naan"
       ],
       "tags": [
+        "Vegan",
+        "Indian"
+      ]
+    },
+    {
+      "title": "Raw carrot cake",
+      "url": "https://minimalistbaker.com/raw-carrot-cake-with-vegan-cream-cheese-frosting/",
+      "ingredients": [
+        "1 1/4 cup raw cashews",
+        "1/2 cup coconut milk",
+        "2 Tbsp lemon juice",
+        "3 Tbsp maple syrup",
+        "1 tsp vanilla extract",
+        "2 cups finely shredded carrots",
+        "2 cups packed dates",
+        "2 1/2 cups walnuts",
+        "2 tsp vanilla",
+        "1/4 tsp salt",
+        "1 1/4 tsp ground cinnamon",
+        "3/4 tsp ground ginger",
+        "1 pinch nutmeg",
+        "1/2 cup coconut flour (or sub almond flour)"
+      ],
+      "steps": [
+        "Soak the cashews in hot water for 30 minutes - 1 hour. Then rinse and drain.",
+        "Put the cashew mixture in the freezer until firmed but not frozen then move to fridge.",
+        "Add cashews to blender with coconut cream, lemon juice, maple syrup, and vanilla.",
+        "Grate the carrots.",
+        "Blend dates then set aside.",
+        "Blend the walnuts, vanilla, salt and spices. Then add the dates back in and carrots and blend until a loose dough forms.",
+        "Move mixture to bowl and add coconut flour then mix until combined.",
+        "Press mixture down into cake pan.",
+        "Add icing on top then chill"
+      ],
+      "tags": [
+        "Vegan"
       ]
     }
   ]
