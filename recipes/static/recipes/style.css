@@ -4,6 +4,7 @@
 	--text-colour: #ff6262;
 	--link-hover: #c5395a;
 	--header-search-icon: #fff;
+	--btn-text-colour: #fff;
   }
   
 
@@ -90,7 +91,7 @@ ol li:before {
 }
 
 .box {
-	background-color: var(--text-colour);
+	background-color: var(--main-bg-colour);
 	padding:15px;
 }
 
@@ -275,16 +276,16 @@ ul#horizontal-list li {
 }
 
 ul#horizontal-list li a {
-	color: #fff;
+	color: var(--btn-text-colour);
 	text-decoration: none;
 	margin:0 5px;
-	background: #3ed1bd;
+	background: var(--text-colour);
 	padding: 6px 8px;
 	border-radius: 6px;
 }
 
 ul#horizontal-list li a:hover {
-	background: #ff6666;
+	background: var(--link-hover);
 }
 
 
@@ -308,6 +309,7 @@ ul.single, ul.block {
 .btn-primary {
 	background-color: var(--text-colour);
 	border: none;
+	color: var(--btn-text-colour);
 }
 
 .btn-primary:hover, .btn-primary:active, .btn-primary:focus {
@@ -330,7 +332,7 @@ ul.single, ul.block {
 .form-check label:before {
   content:'';
   -webkit-appearance: none;
-  border: 2px solid #3ed1bd;
+  border: 2px solid var(--text-colour);
   padding: 10px;
   display: inline-block;
   position: relative;
@@ -347,7 +349,7 @@ ul.single, ul.block {
   left: 9px;
   width: 6px;
   height: 14px;
-  border: solid #3ed1bd;
+  border: solid var(--text-colour);
   border-width: 0 2px 2px 0;
   transform: rotate(45deg);
 }
