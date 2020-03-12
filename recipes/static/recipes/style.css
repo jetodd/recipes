@@ -1,20 +1,29 @@
+:root {
+	--header-colour: #c5395a;
+	--main-bg-colour: #8bd5ee;
+	--text-colour: #ff6262;
+	--link-hover: #c5395a;
+	--header-search-icon: #fff;
+  }
+  
+
 body {
 	font-family: "Century Gothic", CenturyGothic, Tahoma, sans-serif;
-	background-color: #b7e8df;
+	background-color: var(--main-bg-colour);
 	font-size: 1.4rem;
 }
 
 a {
-	color: #ff6665;
+	color: var(--text-colour);
 	text-decoration: none;
 }
 
 li a {
-	color: #fff;
+	color: var(--text-colour);
 }
 
 a:hover {
-	color: #3ed1bd;
+	color: var(--link-hover);
 	text-decoration: none;
 }
 
@@ -22,7 +31,7 @@ h1 {
 	font-size: 3.2em;
 	text-transform: uppercase;
 	text-align: center;
-	color: #3ed1bd;
+	color: var(--text-colour);
 }
 
 h2, h3, h4 {
@@ -34,12 +43,12 @@ h2, h3 {
 	text-align: center;
 	text-transform: uppercase;
 	margin-top: 15px;
-	color: #fff;
+	color: var(--text-colour);
 }
 
 h4 {
 	font-size: 1.2em;
-	color: #3ed1bd;
+	color: var(--text-colour);
 }
 
 ul {
@@ -50,8 +59,8 @@ ul {
 
 hr {
     height: 2px;
-    color: #5fddca;
-    background: #5fddca;
+    color: var(--text-colour);
+    background: var(--text-colour);
     font-size: 0;
     border: 0;
     width: 40%;
@@ -72,7 +81,7 @@ ol li {
 ol li:before {
    margin-right: 20px;
    content: counter(item);
-   color: #3ed1bd;
+   color: var(--text-colour);
    font-size: 1.8em;
 }
 
@@ -81,29 +90,29 @@ ol li:before {
 }
 
 .box {
-	background-color: #7ae2d1;
+	background-color: var(--text-colour);
 	padding:15px;
 }
 
 /************ Pagination ************/
 .page-link {    
-    border-color: #5fddca;
+    border-color: var(--text-colour);
 }
 
 .page-link:hover {
-    color: #fff;
-    background-color: #5fddca;
-    border-color: #5fddca;
+    color: var(--link-hover);
+    background-color: var(--text-colour);
+    border-color: var(--text-colour);
 }
 
 /************ Header (navigation) ************/
 .navbar {
 	padding-top:14px;
-    background-color: #3ed1bd;
+    background-color: var(--text-colour);
 }
 
 .navbar-brand, .nav-link {
-	color: #fff;
+	color: var(--text-colour);
 	font-size: 1em;
 	letter-spacing: 1px;
 }
@@ -138,7 +147,7 @@ ol li:before {
   bottom: 0;
   left: 0;
   width: 0%;
-  background: #fff;
+  background: var(--text-colour);
   transition: 0.2s;
 }
 
@@ -157,7 +166,6 @@ ol li:before {
 
 /************ Header (search) ************/
 .searchbar {
-    background-color: #fff;
     padding: 10px;
 }
 
@@ -166,15 +174,15 @@ ol li:before {
 }
 
 .search_input {
-    color: #3ed1bd;
+    color: var(--text-colour);
     border: 0;
     outline: 0;
     background: none;
     line-height: 30px;
     font-size:30px;
     width: 80%;
-    caret-color: #3ed1bd;
-    border-bottom: 2px solid #3ed1bd;
+    caret-color: var(--text-colour);
+    border-bottom: 2px solid var(--text-colour);
 }
 
 .searchbutton {
@@ -194,11 +202,11 @@ ol li:before {
 }
 
 ::placeholder {
-	color: #3ed1bd;
+	color: var(--text-colour);
 }
 
 .search_form {
-	background-color: #fff;
+	background-color: var(--main-bg-colour);
 	overflow:hidden;
 	height:0;
 	-webkit-transition: all .2s linear 0s;
@@ -210,7 +218,7 @@ ol li:before {
 }
 
 .search_form .fas {
-	color: #3ed1bd;
+	color: var(--text-colour);
 	margin-top:10px;
 }
 
@@ -247,7 +255,7 @@ ol li:before {
 }
 
 #toggle_search {
-	color: #fff;
+	color: var(--header-search-icon);
 }
 
 /************ Tags ************/
@@ -298,12 +306,12 @@ ul.single, ul.block {
 }
 
 .btn-primary {
-	background-color: #3ed1bd;
+	background-color: var(--text-colour);
 	border: none;
 }
 
 .btn-primary:hover, .btn-primary:active, .btn-primary:focus {
-	background-color: #5fddca;
+	background-color: var(--link-hover);
 }
 
 /************ Checkboxes ************/
