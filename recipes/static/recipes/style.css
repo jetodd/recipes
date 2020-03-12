@@ -1,10 +1,11 @@
 :root {
-	--header-colour: #c5395a;
-	--main-bg-colour: #8bd5ee;
-	--text-colour: #ff6262;
-	--link-hover: #c5395a;
-	--header-search-icon: #fff;
+	--header-colour: #52b46a;
+	--main-bg-colour: #cef3a5;
+	--text-colour: #ec4270;
+	--link-hover: #dec552;
+	--header-search-icon: #184a4a;
 	--btn-text-colour: #fff;
+	--hr-colour: #f5dd5f;
   }
   
 
@@ -60,8 +61,8 @@ ul {
 
 hr {
     height: 2px;
-    color: var(--text-colour);
-    background: var(--text-colour);
+    color: var(--hr-colour);
+    background: var(--hr-colour);
     font-size: 0;
     border: 0;
     width: 40%;
@@ -109,11 +110,11 @@ ol li:before {
 /************ Header (navigation) ************/
 .navbar {
 	padding-top:14px;
-    background-color: var(--text-colour);
+    background-color: var(--header-colour);
 }
 
 .navbar-brand, .nav-link {
-	color: var(--text-colour);
+	color: var(--main-bg-colour);
 	font-size: 1em;
 	letter-spacing: 1px;
 }
@@ -124,7 +125,7 @@ ol li:before {
 }
 
 .navbar-dark .navbar-nav .nav-link {
-    color: rgba(255,255,255,.9);
+    color: var(--main-bg-colour);
 }
 
 .navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
@@ -279,7 +280,7 @@ ul#horizontal-list li a {
 	color: var(--btn-text-colour);
 	text-decoration: none;
 	margin:0 5px;
-	background: var(--text-colour);
+	background: var(--header-colour);
 	padding: 6px 8px;
 	border-radius: 6px;
 }
@@ -307,7 +308,7 @@ ul.single, ul.block {
 }
 
 .btn-primary {
-	background-color: var(--text-colour);
+	background-color: var(--header-colour);
 	border: none;
 	color: var(--btn-text-colour);
 }
