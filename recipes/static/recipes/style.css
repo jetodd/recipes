@@ -1,11 +1,12 @@
 :root {
 	--header-colour: #52b46a;
 	--main-bg-colour: #cef3a5;
-	--text-colour: #ec4270;
-	--link-hover: #dec552;
-	--header-search-icon: #184a4a;
+	--text-colour: #f77788;
+	--link-hover: var(--text-colour);
+	--header-search-icon: var(--main-bg-colour);
 	--btn-text-colour: #fff;
-	--hr-colour: #f5dd5f;
+	--hr-colour: var(--header-colour);
+	--card-font-colour: var(--header-colour);
   }
   
 
@@ -149,7 +150,7 @@ ol li:before {
   bottom: 0;
   left: 0;
   width: 0%;
-  background: var(--text-colour);
+  background: var(--main-bg-colour);
   transition: 0.2s;
 }
 
@@ -403,6 +404,7 @@ ul.single, ul.block {
 }
 
 .card-title {
+	color: var(--card-font-colour);
 	text-transform: uppercase;
 	text-align: center;
 	font-size: 1.2em;
