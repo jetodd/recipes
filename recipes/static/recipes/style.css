@@ -97,17 +97,6 @@ ol li:before {
 	padding:15px;
 }
 
-/************ Pagination ************/
-.page-link {    
-    border-color: var(--text-colour);
-}
-
-.page-link:hover {
-    color: var(--link-hover);
-    background-color: var(--text-colour);
-    border-color: var(--text-colour);
-}
-
 /************ Header (navigation) ************/
 .navbar {
 	padding-top:14px;
@@ -421,13 +410,18 @@ ul.single, ul.block {
 	margin-top: 1rem;
 }
 
-.page-item.active .page-link {
-    background-color: #3ed1bd;
-    border-color: #3ed1bd;
+.page-link {    
+	border: none;
+	color: var(--hr-colour);
 }
 
-.page-link {
-	color: #3ed1bd;
+.page-link:hover {
+    color: var(--hr-colour);
+    background-color: var(--main-bg-colour);
+}
+
+.page-item.active .page-link {
+    background-color: var(--hr-colour);
 }
 
 /************ Media queries ************/
