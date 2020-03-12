@@ -1,7 +1,7 @@
 :root {
-	--header-colour: #52b46a;
-	--main-bg-colour: #cef3a5;
-	--text-colour: #f77788;
+	--header-colour: #a4de52;
+	--main-bg-colour: #e2f5ce;
+	--text-colour: #f66a83;
 	--link-hover: var(--text-colour);
 	--header-search-icon: var(--main-bg-colour);
 	--btn-text-colour: #fff;
