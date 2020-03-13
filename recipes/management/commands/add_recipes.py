@@ -6,7 +6,7 @@ import os
 
 class Command(BaseCommand):
 	def handle(self, *args, **options):
-		with open('recipes.json') as f:
+		with open('recipes.json', encoding='utf-8') as f:
 			try:
 				data = json.load(f)
 				recipes = data["recipes"]
