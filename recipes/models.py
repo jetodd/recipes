@@ -8,6 +8,7 @@ class Tag(models.Model):
 
 class Recipe(models.Model):
 	title = models.CharField(max_length=200)
+	image = models.CharField(max_length=200, default="")
 	pub_date = models.DateTimeField('date published')
 	url = models.CharField(max_length=200)
 	ingredients = models.TextField()

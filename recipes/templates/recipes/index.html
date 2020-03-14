@@ -10,7 +10,7 @@
 				{% for recipe in latest_recipes_list %}
   					<div class="card recipe-card">
   						<div class="card-image">
-      						<img class="img-card" src="/static/img/{{ recipe.id }}.jpg">
+      						<img class="img-card" src="/static/img/{{ recipe.image }}.jpg">
       					</div>
       					<div class="card-body">
 				    		<h5 class="card-title">{{ recipe.title }}</h5>
@@ -29,7 +29,7 @@
 				{% for recipe in most_popular_recipes_list %}
 					<div class="card recipe-card">
   						<div class="card-image">
-      						<img class="img-card" src="/static/img/{{ recipe.id }}.jpg">
+      						<img class="img-card" src="/static/img/{{ recipe.image }}.jpg">
       					</div>
       					<div class="card-body">
 				    		<h5 class="card-title">{{ recipe.title }}</h5>

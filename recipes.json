@@ -1,6 +1,7 @@
 {
   "recipes": [
     {
+      "image": "spicy-sweet-chilli-vegetable-noodles",
       "title": "Spicy sweet chilli vegetable noodles",
       "url": "https://cupfulofkale.com/spicy-sweet-chilli-veggie-noodles/",
       "ingredients": [
@@ -34,6 +35,7 @@
       "tags": ["Asian", "Chinese", "Vegetarian", "Noodles"]
     },
     {
+      "image": "roasted-tomato-and-basil-pasta",
       "title": "Roasted tomato and basil pasta",
       "url": "https://www.lazycatkitchen.com/roasted-tomato-basil-pasta/",
       "ingredients": [
@@ -70,6 +72,7 @@
       "tags": ["Italian", "Vegetarian", "Pasta"]
     },
     {
+      "image": "spicy-scalloped-potatoes-and-cauliflower",
       "title": "Spicy scalloped potatoes and cauliflower",
       "url": "https://www.veganricha.com/2017/01/vegan-scalloped-potatoes-cauliflower-jamaican-curry-spices.html",
       "ingredients": [
@@ -108,6 +111,7 @@
       "tags": ["Potatoes", "Vegan"]
     },
     {
+      "image": "breakfast-burritos",
       "title": "Breakfast Burritos",
       "url": "https://www.onceuponachef.com/recipes/breakfast-burritos.html",
       "ingredients": [
@@ -137,6 +141,7 @@
       "tags": ["Mexican", "Brinner", "Vegetarian"]
     },
     {
+      "image": "vegetable-lasagna",
       "title": "Vegetable lasagna",
       "url": "https://www.bbcgoodfood.com/recipes/5586/fiveveg-lasagne",
       "ingredients": [
@@ -169,6 +174,7 @@
       "tags": ["Italian", "Vegetarian"]
     },
     {
+      "image": "tomato-sausage-and-spinach-risotto",
       "title": "Tomato, sausage and spinach risotto",
       "url": "http://bevcooks.com/2012/01/tomato-sausage-and-spinach-risotto/",
       "ingredients": [
@@ -196,6 +202,7 @@
       "tags": ["Italian", "Sausage", "Rice"]
     },
     {
+      "image": "curried-sausage",
       "title": "Curried sausage",
       "url": "https://www.taste.com.au/recipes/curried-sausages-2/74f6bdac-9ca0-4a0a-b74d-7c29be47b0bd",
       "ingredients": [
@@ -226,6 +233,7 @@
       "tags": ["Rice", "Sausage"]
     },
     {
+      "image": "japanese-curry",
       "title": "Japanese curry",
       "url": "https://www.sbfoods-worldwide.com/recipes/010.html",
       "ingredients": [
@@ -252,6 +260,7 @@
       "tags": ["Asian", "Japanese", "Vegetarian", "Rice"]
     },
     {
+      "image": "cajun-tofu-with-coriander-lime-rice",
       "title": "Cajun tofu with coriander lime rice",
       "url": "https://www.veganricha.com/2017/09/cajun-tofu-with-cilantro-lime-rice.html",
       "ingredients": [
@@ -285,6 +294,7 @@
       "tags": ["Rice", "Vegan"]
     },
     {
+      "image": "cheddar-and-green-chile-waffles",
       "title": "Cheddar and green chile waffles",
       "url": "https://www.thekitchn.com/take-your-cheddar-one-step-fur-110851",
       "ingredients": [
@@ -311,6 +321,7 @@
       "tags": ["Vegetarian", "Brinner", "Sweet"]
     },
     {
+      "image": "devilled-sausages",
       "title": "Devilled sausages",
       "url": "https://www.bestrecipes.com.au/recipe/devilled-sausages-L5797.html",
       "ingredients": [
@@ -339,6 +350,7 @@
       "tags": ["Rice", "Sausage"]
     },
     {
+      "image": "nachos",
       "title": "Nachos",
       "url": "https://www.marthastewart.com/868011/chicken-and-black-bean-nachos",
       "ingredients": [
@@ -365,6 +377,7 @@
       "tags": ["Mexican", "Vegetarian"]
     },
     {
+      "image": "french-toast",
       "title": "French toast",
       "url": "https://addapinch.com/perfect-french-toast-recipe/",
       "ingredients": [
@@ -388,6 +401,7 @@
       "tags": ["Brinner", "Sweet"]
     },
     {
+      "image": "vegan-curry-laksa",
       "title": "Vegan curry laksa",
       "url": "https://www.veganricha.com/2016/10/vegan-laksa-malaysian-curry-laksa-soup-recipe.html",
       "ingredients": [
@@ -425,6 +439,7 @@
       "tags": ["Asian", "Vegan", "Malaysian", "Noodles"]
     },
     {
+      "image": "gratin",
       "title": "Gratin",
       "url": "https://www.fortheloveofcooking.net/2008/09/au-gratin-potatoes.html",
       "ingredients": [
@@ -449,6 +464,7 @@
       "tags": ["Potatoes", "French"]
     },
     {
+      "image": "pasta-bake",
       "title": "Pasta bake",
       "url": "https://kristineskitchenblog.com/skillet-baked-penne/",
       "ingredients": [
@@ -477,6 +493,7 @@
       "tags": ["Italian", "Pasta", "Sausage"]
     },
     {
+      "image": "gnocchi",
       "title": "Gnocchi",
       "url": "http://vanillacloudsandlemondrops.blogspot.com/2013/09/spicy-tomato-mozzarella-gnocchi.html",
       "ingredients": [
@@ -511,6 +528,7 @@
       "tags": ["Italian", "Vegetarian"]
     },
     {
+      "image": "peanut-lentil-stew",
       "title": "Peanut lentil stew",
       "url": "http://www.mydigitalkitchen.ca/2018/01/30/west-african-peanut-lentil-stew/",
       "ingredients": [
@@ -543,6 +561,7 @@
       "tags": ["Rice", "Vegan", "African"]
     },
     {
+      "image": "honey-sriracha-sesame-tofu",
       "title": "Honey sriracha sesame tofu",
       "url": "https://onepotrecipes.com/honey-sriracha-sesame-tofu-recipe/",
       "ingredients": [
@@ -576,6 +595,7 @@
       "tags": ["Asian", "Chinese", "Vegetarian", "Rice"]
     },
     {
+      "image": "teriyaki",
       "title": "Teriyaki",
       "url": "https://www.angsarap.net/2013/10/17/salmon-teriyaki/",
       "ingredients": [
@@ -611,6 +631,7 @@
       "tags": ["Asian", "Japanese", "Rice"]
     },
     {
+      "image": "pizza",
       "title": "Pizza",
       "url": "https://www.bbcgoodfood.com/recipes/4683/pizza-margherita-in-4-easy-steps",
       "ingredients": [
@@ -646,39 +667,7 @@
       "tags": ["Italian", "Bread"]
     },
     {
-      "title": "Butter Paneer",
-      "url": "https://www.cookingandme.com/2015/12/06/butter-chicken-masala-recipe-indian/",
-      "ingredients": [
-        "1 block paneer",
-        "1 eggplant",
-        "1 red pepper",
-        "1 green pepper",
-        "2 onions",
-        "6 cloves garlic",
-        "1 tbsp ginger",
-        "3 tins tomatoes",
-        "2 tsp coriander",
-        "1 tsp chilli powder",
-        "1 tsp garam masala",
-        "1 tsp cumin",
-        "1 cup milk",
-        "2 tbsp cream",
-        "1/4 tsp turmeric",
-        "1 1/4 cups rice",
-        "Naan"
-      ],
-      "steps": [
-        "Heat some oil in the wok and add the minced onions. Fry until golden brown.",
-        "Add the ginger, garlic and green pepper. Then add the red pepper and eggplant.",
-        "Cook the rice and naan.",
-        "Add the cumin, coriander, chilli powder, turmeric, and salt. Fry for a minute until fragrant.",
-        "Add the tinned tomatoes and cook until mixture starts bubbling.",
-        "Thrown in the milk, and the cubed paneer. Cook covered for 8-10 mins until everything is cooked.",
-        "When done, add the garam masala and the cream or cashew paste."
-      ],
-      "tags": ["Indian", "Vegetarian", "Rice", "Bread"]
-    },
-    {
+      "image": "enchiladas",
       "title": "Enchiladas",
       "url": "https://www.pink-parsley.com/2009/08/chicken-enchiladas.html/",
       "ingredients": [
@@ -716,6 +705,7 @@
       "tags": ["Mexican", "Chicken"]
     },
     {
+      "image": "masala-frittata",
       "title": "Masala frittata",
       "url": "https://www.bbcgoodfood.com/recipes/masala-frittata-avocado-salsa",
       "ingredients": [
@@ -748,6 +738,7 @@
       "tags": ["Vegetarian", "Eggs"]
     },
     {
+      "image": "mint-oreos",
       "title": "Mint oreos",
       "url": "http://whiskandaprayer.blogspot.com/2011/02/st-pattys-day-mint-oreos.html",
       "ingredients": [
@@ -780,6 +771,7 @@
       "tags": ["Sweet", "Cookie"]
     },
     {
+      "image": "protein-pancakes",
       "title": "Protein pancakes",
       "url": "http://www.thewholesomefork.com/2015/09/19/banana-oatmeal-protein-pancakes-gluten-free/",
       "ingredients": [
@@ -799,6 +791,7 @@
       "tags": ["Sweet", "Brinner"]
     },
     {
+      "image": "peanut-butter-protein-balls",
       "title": "Peanut butter protein balls",
       "url": "https://www.texanerin.com/peanut-butter-protein-balls/",
       "ingredients": [
@@ -821,6 +814,7 @@
       "tags": ["Sweet"]
     },
     {
+      "image": "tacos",
       "title": "Tacos",
       "url": "https://www.simplyrecipes.com/recipes/veggie_tacos/",
       "ingredients": [
@@ -849,6 +843,7 @@
       "tags": ["Mexican"]
     },
     {
+      "image": "orange-tofu",
       "title": "Orange tofu",
       "url": "https://www.veganricha.com/2019/02/vegan-orange-tofu-recipe.html",
       "ingredients": [
@@ -885,6 +880,7 @@
       "tags": ["Chinese", "Rice"]
     },
     {
+      "image": "key-lime-avocado-pie",
       "title": "Key lime avocado pie",
       "url": "https://www.eatingbirdfood.com/creamy-lime-and-avocado-tart-vegan-gluten-free/",
       "ingredients": [
@@ -914,6 +910,7 @@
       "tags": ["Sweet", "Vegan"]
     },
     {
+      "image": "amazing-asian-salad",
       "title": "Amazing asian salad",
       "url": "https://www.youtube.com/watch?v=oHg5SJYRHA0",
       "ingredients": [
@@ -936,6 +933,7 @@
       "tags": ["Asian", "Vegan", "Noodles"]
     },
     {
+      "image": "burritos",
       "title": "Burritos",
       "url": "https://gimmedelicious.com/2016/03/08/quick-veggie-and-rice-burritos/",
       "ingredients": [
@@ -967,6 +965,7 @@
       "tags": ["Mexican"]
     },
     {
+      "image": "eggplant-sambar",
       "title": "Eggplant sambar",
       "url": "https://www.veganricha.com/2017/08/eggplant-sambar-recipe-indian-yellow-lentil-tamarind-dal.html",
       "ingredients": [
@@ -996,6 +995,7 @@
       "tags": ["Indian", "Vegan"]
     },
     {
+      "image": "eggplant-pizza-thing",
       "title": "Eggplant pizza thing",
       "url": "",
       "ingredients": [
@@ -1033,6 +1033,7 @@
       "tags": ["Pizza", "Vegetarian"]
     },
     {
+      "image": "creamy-sun-dried-tomato-pasta",
       "title": "Creamy Sun Dried Tomato Pasta",
       "url": "https://www.veganricha.com/2018/11/creamy-sun-dried-tomato-pasta-garlic-soy-curls.html",
       "ingredients": [
@@ -1067,6 +1068,7 @@
       "tags": ["Pasta", "Vegetarian", "Vegan", "Italian"]
     },
     {
+      "image": "marinated-teriyaki-eggplant",
       "title": "Marinated teriyaki eggplant",
       "url": "https://cupfulofkale.com/vegan-marinated-teriyaki-eggplant/",
       "ingredients": [
@@ -1097,6 +1099,7 @@
       "tags": ["Vegan", "Asian"]
     },
     {
+      "image": "mashed-potatoes",
       "title": "Mashed potatoes",
       "url": "http://allrecipes.co.uk/recipe/41552/basic-mashed-potatoes.aspx",
       "ingredients": [
@@ -1113,6 +1116,7 @@
       "tags": ["Potatoes", "Vegetarian"]
     },
     {
+      "image": "crispy-potato-pancakes",
       "title": "Crispy potato pancakes",
       "url": "https://thedishnextdoor.com/crispy-potato-pancakes/",
       "ingredients": [
@@ -1133,6 +1137,7 @@
       "tags": ["Vegetarian", "Potatoes"]
     },
     {
+      "image": "tomatillo-salsa-verde",
       "title": "Tomatillo Salsa Verde",
       "url": "https://www.allrecipes.com/recipe/94028/tomatillo-salsa-verde/",
       "ingredients": [
@@ -1154,6 +1159,7 @@
       "tags": ["Mexican"]
     },
     {
+      "image": "easy-chicken-enchiladas-verdes",
       "title": "Easy Chicken Enchiladas Verdes",
       "url": "https://dudethatcookz.com/easy-chicken-enchiladas-verdes/",
       "ingredients": [
@@ -1187,6 +1193,7 @@
       "tags": ["Mexican"]
     },
     {
+      "image": "sweet-and-sour-tofu",
       "title": "Sweet and sour tofu",
       "url": "https://simpleveganblog.com/sweet-and-sour-tofu/",
       "ingredients": [
@@ -1219,6 +1226,7 @@
       "tags": ["Vegan", "Asian"]
     },
     {
+      "image": "avocado-toast",
       "title": "Avocado toast",
       "url": "https://www.bbcgoodfood.com/recipes/avocado-toast",
       "ingredients": ["Avocado", "Toast", "Lime", "Chilli flakes", "Butter"],
@@ -1231,6 +1239,7 @@
       "tags": ["Vegan", "Millenial"]
     },
     {
+      "image": "burgers",
       "title": "Burgers",
       "url": "https://i.ytimg.com/vi/a19EY3YNStA/maxresdefault.jpg",
       "ingredients": [
@@ -1252,6 +1261,7 @@
       "tags": ["Burgers"]
     },
     {
+      "image": "wedges",
       "title": "Wedges",
       "url": "https://cafedelites.com/wp-content/uploads/2016/06/Crispy-Garlic-Wedges-5.jpg",
       "ingredients": [
@@ -1275,6 +1285,7 @@
       "tags": ["Potatoes"]
     },
     {
+      "image": "vegan-bun-chay",
       "title": "Vegan bun chay",
       "url": "https://thewanderlustkitchen.com/vegan-bun-chay-vietnamese-noodle-salad/",
       "ingredients": [
@@ -1315,6 +1326,7 @@
       "tags": ["Vegan", "Asian"]
     },
     {
+      "image": "green-curry",
       "title": "Green curry",
       "url": "https://tasty.co/recipe/thai-green-curry-with-chicken-by-chef-fern",
       "ingredients": [
@@ -1350,6 +1362,7 @@
       "tags": ["Vegan"]
     },
     {
+      "image": "ratatouille",
       "title": "Ratatouille",
       "url": "https://tasty.co/recipe/ratatouille",
       "ingredients": [
@@ -1383,6 +1396,7 @@
       "tags": ["Vegan"]
     },
     {
+      "image": "green-curry-paste",
       "title": "Green curry paste",
       "url": "https://www.connoisseurusveg.com/vegan-green-curry-paste/",
       "ingredients": [
@@ -1406,6 +1420,7 @@
       "tags": ["Asian", "Vegan", "Thai"]
     },
     {
+      "image": "asian-burger-patties",
       "title": "Asian burger patties",
       "url": "https://www.destinationdelish.com/asian-veggie-burgers-with-sriracha-slaw/",
       "ingredients": [
@@ -1433,6 +1448,7 @@
       "tags": ["Vegetarian"]
     },
     {
+      "image": "stuffed-peppers",
       "title": "Stuffed peppers",
       "url": "http://allrecipes.co.uk/recipe/44156/spicy-vegetarian-stuffed-peppers.aspx",
       "ingredients": [
@@ -1460,6 +1476,7 @@
       "tags": ["Vegetarian"]
     },
     {
+      "image": "tagine",
       "title": "Tagine",
       "url": "https://domesticgothess.com/blog/2017/11/22/vegetable-tagine-with-almond-and-chickpea-couscous/",
       "ingredients": [
@@ -1501,6 +1518,7 @@
       "tags": ["Vegetarian"]
     },
     {
+      "image": "dan-dan-noodles",
       "title": "Dan dan noodles",
       "url": "https://www.chinasichuanfood.com/vegan-dan-dan-noodles/",
       "ingredients": [
@@ -1536,6 +1554,7 @@
       "tags": ["vegan"]
     },
     {
+      "image": "mapo-tofu",
       "title": "Mapo tofu",
       "url": "http://appetiteforchina.com/recipes/vegetarian-mapo-tofu",
       "ingredients": [
@@ -1573,6 +1592,7 @@
       "tags": ["Vegan", "Chinese"]
     },
     {
+      "image": "eggplant-parmesan",
       "title": "Eggplant parmesan",
       "url": "https://www.simplyrecipes.com/recipes/eggplant_parmesan/",
       "ingredients": [
@@ -1603,6 +1623,7 @@
       "tags": ["Vegetarian", "Italian"]
     },
     {
+      "image": "butter-paneer",
       "title": "Butter paneer",
       "url": "https://www.veganricha.com/2017/05/butter-tofu-paneer-tofu-butter-masala-recipe.html",
       "ingredients": [
@@ -1640,6 +1661,7 @@
       "tags": ["Vegan", "Indian", "Curry"]
     },
     {
+      "image": "stuffed-eggplant",
       "title": "Stuffed eggplant",
       "url": "https://kitchenofyouth.com/vegan-stuffed-eggplant/",
       "ingredients": [
@@ -1671,6 +1693,7 @@
       "tags": ["Vegan"]
     },
     {
+      "image": "baked-eggplant-rollatini",
       "title": "Baked eggplant rollatini",
       "url": "https://asimplepalate.com/blog/baked-eggplant-rollatini/",
       "ingredients": [
@@ -1705,6 +1728,7 @@
       "tags": ["Vegetarian"]
     },
     {
+      "image": "mushroom-risotto",
       "title": "Mushroom risotto",
       "url": "http://allrecipes.co.uk/recipe/6422/mushroom-risotto.aspx",
       "ingredients": [
@@ -1729,6 +1753,7 @@
       "tags": ["vegetarian"]
     },
     {
+      "image": "scallion-pancakes",
       "title": "Scallion pancakes",
       "url": "https://www.bonappetit.com/recipe/scallion-pancakes-2",
       "ingredients": [
@@ -1752,6 +1777,7 @@
       "tags": ["Vegan"]
     },
     {
+      "image": "vegan-mapo-tofu",
       "title": "Vegan mapo tofu",
       "url": "https://cooking.nytimes.com/recipes/1017358-vegan-mapo-tofu",
       "ingredients": [
@@ -1786,6 +1812,7 @@
       "tags": ["Asian", "Vegan"]
     },
     {
+      "image": "spicy-peanut-tofu-bowls",
       "title": "Spicy Peanut Tofu Bowls",
       "url": "https://pinchofyum.com/spicy-peanut-tofu-bowls",
       "ingredients": [
@@ -1818,6 +1845,7 @@
       "tags": ["Vegan", "Asian", "Spicy"]
     },
     {
+      "image": "ramen",
       "title": "Ramen",
       "url": "https://www.bbcgoodfood.com/recipes/vegan-ramen",
       "ingredients": [
@@ -1854,6 +1882,7 @@
       "tags": ["Vegan", "Asian"]
     },
     {
+      "image": "banana-berry-smoothie-bowl",
       "title": "Banana Berry Smoothie Bowl",
       "url": "https://tasty.co/recipe/banana-berry-smoothie-bowl",
       "ingredients": [
@@ -1878,6 +1907,7 @@
       "tags": ["Sweet"]
     },
     {
+      "image": "banana-nice-cream",
       "title": "Banana Nice Cream",
       "url": "https://tasty.co/compilation/banana-ice-cream-4-ways",
       "ingredients": [
@@ -1898,6 +1928,7 @@
       "tags": ["sweet"]
     },
     {
+      "image": "baked-potato",
       "title": "Baked potato",
       "url": "https://www.delish.com/uk/cooking/a29557931/how-to-bake-a-potato-in-the-oven/",
       "ingredients": [
@@ -1918,6 +1949,7 @@
       "tags": ["sweet"]
     },
     {
+      "image": "pad-thai",
       "title": "Pad Thai",
       "url": "https://minimalistbaker.com/easy-tofu-pad-thai/",
       "ingredients": [
@@ -1948,6 +1980,7 @@
       "tags": ["Thai"]
     },
     {
+      "image": "vegan-shakshuka",
       "title": "Vegan Shakshuka",
       "url": "https://dietitiandebbie.com/vegan-shakshuka/",
       "ingredients": [
@@ -1980,6 +2013,7 @@
       "tags": ["Vegan"]
     },
     {
+      "image": "tom-yum",
       "title": "Tom yum",
       "url": "https://minimalistbaker.com/lazy-1-pot-vegan-tom-yum-soup/",
       "ingredients": [
@@ -2017,6 +2051,7 @@
       "tags": ["Asian"]
     },
     {
+      "image": "cauliflower-steak",
       "title": "Cauliflower steak",
       "url": "https://www.jessicagavin.com/roasted-cauliflower-steaks/",
       "ingredients": [
@@ -2045,6 +2080,7 @@
       ]
     },
     {
+      "image": "stir-fry",
       "title": "Stir Fry",
       "url": "https://minimalistbaker.com/20-minute-tofu-stir-fry/",
       "ingredients": [
@@ -2079,6 +2115,7 @@
       ]
     },
     {
+      "image": "palak-paneer",
       "title": "Palak paneer",
       "url": "https://minimalistbaker.com/vegan-palak-paneer-with-curried-tofu/",
       "ingredients": [
@@ -2116,6 +2153,7 @@
       ]
     },
     {
+      "image": "raw-carrot-cake",
       "title": "Raw carrot cake",
       "url": "https://minimalistbaker.com/raw-carrot-cake-with-vegan-cream-cheese-frosting/",
       "ingredients": [
@@ -2150,6 +2188,7 @@
       ]
     },
     {
+      "image": "masala-spiced-tofu-scramble",
       "title": "Masala spiced tofu scramble",
       "url": "https://minimalistbaker.com/masala-spiced-tofu-scramble/",
       "ingredients": [
@@ -2181,6 +2220,7 @@
       ]
     },
     {
+      "image": "green-chilli-burgers",
       "title": "Green chilli burgers",
       "url": "https://minimalistbaker.com/mexican-green-chili-veggie-burgers/",
       "ingredients": [
@@ -2207,6 +2247,7 @@
       ]
     },
     {
+      "image": "lentil-curry",
       "title": "Lentil curry",
       "url": "https://www.theendlessmeal.com/creamy-coconut-lentil-curry/",
       "ingredients": [
@@ -2243,6 +2284,7 @@
       ]
     },
     {
+      "image": "vegan-meatballs-with-curry-sauce",
       "title": "Vegan meatballs with curry sauce",
       "url": "https://www.feastingathome.com/lentil-meatballs-with-indian-fenugreek-sauce/",
       "ingredients": [
