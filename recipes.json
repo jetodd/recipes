@@ -2103,11 +2103,11 @@
         "1/4 cup thinly sliced green onion"
       ],
       "steps": [
-        "Marinate tofu incoy sauce, sesame oil and chilli sauce",
+        "Marinate cubed tofu in soy sauce, sesame oil and chilli sauce",
         "Mix sauce ingredients then set aside.",
         "Cook the tofu then set aside.",
         "Cook the onion, garlic, ginger, chilli, carrot, bell pepper, pak choi.",
-        "Add rice to pan and cook until lightly browned",
+        "Move vegetables to on side and add rice to pan and cook until lightly browned.",
         "Return tofu to the pan along with the sauce and stir fry for a few minutes."
       ],
       "tags": [
@@ -2355,6 +2355,46 @@
       ],
       "tags": [
         "Potatoes"
+      ]
+    },
+    {
+      "image": "singapore-noodles",
+      "title": "Vegan Singapore Noodles",
+      "url": "https://minimalistbaker.com/vegan-singapore-noodles/",
+      "ingredients": [
+        "4 cloves garlic, minced",
+        "4 Tbsp soy sauce",
+        "1-2 Tbsp coconut sugar",
+        "2 limes, juiced",
+        "6 ounces rice noodles",
+        "2 Tbsp toasted sesame oil",
+        "1 onion",
+        "2 chillis",
+        "Snow peas",
+        "6 cloves garlic",
+        "Ginger",
+        "1 red pepper",
+        "1 green pepper",
+        "1 carrot",
+        "1 Tbsp soy sauce",
+        "4 tsp curry powder",
+        "1 block tofu",
+        "Sriracha",
+        "Spring onions"
+      ],
+      "steps": [
+        "Drain and press the tofu",
+        "Put noodles in a bowl and cover with boiling water. Let cook for 5-10 minutes, stirring occasionally. Drain and set aside.",
+        "Make sauce by adding minced garlic, soy sauce, coconut sugar and lime juice. Whisk to combine.",
+        "Marinate the tofu in half the sauce.",
+        "Cook ginger, garlic and chilli. Add bell pepper, onion and carrot, saute until onion is translucent.",
+        "In a seperate pan cook the tofu.",
+        "Add snow peas, soy sauce, and 2 tsp curry powder. Sauté then remove from pan and set aside.",
+        "Add remaining sesame oil, cooked noodles, sauce, and remaining curry powder. Sauté for 1 minute, tossing frequently then add back in vegetables."
+      ],
+      "tags": [
+        "Vegan",
+        "Asian"
       ]
     }
   ]
