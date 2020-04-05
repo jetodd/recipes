@@ -2328,7 +2328,7 @@
     },
     {
       "image": "crispy-smashed-potatoes",
-      "title": "Crispy Smashed Potatoes",
+      "title": "Crispy smashed potatoes",
       "url": "https://ohsheglows.com/2014/10/15/crispy-smashed-potatoes-with-avocado-garlic-aioli/",
       "ingredients": [
         "2 to 2 1/2 pounds Yukon Gold potatoes",
@@ -2359,7 +2359,7 @@
     },
     {
       "image": "singapore-noodles",
-      "title": "Vegan Singapore Noodles",
+      "title": "Vegan singapore noodles",
       "url": "https://minimalistbaker.com/vegan-singapore-noodles/",
       "ingredients": [
         "4 cloves garlic, minced",
@@ -2399,7 +2399,7 @@
     },
     {
       "image": "spicy-soba-noodles",
-      "title": "Spicy Soba Noodles",
+      "title": "Spicy soba noodles",
       "url": "https://www.youtube.com/watch?v=JfgY1K7HM9w&t=1150s",
       "ingredients": [
         "1 Tbsp gochujang",
@@ -2425,7 +2425,7 @@
     },
     {
       "image": "creamy-coconut-peanut-noodles",
-      "title": "Creamy Coconut Peanut Noodles",
+      "title": "Creamy coconut peanut noodles",
       "url": "https://www.theendlessmeal.com/creamy-coconut-peanut-noodles/",
       "ingredients": [
         "1/2 cup peanut butter",
@@ -2455,6 +2455,43 @@
       "tags": [
         "Vegan",
         "Asian"
+      ]
+    },
+    {
+      "image": "peanut-butter-tofu-stir-fry",
+      "title": "Satay stir fry",
+      "url": "https://www.connoisseurusveg.com/rainbow-peanut-butter-stir-fry/",
+      "ingredients": [
+        "1/3 cup  peanut butter",
+        "2 tbsp soy sauce",
+        "1 tbsp maple syrup",
+        "1 tbsp rice vinegar",
+        "1 tsp sriracha sauce",
+        "3 garlic cloves, minced",
+        "1 teaspoon grated ginger",
+        "Juice of half a lime",
+        "About 1/3 cup water",
+        "1 block tofu",
+        "2 medium spring onions"
+        "1 cup snow peas",
+        "2 medium carrots, julienned",
+        "1 medium red bell pepper, cut into strips",
+        "1 green bell pepper",
+        "Pak choi",
+        "Broccoli",
+        "1/4 cup peanuts, roughly chopped",
+        "Rice"
+      ],
+      "steps": [
+        "Drain and press the tofu."
+        "Whisk the peanut butter, soy sauce, maple syrup, vinegar, sriracha, lime juice, garlic and ginger together.",
+        "Begin whisking in the water, a bit at a time, just until the sauce is smooth and runny.",
+        "Cook the tofu until slightly browned and crispy.",
+        "Cook the vegetables.",
+        "Return the tofu to wok, add spring onion whites and peanut sauce. Coat everything in the sauce."
+      ],
+      "tags": [
+        "Vegan"
       ]
     }
   ]
