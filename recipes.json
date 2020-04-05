@@ -2396,6 +2396,32 @@
         "Vegan",
         "Asian"
       ]
+    },
+    {
+      "image": "spicy-soba-noodles",
+      "title": "Spicy Soba Noodles",
+      "url": "https://www.youtube.com/watch?v=JfgY1K7HM9w&t=1150s",
+      "ingredients": [
+        "1 Tbsp gochujang",
+        "1 Tbsp soy sauce",
+        "1 Tbsp sesame oil",
+        "1/2 Tbsp rice wine vinegar",
+        "1 Tbsp sugar",
+        "Noodles",
+        "Vegetables",
+        "Spring onions",
+        "Sesame seeds"
+      ],
+      "steps": [
+        "Boil water in the largest pot (maybe the wok?).",
+        "Mix all the sauce ingredients together (and 1 Tbsp sesame seeds).",
+        "Add the noodles and vegetables to the boiling water until cooked.",
+        "Drain the noodles and mix in the sauce.",
+        "Serve with spring onions and sesame seeds."
+      ],
+      "tags": [
+        "Vegan"
+      ]
     }
   ]
 }
