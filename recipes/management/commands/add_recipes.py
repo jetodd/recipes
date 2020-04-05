@@ -3,6 +3,7 @@ from django.utils import timezone
 from recipes.models import Recipe, Tag
 import json
 import os
+import sys
 
 class Command(BaseCommand):
 	def handle(self, *args, **options):
@@ -48,3 +49,4 @@ class Command(BaseCommand):
 							r.tags.set(tag_ids)
 			except ValueError as e:
 				print("Invalid JSON, please use an online formatter silly.")
+				sys.exit(1)
