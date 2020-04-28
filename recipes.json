@@ -2515,6 +2515,7 @@
         "1 red pepper",
         "1 green pepper",
         "1 carrot",
+        "Pak choi",
         "1 lime",
         "1 cup Thai basil"
       ],
@@ -2531,6 +2532,30 @@
       ],
       "tags": [
         "Vegan"
+      ]
+    },
+    {
+      "image": "brownie-in-a-mug",
+      "title": "Brownie in a mug",
+      "url": "https://www.food.com/recipe/microwave-chocolate-mug-brownie-349246",
+      "ingredients": [
+        "2 tbsp melted butter (or oil)",
+        "2 tbsp milk",
+        "1/2 tsp vanilla",
+        "1 dash salt",
+        "2 tbsp sugar",
+        "2 tbsp cocoa powder",
+        "4 tbsp flour"
+      ],
+      "steps": [
+        "In a coffee mug whisk milk, melted butter, salt and vanilla.",
+        "Whisk in cocoa powder.",
+        "Whisk in sugar.",
+        "Whisk in flour.",
+        "Microwave"
+      ],
+      "tags": [
+        "Sweet"
       ]
     }
   ]
