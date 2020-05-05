@@ -2589,6 +2589,32 @@
       "tags": [
         "Sweet"
       ]
+    },
+    {
+      "image": "raspberry-chia-pudding",
+      "title": "Raspberry chia pudding",
+      "url": "https://www.primaverakitchen.com/raspberry-chia-pudding/",
+      "ingredients": [
+        "3 tbsp chia seeds",
+        "1 cup coconut milk",
+        "1 tbsp maple syrup",
+        "1 tsp vanilla extract",
+        "2 cups fresh raspberries",
+        "1 tbsp coconut flakes"
+      ],
+      "steps": [
+        "Combine the chia seeds and coconut milk and stir very well to avoid any chunks.",
+        "Add the maple syrup and vanilla and mix everything very well.",
+        "Divide the chia mixture between two bowls.",
+        "Cover the bowls and refrigerate for about 4-5 hours.",
+        "After 4-5 hours, puree the raspberries in a food processor.",
+        "Mix the pureed raspberry and one of the chia puddings together.",
+        "In small glasses, add a layer of the white chia pudding and then add a layer of red chia pudding.",
+        "Top the pudding with coconut flakes and some raspberries."
+      ],
+      "tags": [
+        "sweet"
+      ]
     }
   ]
 }
