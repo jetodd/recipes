@@ -2682,6 +2682,57 @@
       "tags": [
         "indian"
       ]
+    },
+    {
+      "image": "cashew-ricotta",
+      "title": "Cashew ricotta",
+      "url": "https://simple-veganista.com/cashew-ricotta-cheese/",
+      "ingredients": [
+        "1 1/2 cups cashews",
+        "1/2 cup water",
+        "Juice of 1 large lemon",
+        "1 - 2 tbsp nutritional yeast",
+        "1 garlic clove",
+        "1/2 teaspoon onion powder"
+      ],
+      "steps": [
+        "Soak cashews for at least 2 hours.",
+        "Drain cashews and place all ingredients in a blender, process until creamy.",
+        "Season more if necessary."
+      ],
+      "tags": [
+        "Vegan"
+      ]
+    },
+    {
+      "image": "stuffed-shells",
+      "title": "Spinach and ricotta stuffed shells",
+      "url": "https://simple-veganista.com/spinach-ricotta-stuffed-shells/",
+      "ingredients": [
+        "Jumbo shells",
+        "2 cups cashew ricotta",
+        "Spinach",
+        "Three cans tomatoes",
+        "6 cloves garlic",
+        "Assorted herbs and spices",
+        "Vegan cheese",
+        "Fresh basil"
+      ],
+      "steps": [
+        "Cook garlic then add tomatoes and herbs to make sauce, simmer.",
+        "Cook pasta shells according to package directions.",
+        "Put spinach in large bowl with 2 tbsp of water, cover and steam in microwave.",
+        "Combine the cashew ricotta with the spinach, set aside.",
+        "Pour half the sauce into a baking tray.",
+        "Stuff each shell with a tbsp of the spinach ricotta mixture and place in the baking tray.",
+        "Pour the rest of the sauce over the shells.",
+        "Place dish covered, in the oven for 15 minutes.",
+        "Remove cover, sprinkle with cheese and cook for 10 – 15 minutes more."
+      ],
+      "tags": [
+        "Italian",
+        "Vegan"
+      ]
     }
   ]
 }
