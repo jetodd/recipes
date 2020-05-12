@@ -3,40 +3,19 @@
 
 {% block content %}
 	<div class="row">
-		<div class="col-md-12 col-lg-9">
+		<div class="col-lg-12">
 			<h3>{{ recipe.title }}</h3>
 			<hr />
-			<p>
-				<center>
-					<a target="_blank" href="{{ recipe.url }}"><img src="/static/img/{{ recipe.image }}.jpg" height="240px" width="240px"></a>
-				</center>
-			</p>
-
-			<h4>Ingredients</h4>
-			<p>
-				{% if ingredients %}
-					<ul class="columns block" data-columns="2">
-						{% for ingredient in ingredients %}
-							<li>{{ ingredient }}</li>
-						{% endfor %}
-					</ul>
-				{% endif %}
-			</p>
-
-			<h4>Steps</h4>
-			<ol>
-				{% if steps %}
-					{% for step in steps %}
-						<li>{{ step }}</li>
-					{% endfor %}
-				{% endif %}
-			</ol>
 		</div>
 
-		<div class="col-md-12 col-lg-3">
+		<div class="col-md-6 col-lg-3 order-lg-1">		
+			<center>
+				<a target="_blank" href="{{ recipe.url }}"><img src="/static/img/{{ recipe.image }}.jpg" height="200px" width="200px"></a>
+			</center>
+		</div>
+
+		<div class="col-md-6 col-lg-3 order-lg-3">
 			<div class="box mb-4">
-			<h2>Update</h2>
-			<hr/>
 			<form action="" method="post">
 	    		{% csrf_token %}
 	    		{% bootstrap_form form %}
@@ -49,20 +28,31 @@
 					<input class="btn btn-primary" type="submit" value="Cooked">
 				</form>
 			{% endif %}
-
-
-			{% if tags %}
-				<h2>Tags</h2>
-				<hr/>
-			    <ul id="horizontal-list">
-			    {% for tag in tags %}
-			        <li><a href="{% url 'recipes:tag' tag.id %}">{{ tag.name }}</a></li>
-			    {% endfor %}
-			    </ul>
-			{% endif %}
 			</div>
+		</div>
 
+		<div class="col-md-12 col-lg-6 order-lg-2">
+			<h4>Ingredients</h4>
+			<p>
+				{% if ingredients %}
+					<ul class="columns block" data-columns="2">
+						{% for ingredient in ingredients %}
+							<li>{{ ingredient }}</li>
+						{% endfor %}
+					</ul>
+				{% endif %}
+			</p>
+		</div>	
 
+		<div class="col-12 order-lg-4">
+			<h4>Steps</h4>
+			<ol>
+				{% if steps %}
+					{% for step in steps %}
+						<li>{{ step }}</li>
+					{% endfor %}
+				{% endif %}
+			</ol>
 		</div>
 	</div>
 {% endblock %}
