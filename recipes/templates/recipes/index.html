@@ -14,7 +14,7 @@
       					</div>
       					<div class="card-body">
 				    		<h5 class="card-title">{{ recipe.title }}</h5>
-				    		<hr />
+				    		<hr class="blue" />
 				    		<a href="{% url 'recipes:detail' recipe.id %}" class="card-link btn btn-primary">View recipe</a>
 				  		</div>
   					</div>
@@ -33,7 +33,7 @@
       					</div>
       					<div class="card-body">
 				    		<h5 class="card-title">{{ recipe.title }}</h5>
-				    		<hr />
+				    		<hr class="blue" />
 				    		<a href="{% url 'recipes:detail' recipe.id %}" class="card-link btn btn-primary">View recipe</a>
 				  		</div>
   					</div>
@@ -49,11 +49,11 @@
 			<ul class="single">
 				{% for recipe in this_week %}
 					<li><a href="{% url 'recipes:detail' recipe.id %}">{{ recipe.title }}</a>
-						{% for item in shopping %}
+						<!-- {% for item in shopping %}
 							{% ifequal item.recipe.id recipe.id %}
 								({{ item.name }})
 							{% endifequal %}
-						{% endfor %}
+						{% endfor %} -->
 					</li>
 				{% endfor %}
 			</ul>
@@ -65,17 +65,22 @@
 			<ul class="single">
 				{% for recipe in next_week %}
 					<li><a href="{% url 'recipes:detail' recipe.id %}">{{ recipe.title }}</a>
-					{% for item in shopping %}
+					<!-- {% for item in shopping %}
 						{% ifequal item.recipe.id recipe.id %}
 							({{ item.name }})
 						{% endifequal %}
-					{% endfor %}
+					{% endfor %} -->
 				{% endfor %}
 				</li>
 			</ul>
 			<form action="move" method="post">
 				{% csrf_token %}
 				<input class="btn btn-primary" type="submit" value="Move">
+			</form>
+
+			<form action="generate" method="post">
+				{% csrf_token %}
+				<input class="btn btn-primary" type="submit" value="Generate shopping">
 			</form>
 		{% endif %}
 	</div>

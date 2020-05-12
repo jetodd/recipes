@@ -1,12 +1,13 @@
 :root {
-	--header-colour: #a4de52;
-	--main-bg-colour: #e2f5ce;
-	--text-colour: #f66a83;
+	--header-colour: #fff;
+	--main-bg-colour: #DEF3E5;
+	--card-bg-colour: #fff;
+	--text-colour: #40ceb2;
 	--link-hover: var(--text-colour);
 	--header-search-icon: var(--main-bg-colour);
 	--btn-text-colour: #fff;
 	--hr-colour: var(--header-colour);
-	--card-font-colour: var(--header-colour);
+	--card-font-colour: var(--text-colour);
   }
   
 
@@ -14,6 +15,8 @@ body {
 	font-family: "Century Gothic", CenturyGothic, Tahoma, sans-serif;
 	background-color: var(--main-bg-colour);
 	font-size: 1.4rem;
+	width: 85%;
+	margin: 0 auto;
 }
 
 a {
@@ -32,7 +35,6 @@ a:hover {
 
 h1 {
 	font-size: 3.2em;
-	text-transform: uppercase;
 	text-align: center;
 	color: var(--text-colour);
 }
@@ -44,7 +46,6 @@ h2, h3, h4 {
 h2, h3 {
 	font-size: 1.8em;
 	text-align: center;
-	text-transform: uppercase;
 	margin-top: 15px;
 	color: var(--text-colour);
 }
@@ -66,8 +67,13 @@ hr {
     background: var(--hr-colour);
     font-size: 0;
     border: 0;
-    width: 40%;
+    width: 50%;
     margin: 25px auto;
+}
+
+hr.blue {
+	color: var(--main-bg-colour);
+    background: var(--main-bg-colour);
 }
 
 ol {
@@ -100,11 +106,10 @@ ol li:before {
 /************ Header (navigation) ************/
 .navbar {
 	padding-top:14px;
-    background-color: var(--header-colour);
 }
 
 .navbar-brand, .nav-link {
-	color: var(--main-bg-colour);
+	color: var(--text-colour);
 	font-size: 1em;
 	letter-spacing: 1px;
 }
@@ -114,16 +119,18 @@ ol li:before {
 	font-size: 1.6em;
 }
 
-.navbar-dark .navbar-nav .nav-link {
-    color: var(--main-bg-colour);
+.navbar-dark .navbar-nav .nav-link, .navbar-dark .navbar-brand {
+    color: var(--text-colour);
 }
 
-.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
-    color: rgba(255,255,255,1);
+.navbar-dark .navbar-nav .nav-link:focus, 
+.navbar-dark .navbar-nav .nav-link:hover, 
+.navbar-dark .navbar-brand:hover {
+    color: var(--text-colour);
 }
 
 .navbar-dark .navbar-toggler {
-    border-color: rgba(255,255,255,.8);
+    border-color: var(--text-colour);
 }
 
 /************ Header (link hover) ************/
@@ -134,12 +141,12 @@ ol li:before {
 
 .lime:after, .lime:visited:after {
   content: '';
-  height: 3px;
+  height: 2px;
   position: absolute;
   bottom: 0;
   left: 0;
   width: 0%;
-  background: var(--main-bg-colour);
+  background: var(--card-bg-colour);
   transition: 0.2s;
 }
 
@@ -270,13 +277,13 @@ ul#horizontal-list li a {
 	color: var(--btn-text-colour);
 	text-decoration: none;
 	margin:0 5px;
-	background: var(--header-colour);
+	background: var(--link-hover);
 	padding: 6px 8px;
 	border-radius: 6px;
 }
 
 ul#horizontal-list li a:hover {
-	background: var(--link-hover);
+	color: var(--main-bg-colour);
 }
 
 
@@ -298,13 +305,14 @@ ul.single, ul.block {
 }
 
 .btn-primary {
-	background-color: var(--header-colour);
+	background-color: var(--text-colour);
 	border: none;
 	color: var(--btn-text-colour);
 }
 
 .btn-primary:hover, .btn-primary:active, .btn-primary:focus {
-	background-color: var(--link-hover);
+	background-color: var(--main-bg-colour);
+	color: var(--link-hover);
 }
 
 /************ Checkboxes ************/
@@ -355,6 +363,7 @@ ul.single, ul.block {
 	margin: 0.1rem 3%;
 	border:none;
 	margin-bottom: 10px;
+	background-color: var(--card-bg-colour);
 }
 
 .card-image {
@@ -394,7 +403,6 @@ ul.single, ul.block {
 
 .card-title {
 	color: var(--card-font-colour);
-	text-transform: uppercase;
 	text-align: center;
 	font-size: 1.2em;
 	letter-spacing: 1px;
@@ -412,16 +420,16 @@ ul.single, ul.block {
 
 .page-link {    
 	border: none;
-	color: var(--hr-colour);
+	color: var(--text-colour);
 }
 
 .page-link:hover {
-    color: var(--hr-colour);
+    color: var(--text-colour);
     background-color: var(--main-bg-colour);
 }
 
 .page-item.active .page-link {
-    background-color: var(--hr-colour);
+    background-color: var(--text-colour);
 }
 
 /************ Media queries ************/

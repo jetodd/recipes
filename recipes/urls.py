@@ -9,6 +9,7 @@ urlpatterns = [
 	path('<int:recipe_id>/detail', views.detail, name='detail'),
 	path('<int:recipe_id>/cooked', views.cooked, name='cooked'),
 	path('move', views.move, name='move'),
+	path('generate', views.generate, name='generate'),
 	path('tag/<int:tag_id>', views.tag, name='tag'),
 	path('all', views.all, name='all'),
 	path('shopping', views.shopping, name='shopping'),
