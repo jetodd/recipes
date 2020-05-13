@@ -3,6 +3,7 @@ import json
 from django.http import HttpResponseRedirect
 from django.shortcuts import render, get_object_or_404
 from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
+from django.views.generic.list import ListView
 
 from .forms import RecipeForm, ShoppingForm
 from .models import Tag, Recipe, ShoppingItem
@@ -10,10 +11,10 @@ from .models import Tag, Recipe, ShoppingItem
 
 # Create your views here.
 def index(request):
-    latest_recipes_list = Recipe.objects.order_by('-pub_date')[:5]
+    latest_recipes_list = Recipe.objects.order_by('-pub_date')[:3]
     this_week = Recipe.objects.filter(this_week=True)
     next_week = Recipe.objects.filter(next_week=True)
-    most_popular_recipes_list = Recipe.objects.all().filter(cooked_count__gt=0).order_by('-cooked_count')[:5]
+    most_popular_recipes_list = Recipe.objects.all().filter(cooked_count__gt=0).order_by('-cooked_count')[:3]
     shopping = ShoppingItem.objects.filter(recipe__isnull=False)
 
     queryset_list = Recipe.objects.all()
@@ -115,12 +116,18 @@ def tag(request, tag_id):
     context = {'tag': tag, 'recipes': recipes}
     return render(request, 'recipes/tag.html', context)
 
+class RecipesView(ListView):
+    model = Recipe
+    paginate_by = 6
+    context_object_name = 'recipes'
+    template_name = 'recipes/all.html'
 
 def all(request):
-    recipes_list = Recipe.objects.all().order_by('-cooked_count')
+    recipes_list = Recipe.objects.all()
     page = request.GET.get('page', 1)
-    paginator = Paginator(recipes_list, 9)
-    tags = Tag.objects.all();
+    paginator = Paginator(recipes_list, 12)
+
+    tags = Tag.objects.all()
 
     try:
         recipes = paginator.page(page)
@@ -128,9 +135,7 @@ def all(request):
         recipes = paginator.page(1)
     except EmptyPage:
         recipes = paginator.page(paginator.num_pages)
-
-    context = {'recipes': recipes, 'tags': tags}
-    return render(request, 'recipes/all.html', context)
+    return render(request, 'recipes/all.html', {'recipes': recipes, 'tags': tags})
 
 def search(request):
     queryset_list = Recipe.objects.all()

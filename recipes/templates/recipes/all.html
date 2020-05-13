@@ -1,63 +1,47 @@
 {% extends 'recipes/base.html' %}
 
 {% block content %}
+
 <div class="row">
 	<div class="col-md-12 col-lg-8">
 		<h3>All recipes</h3>
 		<hr />
-		{% if recipes %}
-		<div class="row">
-			{% for recipe in recipes %}
-				<div class="card recipe-card">
-				<div class="card-image">
-					<img class="img-card" src="/static/img/{{ recipe.image }}.jpg">
-				</div>
-				<div class="card-body">
-	    			<h5 class="card-title">{{ recipe.title }}</h5>
-	    			<hr class="blue" />
-	    			<a href="{% url 'recipes:detail' recipe.id %}" class="card-link btn btn-primary">View recipe</a>
-	  			</div>
-			</div>
-			{% endfor %}
-		</div>
-		{% if recipes.has_other_pages %}
-				<ul class="pagination justify-content-center">
-				{% if recipes.has_previous %}
-	  				<li class="page-item"><a class="page-link" href="?page={{ recipes.previous_page_number }}">&laquo;</a></li>
-				{% else %}
-	  				<li class="page-item disabled"><span class="page-link">&laquo;</span></li>
-				{% endif %}
-				{% for i in recipes.paginator.page_range %}
-						{% if recipes.number == i %}
-						<li class="page-item active"><span class="page-link">{{ i }} <span class="sr-only">(current)</span></span></li>
-						{% else %}
-						<li class="page-item"><a class="page-link" href="?page={{ i }}">{{ i }}</a></li>
-						{% endif %}
-					{% endfor %}
-				{% if recipes.has_next %}
-	  				<li class="page-item"><a class="page-link" href="?page={{ recipes.next_page_number }}">&raquo;</a></li>
-				{% else %}
-	  				<li class="page-item disabled"><span class="page-link">&raquo;</span></li>
-				{% endif %}
-				</ul>
-		{% endif %}
-
-		{% else %}
-			<p>Nothing here yet, should probably migrate.</p>
-		{% endif %}
+		<div class="infinite-container row">
+		    {% for recipe in recipes %}
+		    <div class="card recipe-card infinite-item">
+								<div class="card-image">
+									<img class="img-card" src="/static/img/{{ recipe.image }}.jpg">
+								</div>
+								<div class="card-body">
+					    			<h5 class="card-title">{{ recipe.title }}</h5>
+					    			<hr class="blue" />
+					    			<a href="{% url 'recipes:detail' recipe.id %}" class="card-link btn btn-primary">View recipe</a>
+					  			</div>
+							</div>
+		    {% endfor %}
+	    </div>
 	</div>
-
-	
 	<div class="col-md-12 col-lg-4">
 		{% if tags %}
 			<h3>Tags</h3>
 			<hr />
-		    <ul id="horizontal-list">
-		    {% for tag in tags %}
-		        <li><a href="{% url 'recipes:tag' tag.id %}">{{ tag.name }}</a></li>
-		    {% endfor %}
-		    </ul>
+			<ul id="horizontal-list">
+				{% for tag in tags %}
+					<li><a href="{% url 'recipes:tag' tag.id %}">{{ tag.name }}</a></li>
+				{% endfor %}
+			</ul>
 		{% endif %}
 	</div>
 </div>
+
+{% if recipes.has_next %}
+	<a class="infinite-more-link" href="?page={{ recipes.next_page_number }}">More</a>
+{% endif %}
+
+<script>
+var infinite = new Waypoint.Infinite({
+  element: $('.infinite-container')[0]
+});
+</script>
+
 {% endblock %}
