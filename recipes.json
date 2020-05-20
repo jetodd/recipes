@@ -2799,6 +2799,43 @@
         "Italian",
         "Vegan"
       ]
+    },
+    {
+      "image": "aubergine-bhaji",
+      "title": "Aubergine Bhaji",
+      "url": "https://veganpunks.com/aubergine-bhaji/",
+      "ingredients": [
+        "Naan",
+        "Rice",
+        "10 baby aubergines",
+        "1 red pepper",
+        "1 green pepper",
+        "Chilies",
+        "1 tsp garam masala",
+        "1 onion - finely chopped",
+        "6 cloves garlic",
+        "1 inch ginger",
+        "1 tsp ground cumin",
+        "1 tsp ground coriander",
+        "1/2 tsp chilli powder",
+        "2 tbsp tomato purée",
+        "6 tbsp water",
+        "Handful of fresh coriander"
+      ],
+      "steps": [
+        "Pre-heat oven to 180C.",
+        "In a bowl mix halved eggplants, oil, garam masala and a pinch of salt.",
+        "Put eggplants on a baking tray, skin side down. Roast for 15-20 minutes.",
+        "Cook the rice.",
+        "Once eggplants are cool enough to handle, chop them into rough chunks about 1 inch in size.",
+        "In the wok cook the onion. Then add garlic, ginger, chillies, spices, peppers and tomato puree.",
+        "Stir in the  eggplant and water, then reduce the heat and cook for 5 minutes.",
+        "Season to taste and stir in the coriander."
+      ],
+      "tags": [
+        "Indian",
+        "Vegan"
+      ]
     }
   ]
 }
