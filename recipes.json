@@ -2836,6 +2836,42 @@
         "Indian",
         "Vegan"
       ]
+    },
+    {
+      "image": "naan",
+      "title": "Naan",
+      "url": "https://minimalistbaker.com/easy-vegan-naan/",
+      "ingredients": [
+        "3/4 cup warm water",
+        "1 tsp active yeast",
+        "1 tsp sugar",
+        "2 cups flour",
+        "1 tsp salt",
+        "3/4 tsp baking powder",
+        "3 cloves garlic, minced",
+        "1/4 tsp ground cumin",
+        "3 Tbsp plain dairy-free yogurt",
+        "2 Tbsp olive or avocado oil",
+        "Coriander"
+      ],
+      "steps": [
+        "Add yeast and sugar to warm water. Stir and set aside about 10 minutes.",
+        "Add flour, salt, and baking powder to a large mixing bowl and whisk to combine.",
+        "Once yeast is foaming, add yogurt and oil and stir to combine.",
+        "Add to dry ingredients and use a fork to mix - the dough will be sticky.",
+        "On a lightly floured surface gently knead for 5 turns and form into a loose ball.",
+        "Place back in mixing bowl and rub with a bit more oil and turn to coat."
+        "Cover set in a warm place for at least 2 hours (up to 4 hours).",
+        "Knead on a floured surface for 30 seconds then divide into six even pieces.",
+        "Lightly knead each ball then set on a clean surface. Cover and let rest for 10 minutes.",
+        "Begin heating a pan. Roll out dough into an oval. Flip over and pat the dough with a bit of water.",
+        "Press the garlic and coriander onto the other side. Then place the wet-side down on the hot pan.",
+        "Cook until edges of the dough look dry and it starts to bubble. Flip the dough and cook until the underside is dark brown.",
+      ],
+      "tags": [
+        "Indian",
+        "Vegan"
+      ]
     }
   ]
 }
