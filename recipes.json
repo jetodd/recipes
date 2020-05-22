@@ -2872,6 +2872,47 @@
         "Indian",
         "Vegan"
       ]
+    },
+    {
+      "image": "jerk-eggplant",
+      "title": "Jerk eggplant",
+      "url": "https://minimalistbaker.com/jamaican-jerk-grilled-eggplant-30-minutes/",
+      "ingredients": [
+        "1 tsp cinnamon",
+        "1 tbsp coriander",
+        "1/4 tsp all spice",
+        "1/4 tsp cayenne pepper",
+        "1/2 tsp each salt and pepper",
+        "2 tbsp fresh thyme",
+        "4 cloves garlic",
+        "1 tbsp fresh grated ginger",
+        "3 tbsp lime juice",
+        "1/4 cup soy sauce",
+        "2-3 tbsp maple syrup",
+        "2 Tbsp melted coconut oil",
+        "3 stalks spring onions",
+        "Chillies",
+        "Eggplants",
+        "1/4 cup BBQ sauce",
+        "1 tbsp lime juice",
+        "1 tbsp olive oil",
+        "1 tbsp maple syrup",
+        "1 tsp fresh grated ginger",
+        "1 pinch each salt and pepper",
+        "1 stalk spring onion",
+        "1 pinch cayenne pepper",
+        "Rice"
+      ],
+      "steps": [
+        "Clean and cook the rice.",
+        "In a bowl mix cinnamon, coriander, all spice, cayenne, salt, pepper, thyme, garlic, ginger, lime juice, soy sauce, maple syrup, coconut oil, spring onions and chillies.",
+        "Slice eggplant into 1/2-inch-thick steaks and brush both sides with the marinade.",
+        "In the frying pan add oil. Once hot add eggplant and grill on both sides until golden brown.",
+        "Prepare sauce by adding BBQ sauce, lime juice, oil, maple syrup, ginger, salt, pepper, onion, and cayenne."
+      ],
+      "tags": [
+        "Vegan"
+      ]
     }
   ]
 }
