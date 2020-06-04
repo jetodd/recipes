@@ -2992,11 +2992,80 @@
         "Add remaining tortillas in a single layer.",
         "Pour remaining sauce over the tortillas. Add remaining cheese and veggie/bean mixture if you reserved it.",
         "Cover tightly with tin foil and bake for 25 minutes or until the cheese is melted and the sauce is bubbly.",
-        "Remove foil and bake for another 5 minutes. ","Add 1 1/2 cups mushroom broth and cook mixture gently for 2 minutes.",
+        "Remove foil and bake for another 5 minutes. ",
+        "Add 1 1/2 cups mushroom broth and cook mixture gently for 2 minutes.",
         "Let sit for 5-10 minutes, then slice, garnish and serve!"
       ],
       "tags": [
         "Mexican", "Vegetarian"
+      ]
+    },
+    {
+      "image": "eggplant-stew",
+      "title": "Sicilian eggplant stew with couscous",
+      "url": "",
+      "ingredients": [
+        "2 tbsp toasted almonds",
+        "2 eggplants",
+        "1 rib celery",
+        "1 red onion",
+        "Couscous",
+        "1 red bell pepper",
+        "1 green bell pepper",
+        "2 large tomatoes",
+        "2 tbsp Tomato paste",
+        "6 cloves garlic",
+        "Parsley",
+        "2 tablespoons tomato paste",
+        "1/2 tsp oregano",
+        "2 tbsp capers, drained and rinsed",
+        "2 tbsp sugar",
+        "2 tbsp red wine vinegar"
+      ],
+      "steps": [
+        "Cut the eggplant into chunks. In the wok add the eggplant, oregano and salt then toss to coat.",
+        "When the eggplant is golden add the onion, garlic, celery, bell pepper and parsley stalks.",
+        "Drain and add the capers then drizzle over the vinegar.",
+        "When the vinegar has evaporated add the tomatoes and simmer for around 15 minutes.",
+        "Put the couscous into a bowl, add a pinch of salt and cover with boiling water then cover the bowl.",
+        "Lightly toast the almonds in a dry pan until golden, keeping them moving.",
+        "Use a fork to fluff up the couscous and stir through half the chopped parsley.",
+        "Season the stew to taste, then drizzle with extra virgin olive oil."
+      ],
+      "tags": [
+        "Vegan",
+        "Italian"
+      ]
+    },
+    {
+      "image": "squash-risotto",
+      "title": "Squash and kale risotto",
+      "url": "https://www.makingthymeforhealth.com/butternut-squash-and-kale-risotto/",
+      "ingredients": [
+        "3 tablespoons olive oil",
+        "1 onion, finely chopped",
+        "1/2 teaspoon salt",
+        "2 cups butternut squash",
+        "6 garlic cloves",
+        "1 teaspoon dried sage",
+        "1 cup arborio rice",
+        "3/4 cup white wine",
+        "4 cups vegetable stock",
+        "2 cups chopped kale",
+        "1/2 cup vegan parmesan"
+      ],
+      "steps": [
+        "In the wok add the onion, sprinkle with salt and cook until translucent.",
+        "Add the squash and garlic then continue to cook for 7 minutes.",
+        "To the wok add the arborio rice and dried sage.",
+        "Pour in the wine and cook until it is almost completely absorbed.",
+        "Add 1 cup of the broth, stir and cook until it has absorbed by the grain. Repeat",
+        "Add the kale with the last cup of broth and cook until wilted.",
+        "Once cooked stir in the parmesan cheese and a tbsp of oil. Continue to stir until creamy."
+      ],
+      "tags": [
+        "Vegan",
+        "Italian"
       ]
     }
   ]
