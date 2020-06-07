@@ -3096,6 +3096,41 @@
       "tags": [
         "Sweet"
       ]
+    },
+    {
+      "image": "spinach-dal",
+      "title": "Spinach Dal",
+      "url": "https://www.makingthymeforhealth.com/one-pot-spinach-dal/",
+      "ingredients": [
+        "1 tsp cumin seeds",
+        "1 tsp mustard seeds",
+        "1 onion, diced",
+        "2 chillies, diced",
+        "2-inches fresh ginger, minced",
+        "6 garlic cloves, minced",
+        "1 tsp turmeric",
+        "1 tsp cumin",
+        "1/2 tsp coriander",
+        "1/2 tsp cayenne",
+        "1 can diced tomatoes",
+        "1 cup dry yellow split peas, soaked in water*",
+        "Spinach leaves, roughly chopped",
+        "Coriander",
+        "Naan",
+        "Rice"
+      ],
+      "steps": [
+        "Cook the rice.",
+        "In the wok add the cumin and mustard seeds to some oil.",
+        "Add the onion, chillies, ginger, garlic, turmeric, coriander, cumin and cayenne then stir.",
+        "Pour in the drained diced tomatoes and simmer. Mash them with the back of a spoon.",
+        "Stir in the split peas with 3 and 1/2 cups water then simmer for roughly 30 mins.",
+        "Add the spinach to the pot and cook until it starts to wilt.",
+        "Serve with rice and naan."
+      ],
+      "tags": [
+        "Indian"
+      ]
     }
   ]
 }
