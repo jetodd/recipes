@@ -3013,14 +3013,14 @@
         "1 red bell pepper",
         "1 green bell pepper",
         "2 large tomatoes",
-        "2 tbsp Tomato paste",
+        "2 tbsp tomato paste",
         "6 cloves garlic",
         "Parsley",
-        "2 tablespoons tomato paste",
         "1/2 tsp oregano",
         "2 tbsp capers, drained and rinsed",
         "2 tbsp sugar",
-        "2 tbsp red wine vinegar"
+        "2 tbsp red wine vinegar",
+        "1/2 lemon"
       ],
       "steps": [
         "Cut the eggplant into chunks. In the wok add the eggplant, oregano and salt then toss to coat.",
@@ -3029,7 +3029,7 @@
         "When the vinegar has evaporated add the tomatoes and simmer for around 15 minutes.",
         "Put the couscous into a bowl, add a pinch of salt and cover with boiling water then cover the bowl.",
         "Lightly toast the almonds in a dry pan until golden, keeping them moving.",
-        "Use a fork to fluff up the couscous and stir through half the chopped parsley.",
+        "Use a fork to fluff up the couscous and stir through half the chopped parsley, lemon juice and olive oil.",
         "Season the stew to taste, then drizzle with extra virgin olive oil."
       ],
       "tags": [
@@ -3066,6 +3066,35 @@
       "tags": [
         "Vegan",
         "Italian"
+      ]
+    },
+    {
+      "image": "banana-oatmeal-muffins",
+      "title": "Banana oatmeal muffins",
+      "url": "https://www.makingthymeforhealth.com/vegan-banana-oatmeal-blender-muffins/",
+      "ingredients": [
+        "2 large ripe bananas, mashed",
+        "1/2 cup non-dairy milk",
+        "1 tablespoon apple cider vinegar",
+        "1/4 cup pure maple syrup",
+        "1 teaspoon vanilla extract",
+        "1/4 cup creamy peanut butter",
+        "2 cups rolled oats",
+        "1 teaspoon ground cinnamon",
+        "2 teaspoons baking powder",
+        "1/2 teaspoon baking soda",
+        "1/4 teaspoon salt",
+        "1/2 cup dark chocolate chips"
+      ],
+      "steps": [
+        "Preheat the oven to 180C. Grease a muff or line a muffin tin then set aside.",
+        "In a blender, add the wet ingredients (bananas, milk, vinegar, syrup and peanut butter). Blend until smooth.",
+        "Next layer the dry ingredients (rolled oats, cinnamon, baking powder, soda, and salt).",
+        "Blend on high until oats are broken down and a smooth batter forms. Stir in the chocolate chips by hand.",
+        "Pour the batter into the muffin tin. Bake in the oven for 20-25 minutes."
+      ],
+      "tags": [
+        "Sweet"
       ]
     }
   ]
