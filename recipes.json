@@ -1336,6 +1336,7 @@
         "Mushrooms",
         "6 cloves garlic",
         "1 inch ginger",
+        "Chillies",
         "2 tablespoons curry paste",
         "1 tablespoon lime juice",
         "2 tablespoons sugar",
@@ -1349,14 +1350,12 @@
       ],
       "steps": [
         "Drain and press the tofu.",
-        "Heat the wok. Add vegetable oil and green curry paste.",
-        "Add a splash of the coconut milk, stirring until it forms a paste.",
-        "Cook the rice",
+        "Add oil, green curry paste and a splash of coconut milk to the wok, stirring to form a paste.",
+        "Cook the rice.",
         "In the frying pan cook the tofu until golden.",
-        "Add the ginger, garlic and beans, cook a little. Add the carrot, then bell peppers, courgette the rest of the coconut milk nd the mushrooms",
-        "Season with the lime juice and sugar.",
-        "Increase the heat to medium high and simmer for 2-3 minutes.",
-        "Stir in the bamboo shoots, tofu and kaffir leaves.",
+        "Add the ginger, garlic, carrot and chilli, cook a little. Add bell peppers, then courgette the rest of the coconut milk and the mushrooms.",
+        "Add lime juice, kaffir lime leaves and sugar.",
+        "Add the tofu and bamboo shoots then increase the heat to medium high and simmer for 2-3 minutes.",
         "Turn off heat and mix in the Thai basil."
       ],
       "tags": ["Vegan"]
@@ -3131,6 +3130,61 @@
       "tags": [
         "Indian"
       ]
-    }
+    },
+    {
+      "image": "caramelized-shiitake-mushroom-risotto",
+      "title": "Caramelised shiitake mushroom risotto",
+      "url": "https://minimalistbaker.com/caramelized-shiitake-mushroom-risotto/",
+      "ingredients": [
+        "4 cups vegetable stock",
+        "3/4 cup thinly sliced shallot",
+        "1/4 tsp each sea salt and black pepper",
+        "2 cups sliced Shiitake mushrooms",,
+        "1 Tbsp coconut aminos",
+        "1 Tbsp chopped fresh thyme",
+        "1 cup arborio rice",
+        "1/4 cup dry white wine",
+        "1/4 cup vegan parmesan cheese",
+        "Fresh chopped parsley",
+        "Pecorino"
+      ],
+      "steps": [
+        "In a pot, bring the stock to a light simmer.",
+        "Heat oil in the wok add shallot and season with a pinch of salt and pepper.",
+        "Add mushrooms and coconut aminos then cook until mushrooms are golden brown.",
+        "Add thyme and arborio and cook for 1 minute, stirring occasionally.",
+        "Pour in white wine and stir gently. Cook until the liquid is mostly absorbed.",
+        "Add stock slowly a ladle at a time while stirring until rice is fully cooked.",
+        "Remove from heat and add pecorino."
+      ],
+      "tags": [
+        "Italian"
+      ]
+    },
+    {
+      "image": "korean-cauliflower-wings",
+      "title": "Korean cauliflower wings",
+      "url": "https://minimalistbaker.com/spicy-korean-style-cauliflower-wings/",
+      "ingredients": [
+        "1 cauliflower",
+        "1/4 cup gochujang",
+        "1 tbsp sesame oil",
+        "2 tbsp soy sauce",
+        "1 tbsp maple syrup",
+        "1 tbsp chilli garlic sauce"
+      ],
+      "steps": [
+        "Preheat oven to 230C.",
+        "Add cauliflower to a bowl and toss with oil. Roast for 10 minutes.",
+        "In the bowl add gochujang, sesame oil, soy sauce, maple syrup and chili garlic sauce. Whisk to combine.",
+        "Remove cauliflower from oven and increase heat to 260 C.",
+        "Add a few florets at a time to the sauce. Toss to coat, tap off excess, and place back on baking sheet.",
+        "Return to oven and bake for 10 mins more."
+      ],
+      "tags": [
+        "Korean",
+        "Asian"
+      ]
+    },
   ]
 }
