@@ -23,9 +23,9 @@ class Command(BaseCommand):
 								new_tag = Tag(name=tag)
 								new_tag.save()
 								tag_ids.append(new_tag.id)
-					if Recipe.objects.filter(title__icontains=recipe['title'].lower()):
+					if Recipe.objects.filter(title__iexact=recipe['title']):
 					 	print('Recipe ' + recipe['title'] + ' already exists, updating')
-					 	update_recipe = Recipe.objects.filter(title__icontains=recipe['title'])[0]
+					 	update_recipe = Recipe.objects.filter(title__iexact=recipe['title'])[0]
 					 	string_ingredients = '{"ingredients":' + json.dumps(recipe['ingredients']) + '}'
 					 	string_steps = '{"steps":' + json.dumps(recipe['steps']) + '}'
 					 	update_recipe.title = recipe['title']
