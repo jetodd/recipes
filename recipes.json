@@ -3211,8 +3211,7 @@
         "3–4 Tbsp lemon juice"
       ],
       "steps": [
-        "Preheat the oven to 180C.",
-        "Grease and line cake pans.",
+        "Preheat the oven to 180C then grease and line cake pans.",
         "Sift the flour, baking powder, baking soda, salt, cinnamon and nutmeg into a mixing bowl.",
         "Add the grated carrot and the brown sugar.",
         "Mix flaxseed meal with 6 Tbsp Water and allow to sit for a minute.",
@@ -3389,6 +3388,73 @@
       "tags": [
         "Sweet",
         "Vegan"
+      ]
+    },
+    {
+      "image": "garlic-eggplant",
+      "title": "Eggplant in garlic sauce",
+      "url": "https://healthiersteps.com/recipe/chinese-eggplant-in-garlic-sauce/",
+      "ingredients": [
+        "2 Chinese eggplants",
+        "1/2 cup vegetable stock",
+        "3 tablespoons soy sauce",
+        "2 tablespoon sugar",
+        "1 tablespoon lemon juice",
+        "1 teaspoon molasses",
+        "1 tablespoon cornstarch",
+        "1/4 teaspoon Cayenne pepper",
+        "6 cloves garlic, minced",
+        "1 teaspoon ginger, grated",
+        "2 spring onion, finely chopped",
+        "1 red bell pepper",
+        "1 green bell pepper",
+        "Rice"
+      ],
+      "steps": [
+        "Cook the rice.",
+        "Cut eggplants into strips and set aside.",
+        "Prepare sauce by combining vegetable broth, soy sauce, sugar, lemon juice, molasses, cornstarch, cayenne pepper and set aside.",
+        "In the wok saute eggplant strips until golden brown.",
+        "Remove eggplant and set aside. Add garlic, ginger, spring onions and bell pepper.",
+      "Add eggplant and quickly add sauce to the skillet stirring and cook stirring until sauce thickens."
+      ],
+      "tags": [
+        "Vegan",
+        "Chinese"
+      ]
+    },
+    {
+      "image": "eggplant-lasagna",
+      "title": "Vegan eggplant lasagna",
+      "url": "https://frommybowl.com/vegan-eggplant-lasagna/",
+      "ingredients": [
+        "1 onion",
+        "1 cup carrot, finely diced",
+        "2 tins crushed tomatoes",
+        "1/4 cup tomato paste",
+        "1 cup green lentils",
+        "2 cups vegetable stock",
+        "1/2 cup parsley, chopped",
+        "1/4 cup basil, chopped",
+        "1 batch of vegan ricotta",
+        "3 large eggplants, cut into rounds",
+        "1 1/2 cup pasta sauce"
+      ],
+      "steps": [
+        "Salt the eggplant rounds and leave to sweat for ten minutes, preheat over to 180C.",
+        "Pat the eggplants dry and bake eggplants for 25 minutes.",
+        "In the wok saute the onion until translucent.",
+        "Then add the carrot, tomatoes, and tomato paste to the pot, stirring well.",
+        "Once everything is well incorporated, add the lentils, stock, parsley, and basil.",
+        "Spread 1/2 cup of sauce in a casserole dish, then cover it with 1/3 of the eggplant.",
+        "Spread 1/2 of the cooked lentil filling across the eggplant, followed by 1/3 of the ricotta.",
+        "Add another layer of eggplant, then the rest of the lentils and another 1/3 of the ricotta.",
+        "Add the rest of the eggplant, followed by the rest of the ricotta. Pour 1 cup of sauce over the dish, and swirl it together.",
+        "Bake the lasagna at 180C for 35 minutes."
+      ],
+      "tags": [
+        "Vegan",
+        "Italian"
       ]
     }
   ]
