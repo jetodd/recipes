@@ -3600,6 +3600,79 @@
         "Korean",
         "Vegan"
       ]
+    },
+    {
+      "image": "japchae",
+      "title": "Japchae",
+      "url": "https://pickledplum.com/japchae-recipe/",
+      "ingredients": [
+        "200 grams sweet potato noodles",
+        "1 tsp sesame oil",
+        "3 tbsp soy sauce",
+        "1 tbsp dark soy sauce",
+        "2 tsp sugar",
+        "4 cloves garlic",
+        "2 medium onions (thinly sliced)",
+        "6 shiitake mushrooms (sliced into strips)",
+        "1 red bell pepper (sliced into thin strips)",
+        "1 medium carrot (sliced into thin strips)",
+        "1/2 pound baby spinach",
+        "3 stalks scallions",
+        "1 tbsp sesame seeds"
+      ],
+      "steps": [
+        "Bring a pot of water to boil and add noodles. Drain and rinse under cold water.",
+        "Add sesame oil to the noodles and toss. Set aside.",
+        "Put all the ingredients for the sauce in a bowl and stir until the sugar has dissolved.",
+        "In the wok cook garlic and onions until onions are translucent.",
+        "Add mushrooms, bell peppers, carrots and cook until vegetables are tender.",
+        "Add noodles and spinach and toss well. Add sauce and cook for 1 minute."
+      ],
+      "tags": [
+        "Korean",
+        "Vegan"
+      ]
+    },
+    {
+      "image": "soft-tofu-stew",
+      "title": "Soft tofu stew",
+      "url": "http://www.gumshoegastronomy.com/archives/soondubu-jjigae",
+      "ingredients": [
+        "1 sheet of dried kelp",
+        "3 dried shitake mushrooms",
+        "1 onion, quartered",
+        "6 cups water",
+        "2 tsp sesame oil",
+        "1 clove garlic, minced",
+        "1 tsp minced ginger",
+        "1 tbsp Korean red pepper powder",
+        "2 tsp soy sauce",
+        "1 tsp honey",
+        "1 tbsp liquid from kimchi",
+        "1 tbsp olive oil",
+        "1/2 cup sliced zucchini",
+        "Shiitake mushrooms, diced (stems removed)",
+        "1/4 cup chopped kimchi",
+        "2 cups roughly chopped spinach",
+        "1 block silken tofu",
+        "2 scallions",
+        "Eggs",
+        "Rice"
+      ],
+      "steps": [
+        "Combine kelp, dried mushrooms, onion and water and simmer for 20 mins.",
+        "Combine ingredients from sesame oil to kimchi liquid to make sauce.",
+        "Cook the rice",
+        "Cook the courgette and mushrooms for a few minutes then add the sauce, once bubbling add the stock.",
+        "Bring to the boil then add the kimchi and tofu.",
+        "Add salt to taste then the spinach until wilted.",
+        "Add the egg to the stew and let cook for a minute."
+      ],
+      "tags": [
+        "Korean",
+        "Fusion",
+        "Vegan"
+      ]
     }
   ]
 }
