@@ -3490,6 +3490,80 @@
       "tags": [
         "Indian"
       ]
+    },
+    {
+      "image": "curry-base",
+      "title": "Curry base",
+      "url": "https://glebekitchen.com/indian-restaurant-curry-base/",
+      "ingredients": [
+        "4 large onions",
+        "6 cloves garlic",
+        "1 1/2 Tbsp ginger coarsely chopped",
+        "1 1/2 Tbsp cumin powder",
+        "1 1/2 Tbsp coriander powder",
+        "1 1/2 tsp turmeric",
+        "1 1/2 tsp salt",
+        "1 packet coriander",
+        "1/2 cup vegetable oil",
+        "6 cups boiling water",
+        "1/2 tin tomatoes"
+      ],
+      "steps": [
+        "Bring the water to a boil.",
+        "Quarter the onions and then break them apart into petals.",
+        "Combine all ingredients except tomatoes, bring to a boil and simmer loosely covered for one hour.",
+        "Add tomatoes, stir and simmer an additional 20 minutes.",
+        "Let cool slightly. Blend to smooth consistency.",
+        "Return curry base to pot and simmer for half an hour."
+      ],
+      "tags": [
+        "vegan"
+      ]
+    },
+    {
+      "image": "saag-aloo",
+      "title": "Saag aloo",
+      "url": "https://glebekitchen.com/saag-aloo-indian-restaurant-style/",
+      "ingredients": [
+        "6 oz potatoes",
+        "1/2 tsp turmeric",
+        "1/2 tsp cumin seeds",
+        "1/2 tsp mustard seeds",
+        "3 oz spinach cooked",
+        "2 green chilies diced",
+        "1 large onion",
+        "6 cloves garlic",
+        "2 inches ginger",
+        "2 tsp tomato paste, diluted",
+        "1 tsp coriander powder",
+        "1 tsp cumin powder",
+        "1/2 tsp turmeric powder",
+        "1/2 tsp paprika",
+        "1/2 tsp mild curry powder",
+        "1/2 tsp chili powder",
+        "1 tsp garam masala",
+        "1/2 tsp black pepper",
+        "1/2 tsp fenugreek",
+        "1 tsp lemon juice",
+        "12 oz curry base",
+        "Chopped coriander",
+        "Rice",
+        "Naan"
+      ],
+      "steps": [
+        "Cut potatoes then boil them with tumeric and salt until just tender.",
+        "Cook the rice.",
+        "In the wok add the cumin seeds and mustard seeds. When they pop add potatoes and cook until golden brown then remove from wok.",
+        "Cook the onion then add the green chili, garlic and ginger.",
+        "Add the spices and a pinch of salt, stir to combine. Cook for about 30-45 seconds.",
+        "Add the diluted tomato paste and stir.",
+        "Add half the curry base and cook until it starts to form craters. Add the rest of the curry base.",
+        "Add the potatoes, drained spinach and lemon juice. Simmer for 4-5 minutes."
+      ],
+      "tags": [
+        "Indian",
+        "Vegan"
+      ]
     }
   ]
 }
