@@ -3564,6 +3564,42 @@
         "Indian",
         "Vegan"
       ]
+    },
+    {
+      "image": "korean-bbq-tofu",
+      "title": "Korean BBQ tofu",
+      "url": "https://www.rabbitandwolves.com/vegan-crispy-korean-bbq-tofu/",
+      "ingredients": [
+        "1 block tofu",
+        "1/2 cup tomato puree",
+        "1/4 cup rice wine vinegar",
+        "1/4 cup soysauce",
+        "2 tsp sugar",
+        "2 tsp gochujang",
+        "1 small apple, finely grated",
+        "4 cloves garlic, finely grated",
+        "1 inch ginger, finely grated",
+        "1 tbsp sesame seeds",
+        "1/2 cup cornflour",
+        "1/2 tsp salt",
+        "Scallions",
+        "Pak choi",
+        "Broccoli",
+        "Rice"
+      ],
+      "steps": [
+        "Drain and press the tofu.",
+        "Cook the rice.",
+        "Whisk the tomato puree, rice wine vinegar, soy sauce, sugar, gochujang, apple, garlic, ginger and sesame seeds.",
+        "Cube the tofu and in a bowl toss to coat with the cornflour.",
+        "Cook the tofu in the frying pan, in multiple batches if necessary, browning on all sides.",
+        "Steam the vegetables.",
+        "Remove tofu from pan along with excess oil then add half the sauce. Heat it then add the tofu back, tossing to coat.",
+      ],
+      "tags": [
+        "Korean",
+        "Vegan"
+      ]
     }
   ]
 }
