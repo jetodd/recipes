@@ -49,4 +49,5 @@ class Command(BaseCommand):
 							r.tags.set(tag_ids)
 			except ValueError as e:
 				print("Invalid JSON, please use an online formatter silly.")
+				print(e)
 				sys.exit(1)
