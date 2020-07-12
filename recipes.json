@@ -3869,6 +3869,47 @@
         "Toss tofu in Bang Bang sauce until well-coated."
       ],
       "tags": [
+        "Korean",
+        "Vegetarian"
+      ]
+    },
+    {
+      "image": "jambalaya",
+      "title": "Jambalaya",
+      "url": "https://thestingyvegan.com/vegan-jambalaya/",
+      "ingredients": [
+        "1 onion, diced",
+        "6 cloves of garlic",
+        "2 stalks of celery",
+        "1 red pepper",
+        "1 green pepper",
+        "1 large carrot",
+        "20 button mushrooms",
+        "1 tin beans",
+        "1 tbsp tomato paste",
+        "1 can tomatoes",
+        "4 cups vegetable stock",
+        "1 tsp oregano",
+        "1 tsp basil",
+        "1 tsp thyme",
+        "2 tsp paprika",
+        "1 tsp cumin",
+        "2 tsp soy sauce",
+        "1/2 tsp cayenne",
+        "2 bay leaves",
+        "2 tablespoons sriracha",
+        "2 cups rice",
+        "A handful of cilantro"
+      ],
+      "steps": [
+        "Add the oil to the wok and when it’s hot add the onion then the garlic followed by the vegetables.",
+        "Add the canned tomatoes and cook another 5 minutes.",
+        "Add the soy sauce and the spices and stir. Then add the rice and vegetable stock and bring to a boil.",
+        "Cook over medium-high heat for 15 minutes or until the rice is cooked.",
+        "Add the beans, stir and cook 1 to 2 minutes more."
+      ],
+      "tags": [
+        "Vegan"
       ]
     }
   ]
