@@ -4188,6 +4188,38 @@
         "Vegan",
         "Greek"
       ]
+    },
+    {
+      "image": "kabobs",
+      "title": "Kabobs",
+      "url": "https://damndelicious.net/2014/08/22/vegetable-kabobs/",
+      "ingredients": [
+        "1 red onion",
+        "1 green pepper",
+        "1 red pepper",
+        "1 courgette",
+        "1 eggplant",
+        "Cherry tomatoes",
+        "1/2 pineapple cut into chunks",
+        "1 block tofu",
+        "1 bulb garlic",
+        "1/2 head broccoli",
+        "1/4 cup soy sauce",
+        "2 tbsp sesame oil",
+        "1 tsp brown sugar",
+        "2 cloves grated garlic",
+        "1/2 inch grated ginger",
+        "1/2 tsp sriracha"
+      ],
+      "steps": [
+        "Drain and press the tofu.",
+        "Cut all vegetables and the tofu into bite sized pieces.",
+        "Add all the sauce ingredients and marinate the vegetables and tofu.",
+        "Add a mix of all the vegetables to each skewer.",
+        "Grill."
+      ],
+      "tags": [
+      ]
     }
   ]
 }
