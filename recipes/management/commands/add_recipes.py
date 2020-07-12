@@ -15,9 +15,10 @@ class Command(BaseCommand):
 					tag_ids = []
 					if 'tags' in recipe:
 						for tag in recipe['tags']:
-							if Tag.objects.filter(name__icontains=tag.lower()):
+							existing_tags = Tag.objects.filter(name__icontains=tag.lower())
+							if existing_tags:
 								print('Tag ' + tag + ' already exists, skipping')
-								tag_ids.append(Tag.objects.filter(name=tag)[0].id)
+								tag_ids.append(existing_tags[0].id)
 							else:
 								print('Adding new tag for ' + tag)
 								new_tag = Tag(name=tag)
