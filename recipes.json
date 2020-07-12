@@ -3807,6 +3807,38 @@
       "tags": [
         "Vegan"
       ]
+    },
+    {
+      "image": "honey-lime-chicken",
+      "title": "Grilled honey lime chicken (or tofu)",
+      "url": "https://www.cookingclassy.com/grilled-honey-lime-chicken/",
+      "ingredients": [
+        "Chicken",
+        "1 block tofu",
+        "1/4 cup fresh lime juice",
+        "2 tsp lime zest",
+        "1/4 cup honey",
+        "2 Tbsp olive oil",
+        "2 Tbsp soy sauce",
+        "1/2 tsp salt",
+        "1/2 tsp freshly ground black pepper",
+        "2 garlic cloves, minced",
+        "1/4 tsp onion powder",
+        "1/4 tsp cayenne pepper",
+        "2 Tbsp minced fresh cilantro"
+      ],
+      "steps": [
+        "Drain and press the tofu.",
+        "Cut chicken to an even thickness.",
+        "In a bowl whisk together remaining ingredients. Reserve 3 Tbsp of the mixture.",
+        "Pour remaining mixture over the chicken and tofu, cover dish and allow to marinate 2 - 6 hours.",
+        "Preheat two pans to medium high heat. Once preheated, brush grill lightly with olive oil.",
+        "Place chicken and tofu on separate pans and cook (with lid closed) 5-8 minutes per side (less for tofu).", 
+        "Baste each side of chicken with reserved marinade during the last minute of cooking."
+      ],
+      "tags": [
+        "Chicken"
+      ]
     }
   ]
 }
