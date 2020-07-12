@@ -3779,6 +3779,34 @@
         "Vegetarian",
         "Kiwi"
       ]
+    },
+    {
+      "image": "soba-ginger-sauce",
+      "title": "Soba with ginger scallion sauce",
+      "url": "http://simplyreem.com/soba-noodles-with-sweet-ginger-scallion-sauce/",
+      "ingredients": [
+        "Soba noodles",      
+        "Sesame seeds",
+        "Lime wedges",
+        "Scallions, finely chopped",
+        "1 inch ginger, minced",
+        "Coriander, chopped",
+        "2 tbsp sesame oil",
+        "1 tsp chili oil",
+        "1 tbsp soy sauce",
+        "2 tsp rice wine vinegar",
+        "1 tbsp brown sugar",
+        "Edamame",
+        "Pak choi"
+      ],
+      "steps": [
+        "Mix all the ingredients for sauce in the bowl, check for the seasoning.",
+        "Boil the soba noodles as per the instruction on the package. Halfway through add the edamame and pak choi.",
+        "Add the sauce, sesame seeds and toss the noodles well. Sprinkle with lime juice."      
+      ],
+      "tags": [
+        "Vegan"
+      ]
     }
   ]
 }
