@@ -3756,6 +3756,29 @@
         "Chinese",
         "Vegan"
       ]
+    },
+    {
+      "image": "cheese-rolls",
+      "title": "Cheese rolls",
+      "url": "http://www.foodlovers.co.nz/recipes/southland-cheese-rolls.html",
+      "ingredients": [
+        "250g tasty cheddar cheese, grated",
+        "1 large onion, finely chopped",
+        "200ml evaporated milk",
+        "1/2 packet onion soup powder",
+        "1/2 loaf sandwich bread"
+      ],
+      "steps": [
+        "Mix the cheese, onion, soup powder and evaporated milk together in a small saucepan.",
+        "Melt over a gentle heat, stirring until you have a thick smooth mixture.",
+        "Allow the cheese mixture to cool a little before spreading generously over the bread slices.",
+        "Roll the bread slices up into logs and then place on a baking tray.",
+        "Grill, turning as needed until golden brown."
+      ],
+      "tags": [
+        "Vegetarian",
+        "Kiwi"
+      ]
     }
   ]
 }
