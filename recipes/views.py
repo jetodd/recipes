@@ -123,7 +123,7 @@ class RecipesView(ListView):
     template_name = 'recipes/all.html'
 
 def all(request):
-    recipes_list = Recipe.objects.all()
+    recipes_list = Recipe.objects.all().order_by('title')
     page = request.GET.get('page', 1)
     paginator = Paginator(recipes_list, 12)
 
