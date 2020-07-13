@@ -15,17 +15,19 @@ class Command(BaseCommand):
 					tag_ids = []
 					if 'tags' in recipe:
 						for tag in recipe['tags']:
-							if Tag.objects.filter(name__icontains=tag.lower()):
+							existing_tags = Tag.objects.filter(name__iexact=tag)
+							if existing_tags:
 								print('Tag ' + tag + ' already exists, skipping')
-								tag_ids.append(Tag.objects.filter(name=tag)[0].id)
+								tag_ids.append(existing_tags[0].id)
 							else:
 								print('Adding new tag for ' + tag)
 								new_tag = Tag(name=tag)
 								new_tag.save()
 								tag_ids.append(new_tag.id)
-					if Recipe.objects.filter(title__iexact=recipe['title']):
+					existing_recipes = Recipe.objects.filter(title__iexact=recipe['title'])
+					if existing_recipes:
 					 	print('Recipe ' + recipe['title'] + ' already exists, updating')
-					 	update_recipe = Recipe.objects.filter(title__iexact=recipe['title'])[0]
+					 	update_recipe = existing_recipes[0]
 					 	string_ingredients = '{"ingredients":' + json.dumps(recipe['ingredients']) + '}'
 					 	string_steps = '{"steps":' + json.dumps(recipe['steps']) + '}'
 					 	update_recipe.title = recipe['title']
@@ -48,4 +50,5 @@ class Command(BaseCommand):
 							r.tags.set(tag_ids)
 			except ValueError as e:
 				print("Invalid JSON, please use an online formatter silly.")
+				print(e)
 				sys.exit(1)
