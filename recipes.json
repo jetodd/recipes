@@ -4368,6 +4368,32 @@
         "Fill with a mixture of all ingredients and fold like a burrito."
       ],
       "tags": [
+        "Vegan"
+      ]
+    },
+    {
+      "image": "blueberry-smoothie-bowl",
+      "title": "Blueberry smoothie bowl",
+      "url": "https://www.floatingkitchen.net/blueberry-avocado-smoothie-bowl/",
+      "ingredients": [
+        "1 cup blueberries",
+        "1/2 avocado",
+        "1/2 cup almond milk",
+        "1 tsp maple syrup",
+        "1/4 tsp vanilla extract",
+        "3-4 ice cubes",
+        "Fresh blueberries",
+        "Chopped dark chocolate",
+        "Sliced almonds",
+        "Chia seeds"
+      ],
+      "steps": [
+        "Add all of the smoothie ingredients to your blender. Blend on high until smooth.",
+        "Top with the rest of the ingredients."
+      ],
+      "tags": [
+        "Sweet",
+        "Vegan"
       ]
     }
   ]

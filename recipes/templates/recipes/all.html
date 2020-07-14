@@ -5,7 +5,6 @@
 <div class="row">
 	<div class="col-md-12 col-lg-8">
 		<h3>All recipes</h3>
-		<hr />
 		<div class="infinite-container row">
 		    {% for recipe in recipes %}
 		    <div class="card recipe-card infinite-item">
@@ -24,7 +23,6 @@
 	<div class="col-md-12 col-lg-4">
 		{% if tags %}
 			<h3>Tags</h3>
-			<hr />
 			<ul id="horizontal-list">
 				{% for tag in tags %}
 					<li><a href="{% url 'recipes:tag' tag.id %}">{{ tag.name }}</a></li>

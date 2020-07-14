@@ -4,7 +4,6 @@
 <div class="row">
 	<div class="col-md-12 order-md-2 col-lg-8 order-lg-1">
 		<h3>Newest recipes</h3>
-		<hr />
 		{% if latest_recipes_list %}
 			<div class="row home">
 				{% for recipe in latest_recipes_list %}
@@ -23,7 +22,6 @@
 		{% endif %}
 
 		<h3>Most popular recipes</h3>
-		<hr />
 		{% if most_popular_recipes_list %}
 			<div class="row">
 				{% for recipe in most_popular_recipes_list %}
@@ -45,7 +43,6 @@
 	<div class="col-md-12 order-md-1 col-lg-3 order-lg-2">
 		{% if this_week %}
 			<h3>This week</h3>
-			<hr />
 			<ul class="single">
 				{% for recipe in this_week %}
 					<li><a href="{% url 'recipes:detail' recipe.id %}">{{ recipe.title }}</a>
@@ -61,7 +58,6 @@
 
 		{% if next_week %}
 			<h3>Next week</h3>
-			<hr />
 			<ul class="single">
 				{% for recipe in next_week %}
 					<li><a href="{% url 'recipes:detail' recipe.id %}">{{ recipe.title }}</a>

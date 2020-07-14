@@ -5,7 +5,6 @@
 <div class="row">
 	<div class="col-md-12 col-lg-6">
 		<h3>Shopping</h3>
-		<hr />
 		{% if items %}
 			<form action="deleteitems" method="post">
 				<div class="shopping-list">
@@ -31,7 +30,6 @@
 
 	<div class="col-md-12 col-lg-6	">
 		<h3>Add item</h3>
-		<hr />
 		<form action="" method="post">
 			{% csrf_token %}
 			{{ form.as_p }}
