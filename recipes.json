@@ -4305,8 +4305,8 @@
       ]
     },
     {
-      "image": "vegan-burritos",
-      "title": "Vegan burrito",
+      "image": "vegan-burrito",
+      "title": "Vegan burritos",
       "url": "https://simple-veganista.com/vegan-burrito/",
       "ingredients": [
         "Coriander lime rice",
@@ -4334,7 +4334,40 @@
         "Assemble the burritos."
       ],
       "tags": [
-
+        "Vegan",
+        "Mexican"
+      ]
+    },
+    {
+      "image": "pad-thai-summer-rolls",
+      "title": "Pad Thai summer rolls",
+      "url": "https://www.lazycatkitchen.com/pad-thai-summer-rolls/",
+      "ingredients": [
+        "6 dates",
+        "3 tbsp peanut butter",
+        "3 tsp tamarind paste",
+        "1 tbsp soy sauce",
+        "2 garlic cloves",
+        "1/2 lime",
+        "1 tsp ginger, grated finely",
+        "Rice paper wrappers",
+        "A handful of coriander",
+        "A small handful of mint",
+        "Vermicelli rice noodles, cooked",
+        "Red cabbage, finely chopped",
+        "1 carrot, cut into matchsticks",
+        "1 small cucumber, cut into thin matchsticks",
+        "1/2 red pepper, cut into thin matchsticks",
+        "1/2 orange pepper, cut into thin matchsticks",
+        "1/2 small avocado, thinly sliced"
+      ],
+      "steps": [
+        "Pit the dates and soak in boiling water for 15 minutes to soften.",
+        "Put dates, peanut butter, tamarind, ginger, garlic, lime juice, soy sauce and 6 tbsp of water in a blender. Blend until smooth.",
+        "Rehydrate one wrapper at a time by immersing in cold water for about 15 seconds and then place on a damp kitchen towel spread out in front of you.",
+        "Fill with a mixture of all ingredients and fold like a burrito."
+      ],
+      "tags": [
       ]
     }
   ]
