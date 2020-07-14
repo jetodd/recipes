@@ -4280,6 +4280,62 @@
       "tags": [
         "Vegan"
       ]
+    },
+    {
+      "image": "guacamole",
+      "title": "guacomole",
+      "url": "https://simple-veganista.com/black-bean-fajitas-guacamole/",
+      "ingredients": [
+        "2 – 3 avocados",
+        "1 small jalapeno, diced",
+        "1/4 red onion, diced",
+        "Handful cherry tomatoes, quartered",
+        "1/2 teaspoon salt, or to taste",
+        "Coriander, diced",
+        "1 lime, squeezed"
+      ],
+      "steps": [
+        "Peel and deseed avocados, in a bowl mash them with a fork.",
+        "Mix in jalapeno, onion, tomatoes, salt and lime juice.",
+        "Add in chopped cilantro and mix again gently."
+      ],
+      "tags": [
+        "Mexican",
+        "Vegan"
+      ]
+    },
+    {
+      "image": "vegan-burritos",
+      "title": "Vegan burritos",
+      "url": "https://simple-veganista.com/vegan-burrito/",
+      "ingredients": [
+        "Coriander lime rice",
+        "1 onion, diced",
+        "6 cloves garlic",
+        "1 green bell pepper",
+        "1 red bell pepper",
+        "1 can tomatoes",
+        "1 large jalapeno, diced",
+        "1 tbsp cumin",
+        "1 tsp chilli powder",
+        "1 tsp chipotle powder",
+        "1 can corn",
+        "1 can black beans",
+        "1/4 – 1/2 cup cilantro",
+        "6 large flour tortillas",
+        "2 cups shredded lettuce",
+        "Guacamole"
+      ],
+      "steps": [
+        "In the wok cook onion, garlic and bell pepper, saute for 5 minutes.",
+        "Add the tomatoes, jalapeno, cumin, chili powder and salt, mix well and continue to cook another 4 – 5 minutes.",
+        "Add the black beans and corn, cook a few minutes until warmed through.",
+        "Stir in the cilantro. Taste for seasoning.",
+        "Assemble the burritos."
+      ],
+      "tags": [
+
+      ]
     }
   ]
 }
