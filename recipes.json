@@ -4395,6 +4395,58 @@
         "Sweet",
         "Vegan"
       ]
+    },
+    {
+      "image": "vegan-pho",
+      "title": "Vegan pho",
+      "url": "https://www.rachelama.com/recipe-blog/2019/4/9/vegan-pho-noodles",
+      "ingredients": [
+        "2 onions",
+        "2 carrots",
+        "2 celery sticks",
+        "6 garlic cloves",
+        "1 large large thumb of ginger",
+        "5 star anise pods",
+        "6 whole cloves",
+        "1 tsp coriander seeds",
+        "1 tsp fennel seeds",
+        "1 cinnamon stick",
+        "2 cardomom pods",
+        "30g dried shiitake mushrooms",
+        "1 tbsp maple syrup",
+        "1 tbsp miso paste",
+        "2 tsp cup soy sauce",
+        "Nori sheets",
+        "6-8 cups of vegetable stock",
+        "Thai chillies",
+        "Spring onions",
+        "Lime",
+        "Bean sprouts",
+        "Coriander",
+        "Pak choi",
+        "Shiitake mushrooms",
+        "Broccoli",
+        "1 block tofu",
+        "Sriracha"
+      ],
+      "steps": [
+        "Broil the onions and ginger under a grill until they have browned.",
+        "Drain and press the tofu.",
+        "To a pan, add coriander seeds, fennel seeds, cloves, cardomom, cinnamon and star anise and toast on a low heat for a few minutes.",
+        "To a large deep pan saute garlic, celery and carrots. Then add in water, soy sauce, miso paste, maple syrup, nori and mix well.",
+        "Add in onions, ginger, dried shiitake mushrooms and spices and mix to combine.",
+        "Simmer for at least an hour, taste and adjust any seasonings to get the right balance.",
+        "Marinade the tofu in soy sauce and sesame oil then cook.",
+        "Cook the mushrooms in the same pot.",
+        "Prepare rice noodles following package instructions.",
+        "Steam the broccoli.",
+        "Sieve out the spices from the stock then add back to the stock pot.",
+        "Right before serving, add the pak choi and mushrooms to the pot to cook for 1-2 minutes."
+      ],
+      "tags": [
+        "Vietnamese",
+        "Vegan"
+      ]
     }
   ]
 }
