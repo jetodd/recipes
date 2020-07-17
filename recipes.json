@@ -4451,7 +4451,7 @@
     {
       "image": "coconut-rice-beans-kumara",
       "title": "Coconut rice, beans & kumara",
-      "image": "https://www.thefullhelping.com/coconut-brown-rice-black-beans-sweet-potato-with-cashew-cilantro-lime-sauce/",
+      "url": "https://www.thefullhelping.com/coconut-brown-rice-black-beans-sweet-potato-with-cashew-cilantro-lime-sauce/",
       "ingredients": [
         "3 cups sweet potato, cubed",
         "1 cup long grain brown rice",
@@ -4474,6 +4474,42 @@
       ],
       "tags": [
         "Vegan"
+      ]
+    },
+    {
+      "image": "eggplant-katsu-curry",
+      "title": "Eggplant katsu curry",
+      "url": "https://www.myveganbeli.com/vegan-aubergine-katsu-curry/",
+      "ingredients": [
+        "2 eggplants",
+        "1 block tofu",
+        "1/2 cup chickpea flour",
+        "1/3 cup nutritional yeast",
+        "1 cup panko",
+        "1 chopped red onion"
+        "4 cloves garlic",
+        "1 inch ginger",
+        "1 cup coconut milk",
+        "1 tbsp maple syrup",
+        "1 tbsp tomato puree",
+        "1 tbsp curry powder",
+        "Rice",
+        "1 tbsp sesame seeds",
+        "Pak choi"
+      ],
+      "steps": [
+        "Preheat the oven to 200C.",
+        "Drain and press the tofu.",
+        "In a bowl mix 2 cups of water with chickpea flour, nutritional yeast and salt until smooth.",
+        "On a plate put the panko with the above mixture beside it.",
+        "Dip diced eggplant in vegan egg mixture then in panko, making sure it's well covered then place on lined baking tray, repeat with tofu.",
+        "Sprinkle some olve oil on the eggplant then cook in the oven for 20 minutes or until golden brown.",
+        "Cook the rice.",
+        "In the wok cook the onion then add the ginger and garlic.",
+        "Then add the coconut milk, maple syrup, tomato puree and curry powder and simmer for ten minutes.",
+        "Steam the pak choi."
+      ],
+      "tags": [
       ]
     }
   ]
