@@ -4447,6 +4447,34 @@
         "Vietnamese",
         "Vegan"
       ]
+    },
+    {
+      "image": "coconut-rice-beans-kumara",
+      "title": "Coconut rice, beans & kumara",
+      "image": "https://www.thefullhelping.com/coconut-brown-rice-black-beans-sweet-potato-with-cashew-cilantro-lime-sauce/",
+      "ingredients": [
+        "3 cups sweet potato, cubed",
+        "1 cup long grain brown rice",
+        "1 tablespoon lime juice",
+        "1/3 cup toasted coconut flakes",
+        "1/2 cup roughly chopped coriander",
+        "1 can black beans, drained",
+        "1/3 cup raw cashews",
+        "1 cup coriander",
+        "3 tablespoons lime juice"
+      ],
+      "steps": [
+        "Soak the cashews for two hours and the rice for one hour.",
+        "Preheat the oven to 200C and line a baking sheet with parchment.",
+        "Toss the sweet potato cubes in oil and season with salt and pepper. Roast for 35 minutes.",
+        "In the wok add the brown rice. Toast the rice for about 2 minutes.",
+        "Add 1/4 teaspoon salt and 2 cups water. Cover and simmer for 25-35 minutes.",
+        "To make the sauce, blend all ingredients cashews and on together till smooth.",
+        "Fluff the rice gently with a fork. Add the lime juice, coconut flakes, cilantro, and black beans."
+      ],
+      "tags": [
+        "Vegan"
+      ]
     }
   ]
 }
