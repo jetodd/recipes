@@ -4569,6 +4569,42 @@
         "Vegan",
         "Indian"
       ]
+    },
+    {
+      "image": "kkampoong-tofu",
+      "title": "Kkampoong Tofu",
+      "url": "https://thekoreanvegan.com/spicy-crunchy-garlic-tofu-kkampoong-tofu/",
+      "ingredients": [
+        "1 block firm tofu, pressed",
+        "2 Tablespoons cornflour",
+        "7 cloves garlic minced",
+        "1/2 red onion diced",
+        "2 green chilis, sliced",
+        "2 whole scallions, chopped",
+        "1 tbsp gochagaru",
+        "1 tbsp soy sauce",
+        "1 tbsp rice wine vinegar",
+        "2 tbsp maple syrup",
+        "1/2 tbsp mirin",
+        "1/2 tbsp sesame oil",
+        "1 red pepper",
+        "1 green pepper",
+        "Rice",
+        "Pak choi",
+        "Toasted sesame seeds"
+      ],
+      "steps": [
+        "Cook the rice.",
+        "In a large bowl, gently toss a pinch of salt, cornflour and tofu.",
+        "In a bowl mix the gochugaru, soy sauce, rice wine vinegar, maple syrup, mirin, and 1 teaspoon of cornstarch.",
+        "In the frying pan cook the tofu in batches, ensuring they do not touch and are brown on all sides.",
+        "In the same pan cook the garlic, onion, bell pepper and chillies.",
+        "Steam the pak choi.",
+        "Reduce heat and add the sauce. Wait for it to thicken then turn off the heat.", 
+        "Add back the tofu and stir everything together."
+      ],
+      "tags": [
+      ]
     }
   ]
 }
