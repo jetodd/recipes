@@ -840,7 +840,7 @@
         "Cut red onion, avocado and mango into slices.",
         "Assemble the tacos."
       ],
-      "tags": ["Mexican"]
+      "tags": ["Mexican", "Vegetarian"]
     },
     {
       "image": "orange-tofu",
@@ -1323,7 +1323,7 @@
         "Top the noodle bowls with tofu, carrot, bell pepper, avocado, red onion, herbs, and peanuts.",
         "Pour a quarter of the prepared dressing over each serving."
       ],
-      "tags": ["Vegan", "Asian"]
+      "tags": ["Vegan", "Asian", "Vietnamese"]
     },
     {
       "image": "green-curry",
@@ -1358,7 +1358,7 @@
         "Add the tofu and bamboo shoots then increase the heat to medium high and simmer for 2-3 minutes.",
         "Turn off heat and mix in the Thai basil."
       ],
-      "tags": ["Vegan"]
+      "tags": ["Vegan", "Thai"]
     },
     {
       "image": "ratatouille",
@@ -1392,7 +1392,7 @@
         "Uncover, then bake for another 20 minutes, until the vegetables are softened.",
         "Mix herb seasoning ingredients and pour over the cooked ratatouille."
       ],
-      "tags": ["Vegan"]
+      "tags": ["Vegan", "French"]
     },
     {
       "image": "green-curry-paste",
@@ -1514,7 +1514,7 @@
         "Cover the bowl with a clean tea towel and leave for 15 minutes.",
         "Add the lemon juice to taste, some toasted flaked almonds and salt and pepper to taste."
       ],
-      "tags": ["Vegetarian"]
+      "tags": ["Vegetarian", "Moroccan"]
     },
     {
       "image": "dan-dan-noodles",
@@ -1550,7 +1550,7 @@
         "Cook noodles according to the package instructions.",
         "Transfer noodles in serving bowl and top with fried shiitake mushroom Ya-cai. Mix well and enjoy!"
       ],
-      "tags": ["vegan"]
+      "tags": ["vegan", "Chinese"]
     },
     {
       "image": "mapo-tofu",
@@ -1724,7 +1724,7 @@
         "Put rest of sauce over eggplant, sprinkle with mozzarella cheese.",
         "Cover and bake for 30 minutes, then uncover and bake for 10 minutes."
       ],
-      "tags": ["Vegetarian"]
+      "tags": ["Vegetarian", "Italian"]
     },
     {
       "image": "mushroom-risotto",
@@ -1749,7 +1749,7 @@
         "Add stock slowly while stirring until rice is fully cooked.",
         "Remove from heat, and stir in mushrooms with their liquid, butter, chives and cheese."
       ],
-      "tags": ["vegetarian"]
+      "tags": ["vegetarian", "Italian"]
     },
     {
       "image": "scallion-pancakes",
@@ -1773,7 +1773,7 @@
         "Working with 1 coil at a time, roll out on a lightly floured surface to a 5 inch round (keep other coils covered). Repeat with remaining dough and stack as you go, separating with parchment or lightly greased foil brushed with vegetable oil.",
         "Heat 1 Tbsp. vegetable oil in a medium skillet over medium-low. Working with one at a time, cook pancake, turning frequently to prevent scallions from burning, until golden brown and crisp on both sides and cooked through, 8–10 minutes. Transfer pancakes to a wire rack and let rest about 5 minutes before cutting into wedges."
       ],
-      "tags": ["Vegan"]
+      "tags": ["Vegan", "Chinese"]
     },
     {
       "image": "vegan-mapo-tofu",
@@ -1808,7 +1808,7 @@
         "Drizzle in cornstarch mixture, gently swirling pan to incorporate and simmer tofu in sauce for 2 minutes more.",
         "Thin with a little mushroom broth if necessary."
       ],
-      "tags": ["Asian", "Vegan"]
+      "tags": ["Asian", "Vegan", "Chinese"]
     },
     {
       "image": "spicy-peanut-tofu-bowls",
@@ -1878,7 +1878,7 @@
         "Divide noodles between bowls then ladle in the broth (discarding the floaties).",
         "Top with carrot, tofu, spring onions greens, chilli, seaweed, sesame oil, etc."
       ],
-      "tags": ["Vegan", "Asian"]
+      "tags": ["Vegan", "Asian", "Japanese"]
     },
     {
       "image": "banana-berry-smoothie-bowl",
@@ -1976,7 +1976,7 @@
         "Add chilies, garlic, carrot and coconut aminos. Toss gently to combine.",
         "Add noodles, Pad Thai sauce, bean sprouts, green onions, and peanuts"
       ],
-      "tags": ["Thai"]
+      "tags": ["Thai", "Vegan"]
     },
     {
       "image": "vegan-shakshuka",
@@ -2009,7 +2009,7 @@
         "Add the spinach and mix until wilted.",
         "Serve with bread and fresh coriander"
       ],
-      "tags": ["Vegan"]
+      "tags": ["Vegan", "Moroccan"]
     },
     {
       "image": "tom-yum",
@@ -2047,7 +2047,7 @@
         "Add the lime juice and soy sauce then stir. Simmer for a few more minutes.",
         "Serve over noodles"
       ],
-      "tags": ["Asian"]
+      "tags": ["Asian", "Thai"]
     },
     {
       "image": "cauliflower-steak",
@@ -2183,7 +2183,8 @@
         "Add icing on top then chill"
       ],
       "tags": [
-        "Vegan"
+        "Vegan",
+        "Sweet"
       ]
     },
     {
@@ -2243,6 +2244,7 @@
         "Make burger"
       ],
       "tags": [
+        "Burgers"
       ]
     },
     {
@@ -2655,7 +2657,8 @@
         "Cover (to help steam the potatoes) and sauté for 20-25 minutes, reducing heat as needed."
       ],
       "tags": [
-        "indian"
+        "indian",
+        "Vegan"
       ]
     },
     {
@@ -2679,7 +2682,8 @@
         "Swirl oil to coat a pan then cook, flipping roughly halfway."
       ],
       "tags": [
-        "indian"
+        "indian",
+        "Vegan"
       ]
     },
     {
@@ -2700,7 +2704,8 @@
         "Season more if necessary."
       ],
       "tags": [
-        "Vegan"
+        "Vegan",
+        "Sauce"
       ]
     },
     {
@@ -2763,7 +2768,9 @@
         "Add the chillies and scallion whites."
       ],
       "tags": [
-        "Asian"
+        "Asian",
+        "Chinese",
+        "Vegan"
       ]     
     },
     {
@@ -2947,6 +2954,7 @@
         "Bake for 10-12 minutes, or until slightly golden brown."
       ],
       "tags": [
+        "Sweet"
       ]
     },
     {
@@ -3128,7 +3136,8 @@
         "Serve with rice and naan."
       ],
       "tags": [
-        "Indian"
+        "Indian",
+        "Vegan"
       ]
     },
     {
