@@ -4737,6 +4737,48 @@
         "Vegan",
         "Japanese"
       ]
+    },
+    {
+      "image": "burrito-bowl",
+      "title": "Burrito bowl",
+      "url": "https://www.lazycatkitchen.com/vegan-burrito-bowl/",
+      "ingredients": [
+        "2 kumara",
+        "1 tsp cumin",
+        "1 tsp paprika",
+        "Rice",
+        "1 onion, finely diced",
+        "4 garlic cloves, finely diced",
+        "1 1/2 tsp cumin",
+        "1 1/2 tsp smoked paprika",
+        "1 tsp oregano",
+        "1/4 tsp cayenne",
+        "1 tin beans",
+        "1 lime",
+        "2 ripe mangoes, cubed",
+        "1 avocado, diced",
+        "1/2 cup chopped cilantro",
+        "1/2 cup raw cashews, soaked",
+        "1 tbsp fresh lime juice",
+        "1 chilli, diced",
+        "1/3 cup cilantro",
+        "1 garlic clove"
+      ],
+      "steps": [
+        "Heat up the oven to 200C",
+        "Peel the kumara and cut into 2cm cubes. Coat in olive oil, salt and spices.",
+        "Bake for 15 minutes, flip to the other side for another 10-15 minutes",
+        "In a blender, combine cashews, 1/3 cup water, lime juice, chili, coriander, garlic, and salt. Blend until creamy.",
+        "Cook the rice.",
+        "Heat oil in the wok. Saute onion until almost translucent",
+        "Add finely chopped garlic and sauté until soft and fragrant.",
+        "Mix all of the dry spices into the onion and garlic mixture.",
+        "Add the beans and heat through. Season with salt, pepper and lime juice."
+      ],
+      "tags": [
+        "Mexican",
+        "Vegan"
+      ]
     }
   ]
 }
