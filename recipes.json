@@ -4995,6 +4995,117 @@
         "Vegan",
         "Indonesian"
       ]
+    },
+    {
+      "image": "sriracha-tofu-bowl",
+      "title": "Sriracha tofu bowl",
+      "url": "https://runningonrealfood.com/sriracha-baked-tofu-brown-rice-bowls/",
+      "ingredients": [
+        "1 block tofu",
+        "2 tbsp sriracha sauce",
+        "2 tbsp soy sauce",
+        "1 tsp garlic powder",
+        "1/4 cup soy sauce",
+        "2 tbsp maple syrup",
+        "2 tbsp fresh lime juice",
+        "2 tsp sesame oil",
+        "1 tsp sriracha",
+        "Rice",
+        "2 cups cooked edamame",
+        "2 carrots, peeled and julienned",
+        "1 avocado, sliced",
+        "1 red pepper",
+        "Pak choi",
+        "Sesame seeds"
+      ],
+      "steps": [
+        "Drain and press the tofu.",
+        "Pre-heat the oven to 200 C.",
+        "Cut tofu into cubes and toss with sriracha, soy sauce and garlic powder. Bake for 25 minutes, turning once.",
+        "Cook the rice, pak choi and edamame.",
+        "Whisk all the sauce ingredients together in a bowl."
+      ],
+      "tags": [
+        "Vegan"
+      ]
+    },
+    {
+      "image": "panang-curry",
+      "title": "Panang curry",
+      "url": "https://cookieandkate.com/thai-panang-curry-recipe/",
+      "ingredients": [
+        "1 block tofu",
+        "1 tbsp soy sauce",
+        "1 tbsp cornflour",
+        "Rice",
+        "1 tbsp coconut oil",
+        "1 onion, chopped",
+        "Handful of green beans",
+        "1 red pepper",
+        "1 green pepper",
+        "2 carrots",
+        "4 cloves garlic",
+        "1 inch ginger",
+        "2 chillies",
+        "2 tbsp panang curry paste",
+        "1 can coconut milk",
+        "1/2 cup water",
+        "2 tablespoons peanut butter",
+        "1 tablespoon tamari or soy sauce**",
+        "1 1/2 tsp brown sugar",
+        "2 tsp lime juice",
+        "1 bunch thai basil, chopped"
+      ],
+      "steps": [
+        "Drain and press the tofu and preheat oven to 200C.",
+        "Cube the tofu and toss with olive oil, soy sauce and cornstarch.",
+        "Bake for 25 minutes or until golden brown, turning once midway.",
+        "In the wok heat some oil then add the onion. Once onion is translucent add ginger, garlic and chillies.",
+        "Add the green beans, followed by carrots and then the peppers.",
+        "Once vegetables are mostly tender add the curry paste and stir for a minute.",
+        "Add the coconut milk, tofu and water then simmer for five minutes.",
+        "Remove from heat and stir in remaining ingredients."
+      ],
+      "tags": [
+        "Thai",
+        "Vegan"
+      ]
+    },
+    {
+      "image": "panang-curry-paste",
+      "title": "Panang curry paste",
+      "url": "https://www.wandercooks.com/authentic-panang-curry-paste/",
+      "ingredients": [
+        "10 dried red chilies",
+        "4 green chilies",
+        "3 cardamom pods",
+        "2 teaspoons coriander seeds",
+        "1 teaspoon cumin seeds",
+        "1 star anise",
+        "1/2 teaspoon black peppercorns",
+        "3 - 4 shallots, chopped",
+        "10 large cloves garlic, finely chopped",
+        "2 Stalks Lemongrass, finely sliced",
+        "1 two inch piece galangal, grated",
+        "8 coriander roots, chopped",
+        "1 kaffir lime rind, finely chopped",
+        "4 kaffir lime leaves, finely chopped",
+        "1/2 teaspoon Salt"
+      ],
+      "steps": [
+        "Slice the top off chillies, remove the seeds and slice into rings.",
+        "Soak chillies in water for 40 mins. Drain and squeeze out all the liquid using gloves.",
+        "Chop finely and set aside.",
+        "Toast all spices, starting with the biggest and gradually adding in the others.",
+        "Place the spices in a stone mortar and pestle, grind into a fine powder, then set aside.",
+        "In the blender blend the remaining ingredients.",
+        "In the mortar and pestle combine everything and grind until you obtain a smooth paste."
+      ],
+      "tags": [
+        "Thai",
+        "Sauce",
+        "Vegan"
+      ]
     }
   ]
 }
