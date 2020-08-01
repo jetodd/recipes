@@ -5379,7 +5379,7 @@
         "Pomegranate seeds",
         "Harissa paste",
         "Bread",
-        "Coconu yogurt"
+        "Coconut yogurt"
       ],
       "steps": [
         "In the wok heat the oil over medium high heat.",
@@ -5390,6 +5390,45 @@
         "Swirl a teaspoon of harissa paste at a time for added flavor."
       ],
       "tags": [
+        "Vegan"
+      ]
+    },
+    {
+      "image": "kimchi-soup",
+      "title": "Kimchi soup",
+      "url": "https://www.feastingathome.com/kimchi-soup/",
+      "ingredients": [
+        "1 red onion, diced",
+        "Shiitake mushrooms, de-stemmed and sliced",
+        "6 garlic cloves, rough chopped",
+        "1 tablespoon ginger, finely minced",
+        "1 cups kimchi, drained and chopped",
+        "5 cups vegetable broth",
+        "1 tablespoon miso paste ",
+        "1/2 teaspoon salt",
+        "1 tablespoon apple cider vinegar",
+        "1 tablespoon chili paste",
+        "2 teaspoons maple syrup",
+        "1 packet silken tofu",
+        "1–2 handfuls chopped kale",
+        "Sesame oil",
+        "Scallions",
+        "Sesame seeds",
+        "Nori",
+        "Rice"
+      ],
+      "steps": [
+        "Cook the rice.",
+        "In the wok heat some oil then cook the onion.",
+        "Add the mushrooms, garlic and ginger and saute until tender.",
+        "Add the chopped kimchi, water and miso paste.",
+        "Bring to a simmer and stir until the miso dissolves. Add salt, vinegar, honey, chili paste, stirring until combined and simmering.",
+        "Add tofu gently, then kale and gently bring to a simmer again, stirring, being careful not to break up the tofu.",
+        "Simmer for five minutes then drizzle with sesame oil and serve."
+      ],
+      "tags": [
+        "Vegan",
+        "Asian"
       ]
     }
   ]
