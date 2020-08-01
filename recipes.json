@@ -5354,6 +5354,43 @@
         "Chinese",
         "Vegan"
       ]
+    },
+    {
+      "image": "tunisian-chickpea-stew",
+      "title": "Tunisian chickpea stew",
+      "url": "https://www.feastingathome.com/tunisian-chickpea-stew/",
+      "ingredients": [
+        "1 onion, diced",
+        "3 large carrots, peeled and cut",
+        "6 cloves garlic, rough chopped",
+        "1 tablespoon fresh thyme",
+        "1 teaspoon cumin",
+        "1 teaspoon coriander",
+        "1 teaspoon paprika",
+        "1 teaspoon turmeric",
+        "1 teaspoon fennel seeds",
+        "2 tablespoons tomato paste",
+        "2 medium tomatoes, diced",
+        "1 cup white wine",
+        "4 cups vegtable stock",
+        "1/2 teaspoon salt",
+        "3 cans chickpeas",
+        "1 bunch kale, chopped",
+        "Pomegranate seeds",
+        "Harissa paste",
+        "Bread",
+        "Coconu yogurt"
+      ],
+      "steps": [
+        "In the wok heat the oil over medium high heat.",
+        "Add the onion, carrot and garlic and season well with salt and pepper then saute until tender.",
+        "Add the cumin, coriander, paprika, turmeric, fennel seeds and tomato paste.",
+        "Add the tomatoes and wine. Bring to a boil, scrapping up the brown bits. Reduce by roughly half.",
+        "Add the stock, chickpeas and kale and simmer for 10-15 minutes.",
+        "Swirl a teaspoon of harissa paste at a time for added flavor."
+      ],
+      "tags": [
+      ]
     }
   ]
 }
