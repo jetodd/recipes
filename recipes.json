@@ -5430,6 +5430,40 @@
         "Vegan",
         "Asian"
       ]
+    },
+    {
+      "image": "vietnamese-vermicelli-bowl",
+      "title": "Vietnamese vermicelli bowl",
+      "url": "",
+      "ingredients": [
+        "1 block tofu",
+        "1/2 cup finely chopped lemongrass (3 stalks- white part)",
+        "1/2 cup onion or shallots",
+        "2 garlic cloves",
+        "1 tsp sugar",
+        "1/2 tsp ground Chinese five spice",
+        "1/4 Cup oil",
+        "8 oz vermicelli rice noodles, cooked",
+        "1 red pepper, sliced into strips",
+        "1 carrot, cut into matchsticks",
+        "Handful of mint leaves",
+        "1/4 cup fresh lime juice",
+        "2 tbsp water",
+        "1 tbsp sugar",
+        "1 tbsp soy sauce",
+        "1 red chilli"
+      ],
+      "steps": [
+        "Drain and press the tofu.",
+        "Place lemongrass in a food processor and pulse until very finely chopped.",
+        "Add the onion, garlic, salt, sugar, five spice, and pulse until finely chopped.",
+        "Place mixture in a bowl with sliced tofu and let marinate.",
+        "Mix lime juice, soy sauce, water, sugar, sesame oil and sliced chilli in a small bowl.",
+        "Grill tofu until browned on both sides."
+
+      ],
+      "tags": [
+      ]
     }
   ]
 }
