@@ -5374,7 +5374,7 @@
         "1 cup white wine",
         "4 cups vegtable stock",
         "1/2 teaspoon salt",
-        "3 cans chickpeas",
+        "2 cans chickpeas",
         "1 bunch kale, chopped",
         "Pomegranate seeds",
         "Harissa paste",
@@ -5461,6 +5461,41 @@
         "Mix lime juice, soy sauce, water, sugar, sesame oil and sliced chilli in a small bowl.",
         "Grill tofu until browned on both sides."
 
+      ],
+      "tags": [
+        "Vegan",
+        "Asian"
+      ]
+    },
+    {
+      "image": "red-curry-stir-fry",
+      "title": "Red curry stir fry",
+      "url": "https://www.rabbitandwolves.com/vegan-red-curry-cashew-stir-fry/",
+      "ingredients": [
+        "1 block tofu",
+        "1 can coconut milk",
+        "1/2 cup vegetable stock",
+        "6 cloves garlic",
+        "1 inch ginger",
+        "1/4 cup peanut butter",
+        "1 tbsp red curry paste",
+        "1 lime",
+        "2 tbsp soy sauce",
+        "1 tbsp coconut oil",
+        "1 onion, diced"
+        "2 large carrots, chopped",
+        "1 head broccoli",
+        "1 cup green beans",
+        "1 red pepper",
+        "Rice"
+      ],
+      "steps": [
+        "Drain and press the tofu.",
+        "Cook the rice.",
+        "Blend the coconut milk, vegetable stock, garlic, ginger, peanut butter, curry paste, lime juice and soy sauce.",
+        "Brown cubed tofu in the wok, then add the vegetables and cook.",
+        "Pour three quarters of the sauce in with the vegetables and simmer until sauce thickens.",
+        "Serve and pour remaining sauce over rice and stir fry. Serve with sriracha and lime juice."
       ],
       "tags": [
       ]
