@@ -5495,12 +5495,42 @@
         "Cook the rice.",
         "Blend the coconut milk, vegetable stock, garlic, ginger, peanut butter, curry paste, lime juice and soy sauce.",
         "Brown cubed tofu in the wok, then add the vegetables and cook.",
-        "Pour three quarters of the sauce in with the vegetables and simmer until sauce thickens.",
+        "Pour three quarters of the sauce in and the pak choi with the vegetables and simmer until sauce thickens.",
         "Serve and pour remaining sauce over rice and stir fry. Serve with sriracha and lime juice."
       ],
       "tags": [
         "Asian",
         "Vegan"
+      ]
+    },
+    {
+      "image": "tom-kha-tofu",
+      "title": "Tom kha tofu",
+      "url": "https://www.vegetariantimes.com/recipes/tom-kha-tofu",
+      "ingredients": [
+        "1 block tofu",
+        "1 can coconut milk",
+        "3 cups vegetable stock",
+        "2 stalks lemongrass",
+        "2 inch piece of ginger, thinly sliced",
+        "1 head broccoli",
+        "1 medium courgette, sliced",
+        "1 red pepper, thinly sliced",
+        "2 tbsp soy sauce",
+        "1 tbsp brown sugar",
+        "1 tbsp mirin",
+        "Zest of 1 lime"
+      ],
+      "steps": [
+        "Drain and press the tofu.",
+        "Fry to tofu in sesame oil until golden brown.",
+        "Bring stock and coconut milk to a boil then add the lemograss and ginger. Simmer for ten minutes.",
+        "Strain and discard the lemongrass and ginger then return to pot.",
+        "Add broccoli, courgette, bell pepper, soy sauce, brown sugar, mirin and lime zest.",
+        "Bring to a simmer and cook for 10 minutes.",
+        "Add tofu and cook until heated through."
+      ],
+      "tags": [
       ]
     }
   ]
