@@ -5482,11 +5482,12 @@
         "1 lime",
         "2 tbsp soy sauce",
         "1 tbsp coconut oil",
-        "1 onion, diced"
+        "1 onion, diced",
         "2 large carrots, chopped",
         "1 head broccoli",
         "1 cup green beans",
         "1 red pepper",
+        "Pak choi",
         "Rice"
       ],
       "steps": [
@@ -5498,6 +5499,8 @@
         "Serve and pour remaining sauce over rice and stir fry. Serve with sriracha and lime juice."
       ],
       "tags": [
+        "Asian",
+        "Vegan"
       ]
     }
   ]
