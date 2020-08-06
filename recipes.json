@@ -5542,6 +5542,33 @@
         "Thai",
         "Soup"
       ]
+    },
+    {
+      "image": "enchilada-sauce",
+      "title": "Enchilada sauce",
+      "url": "https://cookieandkate.com/enchilada-sauce-recipe/",
+      "ingredients": [
+        "3 tablespoons olive oil",
+        "3 tablespoons flour",
+        "1 tablespoon ground chili powder",
+        "1 teaspoon ground cumin",
+        "½ teaspoon garlic powder",
+        "¼ teaspoon dried oregano",
+        "¼ teaspoon salt, to taste",
+        "Pinch of cinnamon",
+        "2 tablespoons tomato paste",
+        "2 cups vegetable broth",
+        "1 teaspoon apple cider vinegar or distilled white vinegar"
+      ],
+      "steps": [
+        "Measure the dry ingredients into a small bowl and place it near the stove.",
+        "In a pot warm the oil until it’s it’s hot enough that a light sprinkle of the flour/spice mixture sizzles on contact.",
+        "Once it’s ready, pour in the flour and spice mixture while whisking constantly.",
+        "After a minute add the tomato paste then slowly add the stock, whisking away any lumps.",
+        "Simmer until thickened then take off heat and stir in the vinegar, salt and pepper."
+      ],
+      "tags": [
+      ]
     }
   ]
 }
