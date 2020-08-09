@@ -2,7 +2,6 @@
 
 <html>
     <head>
-        <title>Cookbook</title>
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
         <link rel="stylesheet" href="{% static 'recipes/style.css' %}">
         <script type="text/javascript" src="http://127.0.0.1:35729/livereload.js"></script>
@@ -15,6 +14,7 @@
 
         <script src="{% static 'recipes/jquery.waypoints.min.js' %}"></script>
         <script src="{% static 'recipes/infinite.min.js' %}"></script>
+        <title>{% block title %}Cookbook{% endblock %} | Stitch's recipes</title>
     </head>
     <body>
       <nav class="navbar navbar-dark navbar-expand-lg">
