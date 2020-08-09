@@ -248,7 +248,7 @@ ol li:before {
 		font-size: 36px;
 	}
 
-	.form-check input:checked + label:after {
+	.form-group > .form-check input:checked + label:after {
 		top: 11px;
 	}
 
