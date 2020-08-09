@@ -236,6 +236,22 @@ ol li:before {
 		display:none;
 	}
 
+	body {
+		font-size: 24px;
+	}
+
+	h2, h3 {
+		font-size: 48px;
+	}
+
+	h4 {
+		font-size: 36px;
+	}
+
+	.form-group > .form-check input:checked + label:after {
+		top: 11px !important;
+	}
+
 
 	.search_form {
 		height: 100px;
