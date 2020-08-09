@@ -230,7 +230,7 @@ ol li:before {
 }
 
 @media only screen 
-  and (max-device-width: 1024px) 
+  and (max-device-width: 812px) 
   and (orientation: portrait) { 
 	.navbar > .searchbutton {
 		display:none;
@@ -249,7 +249,7 @@ ol li:before {
 	}
 
 	.form-group > .form-check input:checked + label:after {
-		top: 11px;
+		top: 11px !important;
 	}
 
 
