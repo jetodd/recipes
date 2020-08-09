@@ -237,15 +237,15 @@ ol li:before {
 	}
 
 	body {
-		font-size: 24px;
+		font-size: 18px;
 	}
 
 	h2, h3 {
-		font-size: 48px;
+		font-size: 36px;
 	}
 
 	h4 {
-		font-size: 36px;
+		font-size: 24px;
 	}
 
 	.form-group > .form-check input:checked + label:after {
