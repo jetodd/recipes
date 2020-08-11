@@ -5751,6 +5751,28 @@
         "Vegan",
         "Salad"
       ]
+    },
+    {
+      "image": "peanut-butter-cookies",
+      "title": "Peanut butter cookies",
+      "url": "https://simple-veganista.com/vegan-peanut-butter-cookies/",
+      "ingredients": [
+        "1 cup  peanut butter",
+        "1 cup sugar",
+        "6 tablespoons almond milk",
+        "2 teaspoons vanilla extract",
+        "1 cup flour",
+        "1 teaspoon baking soda",
+        "Pinch of salt"
+      ],
+      "steps": [
+        "Preheat the oven to 180C. Line a tray with a silicone mat.",
+        "In a large bowl, add the peanut butter and sugar and mix until creamy. Stir in the almond milk and vanilla.",
+        "Next, add the flour, baking soda and salt, mix to combine with your hands if necessary.",
+        "Scoop into balls on tray and press down with a fork. Bake for 10 minutes."
+      ],
+      "tags": [
+      ]
     }
   ]
 }
