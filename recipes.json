@@ -5926,8 +5926,8 @@
       ]
     },
     {
-      "image": "vegan-okonomoyaki",
-      "title": "Vegan okonomoyaki",
+      "image": "vegan-okonomiyaki",
+      "title": "Vegan okonomiyaki",
       "url": "https://fullofplants.com/best-vegan-okonomiyaki/",
       "ingredients": [
         "1 can young green jackfruit",
@@ -5967,6 +5967,39 @@
       "tags": [
         "Vegan",
         "Japanese"
+      ]
+    },
+    {
+      "image": "thai-corn-fritters",
+      "title": "Thai corn fritters",
+      "url": "https://www.lazycatkitchen.com/vegan-thai-corn-fritters/",
+      "ingredients": [
+        "1 tbsp ground flax seeds",
+        "3 cups of corn kernels",
+        "1 heaped tbsp red curry paste",
+        "1 tsp baking powder",
+        "3/4 cup rice flour",
+        "1/2 tsp salt",
+        "1/4 tsp pepper",
+        "2 fresh kaffir lime leaves, shredded finely",
+        "Thai sweet chilli sauce"
+      ],
+      "steps": [
+        "Mix the flax seeds with 3 tbsp of water and place in fridge for 20 mins.",
+        "Cut the kernels off the cobs or drain them well if using tinned corn.",
+        "Put half the corn in a food processor with the flax egg and all the remaining ingredients up to and including the pepper.",
+        "Process until you get a smooth batter.",
+        "Transfer the batter to a mixing bowl. Add the other half of the corn kernels and kaffir lime leaves and mix well.",
+        "Place the mixture in the fridge for 30-60 minutes.",
+        "If the mixture runs off the spoon after chilling, stir in an extra 1-2 spoons of rice flour to thicken.",
+        "Heat up the oil in a small pan, form the mixture into flattened patties and cook in pan, this may need several batches to avoid overcrowding.",
+        "Flip the fritters once the first side is done (about 2 minutes or when golden).",
+        "Place the fritters on a plate lined with kitchen towels to absorb the extra moisture.",
+        "Serve warm with a side of Thai sweet chilli sauce."
+      ],
+      "tags": [
+        "Vegan",
+        "Thai"
       ]
     }
   ]
