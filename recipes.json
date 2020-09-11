@@ -6064,6 +6064,25 @@
         "Vegan",
         "Japanese"
       ]
+    },
+    {
+      "image": "mango-lassi",
+      "title": "Mango lassi",
+      "url": "https://minimalistbaker.com/creamy-mango-lassi-smoothie/",
+      "ingredients": [
+        "2 cups frozen ripe mango",
+        "1/2 cup coconut milk",
+        "1/2 cup coconut yogurt",
+        "1-2 tsp maple syrup",
+        "A pinch of cardamom powder"
+      ],
+      "steps": [
+        "Add all the ingredients to a blender and blend until smooth."
+      ],
+      "tags": [
+        "Sweet",
+        "Vegan"
+      ]
     }
   ]
 }
