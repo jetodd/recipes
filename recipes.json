@@ -6083,6 +6083,35 @@
         "Sweet",
         "Vegan"
       ]
+    },
+    {
+      "image": "cajun-baked-fries",
+      "title": "Cajun baked fries",
+      "url": "https://minimalistbaker.com/crispy-cajun-baked-fries-oil-free/",
+      "ingredients": [
+        "3 medium russet potatoes",
+        "1 pinch salt",
+        "1 ½ tsp smoked paprika",
+        "1 tsp garlic powder",
+        "1 tsp dried oregano",
+        "3/4 tsp dried thyme",
+        "1/2 tsp sea salt",
+        "1/4 tsp black pepper",
+        "1/8 tsp cayenne pepper"
+      ],
+      "steps": [
+        "Preheat oven to 210C the line a tray with a baking mat and set aside.",
+        "Wash and scrub your potatoes clean but leave the skin on.",
+        "Put potatoes in a pot and cover with water then add a pinch of salt.",
+        "Bring to a boil and cook until a knife slides in easily and is easily removed. Leave to cool.",
+        "While potatoes are cooking, prepare your spice blend by mixing all spices.",
+        "Once cooled gently slice potatoes into even strips.",
+        "Transfer to the baking sheet and sprinkle on the spice blend. Then gently coat potatoes with spice blend.",
+        "Bake for 20-25 minutes, flipping / tossing at the 15-minute mark."
+      ],
+      "tags": [
+        "Vegan"
+      ]
     }
   ]
 }
