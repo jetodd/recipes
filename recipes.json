@@ -6207,6 +6207,41 @@
         "Vegan",
         "Japanese"
       ]
+    },
+    {
+      "image": "vegetable-pakoras",
+      "title": "Vegetable pakoras",
+      "url": "https://www.ilovevegan.com/vegetable-pakoras/",
+      "ingredients": [
+        "170g potatoes, sliced thin",
+        "1 small white onion, sliced",
+        "1 handful of spinach, roughly chopped",
+        "1/4 cup coriander leaves, roughly chopped",
+        "1 cup chickpea flour",
+        "3/4 cup water",
+        "1/3 cup unbleached all-purpose flour",
+        "2 tsp lemon juice",
+        "1 tsp ground turmeric",
+        "1 tsp ground cumin",
+        "1 tsp  salt",
+        "1/2 tbsp vegetable oil",
+        "1 tbsp whole coriander seeds",
+        "2 tsp chili flakes"
+      ],
+      "steps": [
+        "Heat oil in a pan. Add the coriander seeds and red chili pepper flakes.",
+        "Cook, stirring constantly until the spices are toasted and fragrant. Do not overcook.",
+        "In a bowl combine chickpea flour, water, flour, lemon juice, turmeric, cumin, and salt, to make a smooth batter.",
+        "Gently fold the potatoes, onion, spinach, coriander, and toasted spices into the batter.",
+        "Heat 2 cm of oil. Allow plenty of time for the oil to get hot.",
+        "Use a large tablespoon to drop loose spoonfuls of the pakora batter into the frying oil.",
+        "Cook the first side until deeply golden and crispy, flip and cook the other side.",
+        "Drain cooked pakoras on cooling rack or paper/kitchen towel."
+      ],
+      "tags": [
+        "Indian",
+        "Vegan"
+      ]
     }
   ]
 }
