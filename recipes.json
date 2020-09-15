@@ -6242,6 +6242,38 @@
         "Indian",
         "Vegan"
       ]
+    },
+    {
+      "image": "curried-butternut-squash-soup",
+      "title": "Curried butternut squash soup",
+      "url": "https://www.bonappetit.com/recipe/vegan-butternut-squash-soup",
+      "ingredients": [
+        "1 large butternut squash, peeled and chopped",
+        "3 tbsp melted coconut oil",
+        "1 large onion",
+        "2 large carrots, roughly chopped",
+        "6 cloves garlic",
+        "Handful coriander",
+        "2 tbsp curry powder",
+        "1/2 tsp chilli flakes",
+        "4 cups vegetable stock",
+        "1/2 cup coconut milk",
+        "1 lime"
+      ],
+      "steps": [
+        "Preheat oven to 150C.",
+        "Roughly chop onion, ginger and garlic and add to a bowl.",
+        "In a seperate bowl put the roughly chopped coriander.",
+        "Heat oil in a large saucepan. Add onion mixture, chilli flakes, a pinch of salt and pepper.",
+        "Cook, stirring occasionally until onion is translucent. Add curry powder and mix.",
+        "Add squash and carrot then stir to coat. Add stock and coconut milk then bring to a boil.",
+        "Reduce heat and simmer, stirring occasionally, until the vegetables are very tender.",
+        "Using ladle, fill blender pitcher no more than halfway with equal parts broth and vegetables.",
+        "Make sure there is a vent for the steam to escape then blend each batch until smooth.",
+        "Pour soup back into pot and heat over medium, stirring occasionally and adding lime juice."
+      ],
+      "tags": [
+      ]
     }
   ]
 }
