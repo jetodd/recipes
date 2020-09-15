@@ -6174,6 +6174,39 @@
         "Vegan",
         "Asian"
       ]
+    },
+    {
+      "image": "ginger-scallion-ramen",
+      "title": "Ginger scallion ramen",
+      "url": "https://www.bonappetit.com/recipe/ginger-scallion-ramen-noodles",
+      "ingredients": [
+        "1 5-inch piece ginger, finely chopped",
+        "1/4 cup oil",
+        "4 garlic cloves, finely chopped",
+        "1 large bunch of scallions, thinly sliced",
+        "2 tbsp low-sodium soy sauce",
+        "1 tbsp unseasoned rice vinegar",
+        "1 tsp freshly ground black pepper",
+        "1 tsp toasted sesame oil",
+        "1/2 tsp sugar",
+        "4 packets ramen noodles",
+        "Toasted sesame seeds",
+        "Chilli oil",
+        "Pak choi"
+      ],
+      "steps": [
+        "Stir ginger, garlic, and two-thirds of scallions in a large bowl.",
+        "Heat oil in a small pan over high until oil is shimmery, about 2 minutes.",
+        "Pour hot oil over scallion mixture. Let sit for five minutes then add remaining scallions.",
+        "In the pan cook the halved and cored pak choi with a little soy sauce and garlic.",
+        "Stir in soy sauce, vinegar, pepper, sesame oil, and sugar; season with salt.",
+        "Cook noodles according to package instructions.",
+        "Let sit to let flavors meld, 15 minutes. Taste and adjust seasonings."
+      ],
+      "tags": [
+        "Vegan",
+        "Japanese"
+      ]
     }
   ]
 }
