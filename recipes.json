@@ -6340,6 +6340,33 @@
       "tags": [
         "Vegan"
       ]
+    },
+    {
+      "image": "banana-bread",
+      "title": "Banana bread",
+      "url": "https://www.thebakingfairy.net/2015/05/the-perfect-vegan-banana-bread/",
+      "ingredients": [
+        "4 medium ripe bananas",
+        "1/4 cup vegetable oil",
+        "1/4 cup unsweetened nondairy milk",
+        "1/2 cup light brown sugar",
+        "2 tsp pure vanilla extract",
+        "2 cup unbleached all-purpose flour",
+        "1 tsp cinnamon",
+        "1 tsp baking soda",
+        "1/2 tsp salt"
+      ],
+      "steps": [
+        "Preheat the oven to 180C. Grease and line a bread tin.",
+        "In a large mixing bowl, roughly mash the bananas.",
+        "Add the brown sugar, oil, vanilla, and milk, then whisk to incorporate.",
+        "Mix in the flour, baking soda, salt, and cinnamon and stir until combined.",
+        "Bake for about 40 minutes, then cover with foil and bake for 10 minutes longer."
+      ],
+      "tags": [
+        "Vegan",
+        "Sweet"
+      ]
     }
   ]
 }
