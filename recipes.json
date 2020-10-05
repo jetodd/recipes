@@ -6451,6 +6451,42 @@
         "Indian",
         "Vegan"
       ]
+    },
+    {
+      "image": "oven-baked-chilli",
+      "title": "Oven baked vegan chilli",
+      "url": "https://www.theguardian.com/food/2020/oct/03/meera-sodha-recipe-vegan-oven-baked-chilli-butternut-squash-recipe",
+      "ingredients": [
+        "1 butternut squash, chopped into 2cm chunks",
+        "1 large eggplant, cubed",
+        "2 red onions, peeled and sliced",
+        "2 red peppers, cut into 2cm cubes",
+        "6 garlic cloves, peeled and crushed",
+        "1 tbsp ground cumin",
+        "1 tbsp smoked paprika",
+        "2 tsp chilli powder",
+        "1½ tsp ground cinnamon",
+        "2 bay leaves",
+        "3 tins chopped tomatoes",
+        "1 tins beans, drained",
+        "50g dark chocolate (at least 70%)",
+        "Green chillies",
+        "Tortillas or rice",
+        "1 handful chopped coriander"
+      ],
+      "steps": [
+        "Preheat the oven to 180C, if having rice cook this.",
+        "In the wok with some oil add the squash and fry for five minutes until it browns then transfer to a plate.",
+        "Add some more oil to the wok then add the onions and peppers, and cook until soft.",
+        "Add the garlic and eggplant and cook, then add the butternut squash, salt, spices and bay leaves.",
+        "Give everything a good mix, then add the chopped tomatoes and beans.",
+        "Fill a tomato tins with water, pour that into the pot, then break the chocolate into squares and add.",
+        "Bring to a boil then cover the pot, transfer to the centre of the oven and cook for 45 minutes.",
+        "Take off the lid and cook for a further 15 minutes."      
+      ],
+      "tags": [
+        "Vegan"
+      ]
     }
   ]
 }
