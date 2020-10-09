@@ -6646,6 +6646,39 @@
         "Indian",
         "Vegan"
       ]
+    },
+    {
+      "image": "vegan-tteokbokki",
+      "title": "Vegan tteokbokki",
+      "url": "https://frommybowl.com/vegan-tteokbokki/",
+      "ingredients": [
+        "2 1/2 cups vegetable stock",
+        "3 green onions, chopped; white and green parts separate",
+        "Pak choi, halved and cored",
+        "2 carrots, peeled and sliced",
+        "1 onion, sliced",
+        "5 cloves garlic, minced",
+        "2–3 tablespoons gochujang",
+        "1 tablespoon gochugaru",
+        "2 tbsp soy sauce",
+        "1 tsp sugar",
+        "Shiitake mushrooms, sliced",
+        "450g Korean rice cakes (thawed if frozen)",
+        "1 1/2 tsp toasted sesame oil",
+        "Sesame seeds",
+        "Rice"
+      ],
+      "steps": [
+        "Add the vegetable broth to the wok and bring to a simmer over high heat.",
+        "Add the white parts of the spring onions, carrot, onion and garlic; simmer for 2 to 3 minutes.",
+        "Stir in the gochujang, soy sauce and sugar. Add the mushrooms and simmer for an additional 1 to 2 minutes.",
+        "Add the rice cakes to the pot and simmer for 15 minutes, stirring occasionally. For the last five minutes add the pak choi.",
+        "Turn the heat off and stir in the green onions and sesame oil (optional). Top with sesame seeds."
+      ],
+      "tags": [
+        "Korean",
+        "Vegan"
+      ]
     }
   ]
 }
