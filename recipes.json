@@ -6669,7 +6669,7 @@
         "Rice"
       ],
       "steps": [
-        "Add the vegetable broth to the wok and bring to a simmer over high heat.",
+        "Add the vegetable stock to the wok and bring to a simmer over high heat.",
         "Add the white parts of the spring onions, carrot, onion and garlic; simmer for 2 to 3 minutes.",
         "Stir in the gochujang, soy sauce and sugar. Add the mushrooms and simmer for an additional 1 to 2 minutes.",
         "Add the rice cakes to the pot and simmer for 15 minutes, stirring occasionally. For the last five minutes add the pak choi.",
@@ -6677,6 +6677,50 @@
       ],
       "tags": [
         "Korean",
+        "Vegan"
+      ]
+    },
+    {
+      "image": "spicy-lemongrass-soup",
+      "title": "Spicy lemongrass soup",
+      "url": "https://thevietvegan.com/vegan-spicy-lemongrass-noodle-soup/",
+      "ingredients": [
+        "1 block tofu",
+        "1/4 cup soy sauce",
+        "2 tbsp apple cider vinegar",
+        "1 tbsp maple syrup",
+        "1/3 cup water",
+        "3 cloves garlic, smashed or finely minced",
+        "1 tsp onion powder",
+        "1 tsp oil",        
+        "2 green onions, chopped",
+        "1 1/2 tbsp red curry paste",
+        "1 tbsp finely minced lemongrass",
+        "1 L vegetable broth",
+        "3 stalks celery, sliced thin on a diagonal",
+        "3 bunches glass noodles, soaked in hot water until softened",
+        "1/2 cup snap peas, roughly chopped",
+        "1/2 cup chopped tomatoes",
+        "Pak choi",
+        "2 carrots, peeled and thinly sliced",
+        "1 lime, juiced"
+      ],
+      "steps": [
+        "Drain and press the tofu.",
+        "Combine soy sauce, apple cider vinegar, maple syrup, water, garlic, and onion powder.",
+        "Submerged cut tofu in marinade and let sit in the fridge for at least an hour.",
+        "Fry tofu in oil until golden on each side. Use some of the marinade while cooking.",
+        "Submerge glass noodles in boiling water until softened, then drain.",
+        "Preheat a pot over medium heat. Add oil and fry onions until translucent.",
+        "Add red curry paste and lemongrass and fry until fragrant.",
+        "Add the stock and bring to a boil.",
+        "Add celery and cook for about 3-5 minutes, until just tender with a tiny bit of crunch.",
+        "Add drained and softened noodles to the pot and cook for another 3-4 minutes under tender.",
+        "Add snap peas, pak choi and chopped tomatoes and stir, cooking for another 2-3 minutes.",
+        "Remove from heat and servel. Top with tofu, and add lime juice."
+
+      ],
+      "tags": [
         "Vegan"
       ]
     }
