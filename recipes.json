@@ -6936,6 +6936,89 @@
         "Vegan",
         "Sweet"
       ]
+    },
+    {
+      "image": "lemon-garlic-orzo",
+      "title": "Lemon Garlic Orzo",
+      "url": "https://vanillaandbean.com/lemon-garlic-orzo-with-roasted-vegetables/",
+      "ingredients": [
+        "1/3 cup pine nuts",
+        "1 1/2 cup crimini mushrooms destemmed and sliced",
+        "1 cup diced bell peppers, deseeded and diced",
+        "1 eggplant, diced",
+        "1 courgette, diced",
+        "300g cherry tomatoes cut in 1/2",
+        "2 tsp garlic, minced",
+        "1/2 cup shallots, chopped",
+        "3 tbsp olive oil, divided",
+        "1/2 tsp salt",
+        "1/2 tsp black pepper",
+        "1 cup orzo",
+        "1 1/2 cups vegetable stock",
+        "2 tbsp olive oil 24g",
+        "1 tbsp lemon juice",
+        "1/2 tsp salt",
+        "1/4 tsp black pepper",
+        "2-3 tbsp chopped basil",
+        "2-3 tbsp chopped parsley"
+      ],
+      "steps": [
+        "Preheat oven to 180C and toast pine nuts for 5-6 minutes. Set aside to cool.",
+        "Turn oven up to 220C. Line two sheet pans with parchment paper.",
+        "Place the mushrooms, bell peppers, asparagus, tomatoes, garlic and shallot on one pan and sprinkle with olive oil.",
+        "Sprinkle with salt and pepper then mix again. Spread vegetables to the second tray ensuring no overlap.",
+        "Roast for 30-35 minutes. Rotate pans halfway through roasting.",
+        "In the wok, heat olive oil on medium until shimmering. Add the orzo and stir, coating the orzo thoroughly.",
+        "Stir occasionally for about 3 minutes or until the orzo is toasty and golden. Add the vegetable broth.",
+        "Bring to a simmer, turn down the heat to low, cover and cook for about 15 minutes or until all the liquid is absorbed.",
+        "In a small bowl add the olive oil, lemon juice, salt, and pepper. Whisk until all the ingredients are emulsified.",
+        "In the wok add the roasted veggies and their juices, stir in the dressing and pine nuts and mix."
+      ],
+      "tags": [
+        "Vegan"
+      ]
+    },
+    {
+      "image": "vegan-fajita-bowls",
+      "title": "Vegan fajita bowls",
+      "url": "https://www.lazycatkitchen.com/easy-vegan-fajitas/",
+      "ingredients": [
+        "1/4 cup olive oil",
+        "2 tbsp soy sauce",
+        "2-3 tbsp lime juice",
+        "2 tsp maple syrup",
+        "2 cloves garlic, finely grated",
+        "1 1/4 tsp ground cumin",
+        "1 1/4 tsp smoked paprika",
+        "1/4 tsp black pepper",
+        "1/4 tsp cayenne pepper",
+        "1 red pepper, thickly sliced",
+        "1 green pepper, thickly sliced",
+        "1 courgette, thickly sliced",
+        "1 red onion, thickly sliced",
+        "8 cloves garlic",
+        "300g oyster mushrooms",
+        "2 small sweet potatoes, cubed",    
+        "1-2 ears of corn or a tin of corn",
+        "1-2 ripe avocados",
+        "2 limes",
+        "Small bunch of coriander, finely chopped",
+        "Tin of red kidney beans, drained",
+        "1 cup brown rice or quinoa, cooked"
+      ],
+      "steps": [
+        "Make the marinade by combining the first 9 ingredients together. Mix really well.",
+        "Coat vegetables in the marinade (with the sweet potatoe on a seperate tray) and set aside for as long as possible.",
+        "Preheat the oven to 200 C.",
+        "Bake vegetables (except corn) for 15 minutes, stir and then increase the temperature 220C to bake for another 15-20 minutes.",
+        "Cook the rice or quinoa.",
+        "If using corn on the cob, brush the kernels with a small amount of oil and char them on a griddle pan, turning the cobs every few minutes.",
+        "Smash avocado with a fork, season with lime juice, salt and pepper."
+      ],
+      "tags": [
+        "Vegan",
+        "Mexican"
+      ]
     }
   ]
 }
