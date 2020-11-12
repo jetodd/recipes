@@ -7445,7 +7445,7 @@
       ]
     },
     {
-      "image": "stuffed-curried-eggplants",
+      "image": "stuffed-curried-eggplant",
       "title": "Stuffed curried eggplants",
       "url": "https://www.jamieoliver.com/recipes/aubergine-recipes/stuffed-curried-aubergines/",
       "ingredients": [
@@ -7482,6 +7482,39 @@
         "Cook the rice."
       ],
       "tags": [
+        "Vegan"
+      ]
+    },
+    {
+      "image": "vegan-matcha-cookies",
+      "title": "Vegan matcha cookies",
+      "url": "https://wowitsveggie.com/vegan-matcha-cookies/",
+      "ingredients": [
+        "2 cups flour",
+        "2 tsp baking powder",
+        "1 tsp baking soda",
+        "1/2 cup sugar",
+        "1.5 tablespoon matcha powder",
+        "1/2 tsp sea salt",
+        "2/3 cup maple syrup",
+        "2 tsp vanilla extract",
+        "1/2 cup oil",
+        "2/3 cup vegan white chocolate chips",
+        "1/4 cup dessicated coconut"
+      ],
+      "steps": [
+        "Preheat oven to 180C",
+        "In a medium bowl sift flour, baking powder, baking soda, sugar, matcha powder, coconut and salt. Use a fork to combine.",
+        "In another bowl, combine maple syrup with vanilla and oil and stir until well combined.",
+        "Add the wet mixture to the dry and stir using a wooden spoon once or twice only!",
+        "Then add the vegan white chocolate chips. Use a wooden spoon to fold until the vegan white chocolate chips are combined but don't overmix.",
+        "Line a baking sheet and scoop the mixture into individual tablespoon sized balls.",
+        "Smoosh the cookie dough down so that the cookies are flat.",
+        "Bake the cookies for 11 minutes. Do not overcook!"
+      ],
+      "tags": [
+        "Vegan",
+        "Sweet"
       ]
     }
   ]
