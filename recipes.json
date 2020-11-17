@@ -7548,6 +7548,40 @@
         "Sweet",
         "Vegan"
       ]
+    },
+    {
+      "image": "vegan-pesto-pasta",
+      "title": "Vegan pesto pasta",
+      "url": "https://www.lazycatkitchen.com/vegan-pesto-pasta-kale/",
+      "ingredients": [
+        "1/2 cup almonds",
+        "100g kale",
+        "25g basil",
+        "2 garlic cloves",
+        "1 lemon, zest and juice",
+        "3 tbsp nutritional yeast",
+        "1/2 cup olive oil",
+        "Rigatoni or penne",
+        "3/4 cup peas",
+        "1/2 head broccoli, cut into florets",
+        "2 courgettes, sliced thinly",
+        "2 red pappers, halved and cored",
+        "Chilli flakes"      
+      ],
+      "steps": [
+        "Preheat oven to 200C, place peppers cut side down on a tray and bake for 15 - 20 mins.",
+        "Roast the almonds in a hot pan until golden and fragrant, let cool.",
+        "Place ingredients from almonds to nooch in blender and blend until finely chopped.",
+        "Start trickling olive oil into the blender while still blending.",
+        "Boil a large pot of water and cook your pasta al dente. Drain pasta but don't discard water.",
+        "Boil frozen peas for two minutes in the pasta water.",
+        "Stir fry the broccoli and courgette.",
+        "Take the skin off the roasted red peppers and roughly chop.",
+        "Serve pasta mixed with pesto and topped with vegetables and chilli flakes."
+      ],
+      "tags": [
+        "Vegan"
+      ]
     }
   ]
 }
