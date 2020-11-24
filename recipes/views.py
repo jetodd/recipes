@@ -88,19 +88,6 @@ def move(request):
             recipe.save()
         return HttpResponseRedirect('/recipes')
 
-def generate(request):
-    recipes = Recipe.objects.filter(next_week=True)
-    shopping = ShoppingItem.objects.all()
-
-    if request.method == 'POST':
-        for recipe in recipes:
-            ingredients = json.loads(recipe.ingredients)
-            print(ingredients)
-            for ingredient in ingredients['ingredients']:
-                item = ShoppingItem(name=ingredient, recipe=recipe)
-                item.save()
-
-        return HttpResponseRedirect('/recipes')
 
 def deleteitems(request):
     if request.method == 'POST':
