@@ -7756,6 +7756,33 @@
         "Vegan",
         "Japanese"
       ]
+    },
+    {
+      "image": "vegetable-fried-rice",
+      "title": "Veggie fried rice",
+      "url": "https://www.gimmesomeoven.com/fried-rice-recipe/",
+      "ingredients": [
+        "Cooked, chilled rice",
+        "Eggs",
+        "Carrots, onions, green onions and peas",
+        "Other stir fried veggies if you want",  
+        "Garlic minced",
+        "Soy sauce",
+        "Toasted sesame oil",
+        "Butter",
+        "MSG"
+      ],
+      "steps": [
+        "Scramble your eggs, transfer the eggs to a separate plate, and set aside",
+        "Sauté your veggies and garlic",
+        "Stir fry rice on high, Scooch the veggies over to one side of the pan, melt the remaining butter in the other half, and add the chilled rice, soy sauce, and oyster sauce (if using).  Then stir to combine with the veggies and continue sautéing the rice, stirring every 15-20 seconds or so for 3 minutes, or until you notice the rice and veggies starting to brown slightly.",
+        "Remove pan from heat. And stir in your green onions, sesame oil, and scrambled eggs.",
+        "Taste and season.  Give the rice a taste, and season with salt and pepper, plus any extra soy sauce or sesame oil if needed."
+      ],
+      "tags": [
+        "Asian",
+        "Vegetarian"
+      ]
     }
   ]
 }
