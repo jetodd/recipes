@@ -7672,6 +7672,133 @@
         "Breakfast",
         "Vegan"
       ]
+    },
+    {
+      "title": "Thai burrito",
+      "image": "thai-burrito",
+      "url": "https://www.feastingathome.com/thai-burrito/",
+      "ingredients": [
+        "Juice of 1 orange",
+        "2 tbsp red curry paste",
+        "1 tbsp olive oil",
+        "1 tbsp sesame oil",
+        "1 tbsp maple syrup",
+        "1 tbsp rice vinegar",
+        "1/2 cup peanut butter",
+        "1 block tofu",
+        "1 cup cooked rice",
+        "1 can black beans, seasoned with sriracha.",
+        "1 cup shredded cabbage",
+        "1 cup shredded carrots",
+        "1 red bell pepper, thinly sliced",
+        "1 red onion, thinly sliced",
+        "1 large avocado, sliced",
+        "1/2 cup coriander or Thai basil",
+        "4 tortillas, warmed.",
+        "Crushed roasted peanuts"
+      ],
+      "steps": [
+        "Drain and press the tofu and preheat oven to 200 celsius.",
+        "Clean and cook the rice.",
+        "In the blender add ingredients from orang juice to peanut butter, blend until smooth.",
+        "Cut tofu into strips and brush all sides with peanut sauce, adding extra on the top.",
+        "Bake tofu in the oven for 15 - 20 minutes.",
+        "Heat the beans in the wok along with any spices you want to add.",
+        "Warm the tortillas and assemble the burritos."
+      ],
+      "tags": [
+        "Vegan",
+        "Fusion",
+        "Thai"
+      ]
+    },
+    {
+      "title": "Courgette cakes",
+      "image": "courgette-cakes",
+      "url": "https://www.feastingathome.com/zucchini-cakes-with-jalapeno-and-lime/",
+      "ingredients": [
+        "2 courgettes, grated",
+        "1/2 tsp salt",
+        "2 garlic cloves, finely minced",
+        "2 scallions, finely sliced",
+        "2 teaspoons chopped chilli",
+        "1/4 cup chopped cilantro",
+        "Zest from a small lime",
+        "1 tsp cumin",
+        "1 tsp smoked paprika",
+        "1 egg",
+        "1/2 cup bread crumbs",
+        "1/2 tsp baking powder",
+        "1/2 cup grated cheese"
+      ],
+      "steps": [
+        "Grate courgette with a food processor with the grater attachment.",
+        "Toss with the salt and place in a strainer over a bowl to let the liquid drain out for 30 minutes.",
+        "Press out the remaining liquid with your hands.",
+        "Add garlic, scallions, jalapeño, herbs, lime zest, cumin and smoked paprika. Mix.",
+        "Add in the egg and mix it in well.",
+        "Mix the baking powder with the breadcrumbs, then add both to the bowl. Add optional cheese.",
+        "Give it a good stir. It should be like a thick paste. If it seems too wet, add a another tablespoon or two of bread crumbs.",
+        "Heat oil in a pan. Spoon the mixture into the pan, creating golf ball-sized rounds. Flatten slightly, and sear each side until golden."
+      ],
+      "tags": [
+        "Vegetarian"
+      ]
+    },
+    {
+      "title": "Brinjal curry",
+      "image": "brinjal-curry",
+      "url": "https://www.feastingathome.com/brinjal-curry-indian-eggplant/",
+      "ingredients": [
+        "20 small, golfball sized eggplants",
+        "2–3 tbsp coconut oil",
+        "4 tablespoons dry lentil dahl",
+        "5 dried whole red chilies",
+        "4 tbsp garam masala",
+        "2 tbsp coriander seeds",
+        "1 tbsp cumin seeds",
+        "1/2 tsp ground turmeric",
+        "1/4 tsp ground black pepper",
+        "6 fat garlic cloves",
+        "3 inches ginger, sliced thin",
+        "1 cup (fresh) grated coconut",
+        "1/2 tsp salt",
+        "1/2 cup water",
+        "4 tbsp tamarind paste",
+        "2 tbsp brown sugar",
+        "2 vegetable stock",
+        "2 tbsp coconut oil",
+        "1 tablespoon mustard seeds",
+        "1/2 teaspoon asafoetida",
+        "1/4 cup curry leaves",
+        "1 large onion, thinly sliced",
+        "1 cup tomato, diced",
+        "Rice",
+        "Naan",
+        "Coriander"
+      ],
+      "steps": [
+        "Make 2 cuts down the center of the eggplant to make an x, but only about 3/4 of the way through.",
+        "Place in a bowl and cover with warm water and mix in 1 tsp salt, let soak for about 20-30 mins.",
+        "Heat oil. Saute, stirring the dahl until it becomes golden. about 5 minutes.",
+        "Increase heat then add dried chilies, garam masala, turmeric, coriander seeds, and black pepper.",
+        "Stir until spices toast and become fragrant.",
+        "Remove from heat and to a blender with the grated coconut, garlic and ginger.",
+        "Add the salt, 1/2 cup water and pulse and blend until you have a uniform paste",
+        "Whisk with a fork the tamarind paste, brown sugar and water in a medium bowl. Set aside.",
+        "Heat oil in the wok and saute mustard seeds until they start to crackle, add asafoetida and curry leaves.",
+        "Add the eggplant and stir often, until their color changes and the skin looks a bit blister-y.",
+        "Add the sliced onion to the pan, stir and saute until onions become transparent.",
+        "Add the masala spice paste and stir so all of the eggplant is covered. Cook 3-4 minutes stirring.",
+        "Add the tomatoes and tamarind water. Stir, and space eggplant evenly, cover and simmer for 15-20 min.",
+        "Clean and cook the rice.",
+        "Open the lid and rearrange the brinjal, slightly prying them with a spoon, cover and simmer for 15-20 more min.",
+        "Cook uncovered for 5 minutes to thicken up the masala sauce and concentrate those flavors."
+      ],
+      "tags": [
+        "Indian",
+        "Vegan"
+      ]
     }
   ]
 }
