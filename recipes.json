@@ -8417,6 +8417,32 @@
         "Soup",
         "Vegan"
       ]
-    }   
+    },
+    {
+      "title": "Strawberry rhubarb bars",
+      "url": "https://www.loveandlemons.com/strawberry-rhubarb-crumble-bars/",
+      "image": "strawberry-rhubarb-bars",
+      "ingredients": [
+        "1 cup diced strawberries",
+        "1 cup diced rhubarb",
+        "1 teaspoon cornstarch",
+        "1/2 teaspoon lemon juice",
+        "1/2 teaspoon maple syrup",
+        "1/4 teaspoon vanilla",
+        "2/3 cup whole rolled oats, plus more for garnish",
+        "2/3 cup chopped walnuts",
+        "1/2 cup almond flour",
+        "1/2 cup brown sugar",
+        "1/4 cup ground flaxseed",
+        "1 teaspoon cinnamon",
+        "1/4 teaspoon sea salt",
+        "2 tablespoon firm coconut oil, more for greasing",
+        "1 1/2 tablespoons water"
+      ],
+      "steps": [
+      ],
+      "tags": [
+      ]
+    } 
   ]
 }
