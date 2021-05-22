@@ -8348,6 +8348,38 @@
         "Vegan",
         "Soup"
       ]
+    },
+    {
+      "title": "Sheet pan ratatouille",
+      "url": "https://www.feastingathome.com/sheet-pan-ratatouille-served-3-ways/",
+      "image": "sheet-pan-ratatouille",
+      "ingredients": [
+        "1 large eggplant",
+        "3 bell peppers",
+        "2 medium tomatoes",
+        "2 courgettes",
+        "2 tomatoes",
+        "2 red onions",
+        "12 garlic cloves, peeled",
+        "2–3 tablespoon fresh herbs",
+        "1 cup stone-ground polenta",
+        "4 to 4 1/2 cups water, divided",
+        "2 tablespoons extra-virgin olive oil",
+        "1/2 teaspoon sea salt"
+      ],
+      "steps": [
+        "Preheat oven to 200C and line two baking trays.",
+        "Cut all the vegetables into bite size pieces and spread out on baking trays.",
+        "Drizzle with olive oil and toss to coat. Sprinkle with salt and pepper. Toss well.",
+        "Roast for 15 minutes, mix the veggies, roast 15 more minutes, mix again.",
+        "Turn heat down to 150C and roast 10-20 more minutes, or until tender and edges begin to caramelize.",
+        "In the meantime in a blender, pulse the dry polenta to make the granules less coarse.",
+        "In a medium pot, bring 3 cups of water to a high simmer. Slowly whisk in the polenta.",
+        "Add 1 more cup of water and simmer for 15 minutes, stirring frequently.",
+        "Turn off the heat and whisk in the olive oil and sea salt. Cover and let stand for 5 minutes."
+      ],
+      "tags": [
+      ]
     }
   ]
 }
