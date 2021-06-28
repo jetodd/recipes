@@ -6908,22 +6908,23 @@
         "3 Tbsp soy sauce",
         "2 Tbsp lime juice",
         "2 Tbsp maple syrup",
-        "6 ounces vermicelli noodles",
+        "Vermicelli noodles",
         "2 carrots, julienned",
         "1 red onion, finely sliced",
-        "2 spring onions, finely chopped",
-        "1/4 cup chopped coriander",
-        "2-3 Tbsp chopped mint",
-        "1 cup loosely packed spinach ,chopped",
-        "1 medium red bell pepper ,thinly sliced",
-        "Pak choi"
+        "1/2 cup chopped coriander",
+        "1 mango, cubed",
+        "2-3 tbsp chopped mint",
+        "1 cup spinach, chopped",
+        "1 red bell pepper, thinly sliced",
+        "1 cup thinly sliced red cabbage",
+        "Pak choi, halved and cored"
       ],
       "steps": [
         "Drain and press the tofu.",
         "Combine chilies, sesame oil, peanut butter, soy sauce, lime juice and maple syrup.",
         "Marinate tofu in the sauce for as long as possible, at least two hours.",
         "Cook marinated tofu in the frying pan, keeping the sauce it was marinated in.",
-        "Cook rice noodles according to package instructions, rinse, drain, and set aside to cool.",
+        "Cook rice noodles according to package instructions along with pak choi, rinse, drain, and set aside to cool.",
         "To a large bowl add noodles, tofu, sauce and vegetables and toss loosely to combine."
       ],
       "tags": ["Vegan", "Asian"]
@@ -8451,6 +8452,43 @@
       ],
       "tags": [
         "Sweet"
+      ]
+    },
+    {
+      "title": "Lemon, Asparagus & Pea Pasta",
+      "url": "https://theyummyvegan.com/blog/paastawithlemontarragonasapargusandpeas",
+      "image": "lemon-tarragon-pasta",
+      "ingredients": [
+        "388g linguine",
+        "1 bunch asparagus sliced into 1 inch pieces",
+        "1 cup frozen peas",
+        "1 cup grated vegan parmesan cheese",
+        "6 cloves of garlic crushed",
+        "1 1/2 cups plant milk",
+        "1 cup pasta water",
+        "150g plain yogurt",
+        "2 1/2 tbsp vegan butter",
+        "2 1/2 tbsp flour",
+        "2 Tbsp fresh tarragon, chopped",
+        "2 Tbsp (30g) lemon zest",
+        "1 Tbsp lemon juice",
+        "Salt & pepper",
+        "Chilli flakes"
+      ],
+      "steps": [
+        "Bring a large pot of salted water to boil and quickly cook your asparagus for 2-3 minutes.",
+        "Add the pasta to the boiling water and cook as per the package directions. Reserve 1 cup of the pasta water",
+        "Melt the butter in the wok. Once the butter is melted add the garlic and let cook for 1-2 minutes.",
+        "Add in the flour and mix until well combined. Let the mixture cook for a minute.",
+        "Add the milk a little at a time whilst stirring. Once combined add the grated parmesan and mix until melted.",
+        "Add the pasta water and let the sauce cook for a minute to thicken.",
+        "Add the yogurt, tarragon, lemon juice and 1/2 of the lemon zest then season with salt & pepper. Stir well.",
+        "Toss in the cooked pasta, asparagus, chilli flakes and peas and gently mix everything together.",
+        "Top with the remaining tarragon and lemon zest."
+      ],
+      "tags": [
+        "Vegan",
+        "Pasta"
       ]
     }
   ]
