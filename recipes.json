@@ -8495,7 +8495,7 @@
     {
       "title": "Matcha cookies",
       "url": "https://www.reddit.com/r/veganrecipes/comments/o7ha5r/i_made_some_vegan_hojicha_chocolate_chip_cookies/",
-      "image": "",
+      "image": "matcha-cookies",
       "ingredients": [
         "190g all purpose flour",
         "1/2 tsp baking powder",
@@ -8522,6 +8522,42 @@
       "tags": [
         "Vegan",
         "Sweet"
+      ]
+    },
+    {
+      "title": "Onion bhaji",
+      "url": "https://www.reddit.com/r/veganrecipes/comments/oa6cue/onion_bhajis_with_mint_coriander_chutney/",
+      "image": "onion-bhaji",
+      "ingredients": [
+        "4-6 onions, cut into slices",
+        "2 green chili, chopped",
+        "1 thumb-sized piece ginger, minced",
+        "1/2 tsp turmeric",
+        "1/2 tsp coriander",
+        "1 tsp chili flakes",
+        "100g chickpea flour",
+        "1 tbsp vegetable oil",
+        "1 tsp corn starch",
+        "1 tsp soda",
+        "1 tsp salt",
+        "50ml water",
+        "mint leaves, chopped",
+        "coriander, chopped",
+        "1 chili, chopped",
+        "1 thumb-sized piece ginger, minced",
+        "cumin",
+        "1 lemon, juiced",
+        "1 tbsp water"
+      ],
+      "steps": [
+        "Blend all ingredients for the chutney (from mint onwards) until smooth.",
+        "Preheat oven to 200°C.",
+        "Mix all remaining ingredients for the bhajis well.",
+        "Form the mixture into balls and place them on baking sheet. Bake for 40 minutes."
+      ],
+      "tags": [
+        "Vegan",
+        "Indian"
       ]
     }
   ]
