@@ -9211,14 +9211,18 @@
             "ingredients": [
                 "1 can whole peeled tomatoes",
                 "1 medium sweet onion, peeled and halved",
-                "2 large garlic cloves, peeled but left whole",
+                "5 large garlic cloves, peeled but left whole",
                 "2 tablespoons olive oil",
                 "1 teaspoon dried oregano",
+                "Brown sugar",
+                "Rosemary",
+                "Thyme",
+                "Basil",
                 "Pinch of red pepper flakes",
                 "Salt, to taste"
             ],
             "steps": [
-                "In a medium, heavy-bottomed saucepan, combine the tomatoes (with their juices), halved onion, garlic cloves, olive oil, oregano and red pepper flakes.",
+                "In a medium, heavy-bottomed saucepan, combine the tomatoes (with their juices), halved onion, garlic cloves, olive oil, brown sugar and herbs.",
                 "Bring the sauce to a simmer over medium-high heat, then lower the heat to keep the sauce at a slow, steady simmer for about 45 minutes, or until droplets of oil float free of the tomatoes. Stir occasionally, and use a sturdy wooden spoon to crush the tomatoes against the side of the pot after about 15 minutes has passed.",
                 "Remove the pot from the heat and discard the onion. Smash the garlic cloves against the side of the pot with a fork, then stir the smashed garlic into the sauce. Do the same with any tiny onion pieces you might find. Use the wooden spoon to crush the tomatoes to your liking (you can blend this sauce smooth with an immersion blender or stand blender, if desired).",
                 "Add salt, to taste",
@@ -9226,7 +9230,44 @@
             ],
             "tags": [
                 "Italian",
-                "Vegetarian"
+                "Vegetarian",
+                "Pasta"
+            ]
+        },
+        {
+            "title": "Pasta alla Norma",
+            "url": "https://cookieandkate.com/pasta-alla-norma-recipe/",
+            "image": "pasta-alla-norma",
+            "ingredients": [
+                "Marinara sauce, see other recipe",
+                "2 medium eggplants",
+                "¼ cup + 1 teaspoon extra-virgin olive oil",
+                "¼ teaspoon fine salt, more to taste",
+                "8 ounces rigatoni, ziti or spaghetti",
+                "½ cup chopped fresh basil, plus a handful more small basil leaves or torn leaves for garnish ",
+                "½ to 1 teaspoon red pepper flakes,",
+                "½ teaspoon dried oregano",
+                "¾ cup vegan parmesan cheese"
+            ],
+            "steps": [
+                "Make marinara sauce",
+                "Preheat oven to 220C",
+                "Shave off long alternating strips of eggplant peel with a peeler. The eggplants will look striped like zebras when you’re done.",
+                "Slice the eggplants into ½-inch thick rounds, discarding the end pieces",
+                "Place the eggplant on the lined baking sheets.",
+                "Brush the rounds with olive oil on both sides. Sprinkle the eggplant with the salt and plenty of pepper",
+                "Roast until deeply golden and tender, about 35 to 45 minutes, flipping after 20 minutes. Set aside",
+                "Bring a large pot of salted water to boil and cook the pasta until al dente, according to package directions. Reserve some pasta cooking water before draining (about ½ cup should be plenty), then return the pasta to the pot",
+                "When the eggplant is done and the marinara is finished cooking (or warmed through, if using store-bought), gently stir the roasted eggplant into the sauce. Add the remaining 1 teaspoon olive oil, fresh basil, red pepper flakes. Crush the dried oregano between your fingers as you drop it in",
+                "Add the pasta to the sauce with a couple tablespoons of the reserved pasta cooking water, and gently stir it in.",
+                "Add about two-thirds of the cheese, reserving the rest for garnish",
+                "Season to taste with additional salt and black pepper. You can add a bit more of the reserved pasta cooking water to loosen up the sauce, if desired",
+                "Sprinkle the remaining cheese on top of the individual servings, followed by some extra fresh basil. For added richness, drizzle the servings lightly with olive oil"
+            ],
+            "tags": [
+                "Italian",
+                "Vegetarian",
+                "Pasta"
             ]
         }
     ]
