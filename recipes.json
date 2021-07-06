@@ -9307,6 +9307,33 @@
             "tags": [
                 "Vegan"
             ]
+        },
+        {
+            "title": "Breakfast bagel",
+            "image": "breakfast-bagel",
+            "url": "thissavoryvegan.com/the-best-vegan-breakfast-sandwiches/",
+            "ingredients": [
+                "Bagels",
+                "Moving mountains sausage patty",
+                "Hash brown",
+                "Slice of vegan cheese",
+                "Avocado",
+                "Scrambled tofu",
+                "Halloumi",
+                "Aioli",
+                "Spinach",
+                "Red onion"
+            ],
+            "steps": [
+                "Put the hasbrowns in the oven, partway through cooking add the halloumi.",
+                "Cook the patties in the frying pan on the stove, add the cheese slice once half cooked.",
+                "Toast the bagels.",
+                "Thinly slice the onion and avocado.",
+                "Assemble"
+            ],
+            "tags": [
+                "Breakfast"
+            ]
         }
     ]
 }
