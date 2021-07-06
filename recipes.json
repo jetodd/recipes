@@ -9269,6 +9269,44 @@
                 "Vegetarian",
                 "Pasta"
             ]
+        },
+        {
+            "title": "Mango ginger rice bowl",
+            "image": "mango-ginger-rice-bowl",
+            "url": "https://www.loveandlemons.com/rice-bowl/",
+            "ingredients": [
+                "1 to 2 cups cooked rice",
+                "1 small carrot, sliced very thinly",
+                "1 mango, diced",
+                "2 tbsp pickled ginger",
+                "1/4 cup thinly sliced spring onions",
+                "1/4 cup toasted peanuts",
+                "Sprinkle of sesame seeds",
+                "Nori",
+                "1/2 avocado, diced",
+                "Edamame",
+                "Pak choi",
+                "1/4 cup natural creamy peanut butter",
+                "2 tbsp lime juice",
+                "1 tbsp rice vinegar",
+                "1 tbsp soy sauce",
+                "1/2 tsp sriracha"
+                "1/4 teaspoon maple syrup",
+                "1 to 3 tablespoons water",
+                "1 garlic clove, grated",
+                "1/2 tsp grated ginger",
+                "1/2 tsp toasted sesame oil"
+            ],
+            "steps": [
+                "In a small bowl, whisk together the peanut butter, lime juice, tamari, sriracha, and maple syrup.",
+                "Whisk in water, 1 tablespoon at a time, to reach a drizzleable consistency.",
+                "If desired, stir in garlic, ginger, sesame oil, and/or more sriracha.",
+                "Steam the pak choi in the microwave.",
+                "Assemble the bowls."
+            ],
+            "tags": [
+                "Vegan"
+            ]
         }
     ]
 }
