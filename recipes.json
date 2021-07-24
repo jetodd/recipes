@@ -9451,6 +9451,28 @@
             "tags": [
                 "Vegan"
             ]
+        },
+        {
+            "title": "Pineapple aqua fresca",
+            "image": "pineapple-agua-fresca",
+            "url": "https://zestysouthindiankitchen.com/pineapple-mint-agua-fresca/",
+            "ingredients": [
+                "2 cups pineapple, chopped",
+                "Half a lime, squeezed",
+                "2 sprigs mint",
+                "1 1/2 cups water",
+                "1/2 tbsp maple syrup",
+                "Ice cubes"
+            ],
+            "steps": [
+                "In a blender combine pineapple, lime juice, maple syrup and water and blend until smooth.",
+                "Serve over ice."
+            ],
+            "tags": [
+                "Vegan",
+                "Drink",
+                "Sweet"
+            ]
         }
     ]
 }
