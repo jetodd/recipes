@@ -9519,6 +9519,49 @@
                 "Vegan",
                 "Stew"
             ]
+        },
+        {
+            "title": "Dal Makhani",
+            "url": "https://www.fromthecomfortofmybowl.com/vegan-dal-makhani/",
+            "image": "dal-makhani",
+            "ingredients": [
+                "1 cup black lentils",
+                "1/4 red kidney beans",
+                "2 tbsp vegan butter",
+                "2 large onions, sliced",
+                "2 tbsp minced ginger",
+                "2 tbsp minced garlic",
+                "1 cup tomato puree",
+                "3 Bay leaves",
+                "1 tsp salt, or to taste",
+                "1 can coconut milk",
+                "1 handful chopped coriander",
+                "2 tsp turmeric",
+                "2 tsp Kashmiri chilli powder",
+                "2 tsp cumin",
+                "4 tsp ground coriander",
+                "2 tsp garam masala",
+                "1 tsp ground fenugreek",
+                "1 cinnamon stick",
+                "Naan"
+            ],
+            "steps": [
+                "Add lentils and kidney beasn to a bowl and rinse thoroughly several times.",
+                "Drain the water and add four fresh cups of water. Soak overnight.",
+                "Drain the water and add another four cups, boil lentils and beans until tender, roughly an hour.",
+                "Brown the onions in the butter in a large pot on low heat. Stir occasionally to avoid burning.",
+                "Add the minced garlic and ginger and soften.",
+                "Add turmeric, chili powder, cumin, coriander, garam masala, cinnamon and fenugreek. Toast until fragrant.",
+                "Stir in the tomato purée and cook until most of the liquid evaporates. Stir occasionally to prevent burning.",
+                "Add kidney beans and lentils along with the cooking liquid to the pot. Add the bay leaves.",
+                "Cover the pot and let it simmer for 20 minutes.",
+                "Stir in most of the coconut milk and simmer for 10 more minutes.",
+                "Garnish with with a dollop of coconut cream and fresh coriander leaves before serving."
+            ],
+            "tags": [
+                "Vegan",
+                "Indian"
+            ]
         }
     ]
 }
