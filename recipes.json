@@ -6239,7 +6239,8 @@
             ],
             "tags": [
                 "Thai",
-                "Vegan"
+                "Vegan",
+                "Salad"
             ]
         },
         {
@@ -6297,7 +6298,8 @@
             ],
             "tags": [
                 "Sweet",
-                "Vegan"
+                "Vegan",
+                "Indian"
             ]
         },
         {
@@ -6361,7 +6363,8 @@
                 "Assemble burgers."
             ],
             "tags": [
-                "Vegan"
+                "Vegan",
+                "Burger"
             ]
         },
         {
@@ -6488,7 +6491,9 @@
                 "Make sure there is a vent for the steam to escape then blend each batch until smooth.",
                 "Pour soup back into pot and heat over medium, stirring occasionally and adding lime juice."
             ],
-            "tags": []
+            "tags": [
+                "Soup"
+            ]
         },
         {
             "image": "spaghetti-squash-alfredo",
@@ -6935,7 +6940,8 @@
                 "Remove from heat and servel. Top with tofu, and add lime juice."
             ],
             "tags": [
-                "Vegan"
+                "Vegan",
+                "Soup"
             ]
         },
         {
@@ -6980,7 +6986,8 @@
                 "Top with coriander and chopped peanuts."
             ],
             "tags": [
-                "Vegan"
+                "Vegan",
+                "Curry"
             ]
         },
         {
@@ -8847,7 +8854,8 @@
                 "Serve topped with sliced spring onion, sesame seeds and a drizzle of sesame oil."
             ],
             "tags": [
-                "Vegan"
+                "Vegan",
+                "Soup"
             ]
         },
         {
@@ -8884,7 +8892,8 @@
                 "For the croutons, heat up olive oil, toast garlic until fragrant, then add bread cubes and fry until browned."
             ],
             "tags": [
-                "Vegan"
+                "Vegan",
+                "Soup"
             ]
         },
         {
@@ -9449,7 +9458,8 @@
                 "Bring marinade to a boil. Combine cornstarch with 2 tbsp warm water then mix into the sauce."
             ],
             "tags": [
-                "Vegan"
+                "Vegan",
+                "Chinese"
             ]
         },
         {
@@ -9472,6 +9482,42 @@
                 "Vegan",
                 "Drink",
                 "Sweet"
+            ]
+        },
+        {
+            "title": "Mixed bean stew",
+            "image": "mixed-bean-stew",
+            "url": "https://deliciouslyella.com/recipes/mixed-bean-stew-with-crispy-kale/",
+            "ingredients": [
+                "1 red onion, chopped",
+                "6 garlic cloves, chopped",
+                "100g sun-dried tomatoes, chopped",
+                "2 tsp of smoked paprika",
+                "1/2 tsp cinnamon",
+                "1 tsp chilli flakes",
+                "1 tsp cumin",
+                "2 tbsp of tomato puree",
+                "1 can chopped tomatoes",
+                "1 tsp of maple syrup",
+                "1 can red kidney beans, drained",
+                "1 can black beans, drained",
+                "1 can butter beans, drained",
+                "1 bag chopped kale",
+                "Bread"
+            ],
+            "steps": [
+                "Preheat the oven to 190C.",
+                "Place a large pan over a medium heat and add a drizzle of olive oil.",
+                "Add the onion, garlic and a pinch of salt. Cook until soft.",
+                "Add the chopped sun-dried tomatoes and spices, mix well and cook for a few minutes ",
+                "Add the tomato puree, chopped tomatoes, maple syrup and beans.",
+                "Mix then simmer for 10-15 minutes, add a dash of water if the stew becomes too thick.",
+                "Place the chopped kale onto a lined baking tray and drizzle with olive oil and a sprinkling of salt.",
+                "Mix well and cook for 10 minutes until crispy. Mix the kale through the stew."
+            ],
+            "tags": [
+                "Vegan",
+                "Stew"
             ]
         }
     ]
