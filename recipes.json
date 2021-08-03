@@ -9562,6 +9562,39 @@
                 "Vegan",
                 "Indian"
             ]
+        },
+        {
+            "title": "Mitarashi dango",
+            "image": "mitarashi-dango",
+            "url": "https://okonomikitchen.com/mitarashi-dango/",
+            "ingredients": [
+                "50g shiratamako (sweet rice flour)",
+                "30g joshinko rice flour (sub shiratamako) ",
+                "115g silken tofu",
+                "1 tbsp Japanese soy sauce ",
+                "1/2–1 tbsp mirin",
+                "3 tbsp water",
+                "2–3 tbsp coconut sugar",
+                "1 1/2 tsp potato starch",
+                "Bamboo skewers"
+            ],
+            "steps": [
+                "Soak the bamboo skewers in water.",
+                "Roughly mash the tofu with a fork. Add the shiratamako flour and knead until a smooth, soft dough forms.",
+                "Divide the dough into 12 pieces (15g each). Roll them into balls.",
+                "Bring a pot of water to a boil and then add all the dango.",
+                "Stir the balls occasionally so they don’t stick on the bottom of the pot.",
+                "Once they are cooked, they will float. Once floating cook an additional 1-2 minutes.",
+                "Remove the dango and place in ice cold water.",
+                "Add all the sauce ingredients to a small sauce pan and stir.",
+                "Once the potato starch has dissolved, turn on the heat to medium high. Whisk continuously– once it begins to thicken remove from the heat and transfer it to a bowl.",
+                "Put 3 dango onto a skewer then pan fry. Pour the sweet soy glaze on top."
+            ],
+            "tags": [
+                "Japanese",
+                "Vegan",
+                "Sweet"
+            ]
         }
     ]
 }
