@@ -9679,6 +9679,52 @@
                 "Vegan",
                 "Asian"
             ]
+        },
+        {
+            "title": "Sticky rice",
+            "image": "sticky-rice",
+            "url": "https://thefoodietakesflight.com/chinese-savoury-sticky-rice/",
+            "ingredients": [
+                "1 cup glutinous rice",
+                "1/2 tbsp dark soy sauce",
+                "1 tbsp soy sauce",
+                "1 tbsp cane sugar",
+                "1 tsp sesame oil",
+                "Pinch of pepper",
+                "1/4 cup vegetable stock",
+                "1 tbsp sesame oil",
+                "1 tsp minced garlic",
+                "1 tsp minced ginger",
+                "Shiitake mushrooms, sliced",
+                "1 block tofu, drained and pressed",
+                "1 head bok choy",
+                "1/2 tbsp Shaoxing wine",
+                "1 tsp dark soy sauce",
+                "1 tbsp soy sauce",
+                "2 tsp cane sugar",
+                "1/2 tsp five spice",
+                "1/2 cup vegetable stock",
+                "15 g chopped chives",
+                "Chopped scallions"
+            ],
+            "steps": [
+                "Soak the rice for at least 2 hours.",
+                "Place the rice in a steamer lined with baking paper. Spread the rice and then cover.",
+                "Steam for 30 minutes or until chewy and almost cooked through.",
+                "Mix all the ingredients together from soy sauce to vegetable stock.",
+                "Heat a the wok then add some sesame oil. Once hot saute the garlic and ginger.",
+                "Add in the tofu and then pan-fry until lightly browned on all sides.",
+                "Add in the wine, five spice and soy sauces. Sprinkle the sugar and then mix well to coat the tofu.",
+                "Once sugar has dissolved add the mushrooms and then mix well with the tofu.",
+                "Once almost cooked add the pak choi.",
+                "Remove the vegetables then add the rice. Pour over the vegetables and sauce.",
+                "Mix rice well to coat with the sauce. Add 1/4 to 1/2 cup water to completely cook the rice.",
+                "Once the water is almost all absrbed mix in the chives."
+            ],
+            "tags": [
+                "Vegan",
+                "Chinese"
+            ]
         }
     ]
 }
