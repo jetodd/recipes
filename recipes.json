@@ -9642,6 +9642,43 @@
                 "Vegan",
                 "Asian"
             ]
+        },
+        {
+            "title": "Nori-wrapped tofu",
+            "image": "nori-wrapped-tofu",
+            "url": "https://thefoodietakesflight.com/nori-tofu-in-spicy-sauce",
+            "ingredients": [
+                "400g extra firm tofu",
+                "2 nori sheets",
+                "5 gloves garlic",
+                "1 cup water",
+                "2 tbsp soy sauce or to taste",
+                "1/2 to 1 tbsp sugar",
+                "1 tbsp chili garlic sauce",
+                "1/2 tsp szechuan peppercorns",
+                "1 tsp doubanjiang",
+                "1 tsp roasted sesame seeds",
+                "1 tsp rice vinegar",
+                "1 tbsp corn starch",
+                "Rice",
+                "Pak choi"
+            ],
+            "steps": [
+                "Drain and press tofu.",
+                "Clean and cook the rice.",
+                "Slice the tofu into rectangles, around 2cm thick. Sprinkle some salt over the tofu.",
+                "Mix ingredients from water to rice vinegar in a bowl.",
+                "Cut the nori sheets into 1” thick pieces. Carefully wrap each piece of tofu with the nori.",
+                "Cover the frying pan surface in oil and heat until sizzling.",
+                "Place the tofu in the pan. Fry on each side until golden brown. Drain the excess oil.",
+                "In pan cook the garlic then add the sauce. Stir and leave to simmer until the sauce boils.",
+                "While stirring the sauce, add in the cornstarch slurry. Leave to simmer until the sauce thickens.",
+                "Add the tofu and pak choi. Leave to cook until the pak choi is done."
+            ],
+            "tags": [
+                "Vegan",
+                "Asian"
+            ]
         }
     ]
 }
