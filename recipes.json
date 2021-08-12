@@ -9725,6 +9725,61 @@
                 "Vegan",
                 "Chinese"
             ]
+        },
+        {
+            "title": "Budae chigae",
+            "url": "https://thekoreanvegan.com/budae-chigae/",
+            "image": "budae-chigae",
+            "ingredients": [
+                "1/2 tsp paprika",
+                "1/4 tsp cumin",
+                "1 tsp onion powder",
+                "1 tsp garlic powder",
+                "1 tbsp gochugaru",
+                "1/2 tsp nutritional yeast",
+                "1/4 tsp turmeric",
+                "1/2 tsp mushroom powder",
+                "1/2 tsp chili powder",
+                "1/2 tsp kelp powder",
+                "1 tbsp extra virgin olive oil",
+                "1 tbsp sesame oil",
+                "6 cloves garlic, minced",
+                "1 onion, sliced",
+                "2 scallions, cut into 2-inch length pieces",
+                "1 courgette, sliced",
+                "1 cup julienned cabbage",
+                "1 carrot, sliced",
+                "1 cup ricecakes",
+                "8 frozen dumplings",
+                "2 tbsp soy sauce",
+                "1/2 cup kimchi",
+                "2 tbsp kimchi juice",
+                "2 tbsp gochujang",
+                "2 cups water",
+                "1 packet ramen noodles",
+                "1 16 oz box tofu",
+                "3/4 cup egg replacement",
+                "1 tsp salt",
+                "1 slice vegan cheese",
+                "1 sheet nori, divided in half",
+                "Rice"
+            ],
+            "steps": [
+                "Add some oil to the small pan. Pour in 1/2 cup of liquid egg replacer and a pinch of salt.",
+                "Add 1/2 slice of cheese, followed by 1/2 sheet of nori.",
+                "When egg is halfway cooked, roll the egg up like a crepe. Add 1/4 cup of liquid egg replacer and repeat.",
+                "Mix together the spice blend (from paprika to kelp powder).",
+                "Clean and cook the rice.",
+                "Add olive and sesame oil to the wok. Add the spice blend and begin stirring immediately for 1 minute.",
+                "Add the vegetables, rice cakes, and dumplings. Add kimchi, kimchi juice, gochujang.",
+                "Deglace with soy sauce and and add water.",
+                "Add tofu and ramen noodles. Stir the contents of the pan, so that the noodles are submerged.",
+                "Add sliced Gyerranmari to the top of the chigae and cook until the noodles are fully cooked."
+            ],
+            "tags": [
+                "Korean",
+                "Vegan"
+            ]
         }
     ]
 }
