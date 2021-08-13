@@ -9789,6 +9789,42 @@
                 "Korean",
                 "Vegan"
             ]
+        },
+        {
+            "title": "Vegan irish stew",
+            "url": "",
+            "image": "irish-stew",
+            "ingredients": [
+                "1 tbsp vegan butter",
+                "1 leek",
+                "1 onion",
+                "5 garlic cloves",
+                "2 ribs celery",
+                "2-3 carrots",
+                "2 cups baby potatoes",
+                "6-7 mushrooms",
+                "3 fresh thyme stalks",
+                "1 sprig rosemary",
+                "2 bay leaves",
+                "1 can jackfruit",
+                "1 bottle Guinness",
+                "2 cups vegetable stock",
+                "2 teaspoons corn starch"
+            ],
+            "steps": [
+                "Chop your veggies into medium-large chunks.",
+                "Add butter to pan, once melted add the onions and leek and cook until they start to brown.",
+                "Then add the garlic and cook until softened.",
+                "Add the potatoes, cook for a little bit then add the rest of the vegetables.",
+                "Open the jackfruit can, drain excess water, break up larger pieces with your hands and add into the pot.",
+                "Add the Guinness, stock, thyme, rosemary and bay leaves then mix well.",
+                "Make a cornstarch slurry then add to the stew to thicken it.",
+                "Bring to simmer and leave cooking for 30 minutes or until the potatoes are cooked."
+            ],
+            "tags": [
+                "Irish",
+                "Stew"
+            ]
         }
     ]
 }
