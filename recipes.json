@@ -9826,6 +9826,36 @@
                 "Irish",
                 "Stew"
             ]
+        },
+        {
+            "title": "Tomato basil soup",
+            "url": "",
+            "image": "tomato-basil-soup",
+            "ingredients": [
+                "3 pounds roma or plum tomatoes, cut in half",
+                "8 cloves garlic, peeled",
+                "2 yellow onions, thinly sliced",
+                "1/2 cup packed basil leaves",
+                "1/2 teaspoon dried oregano",
+                "2 cups vegetable stock",
+                "2 onion, chopped",
+                "2 sprigs fresh thyme",
+                "Bread"
+            ],
+            "steps": [
+                "Preheat oven to 200C. Line a large baking sheet with parchment paper.",
+                "Place tomatoes and garlic cloves on the baking sheet and drizzle with olive oil.",
+                "Season with salt and pepper. Roast in the oven for 30-35 minutes.",
+                "Add olive oil to the frying pan. Add the onions and stir to coat with olive oil.",
+                "Cook, stirring occasionally. Check  5-10 minutes until they have caramelized.",
+                "Once tomatoes are done cool for 10 minutes, then add them to a blender and blend until smooth.",
+                "Next add basil and caramelized onions and blend again.",
+                "Transfer back to pot and add oregano, thyme, stock, salt and pepper. Simmer for 10 minutes."
+            ],
+            "tags": [
+                "Soup",
+                "Vegan"
+            ]
         }
     ]
 }
