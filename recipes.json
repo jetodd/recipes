@@ -9898,6 +9898,49 @@
                 "Italian",
                 "Pasta"
             ]
+        },
+        {
+            "title": "Fish fragrant eggplant",
+            "image": "fish-fragrant-eggplant",
+            "url": "https://chejorge.com/2020/08/01/vegan-fish-fragrant-eggplants/",
+            "ingredients": [
+                "4 Chinese eggplants",
+                "4 tbsp cornstarch",
+                "1/2 tsp salt",
+                "2 tbsp distilled vinegar",
+                "1/2 block firm tofu",
+                "6 cloves garlic, finely minced",
+                "2 tsp ginger, finely minced",
+                "8 dried chilis, deseeded & thinly sliced",
+                "2 scallions, finely chopped",
+                "4 tbsp doubanjiang",
+                "1 tsp ground Sichuan pepper",
+                "2 tbsp Chinese black vinegar",
+                "4 tbsp light soy sauce",
+                "3 tsp sugar",
+                "180mls water",
+                "1 tablespoon cornstarch",
+                "2 tablespoon water",
+                "Pak choi",
+                "Rice"
+            ],
+            "steps": [
+                "Drain and press the tofu. Clean and cook the rice.",
+                "Cook the sichuan peppercorns in a dry pan then remove and grind in the mortar and pestle.",
+                "Trim off the eggplant stems then slice into 6cm long segments and finally into batons.",
+                "Place the eggplant in a bowl and add cornstarch, salt, and distilled vinegar. Toss to combine.",
+                "Let stand for 10 minutes then pour out any liquid that has gathered at the bottom of the bowl.",
+                "Heat oil in the frying pan, fry the eggplants until softened making sure not to overcrowd the pan.",
+                "Remove eggplants and add the crumbled tofu and oil to the pan, cook until browned.",
+                "Cook garlic, ginger, and dried chilis until fragrant. Add the doubanjiang and ground Sichuan pepper.",
+                "Deglaze the pan/wok with soy sauce, vinegar, sugar, and water.",
+                "Add back the fried eggplants and pak choi, then the cornstarch slurry.",
+                "Finish with scallions and optionally, drizzle with chili oil. Serve with rice."
+            ],
+            "tags": [
+                "Vegan",
+                "Chinese"
+            ]
         }
     ]
 }
