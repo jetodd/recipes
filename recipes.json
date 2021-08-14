@@ -9941,6 +9941,36 @@
                 "Vegan",
                 "Chinese"
             ]
+        },
+        {
+            "title": "Unagi don",
+            "image": "unagi-don",
+            "url": "https://chejorge.com/2020/06/15/vegan-unagi-don-eggplant/",
+            "ingredients": [
+                "4 Chinese eggplants",
+                "1 tsp toasted sesame seeds",
+                "2 scallion, finely sliced",
+                "4 tbsp soy sauce",
+                "4 tbsp mirin",
+                "4 tsp shaoxing wine",
+                "4 tbsp dark brown sugar",
+                "Rice"
+            ],
+            "steps": [
+                "Preheat the oven to 200C. Poke holes with a fork all around the eggplant.",
+                "Roast the eggplants until their skins are blistered, about 30 minutes",
+                "Clean and cook the rice.",
+                "Prepare the sauce by combining soy sauce, mirin, sake and brown sugar. Set aside.",
+                "When the eggplants are cooled, peel the skins off carefully.",
+                "Do 1 long incision to open up the eggplant, then do 1-2 more incisions to help flatten.",
+                "In a pan, heat vegetable oil. Add the eggplant (no-seed side down) and sear until charred on one side.",
+                "Flip, and add the prepared sauce to glaze the eggplants.",
+                "Reduce the sauce to a coating consistency while basting the eggplants with it."
+            ],
+            "tags": [
+                "Vegan",
+                "Japanese"
+            ]
         }
     ]
 }
