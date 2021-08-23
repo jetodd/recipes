@@ -10048,6 +10048,40 @@
                 "Italian",
                 "Vegan"
             ]
+        },
+        {
+            "title": "Popcorn tofu",
+            "image": "popcorn-tofu",
+            "url": "https://cupfulofkale.com/vegan-fried-cajun-popcorn-tofu/",
+            "ingredients": [
+                "1 block extra firm tofu",
+                "1 cup panko breadcrumbs",
+                "2 tbsp cajun spice",
+                "1 tsp smoked paprika",
+                "1 tsp garlic powder",
+                "2 tbsp nutritional yeast",
+                "1/2 tsp salt",
+                "Black pepper",
+                "1/2 cup unsweetened almond milk",
+                "1/2 cup plain flour",
+                "1/2 cup vegan mayo",
+                "2 tbsp lemon juice",
+                "1 tbsp cajun spice",
+                "2 tsp maple syrup"
+            ],
+            "steps": [
+                "Drain and press the tofu.",
+                "Cut tofu into 1 inch slices then tear into bite sized pieces with your hands.",
+                "In a bowl mix the breadcrumbs, cajun spice, smoked paprika, garlic, nutritional yeast, salt and pepper.",
+                "In another bowl place the almond milk and in one more place the flour.",
+                "One person should place the tofu into the flour and then into the milk.",
+                "The other person can hand toss the tofu in the breadcrumb mix until fully coated. Repeat.",
+                "Place tofu on a lined baking sheet, spray with oil and cook at 200C for about 20 minutes. Flip halfway.",
+                "Mix remaining ingredients together in a bowl, taste and season with salt and pepper."
+            ],
+            "tags": [
+                "Vegan"
+            ]
         }
     ]
 }
