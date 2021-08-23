@@ -9985,6 +9985,7 @@
                 "1/2 tbsp miso paste",
                 "1 tsp red chili oil",
                 "2 shallots",
+                "4 cloves garlic",
                 "1 red pepper, diced",
                 "1 green pepper",
                 "1-4 chillies ",
@@ -10011,6 +10012,41 @@
             "tags": [
                 "Vegan",
                 "Thai"
+            ]
+        },
+        {
+            "title": "Penne alla vodka",
+            "image": "penne-alla-vodka",
+            "url": "https://veggiekinsblog.com/2021/02/28/vegan-penne-alla-vodka/",
+            "ingredients": [
+                "10oz pasta of choice",
+                "1 cup reserved pasta cooking water",
+                "1 small sweet onion, diced",
+                "2 shallots, diced",
+                "5 cloves garlic, minced",
+                "1/4 cup vodka",
+                "2 cans chopped tomatoes",
+                "2–3 tbsp tomato paste",
+                "1/2 cup cashews",
+                "Red pepper flakes",
+                "Salt and pepper",
+                "Fresh basil",
+                "vegan parmesan"
+            ],
+            "steps": [
+                "Add the cashews to a bowl and cover with boiling water.",
+                "Prepare your pasta according to package directions, al dente.",
+                "Add olive oil to a pan, and saute onions until translucent and fragrant.",
+                "Add garlic to pan then turn heat to high, add vodka and cook until almost fully evaporated.",
+                "Next, add tomatoes and tomato paste to the pan and cook for 1-2 minutes.",
+                "Transfer pan contents to a blender, add cashews, 1/4 cup pasta water and blend until smooth.",
+                "Transfer sauce back into the pan and season with salt, pepper and chili flakes.",
+                "Add additional pasta water as needed to thin.",
+                "Stir in cooked pasta, most of the basil and vegan parmesan. Serve and top with remaining basil."
+            ],
+            "tags": [
+                "Italian",
+                "Vegan"
             ]
         }
     ]
