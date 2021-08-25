@@ -10082,6 +10082,28 @@
             "tags": [
                 "Vegan"
             ]
+        },
+        {
+            "title": "Milk rice cake",
+            "url": "https://www.youtube.com/watch?v=1LO7voa7IJM",
+            "image": "milk-cake",
+            "ingredients": [
+                "2 tbsp glutinous rice flour",
+                "4 tbsp + 1 tsp cornstarch",
+                "200ml coconut milk",
+                "3 tbsp sugar",
+                "A little salt"
+            ],
+            "steps": [
+                "In a saucepan put the rice flour, starch, sugar, milk and a pinch of salt.",
+                "Stir constantly over low heat until it forms a smooth dough.",
+                "Move it to a plate and quickly shape while hot using a spatula.",
+                "Put in tbe fridge for half an hour.",
+                "Cut into bite sized pieces."
+            ],
+            "tags": [
+                "Sweet"
+            ]
         }
     ]
 }
