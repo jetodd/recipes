@@ -10104,6 +10104,45 @@
             "tags": [
                 "Sweet"
             ]
+        },
+        {
+            "title": "Spicy ginger tofu bowl",
+            "image": "spicy-ginger-tofu-bowl",
+            "url": "https://www.eatfigsnotpigs.com/20-minute-spicy-ginger-pork-rice-bowls/#recipejump",
+            "ingredients": [
+                "1 block tofu",
+                "1 cup chopped onion",
+                "6 cloves garlic, minced",
+                "1 inch ginger, minced",
+                "1 tbsp lemongrass paste",
+                "1/2 tsp soy sauce",
+                "1/2 tbsp miso paste",
+                "1 tsp red chili oil",
+                "1 cup vegatable stock",
+                "1/4 cup soy sauce",
+                "2 tbsp hoisin sauce",
+                "1 tbsp cornstarch",
+                "1 tbsp shaoxing rice wine",
+                "1 tsp sugar",
+                "1 tsp ground black pepper",
+                "1 tsp chilli flakes",
+                "Rice",
+                "Fresh coriander",
+                "Fresh lime wedges",
+                "Thinly sliced carrots",
+                "Crushed roasted peanuts"
+            ],
+            "steps": [
+                "Clean and cook the rice.",
+                "Crumble the tofu until it resemble mince.",
+                "In the pan with a little sesame oil add the onion, ginger, garlic and lemongrass.",
+                "In a bowl mix stock, soy sauce, hoisin, cornstarch, shaoxing wine, sugar, pepper, and chilli flakes.",
+                "Once fragrant add the tofu, soy sauce, miso paste and chilli oil to the pan. Fry until slightly crispy.",
+                "Pour in the sauce. Once it reaches a simmer reduce the heat, stirring often, until the sauce thickens."
+            ],
+            "tags": [
+                "Vegan"
+            ]
         }
     ]
 }
