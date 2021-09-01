@@ -10115,16 +10115,17 @@
                 "6 cloves garlic, minced",
                 "1 inch ginger, minced",
                 "1 tbsp lemongrass paste",
+                "2 chillies, deseeded and finely diced",
                 "1/2 tsp soy sauce",
                 "1/2 tbsp miso paste",
                 "1 tsp red chili oil",
-                "1 cup vegatable stock",
-                "1/4 cup soy sauce",
-                "2 tbsp hoisin sauce",
+                "1/2 cup vegatable stock",
+                "2 tbsp soy sauce",
+                "1 tbsp hoisin sauce",
                 "1 tbsp cornstarch",
                 "1 tbsp shaoxing rice wine",
                 "1 tsp sugar",
-                "1 tsp ground black pepper",
+                "1/2 tsp pepper",
                 "1 tsp chilli flakes",
                 "Rice",
                 "Fresh coriander",
@@ -10142,6 +10143,39 @@
             ],
             "tags": [
                 "Vegan"
+            ]
+        },
+        {
+            "title": "Chai banana bread",
+            "image": "chai-banana-bread",
+            "url": "https://www.zuckerjagdwurst.com/en/recipes/vegan-chai-banana-bread",
+            "ingredients": [
+                "2.5 cups flour",
+                "1 cup brown sugar",
+                "2 tbsp baking powder",
+                "1 tsp baking soda",
+                "1 tsp cinnamon",
+                "0.5 tsp nutmeg",
+                "A pinch of salt",
+                "0.5 cup oil",
+                "1 tbsp cider vinegar",
+                "1 tsp vanilla",
+                "3 ripe bananas",
+                "0.5 cup plant-based milk",
+                "50g walnuts",
+                "50g almonds",
+                "20g chai",
+                "150ml water"
+            ],
+            "steps": [
+                "Mix using 150ml of water with 20g of chai. Let it stand covered for 8-10 minutes.",
+                "Mix the dry ingredients (flour, sugar, baking powder, baking soda, salt, cinnamon and nutmeg).",
+                "Peel and mash bananas with a fork. In a bowl add oil, cider vinegar, vanilla and tea until it's well combined.",
+                "Add milk until your dough is smooth and viscous.",
+                "Oil and flour a cake tin, and fill in dough. Bake at 170 celsius for about 50 minutes."
+            ],
+            "tags": [
+                "Sweet"
             ]
         }
     ]
