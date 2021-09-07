@@ -10217,6 +10217,42 @@
             "tags": [
                 "Vegan"
             ]
+        },
+        {
+            "title": "Daikon vegetable stew",
+            "image": "daikon-vegetable-stew",
+            "url": "https://joyfuldumplings.com/not-ordinary-daikon-radish-stew-with-mixed-vegetables/",
+            "ingredients": [
+                "1 daikon radish, peeled and cubed",
+                "3 carrots, peeled and cubed",
+                "1 inch ginger, peeled and juilenned",
+                "4 cloves garlic, sliced thinly",
+                "6 dried shiitake mushrooms",
+                "Bamboo shoots",
+                "Kelp, cut into squares.",
+                "Shiitake mushrooms, sliced",
+                "Pak choi",
+                "1 tbsp vegan oyster sauce",
+                "2 tbsp light soy sauce",
+                "1 tbsp mirin",
+                "1/4 tbsp black vinegar",
+                "Star anise",
+                "Vegetable stock",
+                "Cornstarch",
+                "Coriander"
+            ],
+            "steps": [
+                "Soak dried shiitake mushrooms in boiling water for 10-20 minutes, covered.",
+                "Heat the wok and add oil. Add ginger, garlic, daikon and carrot, saute for 2-3 minutes.",
+                "Add water from the shiitake mushrooms along with extra to make it 800mls.",
+                "Add vegan oyster sauce, soy sauce, black vinegar, mirin and kelp.",
+                "Add bamboo shoots and vegetable stock powder.",
+                "Let it simmer without a lid for 30 minutes until the broth is reduced by half, add shiitake mushrooms halfway.",
+                "Once almost done add the pak choi and cornstarch slurry to thicken."
+            ],
+            "tags": [
+                "Vegan"
+            ]
         }
     ]
 }
