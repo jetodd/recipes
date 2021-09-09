@@ -1556,25 +1556,20 @@
             "title": "Green curry paste",
             "url": "https://www.connoisseurusveg.com/vegan-green-curry-paste/",
             "ingredients": [
-                "1 lemongrass stalk",
-                "6 cloves garlic",
-                "3 green chillis",
-                "2 shallots",
-                "2 kaffir lime leaves",
-                "3/4 cup coriander",
-                "1/2 cup thai basil",
-                "1 inch ginger",
-                "1 tsp lime juice",
-                "1 tsp cumin",
-                "1/2 tsp coriander",
-                "1/2 tsp sugar",
-                "1/2 tsp pepper",
-                "1/2 tsp turmeric",
-                "1 tbsp coconut oil"
+                "2 lemongrass stalks",
+                "8 cloves garlic",
+                "8 green chillies",
+                "3 shallots",
+                "3 kaffir lime leaves",
+                "1/2 cup coriander",
+                "1 inch galangal",
+                "1 tsp cumin seeds",
+                "1 tsp coriander seeds",
+                "1 tsp peppercorns"
             ],
             "steps": [
-                "Put ingredients in blender.",
-                "Blend."
+                "Cook the coriander and cumin seeds in a dry pan until fragrant.",
+                "Starting with the hardest ingredients first grind the ingredients into a paste in a mortar and pestle."
             ],
             "tags": [
                 "Asian",
@@ -10252,6 +10247,51 @@
             ],
             "tags": [
                 "Vegan"
+            ]
+        },
+        {
+            "title": "Malaysian tofu curry",
+            "image": "malaysian-curry",
+            "url": "https://christieathome.com/blog/malaysian-curry-tofu/",
+            "ingredients": [
+                "140 grams Fried Tofu Balls",
+                "1 red pepper",
+                "Broccoli",
+                "Green beans",
+                "2 shallots",
+                "1 onion",
+                "1 inch ginger",
+                "6 cloves garlic",
+                "1 stick lemongrass",
+                "4 cups vegetable stock",
+                "1 cup whole fat coconut milk",
+                "4 kaffir lime leaves",
+                "1 tsp salt",
+                "1 tsp ground coriander",
+                "1 tsp chilli powder",
+                "1 tsp fennel seeds",
+                "1 tsp turmeric powder",
+                "1 cinnamon stick",
+                "1/2 tsp ground nutmeg",
+                "1/2 tsp black pepper",
+                "6 cloves",
+                "2 star anise",
+                "2 bay leaves",
+                "Rice",
+                "Coriander"
+            ],
+            "steps": [
+                "Mix ingredients from salt onwards in a small bowl.",
+                "In the wok add oil. Fry onions, garlic, ginger until soft and translucent.",
+                "Add curry powder mix. Stir fry until everything begins to steam.",
+                "Then add in fried tofu balls and bell pepper. Followed by coconut milk, lime leaves and stock.",
+                "Bring to a boil then lower to a simmer for 15-20 minutes, adding beans and broccoli with five minutes to go.",
+                "Clean and cook the rice."
+            ],
+            "tags": [
+                "Vegan",
+                "Curry",
+                "Malaysian"
             ]
         }
     ]
