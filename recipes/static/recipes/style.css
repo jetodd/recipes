@@ -114,7 +114,6 @@ ol li:before {
 .navbar {
 	padding: 0rem 1rem;
 	padding-top: 20px;
-	background-color: var(--header-colour);
 }
 
 .navbar-brand, .nav-link {
