@@ -10293,6 +10293,40 @@
                 "Curry",
                 "Malaysian"
             ]
+        },
+        {
+            "title": "Vegan bolognese",
+            "image": "vegan-bolognese",
+            "url": "https://www.rescuedogkitchen.com/tofu-bolognese/",
+            "ingredients": [
+                "1 pack extra firm tofu",
+                "Rigatoni",
+                "2 onions, finely chopped",
+                "2 carrots, finely chopped",
+                "2 celery sticks, finely chopped",
+                "6 garlic cloves, finely chopped",
+                "1 cup Mushrooms optional",
+                "1/2 cup Red Wine",
+                "2-3 sprigs rosemary, finely chopped",
+                "2 tins tomatoes",
+                "Basil leaves",
+                "1 tsp dried oregano",
+                "2 fresh bay leaves",
+                "2 tbsp tomato paste",
+                "1 stock cube",
+                "2 red chillies, finely chopped"
+            ],
+            "steps": [
+                "Bring a large pot of salted water to a boil. Cook pasta in it according to packet instructions.",
+                "In the wok, heat olive oil on medium heat. Once heated add onion, celery, rosemary and carrot.",
+                "Crumble the tofu into the pan so it resembles mince, cook until lightly browned.",
+                "Add mushroom, tomatoes, basil, oregano, bay leaves, tomato paste, stock, chillis and wine.",
+                "Bring to the boil, reduce to a gentle simmer and cover with a lid."
+            ],
+            "tags": [
+                "Vegan",
+                "Pasta"
+            ]
         }
     ]
 }
