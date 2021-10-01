@@ -10467,6 +10467,51 @@
                 "Pasta",
                 "Italian"
             ]
+        },
+        {
+            "title": "Hot and sour soup",
+            "url": "https://woonheng.com/vegan-hot-and-sour-soup/",
+            "image": "hot-and-sour-soup",
+            "ingredients": [
+                "1 block silken tofu",
+                "4 dried shiitake mushrooms",
+                "10g wood ear mushrooms",
+                "10g dried lily flower",
+                "1-2 fresh red chillies",
+                "1 carrot shredded",
+                "Pak choi",
+                "Fresh shiitake mushrooms",
+                "1 tin bamboo shoots",
+                "1 tsp ground white pepper",
+                "1 tbsp shaoxing wine",
+                "3 tbsp soy sauce",
+                "1 tsp sugar",
+                "1/4 tsp mushroom seasoning",
+                "6 cups of water",
+                "2 tbsp cornstarch",
+                "2 tbsp rice vinegar",
+                "2 spring onions, chopped",
+                "Fried wonton strips",
+                "Chilli oil",
+                "Sesame oil"
+            ],
+            "steps": [
+                "Place dried lily flowers, shiitake and wood ear mushrooms in separate bowls and soak in 1 cup of water until soft, roughly an hour.",
+                "Peel the garlic and deseed the chillies roughly chop and place into a pestle and mortar. Bash with a pinch of salt to a rough paste.",
+                "Once they’re ready, roughly chop the wood ears. Trim the ends off the lily flowers and cut them in half.",
+                "For wood ear mushrooms, remove the tough ends before slicing.",
+                "Heat the wok, add oil and saute mushrooms and carrots until the mushrooms release their aroma.",
+                "Add the wood ear mushrooms and bamboo shoot, then stir-fry for a few seconds over medium-low heat.",
+                "Swirl in the soy sauce around the side of the pan and quickly stir the mixture to combine. Mix the mushroom water in water to make 6 cups of liquid, then add to the pot.",
+                "Season with pepper, shaoxing wine, sugar and mushroom seasoning. Give the mixture a quick stir then add the tofu.",
+                "Bring to a boil and cook for another minute or so. Taste and season if needed.",
+                "Swirl in the vinegar and add a splash of chile and toasted sesame oil.",
+                "Mix cornstarch with water to form a slurry, add to soup while stirring constantly."
+            ],
+            "tags": [
+                "Soup",
+                "Chinese"
+            ]
         }
     ]
 }
