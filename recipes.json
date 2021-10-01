@@ -10359,6 +10359,46 @@
                 "Vegan",
                 "Pasta"
             ]
+        },
+        {
+            "title": "Peri peri kebabs",
+            "url": "https://www.avantgardevegan.com/recipes/peri-peri-kebabs/",
+            "image": "per-peri-kabobs",
+            "ingredients": [
+                "3 red peppers",
+                "5 red finger chillies",
+                "1 red onion, chopped roughly",
+                "6 cloves garlic, chopped roughly",
+                "1 tsp sage",
+                "1 tsp paprika",
+                "1 tsp oregano",
+                "1 tsp black pepper",
+                "1/2 tsp salt",
+                "Zest of 1 lime",
+                "Juice of 2 limes",
+                "2 tbsp white wine vinegar",
+                "1/4 vegetable oil",
+                "1 block tofu, cubed",
+                "1 green pepper, cubed",
+                "1 red pepper, cubed",
+                "1 pineapple, cubed",
+                "1 red onion, cubed",
+                "1 courgette, sliced thickly",
+                "Skewers"
+            ],
+            "steps": [
+                "Place a pan over high heat with a little oil, add the red peppers. Char the peppers until blackened on all sides.",
+                "Transfer the peppers to a bowl and cover over with cling film.",
+                "In the same pan add a little oil followed by the chillis, red onion & garlic.",
+                "Remove the peppers from the bowl, then using the back of your knife scrape away the skins, seeds and stalks as best as you can.",
+                "Place the flesh into your food processor or blender along with the chillis, onion & garlic.",
+                "Next into the food processor add the remaining ingredients up to vegetable oil and blend until smooth.",
+                "Add remaining ingredients to skewers. Cover in peri peri sauce then let the kabobs marinade for at least 2 hours.",
+                "Place kabobs in oven at 180C for 20 mins, flipping halfway."
+            ],
+            "tags": [
+                "Vegan"
+            ]
         }
     ]
 }
