@@ -10399,6 +10399,41 @@
             "tags": [
                 "Vegan"
             ]
+        },
+        {
+            "title": "Buchujeon",
+            "url": "https://www.itslizmiu.com/recipes/kimchipancakes",
+            "image": "buchujeon",
+            "ingredients": [
+                "2 cups garlic chives, chopped",
+                "1/2 cup zucchini, grated",
+                "1/2 cup spring onions, sliced",
+                "1/4 cup onion, chopped",
+                "1/2 cup plain flour",
+                "1/4 cup chickpea flour (25g)",
+                "1 tbsp potato starch",
+                "1 tsp doenjang",
+                "1 tsp sugar",
+                "1 tbsp mirin",
+                "1/4 tsp baking soda",
+                "1/2 cup water",
+                "1 tbsp soy sauce",
+                "2 tbsp vinegar",
+                "1 tbsp mirin",
+                "2 tbsp spring onion",
+                "1/2 tsp sesame seeds",
+                "1/2 tbsp sesame oil",
+                "1/2 tsp sugar"
+            ],
+            "steps": [
+                "Mix all the ingredients up to and including water together in a mixing bowl really well.",
+                "Heat 2 tbsp of oil in a large saucepan and empty out the pancake mix. Be sure to pat the pancake firmly down with a spatula.",
+                "Fry for 5 minutes on low then flip. Cook for a further 5 minutes. Chop into pieces.",
+                "Mix remaining ingredients for dipping sauce."
+            ],
+            "tags": [
+                "Korean"
+            ]
         }
     ]
 }
