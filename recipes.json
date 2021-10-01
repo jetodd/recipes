@@ -10327,6 +10327,38 @@
                 "Vegan",
                 "Pasta"
             ]
+        },
+        {
+            "title": "Creamy mushroom pasta",
+            "url": "https://www.itslizmiu.com/recipes/creamymushroompasta",
+            "image": "creamy-mushroom-pasta",
+            "ingredients": [
+                "Pasta",
+                "1 cup cashews",
+                "2 sprigs rosmary",
+                "1 stock cube",
+                "1 1/2 cups water",
+                "1 red onion",
+                "2 shallots",
+                "6 cloves garlic",
+                "450g Button Mushrooms",
+                "150g Spinach",
+                "1 cup frozen peas",
+                "1 tbsp chilli flakes"
+            ],
+            "steps": [
+                "Soak the cashews in boiling water for at least half an hour.",
+                " Cook pasta according to the packet instructions and set aside.",
+                "Whilst the pasta is cooking, you can dice the onion and slice the mushrooms.",
+                "Place the cashews, rosemary, stock and water in a blender and blend on high until smooth.",
+                "Heat oil in the wok and cook the onions until soft. Add the mushrooms and garlic and cook through.",
+                "Once the mushrooms are cooked add the pasta, chilli flakes, sauce and the frozen peas.",
+                "Once almost done, add the spinach until it just starts wilts."
+            ],
+            "tags": [
+                "Vegan",
+                "Pasta"
+            ]
         }
     ]
 }
