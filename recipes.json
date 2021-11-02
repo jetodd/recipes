@@ -10650,6 +10650,45 @@
                 "Indian",
                 "Curry"
             ]
+        },
+        {
+            "title": "Lasagna soup",
+            "image": "lasagna-soup",
+            "url": "https://sixhungryfeet.com/vegan-lasagna-soup/",
+            "ingredients": [
+                "1 yellow onion",
+                "3 shallots",
+                "6 garlic cloves",
+                "2 carrots",
+                "1 celery stick",
+                "A handful of fresh herbs",
+                "1 tbsp tomato paste",
+                "1 tsp smoked paprika",
+                "1 tbsp nooch",
+                "1 tsp chilli flakes",
+                "200g mince",
+                "1 can chopped tomatoes",
+                "500g passata",
+                "1 teaspoon maple syrup",
+                "600ml vegetable stock",
+                "200g pasta lasagna noodles",
+                "A handful spinach",
+                "Vegan Cream"
+            ],
+            "steps": [
+                "Heat oil in the wok then add the finely chopped onion, garlic, carrot and celery.",
+                "Once onion is softened add finely chopped fresh Italian herbs. Keep cooking for a few minutes.",
+                "Add tomato paste, paprika, chilli flakes, nooch and a few tablespoons of water and simmer for 2-3 minutes.",
+                "Add the mince. Combine well with the rest of the ingredients.",
+                "Add the passata, chopped tomatoes, maple syrup, salt, pepper and stock. Mix then simmering for 2 minutes.",
+                "Add the pasta, partially cover and leave simmering for 10 minutes or until the pasta is cooked.",
+                "When the pasta is nearly cooked, add the spinach and adjust with salt and pepper if needed.",
+                "Before serving, add the vegan cream on the top."
+            ],
+            "tags": [
+                "Vegan",
+                "Soup"
+            ]
         }
     ]
 }
