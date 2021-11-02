@@ -10688,6 +10688,46 @@
                 "Vegan",
                 "Soup"
             ]
+        },
+        {
+            "title": "Ginger & peach cheesecake",
+            "image": "ginger-peach-cheesecake",
+            "url": "https://www.thehungryherbivores.com/ginger-and-peach-baked-cheesecake/",
+            "ingredients": [
+                "1/2 cup almonds",
+                "1/2 cup sunflower seeds",
+                "1/2 cup oats",
+                "1 tbsp ground flaxseed",
+                "A pinch of salt",
+                "1 tsp ground ginger",
+                "3 tbsp coconut oil",
+                "1 block of silken tofu",
+                "1 1/2 cups cashew nuts",
+                "3/4 cup coconut cream",
+                "1/2 cup agave",
+                "2 tsp lemon juice",
+                "1 tbsp coconut oil",
+                "2 tbsp cornflour",
+                "1 1/2 tsp ginger",
+                "1/2 tsp cinnamon",
+                "1/4 tsp nutmeg",
+                "A pinch of salt",
+                "1 tsp vanilla extract",
+                "1 peach, diced",
+                "3 peaches, sliced"
+            ],
+            "steps": [
+                "Preheat the oven to 190C and line a 9 inch round tin.",
+                "Blend together almonds, sunflower seeds, oats, flaxseed, salt and ginger, until a fine crumb forms.",
+                "Add the coconut oil and let it come together into a dough, add water 1 tbsp. at a time if necessary.",
+                "Press into the tin and bake for 35-40 minutes or until firm to the touch.",
+                "Blend all of the ingredients from tofu to vanilla. Mix in the diced peach and pour into the tin.",
+                "Reduce the oven to 175C and bake for 50 minutes.",
+                "Cool at room temp at 10mins, then place in fridge. Top with peach slices once cooled."
+            ],
+            "tags": [
+                "Sweet"
+            ]
         }
     ]
 }
