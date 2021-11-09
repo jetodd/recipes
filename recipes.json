@@ -10859,6 +10859,38 @@
             "tags": [
                 "Sides"
             ]
+        },
+        {
+            "title": "Potato leek soup",
+            "url": "https://www.onceuponachef.com/recipes/potato-leek-soup.html",
+            "image": "potato-leek-soup",
+            "ingredients": [
+                "3 tbsp vegan butter",
+                "4 large leeks, roughly chopped",
+                "6 cloves garlic, peeled and smashed",
+                "1 kg potatoes, peeled and roughly chopped",
+                "7 cups vegetable stock",
+                "2 bay leaves",
+                "3 sprigs thyme",
+                "2 sprigs rosemary",
+                "1 tsp salt",
+                "1/2 tsp pepper",
+                "1 cup vegan cream",
+                "Chives, finely chopped",
+                "Bread"
+            ],
+            "steps": [
+                "Melt the butter over medium heat in a large soup pot." 
+                "Add the leeks and garlic and cook, stirring regularly, until soft.",
+                "Add the potatoes, broth, bay leaves, thyme, salt and pepper to pot and bring to a boil.",
+                "Cover and turn the heat down. Simmer for 15 minutes, or until the potatoes are very soft.",
+                "Remove the thyme, rosemary and bay leaves, then puree in the blender in batches.",
+                "Add the cream and bring to a simmer. Taste and adjust seasoning with salt and pepper.",
+                "Garnish with chives and serve with bread."
+            ],
+            "tags": [
+                "soup"
+            ]
         }
     ]
 }
