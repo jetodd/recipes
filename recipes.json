@@ -8649,7 +8649,8 @@
                 "Place onto a plate lined with paper towel and salt immediately."
             ],
             "tags": [
-                "Vegan"
+                "Vegan",
+                "British"
             ]
         },
         {
@@ -10997,8 +10998,6 @@
                 "1 tbsp rice wine vinegar",
                 "2 tsp maple syrup",
                 "1 garlic clove, finely grated",
-                "1 tbsp nutritional yeast",
-                "1 tbsp ground up nori**",
                 "1 tsp ketchup",
                 "1 tsp sriracha",
                 "1 tsp cornstarch",
@@ -11025,6 +11024,50 @@
             "tags": [
                 "Japanese",
                 "Noods"
+            ]
+        },
+        {
+            "title": "Lancashire hotpot",
+            "image": "lancashire-hotpot",
+            "url": "https://www.reddit.com/r/veganrecipes/comments/qv6j7l/vegetable_lancashire_hotpot/",
+            "ingredients": [
+                "3 onions, sliced",
+                "6 cloves garlic, chopped",
+                "1/2 swede, cubed",
+                "250g carrots, chopped",
+                "2 leeks, chopped",
+                "300g mushrooms, sliced",
+                "1 tbsp veg stock powder",
+                "50g vegetable gravy granules",
+                "2 bay leaves",
+                "Thyme",
+                "Rosemary",
+                "1 tbsp dried sage",
+                "60g plain flour",
+                "3 tbsp tomato paste",
+                "150g passata",
+                "4 large potatoes, thinly sliced",
+                "Vegan butter",
+                "1 tbsp garlic powder",
+                "1 tbsp oregano",
+                "1 tbsp onion powder",
+                "1/2 tbsp pepper",
+                "1/2 tbsp salt",
+                "1/2 tbsp paprika",
+                "1/2 tbsp chilli flakes"
+            ],
+            "steps": [
+                "Heat oil in pan on medium heat, add onions and garlic then cook until light brown.",
+                "Add carrots and swede cook until they've softened slightly.",
+                "Add mushrooms and leeks and cook for 3-5 mins then mix in flour, cook for another 3-5 mins.",
+                "Mix in the tomato paste then pour in the water and stir.",
+                "Add stock, passata, bay leaves and gravy, mix together then stir in the seasoning",
+                "Simmer for 20 minutes before pouring into a lined casserole dish.",
+                "Mix topping ingredients in bowl and coat potatoes well in them",
+                "Layer potatoes on stew then dot with butter and bake at 200C until the potatoes are crispy."
+            ],
+            "tags": [
+                "British"
             ]
         }
     ]
