@@ -10987,6 +10987,45 @@
                 "Thai",
                 "Curry"
             ]
+        },
+        {
+            "title": "Yakisoba",
+            "image": "yakisoba",
+            "url": "https://www.lazycatkitchen.com/vegan-yakisoba/",
+            "ingredients": [
+                "2 tbsp soy sauce",
+                "1 tbsp rice wine vinegar",
+                "2 tsp maple syrup",
+                "1 garlic clove, finely grated",
+                "1 tbsp nutritional yeast",
+                "1 tbsp ground up nori**",
+                "1 tsp ketchup",
+                "1 tsp sriracha",
+                "1 tsp cornstarch",
+                "4 dried shiitake mushrooms",
+                "Soba noodles",
+                "Shiitake mushrooms",
+                "5 cloves garlic",
+                "Broccoli",
+                "1 onion, sliced",
+                "1/2 small cabbage head, chopped",
+                "1 red pepper, sliced thinly",
+                "1 carrot, sliced thinly",
+                "4 spring onions, sliced",
+                "1 tbsp toasted sesame seeds"
+            ],
+            "steps": [
+                "Pour boiling water over rinsed dried shiitake, set aside to infuse for as long as you can.",
+                "Combine ingredients from soy sauce to cornstarch plus 3 tbsp of water and 2 tbsp of mushroom water.",
+                "Cook your noodles a couple of minutes less than you would normally. Run under a cold tap and set aside.",
+                "Heat wok and add oil, once hot add the broccoli, cabbage, carrot, onion, garlic and bell pepper. Stir fry for a few minutes.",
+                "Add the shiitake mushrooms and spring onion whites.",
+                "Move the vegetables to the side of the wok and add the sauce. Add the noodles to the wok and mix."
+            ],
+            "tags": [
+                "Japanese",
+                "Noods"
+            ]
         }
     ]
 }
