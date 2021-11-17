@@ -10935,6 +10935,58 @@
                 "Chinese",
                 "Tofu"
             ]
+        },
+        {
+            "title": "Khao soi",
+            "image": "khao-soi",
+            "url": "https://sixhungryfeet.com/vegan-khao-soi/",
+            "ingredients": [
+                "8-9 dried chillis, hydrated",
+                "1/2 tbsp coriander seeds, toasted and ground",
+                "1/2 tbsp cumin seeds, toasted and ground",
+                "1 inch galangal, finely chopped",
+                "1 teaspoon turmeric",
+                "2 lemongrass stalks",
+                "2 kaffir lime leaves",
+                "2 shallots",
+                "4 cloves garlic",
+                "1 tsp miso paste",
+                "1 tsp salt",
+                "2-3 tablespoon curry paste",
+                "400ml coconut milk",
+                "3 cups vegetable stock",
+                "1 tbsp cornstarch",
+                "1/2 tsp white pepper",
+                "1/2 tbsp dark soy sauce",
+                "400g tofu",
+                "1 red pepper",
+                "1 green pepper",
+                "Broccoli",
+                "1 tbsp soy sauce",
+                "1 tsp sugar",
+                "400 g noodles",
+                "1 lime",
+                "Chili oil",
+                "Fresh coriander",
+                "Thinly sliced shallots"
+            ],
+            "steps": [
+                "Drain and press the tofu.",
+                "Blend (or grind) ingredients from chillies to salt to form a paste.",
+                "Prepare marinade by whisking cornstarch, soy sauce, 1/2 tablespoon water, and white pepper in a bowl.",
+                "Cut the tofu into slices and coat the slices in the marinade.",
+                "Heat a pan and add oil. Pan-fry the tofu until golden brown, then transfer to a plate.",
+                "Heat coconut oil in the wok and add the curry paste along with 2 tablespoons of coconut milk.",
+                "Add the tofu and coat with the paste and coconut milk.",
+                "After a couple of minutes add the rest of the coconut milk, stock, soy sauce and brown sugar.",
+                "Bring it to a boil and leave it simmering for 15-20 minutes. Add the bell pepper halfway through.",
+                "Cook the noodles. Once cooked, drain the water, rinse with cold water and leave aside.",
+                "With a few minutes left to cook add the broccoli."
+            ],
+            "tags": [
+                "Thai",
+                "Curry"
+            ]
         }
     ]
 }
