@@ -11141,6 +11141,36 @@
             "tags": [
                 "noods"
             ]
+        },
+        {
+            "title": "Creamy pesto gnocchi",
+            "image": "creamy-pesto-gnocchi",
+            "url": "https://www.noracooks.com/creamy-pesto-gnocchi/",
+            "ingredients": [
+                "1/4 cup pine nuts, or cashews",
+                "2 cups fresh packed basil",
+                "3 cloves garlic",
+                "3 tbsp lemon juice",
+                "1/4 cup nutritional yeast",
+                "1/2 teaspoon salt",
+                "6 tablespoons olive oil",
+                "1 pound uncooked gnocchi",
+                "1 can coconut milk",
+                "1/4 cup white wine",
+                "3 cups spinach",
+                "Vegan Parmesan"
+            ],
+            "steps": [
+                "Place ingredients from pine nuts to salt in the blender and blend until finely chopped.",
+                "With the food processor running, slowly drizzle in the olive oil and blend until smooth.",
+                "In the wok add 1/2 cup pesto, coconut milk and wine and stir.",
+                "When the sauce starts to simmer, mix in the gnocchi.",
+                "Bring to a boil then lower to a simmer and cook for 5 minutes, stirring occasionally.",
+                "Add salt and pepper to taste and stir in the spinach. Cook until spinach has wilted."
+            ],
+            "tags": [
+                "gnocchi"
+            ]
         }
     ]
 }
