@@ -11171,6 +11171,37 @@
             "tags": [
                 "gnocchi"
             ]
+        },
+        {
+            "title": "Cream of mushroom soup",
+            "image": "cream-of-mushroom-soup",
+            "url": "https://www.rescuedogkitchen.com/vegan-mushroom-soup/",
+            "ingredients": [
+                "650g mixed mushrooms",
+                "1 can coconut cream",
+                "4 cups vegetable stock",
+                "2-4 tbsp cornstarch",
+                "1/2 cup white wine",
+                "4 tbsp butter",
+                "1 onions",
+                "3 shallots",
+                "6 cloves garlic, minced",
+                "2 tbsp parsley, chopped",
+                "2 tbsp thyme",
+                "Bread"
+            ],
+            "steps": [
+                "In the wok melt butter. Once heated add onions and garlic and cook until fragrant.",
+                "Add the mushrooms and wine and saute them until they begin to get tender and wine has .",
+                "Add the wine and cook until the wine reduced down.",
+                "Add the thyme, stir to mix and then add the cornstarch. The more cornstarch the thicker it will be.",
+                "Add a cup of the vegetable stock, stirring to avoid any lumps from forming.",
+                "Add the remaining stock and once it comes to a boil add the coconut cream.",
+                "Season with salt and pepper and let simmer for 5 - 10 minutes."
+            ],
+            "tags": [
+                "soup"
+            ]
         }
     ]
 }
