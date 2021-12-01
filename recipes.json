@@ -11202,6 +11202,53 @@
             "tags": [
                 "soup"
             ]
+        },
+        {
+            "title": "Mushroom and lentil stew",
+            "image": "mushroom-lentil-stew",
+            "url": "https://rainbowplantlife.com/creamy-mushroom-and-black-beluga-lentil-stew/",
+            "ingredients": [
+                "1 cup green lentils",
+                "2 cups vegetable stock",
+                "6 sprigs of thyme",
+                "1 spring of rosemary",
+                "1 bay leaf",
+                "1/4 tsp salt",
+                "8 whole black peppercorns",
+                "1 onion, diced",
+                "3 shallots, diced",
+                "6 cloves garlic, minced",
+                "Cremini mushrooms, sliced",
+                "Shiitake mushrooms, sliced",
+                "1 tbsp thyme leaves",
+                "1/2 teaspoon chilli flakes",
+                "1/4 cup white wine",
+                "1 1/2 tsp miso paste",
+                "3 tbsp tahini",
+                "1 1/2 tbsp soy sauce",
+                "2 cups vegetable stock",
+                "1/2 cup milk",
+                "Kale, stems removed",
+                "1 tsp balsamic vinegar",
+                "Bread"
+            ],
+            "steps": [
+                "Sift through the lentils to remove any debris or pebbles.",
+                "Place lentils in a sieve and rinse under cold water until the water runs clear.",
+                "Add the lentils to a pot with 2 cups of stock, thyme, rosemary, bay leaf, salt, and black peppercorns.",
+                "Bring to a boil, then reduce to a simmer, cooking the lentils for 20-25 minutes until just tender.",
+                "Heat the wok with some olive oil. Once oil is shimmering, add the onion and shallots and cook until lightly browned",
+                "Add the mushrooms and cook until they ar browned. Season with salt and pepper.", 
+                "Add the garlic, thyme and chilli flakes and stir to combine. Cook until fragrant.",
+                "Pour in the wine and deglaze for 2-3 minutes, scraping up any browned bits as needed.",
+                "Then add the miso paste, tahini, and tamari and stir to coat the mushrooms.",
+                "Add the drained lentils, 2 cups stock, and coconut milk. Stir well, and bring the stew to a boil.",
+                "Blend half of the stew until smooth then add it back to the wok and stir to combine.",
+                "At the end of cooking, add the kale. Cook until the kale is bright. Mix in the balsamic vinegar."
+            ],
+            "tags": [
+                "stew"
+            ]
         }
     ]
 }
