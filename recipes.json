@@ -11374,6 +11374,40 @@
             "tags": [
                 "Persian"
             ]
+        },
+        {
+            "title": "Satay eggplant",
+            "image": "satay-eggplant",
+            "url": "https://www.theguardian.com/food/2021/sep/04/meera-sodha-vegan-recipe-for-satay-sauce-roast-aubergine",
+            "ingredients": [
+                "4 eggplants",
+                "6 shallots, finely sliced",
+                "5 garlic cloves, minced",
+                "2 red chillies, finely chopped",
+                "2 sticks lemongrass, finely chopped",
+                "2cm ginger, grated",
+                "1 tbsp dark soy sauce",
+                "1 tbsp tamarind paste",
+                "1/2 tbsp soft brown sugar",
+                "250g crunchy peanut butter",
+                "Chopped coriander",
+                "Rice"
+            ],
+            "steps": [
+                "Heat the oven to 200C and line a tray with a reusable baking mat.",
+                "Cut each eggplant into an 'octopus' by slicing it lengthways then rotating and slicing again until it has eight legs.",
+                "Arrange the eggplants on the tray, drizzle over oil and rub it into all the nooks and crannies.",
+                "Repeat but with salt, both inside and outside, then roast for 25 minutes until soft.",
+                "Clean and cook the rice.",
+                "Heat oil in a frying pan, once hot add the shallots, garlic, chillies, lemongrass and ginger, and fry, stirring regularly.",
+                "Stir in the soy sauce, tamarind, sugar, salt and peanut butter and cook, stirring, for a couple of minutes.",
+                "Slowly pour in 400ml water, mixing it in as you go, to create a thick sauce.",
+                "Once the eggplants are roasted, pour the sauce all over them, making sure it goes inside all the legs.", 
+                "Put the eggplant back in the oven for another ten minutes."
+            ],
+            "tags": [
+                "eggplant"
+            ]
         }
     ]
 }
