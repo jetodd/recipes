@@ -11336,6 +11336,44 @@
             "tags": [
                 "Malaysian"
             ]
+        },
+        {
+            "title": "Eggplant fesenjan",
+            "image": "eggplant-fesenjan",
+            "url": "https://www.theguardian.com/food/2019/feb/09/vegan-fesenjan-recipe-roast-aubergine-pomegranate-walnut-sauce",
+            "ingredients": [
+                "1 1/4 cup pomegranate juice",
+                "1/2 tbsp lemon juice",
+                "1/4 tsp cane sugar",
+                "120g walnuts",
+                "4 eggplants",
+                "3 red onions, thinly sliced",
+                "5 garlic cloves, peeled and crushed",
+                "1 tbsp maple syrup",
+                "¾ tsp chilli powder",
+                "1 tsp ground cinnamon",
+                "2 tbsp pomegranate molasses",
+                "250ml hot vegetable stock",
+                "Seeds from 1 pomegranate",
+                "1 handful fresh coriander, roughly chopped",
+                "Rice"
+            ],
+            "steps": [
+              "Combine the pomegranate juice, lemon juice, and sugar in a small pot.",
+              "Bring to a boil then reduce to a gentle simmer for about 30 minutes or until there's roughly 1/4 cup.",
+              "Heat the oven to 200C and line a baking tray.",
+              "In a food processor, blitz the walnuts to a fine crumb.",
+              "Cut the eggplant into 5cm x 2cm batons, in a bowl toss with oil and season with salt and pepper.",
+              "Transfer eggplant to the try and bake in oven for 20 minutes or until soft.",
+              "Clean and cook the rice.",
+              "Heat the wok with some oil, once hot, add the onions and fry for until soft.",
+              "Add the garlic and cook until fragrant",
+              "Stir in the maple syrup, chilli powder, cinnamon, salt, pepper, walnuts and the pomegranate molasses.",
+              "Pour in the stock and cook for about eight minutes, until the sauce comes together."
+            ],
+            "tags": [
+                "Persian"
+            ]
         }
     ]
 }
