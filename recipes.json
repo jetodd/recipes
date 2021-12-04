@@ -2247,20 +2247,20 @@
             "title": "Tom yum",
             "url": "https://minimalistbaker.com/lazy-1-pot-vegan-tom-yum-soup/",
             "ingredients": [
-                "1 Tbsp coconut oil",
-                "1 stalk lemongrass",
+                "1 tbsp coconut oil",
+                "2 stalks lemongrass",
                 "1 onion (thinly sliced)",
-                "3 kaffir lime leaves",
-                "1½ Tbsp fresh minced ginger",
+                "5 kaffir lime leaves",
+                "1 1/2 tbsp galangal",
                 "1 tsp soy sauce",
                 "2 Thai red chili peppers",
-                "1½ cups thinly sliced shiitake mushrooms",
+                "1 1/2 cups thinly sliced shiitake mushrooms",
                 "1 carrot",
                 "1 bell pepper",
                 "1 courgette",
                 "4 cloves garlic (minced)",
                 "3 Tbsp green curry paste",
-                "6 cups vegetable broth ",
+                "6 cups vegetable stock ",
                 "1/2 cup light coconut milk",
                 "2 medium limes",
                 "Cherry tomatoes",
@@ -11443,6 +11443,47 @@
             ],
             "tags": [
                 "sweet"
+            ]
+        },
+        {
+            "title": "French toast casserole",
+            "image": "french-toast-casserole",
+            "url": "https://tastythriftytimely.com/vegan-french-toast-casserole-for-an-easy-morning/",
+            "ingredients": [
+                "Slightly stale bread, sliced",
+                "300g silken tofu",
+                "400ml can full fat coconut milk",
+                "2 tbsp cornstarch",
+                "4 tbsp cane sugar",
+                "2 tsp pure vanilla extract",
+                "1/2 tsp cinnamon",
+                "Pinch of nutmeg",
+                "1/4 tsp salt",
+                "1 tsp lemon juice",
+                "4 tbsp butter, melted",
+                "3 tbsp cane sugar",
+                "1/2 tsp cinnamon",
+                "1/4 tsp nutmeg",
+                "Pinch of salt",
+                "2 cups frozen blueberries",
+                "1/4 cup water",
+                "1 1/2 tsp cornstarch",
+                "1/2 tsp lemon juice",
+                "Maple syrup"
+            ],
+            "steps": [
+                "Add the tofu, coconut milk, cornstarch, sugar, cinnamon, nutmeg and salt to your blender and blend until smooth.",
+                "Pour the blended mixture into a deep bowl and soak each piece of bread individually in the mixture.",
+                "Lay the bread in your casserole dish. Cover and store in the fridge until you're ready to cook it.",
+                "Preheat the oven to 180C and heat the butter in the microwave until melted and mix in the sugar, cinnamon, nutmeg and salt.",
+                "Pour the butter mixture over the slices of bread.",
+                "Bake, uncovered, for 30 – 40 minutes until the edges of the toast are nicely browned and caramelized.",
+                "Add blueberries to a small pot. Dissolve cornstarch in water and add it to the blueberries along with the lemon juice.",
+                "Simmer sauce until thickened."
+            ],
+            "tags": [
+                "sweet",
+                "breakfast"
             ]
         }
     ]
