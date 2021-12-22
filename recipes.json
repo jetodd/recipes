@@ -11571,6 +11571,30 @@
             "tags": [
                 "noods"
             ]
+        },
+        {
+            "title": "Matcha mug cake",
+            "image": "matcha-mug-cake",
+            "url": "https://www.veganbell.com/matcha-mug-cake-recipe/",
+            "ingredients": [
+                "3 tbsp flour",
+                "1 tsp matcha powder",
+                "2 tbsp powdered sugar",
+                "Pinch of salt",
+                "Pinch of baking soda",
+                "1 tbsp oil",
+                "2 tbsp milk"
+
+            ],
+            "steps": [
+                "In a mug add flour, matcha, powdered sugar, salt and baking soda. Mix well.",
+                "Add oil and milk. Mix until the mixture is smooth.",
+                "Microwave for 1 minute."
+            ],
+            "tags": [
+                "matcha",
+                "sweet"
+            ]
         }
     ]
 }
