@@ -11643,6 +11643,42 @@
                 "curry",
                 "malaysian"
             ]
+        },
+        {
+            "title": "Jajangmyeon",
+            "image": "jajangmyeon",
+            "url": "https://pickledplum.com/vegan-jajangmyeon-korean-noodles-black-bean-sauce/",
+            "ingredients": [
+                "6 tbsp Korean black bean paste",
+                "1 tbsp rice vinegar",
+                "2 tbsp brown sugar",
+                "1 cup water",
+                "5 dried shiitake mushrooms",
+                "2 tbsp cornstarch",
+                "Udon noodles",
+                "1 onion, finely chopped",
+                "Potatoes, pelled and finely diced",
+                "6 cloves garlic, minced",
+                "1 tsp minced ginger",
+                "4 spring onions, thinly sliced",
+                "Shiitake mushrooms, sliced",
+                "1 zucchini, chopped",
+                "7 ounces cabbage, chopped"
+            ],
+            "steps": [
+                "Soak the dried mushrooms in boiling hot water for 15 to 20 minutes.",
+                "When the mushrooms are rehydrated, squeeze out the excess liquid then discard.",
+                "Boil water and cook the noodles. When cooked drain, rinse with cold water, and set aside.",
+                "In the wok heat the oil then add onions and potato. Cook until onions are translucent.",
+                "Add sliced shiitake mushrooms and stir-fry for 1 minute.",
+                "Then add the zucchini and cabbage and cook until vegetables are half cooked.",
+                "Add black bean paste, rice vinegar and sugar and cook until the sugar has dissolved.",
+                "Add the mushroom stock and simmer. Make and mix in the cornstarch slurry. Simmer until thickened."
+            ],
+            "tags": [
+                "Korean",
+                "Noods"
+            ]
         }
     ]
 }
