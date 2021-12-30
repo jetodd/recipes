@@ -1565,15 +1565,18 @@
             "url": "https://www.connoisseurusveg.com/vegan-green-curry-paste/",
             "ingredients": [
                 "2 lemongrass stalks",
-                "8 cloves garlic",
+                "6 cloves garlic",
                 "8 green chillies",
-                "3 shallots",
-                "3 kaffir lime leaves",
+                "2 shallots",
+                "4 kaffir lime leaves",
                 "1/2 cup coriander",
                 "1 inch galangal",
                 "1 tsp cumin seeds",
                 "1 tsp coriander seeds",
-                "1 tsp peppercorns"
+                "1 tsp peppercorns",
+                "1 handful coriander",
+                "Zest of 1 lime",
+                "1 tsp miso paste"
             ],
             "steps": [
                 "Cook the coriander and cumin seeds in a dry pan until fragrant.",
@@ -11597,6 +11600,45 @@
             "tags": [
                 "matcha",
                 "sweet"
+            ]
+        },
+        {
+            "title": "Rendang",
+            "image": "Rendang",
+            "url": "https://woonheng.com/vegan-mushrooms-rendang/",
+            "ingredients": [
+                "1/4 cup desiccated coconut",
+                "300g King oyster mushrooms",
+                "1 block tofu",
+                "Baby potatoes, quartered",
+                "2 carrots",
+                "3 tablespoons palm sugar",
+                "Green part of lemongrass",
+                "Handful of lime leaves, sliced thinly",
+                "A few pandan, leaves knotted",
+                "1 can coconut milk",
+                "25 dried chilies",
+                "6-8 shallots",
+                "1/2 bulb garlic",
+                "5 macadamia nuts",
+                "5 slices of galangal",
+                "3 stalks lemongrass, white part only",
+                "1/2 teaspoon salt"
+            ],
+            "steps": [
+                "Pour boiling water ove the dried chilies, cover, and leave to soak for 15 minutes.",
+                "Drain and press the tofu.",
+                "Clean mushrooms with a damp towel, then cut off the tough ends. Tear mushrooms into large chunks.",
+                "Place ingredients from dried chillies onwards in a blender with 2 tbsp oil. Blend until a smooth paste forms.",
+                "Heat the wok with a little oil. Add the chilli paste, lemongrass greens and pandan leaves. Cook until paste darkens.",
+                "Add the coconut milk and cook for another 30 seconds, then add in the potatoes and cover the pan with a lid.",
+                "Cook until potatoes are starting to soften. Add carrots halfway.",
+                "Add mushrooms and tofu and simmer for five minutes.",
+                "Season with sale and sugar then fold in the toasted coconut and lime leaves."
+            ],
+            "tags": [
+                "curry",
+                "malaysian"
             ]
         }
     ]
