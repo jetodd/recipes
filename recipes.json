@@ -11679,6 +11679,44 @@
                 "Korean",
                 "Noods"
             ]
+        },
+        {
+            "title": "Pepper and potato stir fry",
+            "image": "pepper-potato-stir-fry",
+            "url": "https://woonheng.com/korean-pepper-potato-stir-fry/",
+            "ingredients": [
+                "3 medium potatoes",
+                "1 red pepper, sliced",
+                "1 green pepper, sliced",
+                "2 chinese eggplants, sliced",
+                "2 onions, diced",
+                "6 cloves garlic, sliced",
+                "2 red chillies, sliced",
+                "1 block tofu",
+                "1 1/2 tbsp soy sauce",
+                "1/2 teaspoon sugar",
+                "1 tbsp shaoxing wine",
+                "1/4 tsp white sugar",
+                "Sesame oil",
+                "1 tbsp corn starch",
+                "1/2 cup water",
+                "Chopped spring onions",
+                "Rice"
+            ],
+            "steps": [
+                "Clean and cook the rice.",
+                "Clean the potatoes and cut into thick strips.",
+                "Soak potatoes in water, then drain and dry with a paper towel.",
+                "Heat wok with oil then pan fry the potatoes until golden brown. Drain on a paper towel.",
+                "Add the mashed tofu to the wok and cook until golden brown.",
+                "Add the garlic and red chilli. Saute until garlic is aromatic.",
+                "Add in the bell peppers and onion and toss for a few seconds, then add in the potatoes and eggplant.",
+                "Season with soy sauce, sugar, pepper, shaoxing wine and a drizzle of sesame oil.",
+                "Once peppers are cooked add cornstarch slurry and cook until the sauce is thickened."
+            ],
+            "tags": [
+                "Korean"
+            ]
         }
     ]
 }
