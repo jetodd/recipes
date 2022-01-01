@@ -11765,6 +11765,43 @@
             "tags": [
                 "Chinese"
             ]
+        },
+        {
+            "title": "Roasted Cauliflower Pasta",
+            "image": "roasted-cauliflower-pasta",
+            "url": "https://veggieveggievici.com/creamy-roasted-cauliflower-pasta/",
+            "ingredients": [
+                "400g pasta",
+                "2 tbsp vegan butter",
+                "1 tbsp oil",
+                "1/2 cup panko",
+                "1 tbsp nutritional yeast",
+                "3 shallots, finely chopped",
+                "6 cloves garlic, minced",
+                "1 medium head cauliflower",
+                "2 cups baby spinach",
+                "1 cup frozen peas",
+                "2 cups vegetable stock",
+                "Juice of half a lemon",
+                "2 sprigs of fresh thyme",
+                "Red-pepper flakes"
+            ],
+            "steps": [
+                "Preheat oven to 200C. Add cauliflower florets to a baking tray in a singe layer.",
+                "Drizzle with oil, sprinkle with salt and pepper and bake for 25-30 minutes, shaking the tray halfway through.",
+                "Prepare the pasta according to package instructions. Reserve about 1 cup of pasta water.",
+                "To the blender add the cauliflower, nutritional yeast and vegetable stock and blend until super smooth.",
+                "Add in butter to the wok. Once butter is melted, add bread crumbs and toss to combine.",
+                "Saute until lightly toasted, add salt and pepper to taste and set aside.",
+                "Heat oil in the wok. Add shallot, spinach and thyme and cook until spinach is wilted.", 
+                "Add in garlic and cook for 30 seconds. Add in sauce and reheat for about 2 minutes.",
+                "Toss in the cooked pasta and peas. Let simmer for until well combined and heated through.",
+                "Add in your pasta water, a bit at a time, until the dish reaches your desired consistency.",
+                "Remove from heat and add lemon juice. Add salt, pepper and red pepper flakes to taste."
+            ],
+            "tags": [
+                "Pasta"
+            ]
         }
     ]
 }
