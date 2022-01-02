@@ -11004,17 +11004,18 @@
             "image": "yakisoba",
             "url": "https://www.lazycatkitchen.com/vegan-yakisoba/",
             "ingredients": [
+                "2 tbsp worcester sauce",
                 "2 tbsp soy sauce",
+                "2 tbsp hoisin sauce",
                 "1 tbsp rice wine vinegar",
-                "2 tsp maple syrup",
-                "1 garlic clove, finely grated",
-                "1 tsp ketchup",
+                "2 tsp sugar",
+                "2 tbsp ketchup",
                 "1 tsp sriracha",
                 "1 tsp cornstarch",
                 "4 dried shiitake mushrooms",
                 "Soba noodles",
                 "Shiitake mushrooms",
-                "5 cloves garlic",
+                "6 cloves garlic",
                 "Broccoli",
                 "1 onion, sliced",
                 "1/2 small cabbage head, chopped",
@@ -11801,6 +11802,28 @@
             ],
             "tags": [
                 "Pasta"
+            ]
+        },
+        {
+            "title": "Baked oats",
+            "image": "baked-oats",
+            "url": "https://chocolatecoveredkatie.com/tiktok-baked-oats/",
+            "ingredients": [
+                "1/2 cup rolled oats",
+                "1/4 tsp baking powder",
+                "1/8 tsp salt",
+                "1/2 cup milk of choice",
+                "1/4 cup mashed banana",
+                "1 tbsp maple syrup",
+                "1-2 tbsp nut butter",
+                "1 tbsp dark chocolate chips"
+            ],
+            "steps": [
+                "Stir all ingredients, blend and pour into an oven-safe dish.",
+                "Microwave for 1-2 minutes and top with chocolate chips."
+            ],
+            "tags": [
+                "Sweet"
             ]
         }
     ]
