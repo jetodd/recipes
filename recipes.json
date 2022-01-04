@@ -11825,6 +11825,50 @@
             "tags": [
                 "Sweet"
             ]
+        },
+        {
+            "title": "Broccoli soup",
+            "image": "broccoli-soup",
+            "url": "https://www.feastingathome.com/vegan-broccoli-soup",
+            "ingredients": [
+                "1 onion, diced",
+                "3 shallots, diced",
+                "6 garlic cloves, chopped",
+                "2 poblano peppers, diced",
+                "1 jalapeno, diced fine",
+                "7 cups broccoli",
+                "4 cups vegetable stock",
+                "1 cup water",
+                "1 bay leaf",
+                "1 tsp salt",
+                "1 tsp coriander",
+                "1 tsp oregano",
+                "1/2 teaspoon pepper",
+                "3/4 cup raw cashews",
+                "2–3 tbsp nutritional yeast",
+                "1–2 large handful baby spinach",
+                "Chili flakes",
+                "Coriander",
+                "Lime"
+            ],
+            "steps": [
+                "Soak cashews in boiling water, covered, for 15 minutes.",
+                "Heat oil in the wok and add the onion, garlic, poblanos and jalapeno, stirring occasionally.",
+                "Add the broccoli, stock, water, bay leaf, coriander, oregano, salt, and pepper. The liquid should just cover the veggies.",
+                "Cover, bring to a boil, turn heat down and simmer gently until broccoli is tender.", 
+                "Turn heat off and remove bay leaf.",
+                "Place 1 cup of the broccoli and 1 cup of stock into a blender. Let cool 5 minutes.",
+                "Add the cashews and 2 tablespoons nutritional yeast.",
+                "Cover tightly with blender lid and kitchen towel, start blending on lowest speed and work your way up until smooth.",
+                "Add one more cup broccoli and one more cup broth. Blend again until smooth.",
+                "To the blender, add spinach and blend until fully incorporated and smooth.",
+                "Pour this back in the broccoli soup pot, mix and heat gently over low heat.",
+                "Taste and season as appropriate. Add a squeeze of lime, or extra chili flakes or more pepper.",
+                "Garnish with fresh cilantro or scallions or a wedge of lime."
+            ],
+            "tags": [
+                "Soup"
+            ]
         }
     ]
 }
