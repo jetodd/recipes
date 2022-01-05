@@ -11946,6 +11946,48 @@
             "tags": [
                 "Hawaiian"
             ]
+        },
+        {
+            "title": "Cabbage stew",
+            "image": "cabbage-stew",
+            "url": "https://joyfuldumplings.com/taiwanese-cabbage-stew/",
+            "ingredients": [
+                "Chinese cabbage",
+                "1 inch ginger",
+                "5 cloves garlic, sliced",
+                "2 chillies, sliced",
+                "2 carrots",
+                "Fresh shiitake mushrooms",
+                "10 dried shiitake mushrooms",
+                "20g dried wood ear mushrooms",
+                "50g dried bean curd",
+                "Sesame oil",
+                "2 tbsp light soy sauce",
+                "1 tbsp dark soy sauce",
+                "2 tbsp vegan oyster sauce",
+                "1 tbsp Shaoxing rice wine",
+                "1/2 tsp Chinkiang black vinegar",
+                "2 tsp sugar",
+                "1/2 tsp ground white pepper",
+                "2 cups water",
+                "2 tbsp cornstarch",
+                "Rice"
+            ],
+            "steps": [
+                "Hydrate mushrooms in boiling water for 20 minutes. Once done squeeze excess liquid out of shiitake mushrooms and discard.",
+                "Pour over boiling water over tofu skins, cover and leave to soak for 20 minutes until soft.",
+                "Cut Chinese Cabbage vertically into big chunks.",
+                "Boil a pot of water with 1/2 teaspoon of salt. Cook the chinese cabbage in the boiling water until softened.",
+                "Clean and cook the rice.",
+                "In the wok heat sesame oil. Once hot add the ginger, garlic, chilli and carrot. Saute until fragrant.",
+                "Add cooked Chinese cabbage into the pot along with shiitake mushrooms.",
+                "Tip in the tofu skins and wood ear mushrooms. Stir in the shaoxing rice wine, soy sauces, oyster sauce, vinegar, pepper and sugar.",
+                "Add 400ml of the mushroom soaking water to the wok. Simmer for 10 minutes.",
+                "Add cornstarch slurry and simmer until thickened."
+            ],
+            "tags": [
+                "Taiwanese"
+            ]
         }
     ]
 }
