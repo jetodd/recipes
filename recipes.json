@@ -12035,7 +12035,51 @@
                 "Toss the vegetables in the dressing."
             ],
             "tags": [
-                ""
+                "Vegan"
+            ]
+        },
+        {
+            "title": "Buddha's delight",
+            "image": "bun-bo-hue-chay",
+            "url": "https://omnivorescookbook.com/recipes/buddhas-delight",
+            "ingredients": [
+                "3 slices fresh ginger",
+                "3 tablespoons red fermented bean curd",
+                "6 cloves garlic",
+                "1 medium leek",
+                "8 dried shiitake mushrooms",
+                "1/4 cup dried wood ears",
+                "1/4 cup dried lily flowers",
+                "2 tablespoons Shaoxing wine",
+                "3 cups Napa cabbage, chopped",
+                "1 carrot, sliced",
+                "4 heads baby pak choi",
+                "1 cup shiitake mushrooms",
+                "1 cup fried tofu puffs",
+                "1 tin bamboo shoots",
+                "2 sticks dried bean curd",
+                "1 teaspoon sesame oil",
+                "2 tablespoons soy sauce",
+                "2 teaspoons sugar",
+                "1/2 cup vegetable stock",
+                "1 small bundle mung bean noodles",
+                "Rice"
+            ],
+            "steps": [
+                "Rinse lily flowers. Place in a bowl and cover in boiling water for at least 30 mins. Cut off the ends.",
+                "Soak dried shiitake mushrooms, bean curd and wood ears in separate bowls of hot water for 30 mins.",
+                "Clean and cook the rice.",
+                "Soak the mung bean noodles in warm water, drain and cut into shorter pieces.",
+                "Heat oil in the wok and add the ginger and carrot.",
+                "Add the red fermented bean curd and break it up with your spatula.",
+                "Add the garlic, the white portions of the leeks, wood ears, and lily flowers.",
+                "Next add the cabbage, tofu, and bean threads and turn up the heat.",
+                "Add the rest of the leeks, sesame oil, soy sauce, sugar, shiitake mushrooms, stock and 1/2 cup mushroom stock.",
+                "Cook until the vegetables are cooked through. Adding the pak choi halfway.",
+                "Add the mung bean noodles and keep stirring until most of the liquid has evaporated. "
+            ],
+            "tags": [
+                "Vietnamese"
             ]
         }
     ]
