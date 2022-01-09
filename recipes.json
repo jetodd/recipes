@@ -11697,7 +11697,7 @@
                 "1 1/2 tbsp soy sauce",
                 "1/2 teaspoon sugar",
                 "1 tbsp shaoxing wine",
-                "1/4 tsp white sugar",
+                "1/4 tsp sugar",
                 "Sesame oil",
                 "1 tbsp corn starch",
                 "1/2 cup water",
@@ -12040,7 +12040,7 @@
         },
         {
             "title": "Buddha's delight",
-            "image": "bun-bo-hue-chay",
+            "image": "buddhas-delight",
             "url": "https://omnivorescookbook.com/recipes/buddhas-delight",
             "ingredients": [
                 "3 slices fresh ginger",
@@ -12079,7 +12079,7 @@
                 "Add the mung bean noodles and keep stirring until most of the liquid has evaporated. "
             ],
             "tags": [
-                "Vietnamese"
+                "Chinese"
             ]
         }
     ]
