@@ -12154,6 +12154,43 @@
                 "Sweet",
                 "Cookie"
             ]
+        },
+        {
+            "title": "Jackfruit curry",
+            "image": "jackfruit-curry",
+            "url": "https://www.olivemagazine.com/recipes/vegan/kolambas-polos-young-jackfruit-curry/",
+            "ingredients": [
+                "½ tsp black mustard seeds",
+                "½ tsp fenugreek seeds",
+                "1 onion, finely chopped",
+                "2 garlic 2 cloves, finely chopped",
+                "2 green chillies, finely chopped",
+                "1 tsp curry powder",
+                "1 tsp cumin",
+                "½ tsp ground coriander",
+                "½ tsp chilli powder",
+                "1 tsp turmeric",
+                "1 stick cinnamon",
+                "1 tomato, chopped",
+                "6-8 curry leaves",
+                "5cm pandan leaf",
+                "500g green jackfruit, drained",
+                "250ml coconut milk",
+                "1 tbsp lime juice",
+                "1 tsp sugar",
+                "½ salt",
+                "Rice"
+            ],
+            "steps": [
+              "Heat oil over a medium heat and fry the mustard and fenugreek seeds for 1 minute until popping.",
+              "Add the onion, garlic, chilli, spices, tomato, curry leaves and pandan leaf.",
+              "Stir continuously for 3-5 minutes or until the tomato starts to break down.",
+                "Bring to a boil, put on a lid and gently simmer for 1 hour or until the jackfruit is very soft.",
+                "Clean and cook the rice."  
+            ],
+            "tags": [
+                "Curry"
+            ]
         }
     ]
 }
