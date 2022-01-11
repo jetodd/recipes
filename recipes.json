@@ -12241,6 +12241,55 @@
             "tags": [
                 "Curry"
             ]
+        },
+        {
+            "title": "Jackfruit tacos",
+            "image": "jackfruit-tacos",
+            "url": "https://www.loveandlemons.com/vegan-tacos/",
+            "ingredients": [
+                "2 mangoes, peeled and diced",
+                "1 avocado, diced",
+                "¾ cup diced red onion",
+                "2 tbsp orange juice",
+                "2 tbsp lime juice",
+                "½ cup coriander, chopped",
+                "½ tsp cumin",
+                "1 ½ tsp onion powder",
+                "1 tsp paprika",
+                "1 tsp black pepper",
+                "1 tsp thyme",
+                "½ tsp allspice",
+                "½ tsp cumin",
+                "¼ tsp cayenne",
+                "¼ tsp cinnamon",
+                "¼ tsp nutmeg",
+                "3 cans jackfruit",
+                "6 scallions, white and light green parts, sliced",
+                "6 garlic cloves, minced",
+                "1 ½ inch ginger, grated",
+                "2 chillies, minced",
+                "2 tbsp sugar",
+                "2 tbsp tomato paste",
+                "¼ cup soy sauce",
+                "2 tbsp lime juice",
+                "12 corn tortillas"
+            ],
+            "steps": [
+                "In a medium bowl combine the mango, avocado, onion, orange juice, lime juice, and coriander and mix gently.",
+                "Season with salt and cumin to taste and put aside.",
+                "Combine all of the spices together in a small bowl to make the jerk seasoning.",
+                "Drain the canned jackfruit and lightly rinse under water, shaking off excess water.",
+                "Use your fingers to remove any thick cores and pull the pieces apart so that it resembles shredded pork.",
+                "In the wok, heat oil over medium. Add the the scallions and cook until browned, 1 to 2 minutes.",
+                "Add the garlic, ginger and chilli pepper and cook for 1 minute, stirring to prevent burning.",
+                "Add the jerk seasoning, stir to coat and cook for 30 seconds until very fragrant.",
+                "Add the jackfruit, sugar, tomato paste, soy sauce and lime juice. Stir well.",
+                "Pour in 1/2 cup water and mix again. Cover and cook for 15 minutes, stirring occasionally.",
+                "Serve the jackfruit with the tortillas and mango avocado salsa."
+            ],
+            "tags": [
+                "Mexican"
+            ]
         }
     ]
 }
