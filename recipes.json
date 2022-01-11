@@ -5967,51 +5967,6 @@
             ]
         },
         {
-            "image": "jackfruit-jerk-tacos",
-            "title": "Jackfruit jerk tacos",
-            "url": "https://www.loveandlemons.com/vegan-tacos/",
-            "ingredients": [
-                "1 large mango peeled and diced",
-                "1 medium ripe avocado, diced",
-                "3/4 cup diced red onion",
-                "3 tbsp fresh orange juice",
-                "3 tbsp fresh lime juice",
-                "1/2 cup coriander, finely chopped",
-                "1 1/2 teaspoons onion powder",
-                "1 teaspoon sweet or hot paprika",
-                "1 teaspoon freshly ground black pepper",
-                "1 teaspoon dried thyme",
-                "1/2 teaspoon ground allspice",
-                "1/2 teaspoon ground cumin",
-                "1/4 teaspoon cayenne pepper",
-                "1/4 teaspoon ground cinnamon",
-                "1/4 teaspoon nutmeg",
-                "2 (20-ounce) cans jackfruit in brine or water",
-                "2 tablespoons extra-virgin olive oil",
-                "6 scallions, white and light green parts, sliced",
-                "4 garlic cloves, minced",
-                "1 inch piece fresh ginger, grated",
-                "2 chillies, minced",
-                "2 tablespoons sugar",
-                "2 tablespoons tomato paste",
-                "1/4 cup tamari",
-                "3 tablespoons fresh lime juice",
-                "12 corn tortillas, warmed"
-            ],
-            "steps": [
-                "In a bowl combine mango, avocado, onion, orange juice, lime juice and coriander and mix gently.",
-                "Combine all of the spices together in a small bowl.",
-                "Drain the jackfruit and lightly rinse. Use your fingers to remove any thick cores and pull the pieces apart so that it resembles shredded pork.",
-                "In the wok, heat the oil. Add the the scallions and cook until browned.",
-                "Add the garlic, ginger, and chile pepper and cook for 1 minute, stirring frequently.",
-                "Add all of the jerk seasoning, stir to coat, and cook for 30 seconds, stirring constantly, until very fragrant.",
-                "Add the jackfruit, sugar, tomato paste, tamari, and lime juice. Stir well. Pour in 1/2 cup water and mix again. Cover and cook for 20 minutes, stirring occasionally."
-            ],
-            "tags": [
-                "Vegan"
-            ]
-        },
-        {
             "image": "creamy-garlic-mushroom-rice",
             "title": "Creamy garlic mushroom rice",
             "url": "https://amylecreations.com/creamy-vegan-garlic-mushroom-brown-rice/",
@@ -12289,6 +12244,46 @@
             ],
             "tags": [
                 "Mexican"
+            ]
+        }, 
+        {
+            "title": "Tomato onion tart",
+            "image": "tomato-onion-tart",
+            "url": "https://theyummyvegan.com/blog/tomatooniontartwithbasilricotta",
+            "ingredients": [
+                "1 sheet of Puffed Pastry",
+                "1/2 cup grated Vegan Parmesan",
+                "2 tbsp basil, chopped",
+                "1 large heirloom tomato, sliced",
+                "3 small capri tomatoes, sliced",
+                "4 slices of onion, cut thick",
+                "2 tsp of grapeseed oil",
+                "2 Tbsp vegan butter, melted",
+                "Pepper, to taste",
+                "Salt for garnish",
+                "200g extra firm tofu",
+                "2 tsp of tahini",
+                "2 tsp of miso paste",
+                "2 garlic cloves, minced",
+                "1 1/2 tbsp nutrtional yeast",
+                "1 1/2 tbsp lemon juice",
+                "Salt & Pepper to taste"
+            ],
+            "steps": [
+                "Mash the drained tofu and mix it with the miso paste, tahini, nutritional yeast, garlic, lemon juice, salt and pepper.",
+                "Refrigerate for at least 30 minutes, ideally overnight.",
+                "Heat oil in the frying pan and sauté the onion slices until lightly browned.",
+                "Let the puff pastry thaw before rolling it out on a well floured surface until about 4mm thick.",
+                "Using a fork, prick the entire dough to help prevent it from rising too much in the oven.",
+                "Add the basil and Parmesan to the ricotta and mix well.",
+                "Spread a thin layer of Ricotta onto the rolled out Pastry dough, leaving an inch on the edge.",
+                "Season the tomato and onion slices with opepper and lay them on top of the ricotta in an alternating pattern.",
+                "Fold the uncovered edge of the pastry over onto itself to form the crust.",
+                "Brush the crust with the melted butter and season (just the crust) with salt.",
+                "Bake at 210C for 15-18 minutes or until the crust is golden brown."
+            ],
+            "tags": [
+                "Tart"
             ]
         }
     ]
