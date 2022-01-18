@@ -12305,6 +12305,39 @@
                 "Sweet",
                 "Sauce"
             ]
+        },
+        {
+            "title": "Lemon lavender shortbread cookies",
+            "image": "lemon-lavender-shortbread",
+            "url": "https://beplantwell.com/lemon-lavender-shortbread-cookies",
+            "ingredients": [
+                "1 cup flour",
+                "1/4 cup vegan butter (room temp)",
+                "1/4 cup applesauce",
+                "1/2 cup powdered sugar",
+                "2 tsp culinary lavender",
+                "1 1/2 tsp lemon zest",
+                "1/2 tsp vanilla extract",
+                "1/4 tsp salt",
+                "3/4 cup powdered sugar",
+                "1-2 tbsp milk"
+            ],
+            "steps": [
+                "In a bowl, mix together the flour and salt.",
+                "In another bowl, cream the butter, applesauce and powdered sugar until smooth.",
+                "To the butter mixture add the vanilla, lavender and lemon and mix.",
+                "Add dry ingredients to wet and mix until you form a ball of dough.",
+                "Wrap and chill in the fridge for 30 minutes.",
+                "Dust bench with a little powdered sugar and roll the dough out.",
+                "Cut roughly 1/3 inch cookies out of the dough and place on a lined baking sheet.",
+                "Once all cookies are on the sheet, place in the freezer for 15 minutes.",
+                "Preheat oven to 162C, bake for 12-14 minutes until the edges of the cookies are just slightly brown.",
+                "Once cool, mix together icing sugar and milk to form the glaze and dip the cookies in half way."
+            ],
+            "tags": [
+                "Sweet",
+                "Cookies"
+            ]
         }
     ]
 }
