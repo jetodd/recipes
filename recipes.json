@@ -12285,6 +12285,26 @@
             "tags": [
                 "Tart"
             ]
+        },
+        {
+            "title": "Applesauce",
+            "image": "applesauce",
+            "url": "https://www.allrecipes.com/recipe/51301/sarahs-applesauce",
+            "ingredients": [
+                "4 apples - peeled, cored and chopped",
+                "¾ cup water",
+                "¼ cup sugar",
+                "½ teaspoon ground cinnamon"
+            ],
+            "steps": [
+                "In a saucepan, combine apples, water, sugar, and cinnamon.",
+                "Cover, and cook over medium heat for 15 to 20 minutes, or until apples are soft.",
+                "Allow to cool, then mash with a fork or potato masher or blend for a smoother sauce."
+            ],
+            "tags": [
+                "Sweet",
+                "Sauce"
+            ]
         }
     ]
 }
