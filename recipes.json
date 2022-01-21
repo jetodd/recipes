@@ -12380,6 +12380,40 @@
             "tags": [
                 "noods"
             ]
+        },
+        {
+            "title": "BBQ jackfruit sandwich",
+            "image": "bbq-jackfruit-sandwich",
+            "url": "https://minimalistbaker.com/bbq-jackfruit-sandwiches-with-avocado-slaw",
+            "ingredients": [
+                "2 cans young green jackfruit",
+                "2 tbsp brown sugar",
+                "1 tsp paprika",
+                "1 tsp garlic powder",
+                "1/2 tsp salt",
+                "1/2 tsp pepper",
+                "1/2 tsp chili powder",
+                "3/4 cup BBQ sauce",
+                "1/2 ripe avocado",
+                "1 tbsp maple syrup",
+                "1 lime",
+                "Salt & pepper",
+                "2 cups shredded cabbage + carrots",
+                "Buns"
+            ],
+            "steps": [
+                "Rinse, drain and thoroughly dry jackfruit. Chop off the center core portion and discard.",
+                "Mix together sugar and spices and add to jackfruit. Toss to coat.",
+                "Heat the wok. Once hot add oil and jackfruit. Toss to coat and cook for 2-3 minutes.",
+                "Add BBQ sauce and thin with enough water to make a sauce.",
+                "Stir, reduce heat and cook covered for about 20 minutes. Remove lid and stir occasionally.",
+                "Add all ingredients from avocado to salt and pepper to a small mixing bowl and whisk to combine.",
+                "Thin with water until a thick sauce is made, then add veggies and toss to coat.",
+                "Once jackfruit has been simmered, turn up heat and cook for 2-3 minutes to get a little extra color/texture."
+            ],
+            "tags": [
+                "Burger"
+            ]
         }
     ]
 }
