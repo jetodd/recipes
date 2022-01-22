@@ -12414,6 +12414,38 @@
             "tags": [
                 "Burger"
             ]
+        },
+        {
+            "title": "Caramelized shallot pasta",
+            "image": "caramelized-shallot-pasta",
+            "url": "https://cooking.nytimes.com/recipes/1020830-caramelized-shallot-pasta",
+            "ingredients": [
+                "1/4 cup olive oil",
+                "6 large shallots, thinly sliced",
+                "6 garlic cloves, 4 sliced, 1 chopped",
+                "Salt and pepper",
+                "1 tsp red-pepper flakes",
+                "2 tbsp umeboshi paste",
+                "1/2 cup tomato paste",
+                "Button mushrooms, finely chopped",
+                "10 ounces pasta",
+                "1 cup parsley, chopped",
+                "Zest of 1 lemon and juice of 1/2"
+            ],
+            "steps": [
+                "Heat olive oil in the wok over medium. Add shallots and sliced garlic, season with salt and pepper.",
+                "Cook, stirring occasionally, until the shallots have caramelized, 15 to 20 minutes.",
+                "Add red-pepper flakes and umeboshi paste. Stir to melt the umeboshi paste into the shallots.",
+                "Add tomato paste, lemon zest, mushrooms and season with salt and pepper.",
+                "Cook, stirring constantly, until the tomato paste has started to darken. Add juice of 1/2 lemon.", 
+                "Cook pasta according to package instructions, reserving one cup of water.",
+                "Transfer paste to wok along with 1 cup pasta water.", 
+                "Cook, mixing thoroughly until sauce has reduced and is sticky, but not saucy, 3 to 5 minutes.",
+                "In a bowl combine parsley and garlic, season with salt and pepper."
+            ],
+            "tags": [
+                "pasta"
+            ]
         }
     ]
 }
