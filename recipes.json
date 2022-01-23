@@ -1935,17 +1935,18 @@
                 "4 dried porcini mushrooms",
                 "1 tbsp white miso paste",
                 "500g mushrooms, thinly sliced",
-                "2 shallots, diced",
+                "3 shallots, diced",
                 "1 onion, diced",
-                "5 cloves garlic",
+                "6 cloves garlic",
                 "Arborio",
                 "125ml dry white wine",
                 "3 tablespoons finely chopped chives",
                 "40g vegan butter",
-                "5 tablespoons grated hard cheese",
                 "2 tbsp thyme",
                 "1/4 cup nutritional yeast",
-                "Asparagus"
+                "1 cups frozen peas",
+                "Asparagus",
+                "Juice of 1/2 lemon"
             ],
             "steps": [
                 "Soften 2 tbsp of plant butter and mix with the miso paste.",
@@ -1955,8 +1956,8 @@
                 "Cook the shallots then garlic then add the rice to the pan, toast for one minute.",
                 "Pour in the wine and stir constantly until fully absorbed.",
                 "Add stock slowly while stirring until rice is fully cooked.",
-                "Boil the asaparagus for two minutes.",
-                "Remove from heat, and stir in mushrooms with their liquid, butter, chives, asparagus, nutritional yeast, chilli flakes and cheese."
+                "Once fully encorporated add the asparagus and frozen peas and simmer until cooked..",
+                "Remove from heat, and stir in mushrooms with their liquid, butter, chives, nutritional yeast and chilli flakes."
             ],
             "tags": [
                 "vegetarian",
@@ -4873,7 +4874,7 @@
                 "2 shallots diced",
                 "2 chillies chopped and seeds removed",
                 "1 inch ginger chopped",
-                "1 lemongrass stalk peeled and chopped",
+                "2 lemongrass stalks peeled and chopped",
                 "1 can coconut milk",
                 "1 cup vegetable broth",
                 "2 bay leaves",
@@ -12396,9 +12397,11 @@
                 "3/4 cup BBQ sauce",
                 "1/2 ripe avocado",
                 "1 tbsp maple syrup",
-                "1 lime",
-                "Salt & pepper",
-                "2 cups shredded cabbage + carrots",
+                "1/2 red onion, chopped",
+                "Coriander, chopped",
+                "1 mango, thinly sliced",
+                "Juice of 1 lime",
+                "1/4 tsp cumin",
                 "Buns"
             ],
             "steps": [
@@ -12407,8 +12410,7 @@
                 "Heat the wok. Once hot add oil and jackfruit. Toss to coat and cook for 2-3 minutes.",
                 "Add BBQ sauce and thin with enough water to make a sauce.",
                 "Stir, reduce heat and cook covered for about 20 minutes. Remove lid and stir occasionally.",
-                "Add all ingredients from avocado to salt and pepper to a small mixing bowl and whisk to combine.",
-                "Thin with water until a thick sauce is made, then add veggies and toss to coat.",
+                "Combine ingredients from avocado to cumin to make salsa.",
                 "Once jackfruit has been simmered, turn up heat and cook for 2-3 minutes to get a little extra color/texture."
             ],
             "tags": [
@@ -12445,6 +12447,42 @@
             ],
             "tags": [
                 "pasta"
+            ]
+        },
+        {
+            "title": "Cheese tteokbokki",
+            "image": "cheese-tteokbokki",
+            "url": "https://okonomikitchen.com/vegan-cheese-tteokbokki/",
+            "ingredients": [
+                "1 small potato, cooked",
+                "1 small carrot, cooked",
+                "2/3 cup cashews",
+                "1 cup cashew milk",
+                "3/4 – 1 cup vegetable stock",
+                "3 tbsp cornstarch",
+                "1/4 cup nutritional yeast",
+                "2 tbsp lemon juice",
+                "1 tsp miso ",
+                "½ tsp mustard powder",
+                "½ tsp paprika",
+                "½ tsp onion powder",
+                "½ tsp garlic powder",
+                "½ tsp salt",
+                "900g korean rice cakes",
+                "Korean red pepper flakes",
+                "Scallions",
+                "Sesame seeds"
+            ],
+            "steps": [
+                "Bring a pot of water to a boil and cook rice cakes until soft.",
+                "Drain and rinse the rice cakes with cold water.",
+                "Add ingredients from potato to salt into a blender and blend until smooth.",
+                "Add the cheese sauce into a pot and heat over medium.",
+                "Stir cheese sauce constantly until thick, around 5 minutes.",
+                "Reduce temperature to low. Stir in the rice cakes until all the pieces are covered."
+            ],
+            "tags": [
+                "Korean"
             ]
         }
     ]
