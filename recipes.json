@@ -12484,6 +12484,30 @@
             "tags": [
                 "Korean"
             ]
+        },
+        {
+            "title": "Coconut lime popsicles",
+            "image": "coconut-lime-popsicles",
+            "url": "https://roniskitchen.com/vegan-avocado-coconut-lime-popsicles/",
+            "ingredients": [
+                "2 ripe avocados",
+                "1 cup coconut milk",
+                "1 cup water",
+                "1/2 cup maple syrup",
+                "1/4 cup lime juice",
+                "A pinch of salt"
+            ],
+            "steps": [
+                "Blend all of the ingredients in a blender until it has a smooth and thick consistency.",
+                "Taste and adjust sweetness if desired.",
+                "Pour mixture into popsicle moulds (leave a bit of room at the top for the popsicle stick).",
+                "Place in the freezer for half an hour, then add the popsicle sticks.",
+                "Keep in the freezer for 5 more hours, until they are solid.",
+                "Once frozen, run the popsicle moulds under warm water for a few seconds and gently remove from the moulds."
+            ],
+            "tags": [
+                "Sweet"
+            ]
         }
     ]
 }
