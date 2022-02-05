@@ -12508,6 +12508,82 @@
             "tags": [
                 "Sweet"
             ]
+        },
+        {
+            "title": "Mushroom stew",
+            "image": "mushroom-stew",
+            "url": "https://thefirstmess.com/2021/01/13/creamy-vegan-mushroom-stew-recipe-farro-kale/",
+            "ingredients": [
+                "2 tablespoons olive oil",
+                "1 onion, diced",
+                "3 shallots, diced",
+                "1 tbsp minced fresh rosemary",
+                "6 cloves garlic, minced",
+                "1 lb cremini mushrooms, sliced",
+                "1 tbsp balsamic vinegar",
+                "½ cup raw cashews",
+                "1 tbsp miso",
+                "1 tbsp nutritional yeast",
+                "4 cups vegetable stock, divided",
+                "2 cups wild rice, cooked",
+                "2 cups chopped kale, packed"
+            ],
+            "steps": [
+                "Soak cashews in boiling water for at least 1/2 an hour.",
+                "Heat the wok over medium heat. Once hot, pour in the olive oil and swirl it around.",
+                "Add the onions and shallots and stir. Sauté until translucent and soft.",
+                "Add the rosemary and garlic and stir until fragrant.",
+                "Add the mushrooms and season with salt and pepper. Cook until mushrooms are tender.",
+                "Add the  vinegar and stir. Cook off the vinegar a little.",
+                "Remove ⅓ of the mushroom mixture and place it in a blender.",
+                "Add to the blender the drained cashews, miso, nutritional yeast, and 2 cups of vegetable stock.",
+                "Blend this mixture on high until completely smooth and creamy.",
+                "Pour the remaining vegetable stock into the wok along with the cooked wild rice.",
+                "Pour the blended mushroom into the wok and stir.",
+                "Bring the stew to a boil and let it simmer, uncovered, for about 5 minutes.",
+                "Add the kale and stir. Keep simmering the stew until the kale is wilted, about 3-4 minutes."
+            ],
+            "tags": [
+                "Stew"
+            ]
+        },
+        {
+            "title": "Sichuan eggplant",
+            "image": "sichuan-eggplant",
+            "url": "https://www.chinasichuanfood.com/yu-xiang-qie-zi-sichuan-eggplant",
+            "ingredients": [
+                "4 chinese eggplants",
+                "1 block tofu",
+                "1 red pepper, finely chopped",
+                "1 tbsp doubanjiang",
+                "4 garlic cloves , chopped",
+                "1 tbsp chopped ginger",
+                "2 green onions",
+                "Cornstarch",
+                "2 tsp light soy sauce",
+                "1 tbsp black vinegar",
+                "5 tbsp water",
+                "1 tbsp cornstarch",
+                "2 tbsp sugar",
+                "1/4 tsp salt",
+                "Rice",
+                "Pak choi"
+            ],
+            "steps": [
+                "Drain and press the tofu and clean and cook the rice.",
+                "Cut eggplants into long strips. Then soak in salted water for around 15 minutes.",
+                "Drain the eggplant and pat dry. Put in a bowl and toss with cornstarch.",
+                "In a bowl mix ingredients from soy sauce to salt and put aside.",
+                "Heat up oil in the wok and fry the eggplants in batches until slightly browned.",
+                "Crumble the tofu into the wok and cook until crisp and browned.",
+                "Add doubanjiang and chopped pepper to continue cooking for 1 minute.",
+                "Add garlic, chopped peppers, spring onion whites and ginger and cook until fragrant.",
+                "Mix in the sauce and cook until thickene, coating all of the eggplant.",
+                "Add the pak choi and cook until wilted."
+            ],
+            "tags": [
+                "Chinese"
+            ]
         }
     ]
 }
