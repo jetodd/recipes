@@ -12657,6 +12657,45 @@
                 "Sweet",
                 "Chinese"
             ]
+        },
+        {
+            "title": "Hotteok",
+            "image": "hotteok",
+            "url": "https://www.maangchi.com/recipe/hotteok",
+            "ingredients": [
+                "1 cup luke-warm water",
+                "2 tbsp white sugar",
+                "2 tsp dry yeast",
+                "½ tsp kosher salt",
+                "1 tbsp vegetable oil",
+                "2 ½ cups all purpose flour",
+                "½ cup brown sugar",
+                "1 tsp cinnamon powder",
+                "2 tbsp chopped walnuts"
+            ],
+            "steps": [
+                "Place 1 cup of lukewarm water into a mixing bowl.",
+                "Add white sugar, yeast, kosher salt and vegetable oil and stir it well.",
+                "Add 2 cups all purpose flour and mix it with a rice scoop or by hand.",
+                "Let the dough rise. It should sit, covered at room temperature for 1 hour.",
+                "Knead it to remove the gas bubbles in the dough.",
+                "Let it rise for another 10-20 minutes.",
+                "Mix the brown sugar, cinnamon powder, and walnuts in a bowl.",
+                "Knead the dough again to remove the gas bubbles.",
+                "Place and spread about ½ cup flour on your cutting board.",
+                "Put the dough on your cutting board and knead it. Cut it into 8 equal-sized balls.",
+                "Take a dough ball, flatten it, put some filling in the center and then seal it to make a ball.",
+                "Heat up your non-stick pan over medium heat and add some vegetable oil.",
+                "Place 1 ball on the pan and let it cook for 30 seconds until the bottom is golden brown.",
+                "Turn it over and press the dough with a spatula to make a thin and wide circle.",
+                "Let it cook about 1 minute until the bottom is golden brown.",
+                "Turn it over again and turn down the heat very low.",
+                "Place the lid on the pan and cook 1 more minute."
+            ],
+            "tags": [
+                "Sweet",
+                "Korean"
+            ]
         }
     ]
 }
