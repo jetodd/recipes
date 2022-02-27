@@ -12761,6 +12761,82 @@
             "tags": [
                 "Sweet"
             ]
+        },
+        {
+            "title": "Charred red pepper tagliatelle",
+            "image": "charred-red-pepper-tagliatelle",
+            "url": "https://www.theguardian.com/food/2022/feb/26/ixta-belfrages-vegan-recipe-for-tagliatelle-with-charred-red-pepper-sauce-and-salsa-verde",
+            "ingredients": [
+                "250g tagliatelle",
+                "3-4 red romano peppers",
+                "2 eggplants, sliced",
+                "Cherry tomatoes, halved",
+                "125g plant-based cream",
+                "25g miso paste",
+                "25g tomato paste",
+                "2 tbsp olive oil",
+                "1 garlic clove, peeled",
+                "1 tsp onion powder",
+                "¼ tsp ground nutmeg",
+                "½ tsp paprika",
+                "Salt & pepper",
+                "10g chives, finely chopped",
+                "5g parsley, finely chopped",
+                "2 thin slices lemon, very finely chopped",
+                "3 tbsp olive oil"
+            ],
+            "steps": [
+                "Heat the oven grill. Lay the peppers on a baking tray and grill on the top shelf for about eight minutes.",
+                "Turn and grill for another seven or eight minutes, until soft and blackened in patches.",
+                "Remove peppers from the oven then remove the stalks, pith and seeds, then put the rest in a blender.",
+                "Add ingredients from cream to salt and papper then blitz smooth.",
+                "Put sliced eggplant on a lined baking tray, brush with olive oil on both sides and sprinkle with salt and pepper.",
+                "Roast until tender, flipping halfway and adding the cherry tomatoes.",
+                "Combine ingredients from chives to olive oil in a small bowl to make salsa.",
+                "Cook the pasta as per the packet instructions. Drain, reserving 325ml of the cooking water.",
+                "Add blended sauce to the wok on medium then add the reserved pasta water and simmer.",
+                "Add the drained tagliatelle, eggplant and cherry tomatoes and toss over the heat until covered."
+            ],
+            "tags": [
+                "Pasta"
+            ]
+        },
+        {
+            "title": "Oyster mushrooms and polenta",
+            "image": "mushroom-polenta",
+            "url": "https://www.theguardian.com/food/2022/feb/19/ixta-belfrages-vegan-recipe-for-oyster-mushrooms-and-polenta",
+            "ingredients": [
+                "500g oyster mushrooms, torn",
+                "Salt and black pepper",
+                "30g vegan butter",
+                "8 cloves garlic, finely chopped",
+                "1 red chilli, finely chopped",
+                "150g cherry tomatoes, finely chopped",
+                "1 tsp tomato puree",
+                "¾ tsp smoked paprika",
+                "½ tsp chipotle chilli flakes",
+                "200ml vegan single cream",
+                "100g quick-cook polenta",
+                "60g miso paste",
+                "1 tbsp olive oil",
+                "1 tsp onion granules",
+                "Finely chopped chives",
+                "1 lime, cut into wedges"
+            ],
+            "steps": [
+                "Heat the oven to 190C and line a baking tray.",
+                "Put mushrooms on tray and coat with oil, salt and pepper.",
+                "Spread out evenly and roast for 15 minutes. Stir, roast for another five to 10 minutes.",
+                "Put the oil and butter in the wok on low.",
+                "Once the butter has melted add the garlic, chilli and half a teaspoon of salt",
+                "Fry gently, stirring often until the garlic is soft and golden.",
+                "Take off the heat and stir in the tomatoes, tomato paste, paprika, chipotle and black pepper.",
+                "Put ingredients from cream to onion granules in a saucepan, add 350ml water and whisk to combine.",
+                "Put on a medium heat and cook, whisking continuously, until smooth and thickened."
+            ],
+            "tags": [
+                "Mushrooms"
+            ]
         }
     ]
 }
