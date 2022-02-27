@@ -12837,6 +12837,37 @@
             "tags": [
                 "Mushrooms"
             ]
+        },
+        {
+            "title": "Nam jim with eggplant",
+            "image": "nam-jim-eggplant",
+            "url": "https://www.theguardian.com/food/2019/nov/30/vegan-recipe-nam-jim-aubergine-salad-wild-rice-meera-sodha",
+            "ingredients": [
+                "4 medium eggplants",
+                "Rapeseed oil",
+                "300g mixed wild rice",
+                "Salt",
+                "25g coriander, leaves picked, stalks finely sliced",
+                "3 garlic cloves, peeled",
+                "3 bird’s eye chillies",
+                "1 tbsp dark brown sugar",
+                "2 tbsp soy sauce",
+                "5 tbsp lime juice",
+                "3 tbsp orange juice",
+                "20g Thai basil",
+                "20g mint, shredded"
+            ], 
+            "steps": [
+                "Heat the oven to 180C. Cut the eggplant into batons, put in a large bowl, and toss to coat with oil.",
+                "Arrange the aubergines in a single layer on baking trays and bake for 25 minutes, turning once halfway.",
+                "Cook the rice according to the packet instructions.",
+                "Put the coriander stalks, garlic, chillies and salt into a mortar and bash until smooth.",
+                "Tip into the eggplant bowl from earlier and add the sugar, soy, lime and orange juices.",
+                "Stir until the sugar dissolves then add the eggplant, submerge in the liquid and set aside for a few minutes."
+            ],
+            "tags": [
+                "Rice"
+            ]
         }
     ]
 }
