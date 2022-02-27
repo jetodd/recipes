@@ -12696,6 +12696,71 @@
                 "Sweet",
                 "Korean"
             ]
+        },
+        {
+            "title": "Cheesy gochujang noodles",
+            "image": "cheesy-gochujang-noods",
+            "url": "https://www.eatfigsnotpigs.com/cheesy-vegan-gochujang-udon-noodles",
+            "ingredients": [
+                "1 cup vegetable stock",
+                "2 tsp gochujang",
+                "2 tsp sesame oil",
+                "2 tsp soy sauce",
+                "2 tsp gochugaru",
+                "¼ tsp MSG",
+                "Salt, to taste",
+                "2 tbsp vegan butter, divided",
+                "Oyster mushrooms, roughly chopped",
+                "1 cup spring onion whites, chopped",
+                "12 cloves garlic, sliced",
+                "¾ cup grated vegan cheddar",
+                "¼ cup grated vegan mozzarella",
+                "12 ounces udon noodles",
+                "Pak choi",
+                "Garlic shoots",
+                "Finely chopped green onion",
+                "Toasted sesame seeds",
+                "Chili garlic sauce"
+            ],
+            "steps": [
+                "Add the stock, gochujang, sesame oil, soy sauce, gochugaru, and msg to a bowl, whisk to combine.",
+                "Heat 1 tablespoon of butter in the wok. Once melted add the mushrooms, and cook until slightly crisp around the edges.",
+                "Reduce the heat and add the remaining butter. Once melted, add the spring onion whites and garlic.",
+                "Cook, stirring often, until the the garlic is fragrant.",
+                "Pour in the sauce and vegan cheese, stirring to combine.",
+                "Reduce the heat and simmer, stirring often until the cheese has melted and the sauce is thickened.",
+                "Meanwhile, boil the noodles according to package directions.",
+                "Transfer the noodles to the wok along with the pak choi and garlic shoots.",
+                "Toss thoroughly until the noodles are coated."
+            ],
+            "tags": [
+                "Noodles"
+            ]
+        },
+        {
+            "title": "Pancakes",
+            "image": "pancakes",
+            "url": "https://tasty.co/recipe/the-fluffiest-vegan-pancakes",
+            "ingredients": [
+                "1 cup flour",
+                "2 tbsp organic sugar",
+                "1 tpsb baking powder",
+                "½ tsp salt",
+                "1 cup non-dairy milk",
+                "1 tbsp apple cider vinegar",
+                "1 tsp vanilla"
+            ],
+            "steps": [
+                "In a medium bowl add the flour, sugar, baking powder, and salt, and stir to combine.",
+                "In the measuring jug add the milk, apple cider vinegar and vanilla, and stir to combine.",
+                "Pour the liquid mixture into the dry mixture and whisk until smooth.",
+                "Let batter rest for 5 minutes.",
+                "Pour about ½ cup of batter onto a nonstick pan over medium heat.",
+                "When the top begins to bubble, flip the pancake and cook until golden."
+            ],
+            "tags": [
+                "Sweet"
+            ]
         }
     ]
 }
