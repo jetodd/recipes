@@ -12257,7 +12257,7 @@
                 "2 tbsp basil, chopped",
                 "1 large heirloom tomato, sliced",
                 "3 small capri tomatoes, sliced",
-                "2 onion, sliced thick",
+                "2 onions, sliced thickly",
                 "2 red romano peppers, sliced",
                 "4 cloves garlic, sliced",
                 "2 tsp of grapeseed oil",
@@ -12268,7 +12268,7 @@
                 "2 tsp of tahini",
                 "2 tsp of miso paste",
                 "2 garlic cloves, minced",
-                "1 1/2 tbsp nutrtional yeast",
+                "1 1/2 tbsp nutritional yeast",
                 "1 1/2 tbsp lemon juice",
                 "Salt & Pepper to taste"
             ],
@@ -12870,6 +12870,46 @@
             ],
             "tags": [
                 "Rice"
+            ]
+        },
+        {
+            "title": "Black pepper bucatini",
+            "image": "black-pepper-bucatini",
+            "url": "https://www.eatfigsnotpigs.com/creamy-black-pepper-bucatini/",
+            "ingredients": [
+                "2 large heads of garlic",
+                "450g bucatini noodles",
+                "2 tbsp vegan butter",
+                "400g cremini mushrooms, thinly sliced",
+                "3 shallots, diced",
+                "1 cup onion, diced",
+                "1 cup white wine",
+                "1 ½ tbsp whole peppercorns",
+                "¼ tsp red pepper flakes",
+                "1 ¼ cups raw cashews",
+                "2 tbsp miso paste",
+                "½ cup nutritional yeast",
+                "Zest and juice of 1 lemon"
+            ],
+            "steps": [
+                "Heat the oven to 190C. Cut off about ¼ - inch of the garlic head to expose the top of the cloves.",
+                "Place the garlic on foil, cut side up. Sprinkle with salt and drizzle on oil.",
+                "Wrap the garlic loosely with foil and roast in the oven until soft and golden brown, 35 to 40 minutes.",
+                "Before the garlic is done roasting, cook the noodles until al dente in a large pot of boiling salted water.",
+                "Before draining, reserve 3 cups of the pasta water. Drain and set aside.",
+                "Meanwhile, melt the butter in the wok pan over medium-high heat.",
+                "Add the mushrooms, shallots and onion and sauté, stiring often, until the onion is translucent.",
+                "Add the wine and simmer. Continue to cook, stirring often, until most of the wine has evaporated.",
+                "Using the mortar and pestle, crush the peppercorns.",
+                "Add the pepper and red pepper flakes along with some oil and sauté until the mushrooms become slightly caramelized.",
+                "Place the cashews in the blender with 2 cups of pasta water.",
+                "Add the miso paste, nutritional yeast, and squeeze in the roasted garlic cloves.",
+                "Pulse until smooth and transfer the sauce to the skillet with the mushrooms.",
+                "Reduce the heat and add the pasta, tossing well to ensure they’re coated in the sauce.",
+                "Pour in fresh lemon zest and juice, tossing once more."
+            ],
+            "tags": [
+                "Pasta"
             ]
         }
     ]
