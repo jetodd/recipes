@@ -12911,6 +12911,42 @@
             "tags": [
                 "Pasta"
             ]
+        },
+        {
+            "title": "Tomato egg stir fry",
+            "image": "tomato-egg-stir-fry",
+            "url": "https://theplantbasedwok.com/vegan-chinese-tomato-egg-stir-fry/",
+            "ingredients": [
+                "4 medium tomatoes",
+                "1 cup dried gluten puffs",
+                "2 sheets frozen or fresh yuba",
+                "5 cloves garlic, sliced",
+                "1 scallion",
+                "2 tsp light soy sauce",
+                "1/2 cup water",
+                "1 tbsp ketchup",
+                "2 tsp sugar",
+                "1/2 tsp salt",
+                "1 tsp cornstarch",
+                "Rice"
+            ],
+            "steps": [
+                "Soak frozen yuba to thaw until softened. Tear into pieces, about 2-3 inches each.",
+                "Soak the dried gluten puffs in warm water, or drain if using canned.",
+                "Clean and cook the rice.",
+                "Score the bottom of each tomato with an X-shaped cut.",
+                "Boil a pot of water, add the tomatoes and blanch for 20 seconds then removing and shocking in cold water.",
+                "Peel off the skins and cut tomatoes in half, then quarters, then bite-sized pieces.",
+                "Heat wok over medium and add oil. Swirl around to coat surface, and heat until oil surface is shimmering.",
+                "Add yuba and fry until puffy and golden brown, like scrambled eggs. Remove from wok.",
+                "Add garlic to the wok and white parts of scallion, and fry until aromatic.",
+                "Add chopped tomatoes and cook for 45 seconds while stirring, then add soy sauce, water, sugar, and ketchup.",
+                "Simmer then add gluten puffs and yuba, reduce to low and simmer for 2 minutes.",
+                "Add cornstarch slurry and cook until sauce has reduced and thickened."
+            ],
+            "tags": [
+                "Chinese"
+            ]
         }
     ]
 }
