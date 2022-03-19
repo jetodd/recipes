@@ -13040,6 +13040,7 @@
                 "Naan"
             ],
             "steps": [
+                "Mix coriander, turmeric, cumin, fennel, cinnamon, cardamom, chili powder, fenugreek, and curry powder.",
                 "In a bowl mix ingredients from yogurt to spice blend. Add the chicken and stir to coat well.",
                 "Leave covered in the fridge for 30 minutes so the chicken soaks up the marinade.",
                 "Heat oil in the wok, fry the chicken for 5 minutes until they start to brown. Set aside.",
@@ -13053,6 +13054,48 @@
             ],
             "tags": [
                 "Indian"
+            ]
+        },
+        {
+            "title": "Firecracker tofu",
+            "image": "firecracker-tofu",
+            "url": "https://www.instagram.com/p/CUX2c5CqAPR",
+            "ingredients": [
+                "1 block tofu",
+                "1 tbsp kecap manis",
+                "1 tsp chilli oil",
+                "Cornstarch",
+                "1 red pepper",
+                "1 green pepper",
+                "6 cloves garlic",
+                "2 red onions",
+                "1 cup mange-tout",
+                "Shichimi powder",
+                "1 lime",
+                "2 red chillies, chopped finely",
+                "1 tbsp sweet chilli",
+                "4 tbsp brown sugar",
+                "3 tbsp light soy sauce",
+                "2 tbsp kecap manis",
+                "2 tbsp ketchup",
+                "1 tbsp chinese black vinegar",
+                "1 tbsp miso",
+                "1 tbsp vegan fish sauce",
+                "1 pinch white pepper",
+                "1 tbsp chilli oil"
+            ],
+            "steps": [
+                "Drain and press the tofu.",
+                "Clean and cook the rice.",
+                "Cube the tofu and marinate it in the kecap manis and chilli oil.",
+                "Toss the tofu in cornstarch then shallow fry in a single layer.",
+                "Mix ingredients from red chillies to chilli oil to make the firecracker sauce.",
+                "Heat chilli oil in the wok. Add the  bell peppers, red onion and mange-tout.",
+                "Add in the garlic and stir in for 30 seconds to heat it through.",
+                "Mix the sauce and tofu into the wok and cook for another few minutes."
+            ],
+            "tags": [
+                "chinese"
             ]
         }
     ]
