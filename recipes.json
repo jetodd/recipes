@@ -12947,6 +12947,37 @@
             "tags": [
                 "Chinese"
             ]
+        },
+        {
+            "title": "Caramelised tofu and onion sandwich",
+            "image": "tofu-onion-sandwich",
+            "url": "https://cookingforpeanuts.com/caramelized-tofu-and-onion-sandwich/",
+            "ingredients": [
+                "2 romano peppers",
+                "1 block tofu",
+                "1 ½ tbsp nutritional yeast",
+                "¼ cup coconut aminos",
+                "½ tsp onion powder",
+                "½ tsp garlic powder",
+                "1 ¼ tsp sriracha",
+                "2 onions, thinly sliced",
+                "4 buns",
+                "Vegan aioli",
+                "Spinach"
+            ],
+            "steps": [
+                "Drain and press the tofu.",
+                "Preheat the oven to 180°C. Cut the peppers in half lengthways and remove seeds.",
+                "Place cut side up on a lined baking tray, drizzle with olive oil. Roast peppers until soft, 10-15 minutes.",
+                "Cut the tofu into 8 rectangles of equal size.",
+                "In a baking dish mix the nutritional yeast, coconut aminos, onion powder, garlic powder, and sriracha.",
+                "Place the tofu in the marinade. Coat both sides and set aside for 15 minutes, flipping them over halfway.",
+                "Heat oil in the pan. Remove the tofu from the marinade and cook for about 5 minutes on each side.",
+                "Add the onion and remaining marinade to the pan. Cook until browned."
+            ],
+            "tags": [
+                "sandwich"
+            ]
         }
     ]
 }
