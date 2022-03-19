@@ -13131,6 +13131,46 @@
             "tags": [
                 "Rice"
             ]
+        },
+        {
+            "title": "Tofu raisukaree",
+            "image": "tofu-raisukaree",
+            "url": "https://www.wagamama.com/cook/wok-from-home/curries/raisukaree-curry",
+            "ingredients": [
+                "1 block tofu",
+                "Cornstarch",
+                "4 kaffir lime leaves",
+                "1 red pepper, diced",
+                "1 green pepper, diced",
+                "2 red onions, diced",
+                "Broccoli",
+                "2 tins coconut milk",
+                "3 tbsp red curry paste",
+                "6 cloves garlic, minced",
+                "1 stock cube",
+                "2 tbsp fish sauce",
+                "2 tsp brown sugar",
+                "75g shelled edamame beans",
+                "Juice 1 lime",
+                "2 red chillies, sliced finely",
+                "Coriander",
+                "Sesame seeds",
+                "Shichimi"
+            ],
+            "steps": [
+                "Clean and cook the rice.",
+                "Drain and press the tofu.",
+                "Cube the tofu and toss it in cornstarch.",
+                "Heat the pan with some oil, cook the cubed tofu in a single layer until golden brown.",
+                "Heat the wok on high and add the curry paste, stir until fragrant.",
+                "Add a tiny bit of coconut milk and stir into the curry paste to incorporate.",
+                "Add the bell peppers and tofu and cover them in the paste.",
+                "Add the remaining coconut milk, crumbled stock cube, fish sauce, sugar and lime juice.",
+                "Bring to a simmer for five minutes, once nearly done add the broccoli and edamame."
+            ],
+            "tags": [
+                "Asian"
+            ]
         }
     ]
 }
