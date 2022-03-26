@@ -13253,6 +13253,48 @@
                 "Chinese",
                 "Bread"
             ]
+        },
+        {
+            "title": "Gnocchi gratin",
+            "image": "gnocchi-gratin",
+            "url": "https://www.theguardian.com/food/2022/mar/26/vegan-recipe-butter-bean-gratin-ixta-belfrage",
+            "ingredients": [
+                "450g cherry tomatoes",
+                "15g coriander",
+                "4 garlic cloves",
+                "2 tsp maple syrup",
+                "1 tsp flaked salt",
+                "Black pepper",
+                "2 packets gnocchi",
+                "300g silken tofu",
+                "40g white miso paste",
+                "2 tsp dried onion granules",
+                "1 small garlic clove",
+                "½ tsp ground cumin",
+                "⅛ tsp ground nutmeg",
+                "¼ tsp fine salt"
+                "1 tomato, finely chopped",
+                "1 red chilli, finely chopped",
+                "¼ onion, finely chopped",
+                "1 tbsp lime juice",
+                "¼ tsp fine salt",
+                "2 tbsp chopped coriander"
+            ],
+            "steps": [
+                "Heat the oven to 220C. Put the cherry tomatoes in a single layer in a casserole dish.",
+                "Add the coriander, garlic, oil, maple syrup, salt, pepper and stir to coat.",
+                "Roast near the top of the oven for 25-30 minutes, until softened and slightly charred.",
+                "Put all ingredients from tofu to salt in the blender, season with pepper and blend until smooth.",
+                "Cook the gnocchi according to package instructions.",
+                "Once tomatoes are roasted, stir in the gnocchu and a tablespoon of water." ,
+                "Turn the grill to its highest setting. Top the gnocchi with the bechamel, leaving spaces here and there.",
+                "Drizzle with oil and grill until golden brown and bubbling, five to ten minutes.",
+                "In a bowl mix the tomato, chilli, onion, oil, lime juice, coriander and salt.",
+                "Top with some of the salsa, then drizzle with oil and black pepper."
+            ],
+            "tags": [
+                
+            ]
         }
     ]
 }
