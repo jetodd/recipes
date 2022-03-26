@@ -4127,26 +4127,24 @@
             "title": "Jambalaya",
             "url": "https://thestingyvegan.com/vegan-jambalaya/",
             "ingredients": [
+                "6 spicy sausages, sliced",
                 "1 onion, diced",
+                "2 stalks celery, diced",
                 "6 cloves of garlic",
-                "2 stalks of celery",
+                "1 chilli pepper",
                 "1 red pepper",
                 "1 green pepper",
                 "1 large carrot",
                 "20 button mushrooms",
-                "1 tin beans",
                 "1 tbsp tomato paste",
                 "1 can tomatoes",
                 "4 cups vegetable stock",
-                "1 tsp oregano",
-                "1 tsp basil",
-                "1 tsp thyme",
-                "2 tsp paprika",
+                "2 tsp thyme",
+                "1 tsp paprika",
                 "1 tsp cumin",
-                "2 tsp soy sauce",
                 "1/2 tsp cayenne",
                 "2 bay leaves",
-                "2 tablespoons sriracha",
+                "2 tbsp cajun",
                 "2 cups rice",
                 "A handful of cilantro"
             ],
@@ -4154,8 +4152,7 @@
                 "Add the oil to the wok and when it’s hot add the onion then the garlic followed by the vegetables.",
                 "Add the canned tomatoes and cook another 5 minutes.",
                 "Add the soy sauce and the spices and stir. Then add the rice and vegetable stock and bring to a boil.",
-                "Cook over medium-high heat for 15 minutes or until the rice is cooked.",
-                "Add the beans, stir and cook 1 to 2 minutes more."
+                "Cook over medium-high heat for 15 minutes or until the rice is cooked."
             ],
             "tags": [
                 "Vegan"
@@ -13214,6 +13211,47 @@
             ],
             "tags": [
                 "Pastry"
+            ]
+        },
+        {
+            "title": "Shao bing",
+            "image": "shao-bing",
+            "url": "https://woonheng.com/green-onion-shao-bing",
+            "ingredients": [
+                "300g all-purpose flour",
+                "4g yeast",
+                "175g warm water",
+                "150g spring onions",
+                "3 tbsp flour",
+                "4 tbsp cooking oil",
+                "½ tsp salt",
+                "Pinch of five spice",
+                "2 tbsp maple syrup",
+                "1 tbsp oat milk",
+                "Sesame seeds"
+            ],
+            "steps": [
+                "Place all-purpose flour in a bowl then sprinkle yeast on top.",
+                "Using chopsticks slowly add the water while stirring until there are no dry spots of flour left.",
+                "Knead into a soft dough. Cover with a moist towel. Let it proof about 30-35 minutes.",
+                "Add flour to a bowl and heat the oil. Carefully pour the oil into the bowl with flour.",
+                "Stir to combine into a paste and let it cool.",
+                "Preheat the oven to 245C.",
+                "Dust the work surface with flour. Roll the dough into a large rectangle roughly 3mm thick.",
+                "Spread ⅔ of the oil paste over and place the chopped spring onions in the middle third of the dough.",
+                "Gently press green onions to adhere.",
+                "Flip one side over to cover the spring onions. Then, spread the remaining oil paste and green onions on top.",
+                "Bring the top part over to cover and then pinch to seal all the openings.",
+                "Flip it over so the seamed side is facing down.",
+                "Whisk maple syrup and milk together until incorporated.",
+                "Brush the dough with a layer of wash. Then, pack the top with sesame seeds.",
+                "Cut into 6 equal portions and transfer to a baking tray, 1-inch apart.",
+                "Bake for 12 minutes until golden brown."
+
+            ],
+            "tags": [
+                "Chinese",
+                "Bread"
             ]
         }
     ]
