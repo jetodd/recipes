@@ -10550,7 +10550,7 @@
                 "1/4 tsp mushroom seasoning",
                 "6 cups of water",
                 "2 tbsp cornstarch",
-                "2 tbsp rice vinegar",
+                "2 tbsp black vinegar",
                 "2 spring onions, chopped",
                 "Fried wonton strips",
                 "Chilli oil",
@@ -13409,6 +13409,44 @@
             ],
             "tags": [
                 "Korean"
+            ]
+        },
+        {
+            "title": "Rigatoni with crema di rucola",
+            "image": "rigatoni-crema-di-rucula",
+            "url": "https://www.theguardian.com/food/2022/apr/16/vegan-recipe-rigatoni-crema-di-rucola-ixta-belfrage",
+            "ingredients": [
+                "Rigatoni",
+                "1 tbsp vegan butter",
+                "2 tbsp olive oil",
+                "5g sage leaves",
+                "2 large tomatoes, halved",
+                "1 tsp chilli flakes",
+                "2½ tbsp olive oil",
+                "1 garlic clove, finely grated",
+                "½ tsp lemon juice",
+                "½ tsp fine salt",
+                "300g silken tofu",
+                "50g rocket",
+                "15g basil leaves",
+                "2 tbsp olive oil",
+                "1 tsp lemon zest",
+                "1 tsp dried onion granules",
+                "1 garlic clove, roughly chopped",
+                "¾ tsp fine salt",
+                "Freshly grated nutmeg"
+            ],
+            "steps": [
+                "Cook the pasta in salted boiling water until al dente.",
+                "Drain the pasta, reserving four tablespoons of the water.",
+                "Grate the tomato halves on the large holes of a box grater.",
+                "Put the tomato pulp in a sieve over a bowl to drain for a few minutes; discard the skins.",
+                "Mix the pulp and half a tablespoon of the juice with chilli flakes, oil, garlic, lemon juice and salt.",
+                "Put ingredients from tofu to nutmeg in a blender, add pepper and blend until smooth.",
+                "Spoon blended crema into the wok and put it on a medium heat.",
+                "Add the pasta and pasta water, cook until the sauce is warm and the pasta is coated, set aside.",
+                "Put the butter and oil in a small pan on a medium-high heat.",
+                "Once the butter has melted, add the sage leaves and fry, swirling the pan, until they go crisp."
             ]
         }
     ]
