@@ -13448,6 +13448,86 @@
                 "Put the butter and oil in a small pan on a medium-high heat.",
                 "Once the butter has melted, add the sage leaves and fry, swirling the pan, until they go crisp."
             ]
+        },
+        {
+            "title": "Pumpkin risotto",
+            "image": "pumpkin-risotto",
+            "url": "https://www.lazycatkitchen.com/vegan-pumpkin-risotto-bacon-bits/",
+            "ingredients": [
+                "750g butternut squash",
+                "1 head of garlic + 3 garlic cloves",
+                "10 sage leaves",
+                "1 onion, diced",
+                "2 shallots, diced",
+                "3 cups veggie stock",
+                "2 tbsp miso paste",
+                "3 tbsp nutritional yeast",
+                "1½ cups arborio",
+                "¾ cup white wine",
+                "¼ cup vegan cream",
+                "1 tbsp lemon juice"
+            ],
+            "steps": [
+               "Heat up the oven to 220°C and line a large baking tray.",
+               "Dice the butternut squash into cubes and coat in olive oil. Season lightly and spread on the baking tray.",
+               "Cut the top of the garlic off to expose the cloves, drizzle with ½ tsp of olive oil and wrap it in foil.",
+               "Place garlic on the tray and put the in oven, remove the garlic at 20 mins. Leave the squash in until soft.",
+               "Heat oil in the wok. Add sage leaves and allow them to crisp in the oil for 30-45 seconds then remove.",
+               "Add diced onion to the oil. Fry for a little then add shallots. Cook until translucent then season with pepper.",
+               "Warm up stock in a pot. Add a splash of stock with miso paste and nutritional yeast, mix until smooth.",
+               "Once onion is translucent, add garlic and season again lightly, fry until fragrant.", 
+               "Mix in arborio rice and fry it off for a few seconds, stirring frequently.",
+               "Next add wine and stir. Allow the wine to cook off completely before adding the first stock.",
+               "Keep adding the stock in small amounts, until fully absorbed by the rice before adding more.",
+                "Once pumpkin is out of the oven, in a blender add 1 cup of pumpkin, squeezed out garlic cloves and 1 cup of water.",
+                "Blend until smooth. Then add it the rest of the stock.",
+                "Once the rice is cooked, stir in some vegan cream and season and add a bit of lemon juice."         
+            ],
+            "tags": [
+                "Rice"
+            ]
+        },
+        {
+            "title": "Eggplant with tomato chilli oil",
+            "image": "eggplant-tomato-chilli-oil",
+            "url": "https://www.theguardian.com/food/2022/apr/23/vegan-recipe-aubergines-with-lime-yoghurt-and-tomato-chilli-oil-ixta-belfrage",
+            "ingredients": [
+                "4 eggplants, cut into 2½cm rounds",
+                "1 tbsp chives, roughly chopped",
+                "350g unsweetened coconut yoghurt",
+                "1 garlic clove, minced",
+                "1 lime – zested",
+                "1½ tbsp sesame seeds",
+                "2 cinnamon sticks, roughly broken",
+                "1 dried chilli (optional)",
+                "1 whole star anise",
+                "½ shallot,very finely chopped",
+                "2 garlic cloves, finely chopped",
+                "1½ tsp maple syrup",
+                "1 tsp sweet paprika",
+                "¾ tsp chipotle flakes",
+                "¾ tsp gochugaru",
+                "½ tsp tomato paste",
+                "2 ripe tomatoes"
+            ],
+            "steps": [
+                "Heat the oven to 230C. Put the aubergines in a bowl with the oil and salt, and mix well.",
+                "Spread out on a large, flat, parchment-lined baking tray and roast for 20 minutes." ,
+                "Turn the tray, flip over each aubergine round and continue to roast for another 10 minutes.",
+                "Meanwhile, mix ingredients from yogurt to salt in a medium bowl and set aside.",
+                "Spread out sesame seeds, cinnamon, habanero and star anise in a frying pan and put on a medium heat.",
+                "Toast, shaking the pan every now and then, until the seeds are golden brown. Tip the seeds on to a plate.",
+                "Add the onion, salt and two tablespoons of the oil to the pan and return to a medium-high heat.",
+                "Fry, stirring, until the onion turns golden brown. Remove from the heat and add more oil.",
+                "Add the garlic, maple syrup, paprika, chipotle, gochugaru and tomato paste, stir well.",
+                "Grate the tomatoes on the large holes of a box grater. Add the pulp to a sieve and leave to drain for a minute.",
+                "Add the drained pulp to the pan with the chilli oil, mix, then return the pan for two minutes.",
+                "Discard the habanero, cinnamon sticks and star anise.",
+                "Tip the sesame seeds into a mortar with salt and roughly crush, add to the chilli oil."
+            ],
+            "tags": [
+                "Eggplant"
+            ]
         }
     ]
 }
