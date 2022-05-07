@@ -13565,6 +13565,36 @@
                 "Mexican",
                 "Burrito"
             ]
+        },
+        {
+            "title": "Mango sticky rice",
+            "image": "mango-sticky-rice",
+            "url": "https://www.reddit.com/r/veganrecipes/comments/uk1b3t/mango_sticky_rice_thai_restaurant_style_vegan_and/",
+            "ingredients": [
+                "1 can coconut milk",
+                "1 cup glutinous rice",
+                "1 large ripe mango",
+                "1/2 cup sugar",
+                "1 pinch salt",
+                "1 tsp cornstarch",
+                "2 tbsp water",
+                "Sesame seeds"
+            ],
+            "steps": [
+                "Soak the rice for at least an hour in water, preferably overnight.",
+                "Using a steamer, steam the rice for 50-55 minutes or until chewy and cooked through.",
+                "In the wok over medium heat, add 1/2 cup coconut milk, 1/4 cup sugar, salt and the rice.", 
+                "Stir until all the liquid is absorbed. Once the rice is sticky, remove from heat.",
+                "In a small saucepan over low heat, add remaining coconut milk and sugar.",
+                "Stir and bring to a simmer. Once simmering, add the cornstarch slurry and allow the syrup to thicken.",
+                "Halve the mango, and slice both sides into thin strips, maintaining the shape.",
+                "Place the rice in a small bowl, and turn it over onto the serving plate.",
+                "Place the mango on top and decorate with the coconut glaze, add sesame seeds."
+            ],
+            "tags": [
+                "Sweet",
+                "Rice"
+            ]
         }
     ]
 }
