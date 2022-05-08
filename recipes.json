@@ -13595,6 +13595,36 @@
                 "Sweet",
                 "Rice"
             ]
+        },
+        {
+            "title": "Chipotle bean bowl",
+            "image": "chipotle-bean-bowl",
+            "url": "https://madebyblitz.com/recipe/black-bean-chipotle-bean-bowl/",
+            "ingredients": [
+                "1 can black beans",
+                "2 red onions, finely chopped",
+                "1 red pepper, sliced",
+                "1 yellow pepper, sliced",
+                "4 garlic cloves, minced",
+                "1 tbsp tomato paste",
+                "2 tsp chipotle paste",
+                "1 avocado",
+                "Cherry tomatoes, quartered",
+                "1 lime",
+                "Coriander",
+                "Lettuce"
+            ],
+            "steps": [
+                "Clean and cook the rice.",
+                "Heat a pan with some olive oil. Add the chopped bell peppers and half the red onion.",
+                "Once partially cooked add the chopped garlic and black beans in their juice.",
+                "Simmer for 5 minutes then add in the tomato paste and chipotle paste.",
+                "Mix the remaining lime juice and half the coriander into the rice.",
+                "Assemble the bowl."
+            ],
+            "tags": [
+                "Quick"
+            ]
         }
     ]
 }
