@@ -11134,11 +11134,11 @@
                 "Cremini mushrooms",
                 "Shiitake mushrooms",
                 "1 tbsp thyme, roughly chopped",
-                "1 1/2 cups vegetable stock",
+                "1 cup vegetable stock",
                 "2 tbsp soy sauce",
                 "2 tbsp cornstarch",
                 "1/3 cup white wine",
-                "1 1/2 cups non-dairy milk",
+                "1 cup cashew milk",
                 "2 tbsp nutritional yeast",
                 "1 tsp paprika",
                 "Chilli flakes"
@@ -13624,6 +13624,39 @@
             ],
             "tags": [
                 "Quick"
+            ]
+        },
+        {
+            "title": "Asparagus zaatar pasta",
+            "image": "asparagus-zaatar-pasta",
+            "url": "https://bestofvegan.com/all-about-the-veg-creamy-vegan-asparagus-zaatar-pasta/",
+            "ingredients": [
+                "3 shallots, finely chopped",
+                "6 cloves garlic, minced",
+                "250g asparagus",
+                "1/2 cups frozen peas",
+                "250ml vegan cream",
+                "2 tbsp Za’atar spice blend",
+                "4 tbsp nooch",
+                "½ lemon, zest and juice",
+                "300g linguine",
+                "Fresh thyme"
+            ],
+            "steps": [
+                "Cook pasta according to package instructions and reserve 200ml of the pasta water."
+                "Trim asparagus by cutting or snapping off the hard and woody ends.",
+                "Slice the asparagus in thin rounds leaving the top spear. Keep separate.",
+                "Heat oil in a pan, add the top parts of the asparagus, season with salt and pepper.",
+                "Stir-fry until a little browned but still green and crunchy. Transfer to a plate.",
+                "Add the shallot and sauté until translucent, add the garlic and the sliced asparagus. Fry for 1-2 minutes.",
+                "Add the cream, za’atar, 2 tablespoons of nooch, salt and pepper, stir well.",
+                "Simmer for a couple of minutes. Add lemon juice, peas and the rest of the nooch, stir.",
+                "Mix the sauce with the drained pasta, stir well.",
+                "Add a little pasta water at a time while stirring if needed to make it saucier.",
+                "Top with the asparagus, lemon zest, thyme, a little za’atar, and black pepper."
+            ],
+            "tags": [
+                "pasta"
             ]
         }
     ]
