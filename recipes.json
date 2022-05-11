@@ -13658,6 +13658,46 @@
             "tags": [
                 "pasta"
             ]
+        },
+        {
+            "title": "Pesto risotto",
+            "image": "pesto-risotto",
+            "url": "https://crumbsandcaramel.com/vegan-pesto-risotto-roasted-tomatoes-chickpeas/",
+            "ingredients": [
+                "1/4 cup cashews",
+                "2 cups fresh packed basil",
+                "3 cloves garlic",
+                "3 tbsp lemon juice",
+                "1/4 cup nutritional yeast",
+                "1/2 teaspoon salt",
+                "4 tablespoons olive oil",
+                "4 cups cherry tomatoes",
+                "2 shallots, diced",
+                "1 onion, diced",
+                "6 cloves garlic, minced",
+                "1/2 cup white wine",
+                "1 ½ cups arborio rice",
+                "4 cups vegetable stock",
+                "1 tbsp lemon juice",
+                "3 tbsp nutritional yeast",
+                "3 cups baby spinach"
+            ],
+            "steps": [
+                "Preheat the oven to 210C. Line a large baking sheet with parchment paper.",
+                "Place the cherry tomatoes on the baking sheet, toss in olive oil, season and spread out in a single layer.",
+                "Roast for 25 minutes, moving them around halfway through.",
+                "Place ingredients from pine nuts to salt in the blender and blend until finely chopped.",
+                "With the food processor running, slowly drizzle in the olive oil and blend until smooth.",
+                "Pour stock into a saucepan and bring it to a gentle simmer, reduce heat to low and cover.",
+                "Heat oil over medium in the wok. Add the onion and sauté until it is soft and translucent.",
+                "Add the garlic and shallots and cook 30 seconds more. Then add the rice, toast for one minute",
+                "Pour in the wine and stir constantly until fully absorbed.",
+                "Begin adding the stock, 1/2 cup at a time. Cook, stirring often, until nearly absorbed. Repeat.",
+                "Stir in pesto, lemon juice, and nutritional yeast. Stir in the spinach allowing it to wilt a bit."
+            ],
+            "tags": [
+                "Rice"
+            ]
         }
     ]
 }
