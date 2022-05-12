@@ -13493,27 +13493,28 @@
             "url": "https://www.theguardian.com/food/2022/apr/23/vegan-recipe-aubergines-with-lime-yoghurt-and-tomato-chilli-oil-ixta-belfrage",
             "ingredients": [
                 "4 eggplants, cut into 2½cm rounds",
+                "6 cloves garlic",
                 "1 tbsp chives, roughly chopped",
                 "350g unsweetened coconut yoghurt",
                 "1 garlic clove, minced",
                 "1 lime – zested",
-                "1½ tbsp sesame seeds",
+                "2 tbsp sesame seeds",
                 "2 cinnamon sticks, roughly broken",
-                "1 dried chilli (optional)",
+                "1 dried chilli",
                 "1 whole star anise",
-                "½ shallot,very finely chopped",
-                "2 garlic cloves, finely chopped",
-                "1½ tsp maple syrup",
+                "3 shallots, finely chopped",
+                "4 garlic cloves, finely chopped",
+                "2 tsp maple syrup",
                 "1 tsp sweet paprika",
-                "¾ tsp chipotle flakes",
-                "¾ tsp gochugaru",
+                "2 tsp chipotle flakes",
+                "1 tsp gochugaru",
                 "½ tsp tomato paste",
-                "2 ripe tomatoes"
+                "2 cans tomatoes"
             ],
             "steps": [
                 "Heat the oven to 230C. Put the aubergines in a bowl with the oil and salt, and mix well.",
                 "Spread out on a large, flat, parchment-lined baking tray and roast for 20 minutes." ,
-                "Turn the tray, flip over each aubergine round and continue to roast for another 10 minutes.",
+                "Turn the tray, flip over each aubergine round, add the garlic and continue to roast for another 10 minutes.",
                 "Meanwhile, mix ingredients from yogurt to salt in a medium bowl and set aside.",
                 "Spread out sesame seeds, cinnamon, habanero and star anise in a frying pan and put on a medium heat.",
                 "Toast, shaking the pan every now and then, until the seeds are golden brown. Tip the seeds on to a plate.",
@@ -13751,6 +13752,49 @@
             ],
             "tags": [
                 "Mexican"
+            ]
+        },
+        {
+            "title": "Hayashi rice",
+            "image": "hayashi-rice",
+            "url": "https://www.ellielikes.cooking/vegan-hayashi-rice",
+            "ingredients": [
+                "1 onion, chopped",
+                "4 carrots, chopped",
+                "4 ribs of celery, chopped",
+                "3 cups vegetable stock",
+                "2 cups tomato puree",
+                "¼ cup red wine",
+                "2 tbsp Japanese Worcestershire sauce",
+                "2 tbsp sugar",
+                "2 tbsp soy sauce",
+                "2 bay leaves",
+                "6 tbsp all purpose flour",
+                "7 cups vegetable stock",
+                "180g soy curls",
+                "1 onion sliced",
+                "6 cloves of garlic minced",
+                "800g mushrooms, sliced",
+                "Rice"
+            ],
+            "steps": [
+                "Heat 2 tbsp oil in a pan and add onion, carrot and celery. Sauté until browned.",
+                "Add 3 cups stock, tomato puree, red wine, Worcestershire sauce, sugar, soy sauce, and bay leaf.",
+                "Stir to combine then simmer for 30 minutes.",
+                "Meanwhile, heat 4 cups of vegetable broth in a pot on the stove.",
+                "Once it starts boiling, turn off the heat and add soy curls to the pot.",
+                "Let the soy curls rehydrate in the vegetable broth for 10 minutes, then drain.",
+                "Gently press on the soy curls to remove excess liquid.",
+                "Heat oil in the wok over medium low.",
+                "Once hot, add the flour and stir constantly until the roux turns brown. Remove from heat.",
+                "When the sauce is done simmering, strain the vegetables and reserve the sauce.",
+                "Clean and cook the rice.",
+                "Heat 2 tbsp oil in the wok and add onion slices and a pinch of salt. Cook until brown.",
+                "Add garlic and mushrooms and cook a few minutes until the mushrooms soften.",
+                "Add the sauce, roux, 2 cups stock and soy curls. Cover and simmer 15 minutes. Season."
+            ],
+            "tags": [
+                "Japanese"
             ]
         }
     ]
