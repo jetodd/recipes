@@ -13799,6 +13799,35 @@
                 "Japanese",
                 "Weekend"
             ]
+        },
+        {
+            "title": "Muhammara",
+            "image": "muhammara",
+            "url": "https://quitegoodfood.co.nz/red-pepper-walnut-dip/",
+            "ingredients": [
+                "3 large red peppers",
+                "¾ cup walnuts",
+                "1 ½ tbsp pomegranate molasses",
+                "1-2 tsp lemon juice",
+                "2 tsp olive oil",
+                "2 cloves garlic",
+                "2 tbsp tomato paste",
+                "1 teaspoon Aleppo pepper",
+                "½ tsp ground cumin",
+                "½ teaspoon sugar",
+                "1 teaspoon sumac",
+                "½ teaspoon cayenne pepper"
+            ],
+            "steps": [
+              "Preheat the oven to 220C. Halve the red peppers and remove the stems and seeds.",
+              "Lay the peppers, cut side down on a lined baking tray. Roast for 15-20 minutes until skin is charred.",
+              "Toast walnuts in the oven for 5-7 minutes, until lightly browned and fragrant. Set aside to cool.",
+              "When cool enough to handle, peel the peppers and slice the them into small strips.",
+              "Put all ingredients into a food processor and whizz to combine, stopping to scrape down the sides as needed."
+            ],
+            "tags": [
+                "Dip"
+            ]
         }
     ]
 }
