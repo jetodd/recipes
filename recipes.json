@@ -13860,6 +13860,46 @@
             "tags": [
                 "Eggplant"
             ]
+        },
+        {
+            "title": "Chocolate cake",
+            "image": "chocolate-cake",
+            "url": "https://www.noracooks.com/vegan-chocolate-cake/",
+            "ingredients": [
+                "1 cup almond milk",
+                "1 tbsp apple cider vinegar",
+                "2 cups all purpose flour",
+                "1 1/2 cups sugar",
+                "3/4 cup cocoa powder",
+                "2 tsp baking powder",
+                "1 1/2 tsp baking soda",
+                "1 tsp salt",
+                "1/2 cup melted coconut oil",
+                "2/3 cup unsweetened applesauce",
+                "1 tbsp vanilla extract",
+                "1 cup boiling water",
+                "1/2 cup cocoa powder",
+                "3/4 cup vegan butter, softened",
+                "2-3 cups powdered sugar",
+                "1 tsp vanilla extract",
+                "1/4 cup almond milk"
+            ],
+            "steps": [
+                "Preheat oven to 180C and grease and line two 9-inch cake pans.",
+                "Add the vinegar to the cup of almond milk. Stir slightly and set aside to curdle.",
+                "In a large bowl add the flour, sugar, cocoa, baking powder, baking soda and salt. Whisk to combine.",
+                "Now add the oil, applesauce, vanilla and almond milk/vinegar mixture.",
+                "Mix on medium speed with a hand mixer until well combined.",
+                "Lower the speed and pour in the boiling water, continuing to mix until combined.",
+                "Divide the batter evenly between your cake pans. Bake for 30-35 minutes.",
+                "Sieve the cocoa powder to a large bowl.",
+                "Add the butter and mix with a hand mixer until creamed and well combined.",
+                "Add half of the powdered sugar and half of the almond milk, and mix until combined.",
+                "Add the rest of the powdered sugar and vanilla. Mix starting on low and turn to high until fluffy and combined."
+            ],
+            "tags": [
+                "Sweet"
+            ]
         }
     ]
 }
