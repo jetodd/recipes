@@ -13828,6 +13828,38 @@
             "tags": [
                 "Dip"
             ]
+        },
+        {
+            "title": "Eggplant and muhammara bowl",
+            "image": "eggplant-muhammara",
+            "url": "https://quitegoodfood.co.nz/quinoa-kale-eggplant-bowl-muhammara/",
+            "ingredients": [
+                "3 eggplants, sliced",
+                "Broccolini",
+                "200g cherry tomatoes",
+                "8 garlic cloves, peeled and crushed",
+                "20g coriander",
+                "2 1/2 tbsp olive oil",
+                "2 tsp maple syrup",
+                "1/2 tsp salt",
+                "Black pepper",
+                "1/4 cup uncooked quinoa",
+                "1 cup shredded kale",
+                "2 teaspoon lemon juice",
+                "Muhammara"
+            ],
+            "steps": [
+                "Heat the oven to 220C. Put the cherry tomatoes in a single layer in a casserole dish.",
+                "Mix the coriander, oil, maple syrup, salt and pepper in a bowl.",
+                "Coat the eggplant, tomatoes, garlic and broccolini in the mixture. Place the tomatoes, garlic and eggplant on a lined tray.",
+                "Roast near the top of the oven for 25-30 minutes, adding the broccolini with 10 minutes to go.",
+                "Bring a pot of salted water to the boil. Add the uncooked quinoa and boil for 12 minutes.",
+                "Drain in a sieve, then set aside to steam off its excess moisture and cool down.",
+                "Once the quinoa has cooled, mix with kale, lemon juice, olive oil and a little salt."
+            ],
+            "tags": [
+                "Eggplant"
+            ]
         }
     ]
 }
