@@ -13900,6 +13900,74 @@
             "tags": [
                 "Sweet"
             ]
+        },
+        {
+            "title": "Chilli lemongrass eggplant",
+            "image": "chilli-lemongrass-eggplant",
+            "url": "https://bestofvegan.com/chili-lemongrass-eggplant-green-beans-tofu/",
+            "ingredients": [
+                "Rice",
+                "1 onion, diced",
+                "3 tbsp finely minced lemongrass",
+                "2 red chilli, diced",
+                "2 tsp grated ginger",
+                "6 garlic cloves, minced",
+                "2 eggplants, cut into chunks",
+                "2 cups green beans, trimmed",
+                "1 block tofu, crumbled",
+                "2 tbsp light soy sauce",
+                "1 tbsp dark soy sauce",
+                "1 tbsp brown sugar",
+                "1/2 tbsp mushroom-based stock powder",
+                "1/8 tsp ground black pepper",
+                "2 whole star anise",
+                "Sesame oil"
+            ],
+            "steps": [
+                "Clean and cook the rice.",
+                "In the wok, heat oil over medium high.",
+                "Add in the onion, lemongrass, chilli, ginger and garlic. Fry until fragrant and softened.",
+                "Add the eggplant, green beans and tofu. Cook for 5 minutes, tossing well until the eggplant is lightly golden.",
+                "Add in the soy sauces, brown sugar, stock powder, pepper, star anise and water. Stir to combine.",
+                "Pop the lid on and lower the heat. Simmer until most of the liquid has cooked off and eggplant is tender.",
+                "Remove lid, drizzle with sesame oil and toss together."
+            ],
+            "tags": [
+                "Asian"
+            ]
+        },
+        {
+            "title": "Beef & broccoli stirfry",
+            "image": "beef-broccoli",
+            "url": "https://www.instagram.com/p/CMelOx8JJmD/",
+            "ingredients": [
+                "Rice",
+                "100g TVP slices",
+                "2 tsp cornstarch",
+                "1/3 cup water",
+                "2 tbsp light soy sauce",
+                "1/2 tbsp dark soy sauce",
+                "2 tbsp brown sugar",
+                "1/2 tsp Chinese five spice",
+                "1/8 tsp ground black pepper",
+                "1 head of broccoli, cut into florets",
+                "1/2 tbsp finely grated ginger",
+                "6 cloves garlic, minced"
+            ],
+            "steps": [
+                "Clean and cook the rice.",
+                "Add the TVP slices to a bowl and pour over boiling water to cover. Set aside.",
+                "Combine ingredients from cornstarch to pepper into a small bowl. Whisk well.",
+                "Heat oil in the wok over medium. Add in the broccoli and sauté until broccoli is lightly charred.",
+                "Add 2 tbsp water and cook until water has evaporated and broccoli is slightly tender. Set aside.",
+                "Add the ginger and garlic to the wok and fry for 30 seconds until fragrant.",
+                "Drain the TVP and squeeze out any excess liquid then add it to the pan.",
+                "Turn heat up and fry off for 2 minutes until dried out and lightly charred.",
+                "Pour in the sauce and add the broccoli back in. Toss well and cook until sauce has thickened."
+            ],
+            "tags": [
+                "Chinese"
+            ]
         }
     ]
 }
