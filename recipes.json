@@ -290,7 +290,8 @@
                 "Asian",
                 "Japanese",
                 "Vegan",
-                "Rice"
+                "Rice",
+                "Curry"
             ]
         },
         {
@@ -490,7 +491,8 @@
                 "Asian",
                 "Vegan",
                 "Malaysian",
-                "Noodles"
+                "Noodles",
+                "Curry"
             ]
         },
         {
@@ -626,7 +628,8 @@
             "tags": [
                 "Rice",
                 "Vegan",
-                "African"
+                "African",
+                "Stew"
             ]
         },
         {
@@ -1287,7 +1290,8 @@
                 "Using a blender, carefully puree the tomatillos and water in batches until smooth."
             ],
             "tags": [
-                "Mexican"
+                "Mexican",
+                "Salsw"
             ]
         },
         {
@@ -1519,7 +1523,8 @@
             ],
             "tags": [
                 "Vegan",
-                "Thai"
+                "Thai",
+                "Curry"
             ]
         },
         {
@@ -1885,7 +1890,8 @@
                 "Roast in the oven for 45 mins."
             ],
             "tags": [
-                "Vegan"
+                "Vegan",
+                "Eggplant"
             ]
         },
         {
@@ -1923,7 +1929,8 @@
             ],
             "tags": [
                 "Vegetarian",
-                "Italian"
+                "Italian",
+                "Eggplant"
             ]
         },
         {
@@ -2105,7 +2112,8 @@
             "tags": [
                 "Vegan",
                 "Asian",
-                "Japanese"
+                "Japanese",
+                "Noods"
             ]
         },
         {
@@ -2132,7 +2140,8 @@
                 "Pour into a bowl and add toppings."
             ],
             "tags": [
-                "Sweet"
+                "Sweet",
+                "Cold"
             ]
         },
         {
@@ -2155,7 +2164,8 @@
                 "Freeze one hour or until solid."
             ],
             "tags": [
-                "sweet"
+                "sweet",
+                "Cold"
             ]
         },
         {
@@ -2178,7 +2188,7 @@
                 "Top em, (creamy garlic mushrooms normally)"
             ],
             "tags": [
-                "sweet"
+                "Potato"
             ]
         },
         {
@@ -2212,7 +2222,8 @@
             ],
             "tags": [
                 "Thai",
-                "Vegan"
+                "Vegan",
+                "Noods"
             ]
         },
         {
@@ -2289,7 +2300,8 @@
             ],
             "tags": [
                 "Asian",
-                "Thai"
+                "Thai",
+                "Soup"
             ]
         },
         {
@@ -2391,7 +2403,8 @@
             ],
             "tags": [
                 "Vegan",
-                "Indian"
+                "Indian",
+                "Curry"
             ]
         },
         {
@@ -2524,7 +2537,8 @@
                 "Add the coconut milk and cherry tomatoes and bring the pot back to a simmer. Remove the pot from the heat and stir in the cilantro."
             ],
             "tags": [
-                "Vegan"
+                "Vegan",
+                "Curry"
             ]
         },
         {
@@ -2638,7 +2652,8 @@
             ],
             "tags": [
                 "Vegan",
-                "Asian"
+                "Asian",
+                "Noods"
             ]
         },
         {
@@ -2664,7 +2679,8 @@
                 "Serve with spring onions and sesame seeds."
             ],
             "tags": [
-                "Vegan"
+                "Vegan",
+                "Noods"
             ]
         },
         {
@@ -2697,7 +2713,8 @@
             ],
             "tags": [
                 "Vegan",
-                "Asian"
+                "Asian",
+                "Noods"
             ]
         },
         {
@@ -2734,7 +2751,8 @@
                 "Return the tofu to wok, add spring onion whites and peanut sauce. Coat everything in the sauce."
             ],
             "tags": [
-                "Vegan"
+                "Vegan",
+                "Satay"
             ]
         },
         {
@@ -2774,7 +2792,9 @@
                 "Add tofu and noodles to pan, once cooked stir in the basil."
             ],
             "tags": [
-                "Vegan"
+                "Vegan",
+                "Thai",
+                "Noods"
             ]
         },
         {
@@ -2830,7 +2850,8 @@
                 "Once the oven is hot, bake rolls for 25-30 minutes or until slightly golden brown."
             ],
             "tags": [
-                "Sweet"
+                "Sweet",
+                "Bread"
             ]
         },
         {
@@ -2856,7 +2877,8 @@
                 "Top the pudding with coconut flakes and some raspberries."
             ],
             "tags": [
-                "sweet"
+                "sweet",
+                "Cold"
             ]
         },
         {
@@ -3118,7 +3140,8 @@
             ],
             "tags": [
                 "Indian",
-                "Vegan"
+                "Vegan",
+                "Bread"
             ]
         },
         {
@@ -3159,7 +3182,8 @@
                 "Prepare sauce by adding BBQ sauce, lime juice, oil, maple syrup, ginger, salt, pepper, onion, and cayenne."
             ],
             "tags": [
-                "Vegan"
+                "Vegan",
+                "Eggplant"
             ]
         },
         {
@@ -3196,7 +3220,8 @@
                 "Bake for 10-12 minutes, or until slightly golden brown."
             ],
             "tags": [
-                "Sweet"
+                "Sweet",
+                "Cookie"
             ]
         },
         {
@@ -3284,7 +3309,9 @@
             ],
             "tags": [
                 "Vegan",
-                "Italian"
+                "Italian",
+                "Stew",
+                "Eggplant"
             ]
         },
         {
@@ -3315,7 +3342,8 @@
             ],
             "tags": [
                 "Vegan",
-                "Italian"
+                "Italian",
+                "risotto"
             ]
         },
         {
@@ -3344,7 +3372,8 @@
                 "Pour the batter into the muffin tin. Bake in the oven for 20-25 minutes."
             ],
             "tags": [
-                "Sweet"
+                "Sweet",
+                "Muffins"
             ]
         },
         {
@@ -3410,7 +3439,8 @@
                 "Remove from heat and add pecorino."
             ],
             "tags": [
-                "Italian"
+                "Italian",
+                "risotto"
             ]
         },
         {
@@ -3435,7 +3465,8 @@
             ],
             "tags": [
                 "Korean",
-                "Asian"
+                "Asian",
+                "Sides"
             ]
         },
         {
@@ -3480,7 +3511,8 @@
             ],
             "tags": [
                 "Sweet",
-                "Vegan"
+                "Vegan",
+                "Cake"
             ]
         },
         {
@@ -3549,7 +3581,8 @@
                 "Add the tofu and butternut squash to the pan, along with the chopped fresh coriander."
             ],
             "tags": [
-                "Vegan"
+                "Vegan",
+                "Brazilian"
             ]
         },
         {
@@ -3638,7 +3671,8 @@
             ],
             "tags": [
                 "Sweet",
-                "Vegan"
+                "Vegan",
+                "Bread"
             ]
         },
         {
@@ -3671,7 +3705,8 @@
             ],
             "tags": [
                 "Vegan",
-                "Chinese"
+                "Chinese",
+                "Eggplant"
             ]
         },
         {
@@ -3705,7 +3740,8 @@
             ],
             "tags": [
                 "Vegan",
-                "Italian"
+                "Italian",
+                "Eggplant"
             ]
         },
         {
@@ -3739,7 +3775,8 @@
                 "Add the garam masala and coriander."
             ],
             "tags": [
-                "Indian"
+                "Indian",
+                "Eggplant"
             ]
         },
         {
@@ -3881,7 +3918,8 @@
             ],
             "tags": [
                 "Korean",
-                "Vegan"
+                "Vegan",
+                "Noods"
             ]
         },
         {
@@ -3960,7 +3998,8 @@
                 "Let cool slightly. Brush each tart with the remaining pineapple jam."
             ],
             "tags": [
-                "Vegan"
+                "Vegan",
+                "Sweet"
             ]
         },
         {
@@ -4054,7 +4093,8 @@
                 "Add the sauce, sesame seeds and toss the noodles well. Sprinkle with lime juice."
             ],
             "tags": [
-                "Vegan"
+                "Vegan",
+                "Noods"
             ]
         },
         {
@@ -4155,7 +4195,8 @@
                 "Cook over medium-high heat for 15 minutes or until the rice is cooked."
             ],
             "tags": [
-                "Vegan"
+                "Vegan",
+                "Creole"
             ]
         },
         {
@@ -4196,7 +4237,8 @@
                 "Add remaining 4 Tablespoons of butter, 1 piece at a time, and beat until light and fluffy, about 2 minutes."
             ],
             "tags": [
-                "Sweet"
+                "Sweet",
+                "Cake"
             ]
         },
         {
@@ -4221,7 +4263,8 @@
                 "Bake at 180C for 1 hour or until a cake skewer inserted in the centre comes out clean."
             ],
             "tags": [
-                "Sweet"
+                "Sweet",
+                "Cake"
             ]
         },
         {
@@ -4259,7 +4302,8 @@
                 "Sprinkle over the chopped fresh herbs and pomegranate seeds."
             ],
             "tags": [
-                "Vegan"
+                "Vegan",
+                "Stew"
             ]
         },
         {
@@ -4292,7 +4336,8 @@
                 "Grill your vegetables until they are cooked."
             ],
             "tags": [
-                "Vegan"
+                "Vegan",
+                "risotto"
             ]
         },
         {
@@ -4376,7 +4421,8 @@
             "tags": [
                 "Vegan",
                 "Noodles",
-                "Asian"
+                "Asian",
+                "soup"
             ]
         },
         {
@@ -4490,7 +4536,8 @@
                 "When there is virtually no liquid egg left on the surface turn it over. Place a plate over the pan, carefully invert both so that the omelette is on the lid or plate. Cook for another two minutes."
             ],
             "tags": [
-                "Spanish"
+                "Spanish",
+                "Potatoes"
             ]
         },
         {
@@ -4615,7 +4662,8 @@
                 "Fill with a mixture of all ingredients and fold like a burrito."
             ],
             "tags": [
-                "Vegan"
+                "Vegan",
+                "Sides"
             ]
         },
         {
@@ -4640,7 +4688,8 @@
             ],
             "tags": [
                 "Sweet",
-                "Vegan"
+                "Vegan",
+                "Cold"
             ]
         },
         {
@@ -4692,7 +4741,8 @@
             ],
             "tags": [
                 "Vietnamese",
-                "Vegan"
+                "Vegan",
+                "Noods"
             ]
         },
         {
@@ -4758,7 +4808,8 @@
             ],
             "tags": [
                 "Japanese",
-                "Vegan"
+                "Vegan",
+                "Curry"
             ]
         },
         {
@@ -4901,7 +4952,8 @@
             ],
             "tags": [
                 "Vegan",
-                "Thai"
+                "Thai",
+                "Curry"
             ]
         },
         {
@@ -4937,7 +4989,8 @@
             ],
             "tags": [
                 "Vegan",
-                "Japanese"
+                "Japanese",
+                "Noods"
             ]
         },
         {
@@ -5275,7 +5328,9 @@
                 "Cube the tofu then fry in the pan until all sides are browned.",
                 "Add in the spices, soy sauce, hoisin sauce and maple syrup with the tofu until the sauce becomes sticky."
             ],
-            "tags": []
+            "tags": [
+                "Bowl"
+            ]
         },
         {
             "image": "nasi-goreng",
@@ -5317,7 +5372,8 @@
             ],
             "tags": [
                 "Vegan",
-                "Indonesian"
+                "Indonesian",
+                "Rice"
             ]
         },
         {
@@ -5392,7 +5448,8 @@
             ],
             "tags": [
                 "Thai",
-                "Vegan"
+                "Vegan",
+                "Curry"
             ]
         },
         {
@@ -6048,7 +6105,10 @@
                 "Next, add the flour, baking soda and salt, mix to combine with your hands if necessary.",
                 "Scoop into balls on tray and press down with a fork. Bake for 10 minutes."
             ],
-            "tags": []
+            "tags": [
+                "Cookies",
+                "Sweet"
+            ]
         },
         {
             "image": "eggplant-pepper-salad",
@@ -6675,7 +6735,8 @@
             ],
             "tags": [
                 "Sweet",
-                "Vegan"
+                "Vegan",
+                "Cookies"
             ]
         },
         {
@@ -7795,7 +7856,8 @@
             ],
             "tags": [
                 "Vegan",
-                "Sweet"
+                "Sweet",
+                "Cookies"
             ]
         },
         {
@@ -8111,7 +8173,8 @@
             ],
             "tags": [
                 "Sweet",
-                "Vegan"
+                "Vegan",
+                "Cookies"
             ]
         },
         {
@@ -12155,7 +12218,7 @@
             ],
             "tags": [
                 "Sweet",
-                "Cookie"
+                "Cookies"
             ]
         },
         {
