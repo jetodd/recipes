@@ -1291,7 +1291,7 @@
             ],
             "tags": [
                 "Mexican",
-                "Salsw"
+                "Salsa"
             ]
         },
         {
@@ -14150,7 +14150,46 @@
                 "When the polenta is ready stir in the parmesan, butter, rosemary and half the parsley. Season."
             ],
             "tags": [
-                
+                ""
+            ]
+        },
+        {
+            "title": "Tofu marsala",
+            "image": "tofu-marsala",
+            "url": "https://www.crowdedkitchen.com/tofu-marsala",
+            "ingredients": [
+                "1 block tofu",
+                "3 tbsp all purpose flour",
+                "5 tbsp vegan butter",
+                "300g cremini mushrooms",
+                "200g shiitake mushrooms",
+                "1 onion, diced",
+                "2 shallots, diced",
+                "6 cloves of garlic, minced",
+                "¾ cup marsala wine",
+                "1 ½ cups vegetable broth",
+                "¼ cup vegan cream",
+                "¼ cup chopped parsley",
+                "2 tbsp chopped thyme",
+                "Fettuccine"
+            ],
+            "steps": [
+                "Drain and press the tofu and pat dry. Slice tofu into 1cm thick slabs.",
+                "Mix flour, ¾ teaspoon salt, and ¼ teaspoon pepper in a small, shallow container.",
+                "Lightly dredge the tofu pieces in the flour mixture.",
+                "Preheat fry pan over medium and add 1 ½ tablespoons of the butter.",
+                "Pan fry tofu for 4-5 minutes on one side, until golden brown.",
+                "Add another 1 ½ tablespoon of butter and flip the tofu. Cook until golden brown.",
+                "Add remaining butter along with onions. Sauté until translucent.",
+                "Add garlic, shallots and mushrooms with 2 tablespoon of vegetable broth.",
+                "Increase heat and cook until mushrooms are softened and lightly browned. Season.",
+                "Cook pasta in salted water until al dente.",
+                "Add marsala wine to the mushrooms and increase heat to medium high.",
+                "Simmer for a few minutes, then add stock, cream, parsley and thyme.",
+                "Simmer until slightly thickened. Add tofu and simmer for a few more minutes." 
+            ],
+            "tags": [
+                "Italian"
             ]
         }
     ]
