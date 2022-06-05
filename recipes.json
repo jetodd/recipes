@@ -14079,7 +14079,8 @@
                 "Blend the toasted almonds with the nutritional yeast until finely chopped."
             ],
             "tags": [
-                "Pasta"
+                "Pasta",
+                "Jackfruit"
             ]
         },
         {
@@ -14150,7 +14151,7 @@
                 "When the polenta is ready stir in the parmesan, butter, rosemary and half the parsley. Season."
             ],
             "tags": [
-                ""
+                "Italian"
             ]
         },
         {
@@ -14190,6 +14191,35 @@
             ],
             "tags": [
                 "Italian"
+            ]
+        },
+        {
+            "title": "Tonyuu zosui",
+            "image": "tonyuu-zosui",
+            "url": "https://www.okonomikitchen.com/tonyuu-zosui-japanese-soy-milk-rice-soup",
+            "ingredients": [
+                "2 1/2 cups unsweetened soy milk",
+                "2 tsp kombu dashi granules",
+                "2 1/2 tbsp soy sauce",
+                "1 cup cooked short grain rice",
+                "2 sheets of yuba, rehydrated",
+                "3 shiitake mushrooms, sliced",
+                "1/2 carrot, thinly sliced",
+                "2 spring onions, sliced",
+                "2 cups spinach",
+                "1/4 tsp white pepper"
+            ],
+            "steps": [
+                "Over medium heat add the soy milk, kombu dashi and soy sauce to a pot and stir to combine.",
+                "Once the broth starts to boil, reduce the heat to a simmer.",
+                "Add the carrot and cook covered until tender, about 4-5 minutes.",
+                "Add the rice, mushrooms, yuba, spring onions and spinach. Stir everything to combine.",
+                "Turn off the heat, cover the pot with the lid and let it rest for 5 minutes."
+            ],
+            "tags": [
+                "Japanese",
+                "Soup",
+                "Rice"
             ]
         }
     ]
