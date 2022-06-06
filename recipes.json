@@ -14221,6 +14221,55 @@
                 "Soup",
                 "Rice"
             ]
+        },
+        {
+            "title": "Coffee and walnut caramel cake",
+            "image": "coffee-walnut-miso-cake",
+            "url": "https://www.theguardian.com/food/2022/jun/04/meera-sodha-vegan-recipe-coffee-walnut-miso-caramel-cake",
+            "ingredients": [
+                "500g plain flour",
+                "325g caster sugar",
+                "1 tbsp baking powder",
+                "1 tsp bicarbonate of soda",
+                "¼ tsp fine sea salt",
+                "60g walnuts, finely chopped",
+                "160ml olive oil",
+                "360ml oat milk",
+                "1 tbsp apple cider vinegar",
+                "4 tbsp instant coffee",
+                "150g vegan butter",
+                "300g icing sugar",
+                "1 tbsp instant coffee",
+                "150g caster sugar",
+                "50g vegan butter, cubed",
+                "1 tbsp white shiro miso",
+                "3 tbsp oat milk",
+                "A pinch of salt",
+                "250ml vegan double cream",
+                "2 tbsp icing sugar",
+                "3 tbsp tahini",
+                "50g walnuts, finely chopped"
+            ],
+            "steps": [
+                "Grease and line two cake tins, and heat the oven to 180C.",
+                "Put the flour, sugar, baking powder, bicarb, salt and walnuts in a large bowl and stir to combine.",
+                "In a second large bowl mix the oil, milk, vinegar and coffee powder.",
+                "Make a well in the centre of the dry ingredients.",
+                "Pour in the wet mixture bit by bit, mixing it in with a spoon until smooth.",
+                "Divide the batter between the two tins and bake for 30 minutes.",
+                "Beat the sugar, butter and coffee powder with an electric whisk, until light and fluffy",
+                "Put the sugar and two tablespoons of cold water in a small saucepan on a medium.",
+                "Stir gently to dissolve the sugar – the mix will bubble and slowly start to take on some colour.",
+                "When it turns from pale gold to golden syrup, take off the heat and straight away.", 
+                "Carefully whisk in one after the other, the butter, miso and oat milk.",
+                "Leave to cool for a couple of minutes, then whisk in a pinch of sea salt and set aside.",
+                "Whip the cream to soft peaks, then add the sugar and tahini, and whip to stiff peaks.",
+                "Once the sponges are completely cooled, assemble the cake."
+            ],
+            "tags": [
+                "Sweet",
+                "Cake"
+            ]
         }
     ]
 }
