@@ -12984,35 +12984,34 @@
             "image": "tomato-egg-stir-fry",
             "url": "https://theplantbasedwok.com/vegan-chinese-tomato-egg-stir-fry/",
             "ingredients": [
-                "4 medium tomatoes",
+                "800g tomatoes, cut into chunks",
                 "1 cup dried gluten puffs",
-                "2 sheets frozen or fresh yuba",
+                "2 sheets yuba",
                 "5 cloves garlic, sliced",
+                "1 inch ginger, diced",
                 "1 scallion",
-                "2 tsp light soy sauce",
-                "1/2 cup water",
-                "1 tbsp ketchup",
-                "2 tsp sugar",
+                "1 tbsp sugar",
                 "1/2 tsp salt",
-                "1 tsp cornstarch",
+                "1/4 cup Shaoxing wine",
+                "1 tbsp soy sauce",
+                "1/2 cup water",
+                "White pepper",
                 "Rice"
             ],
             "steps": [
-                "Soak frozen yuba to thaw until softened. Tear into pieces, about 2-3 inches each.",
+                "Soak yuba until softened. Tear into pieces, about 2-3 inches each.",
                 "Soak the dried gluten puffs in warm water, or drain if using canned.",
                 "Clean and cook the rice.",
-                "Score the bottom of each tomato with an X-shaped cut.",
-                "Boil a pot of water, add the tomatoes and blanch for 20 seconds then removing and shocking in cold water.",
-                "Peel off the skins and cut tomatoes in half, then quarters, then bite-sized pieces.",
-                "Heat wok over medium and add oil. Swirl around to coat surface, and heat until oil surface is shimmering.",
-                "Add yuba and fry until puffy and golden brown, like scrambled eggs. Remove from wok.",
-                "Add garlic to the wok and white parts of scallion, and fry until aromatic.",
-                "Add chopped tomatoes and cook for 45 seconds while stirring, then add soy sauce, water, sugar, and ketchup.",
-                "Simmer then add gluten puffs and yuba, reduce to low and simmer for 2 minutes.",
-                "Add cornstarch slurry and cook until sauce has reduced and thickened."
+                "Heat wok over medium and add oil. Swirl around to coat surface, and heat until surface is shimmering.",
+                "Add garlic, ginger and spring onion whites to the wok and fry until aromatic.",
+                "Add chopped tomatoes, sugar and salt, mix together.",
+                "Simmer then add shaoxing wine, gluten puffs, yuba, soy sauce and water.",
+                "Once heated through add the cornstarch slurry and cook until sauce has thickened.",
+                "Season with white pepper and sesame oil."
             ],
             "tags": [
-                "Chinese"
+                "Chinese",
+                "Rice"
             ]
         },
         {
@@ -14269,6 +14268,40 @@
             "tags": [
                 "Sweet",
                 "Cake"
+            ]
+        },
+        {
+            "title": "Tomato and pepper pasta",
+            "image": "tomato-pepper-pasta",
+            "url": "https://www.happyskinkitchen.com/2020/09/09/creamy-tomato-pepper-pasta/",
+            "ingredients": [
+                "Cherry tomatoes",
+                "1 onion, finely chopped",
+                "2 shallots, sliced",
+                "1 carrot, finely chopped",
+                "1 red pepper",
+                "6 garlic cloves – crushed",
+                "1/2 cup cashews",
+                "2 cups passata",
+                "A pinch of chilli flakes",
+                "Salt and pepper"
+            ],
+            "steps": [
+                "Soak the cashews in boiling water for at half an hour.",
+                "Preheat the oven to 210C. Line a large baking sheet with parchment paper.",
+                "Place the cherry tomatoes on the baking sheet, toss in olive oil, season and spread out in a single layer.",
+                "Roast for 25 minutes, moving them around halfway through.",
+                "Add oil to the wok, once hot add the carrot and onion and cook until the onion starts to brown.",
+                "Add the garlic and bell pepper and cook for another minute.",
+                "Add the passata, turn heat to low and cook for a few more minutes.",
+                "In the meantime cook the pasta according to the packet’s instructions.",
+                "Drain the pasta but reserve a couple of table spoons of the cooking water.",
+                "Transfer the pasta back to the pot and drizzle with some oil to prevent from sticking.",
+                "Transfer the tomato sauce to a blender and add the cashews plus 2 tablespoons of the pasta water.",
+                "Blend until smooth and creamy. Pour the sauce on top of the pasta and mix well."
+            ],
+            "tags": [
+                "Pasta"
             ]
         }
     ]
