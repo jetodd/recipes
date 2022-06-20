@@ -29,7 +29,7 @@
 
 {% if tags_list %}
 	<h3>Tags</h3>
-	<ul id="horizontal-list">
+	<ul class="horizontal-list">
 	    {% for tag in tags_list %}
 	        <li><a href="{% url 'recipes:tag' tag.id %}">{{ tag.name }}</a></li>
 	    {% endfor %}
