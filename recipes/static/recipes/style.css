@@ -324,6 +324,11 @@ ul.horizontal-list li a:hover {
 	background-color: var(--header-colour);
 }
 
+.tags {
+	display: inline;
+	margin-bottom: 0.05rem;
+}
+
 .tags > a {
     padding: 8px 12px 6px;
     background: var(--header-colour);
@@ -339,6 +344,7 @@ ul.horizontal-list li a:hover {
     text-decoration: none;
     align-self: start;
     transition: all 0.25s ease-in-out;
+	margin-bottom: 0.2rem
 }
 
 .tags > a:hover {

@@ -11,10 +11,10 @@
   						<div class="card-image">
       						<a href="{% url 'recipes:detail' recipe.id %}"><img class="img-card" src="/static/img/{{ recipe.image }}.jpg"></a>
       					</div>
-      					<div class="card-body">
+      					<div class="card-body d-flex flex-column">
 				    		<h5 class="card-title"><a href="{% url 'recipes:detail' recipe.id %}">{{ recipe.title }}</a></h5>
-				    		<hr class="blue" />
-				    		<a href="{% url 'recipes:detail' recipe.id %}" class="card-link btn btn-primary">View recipe</a>
+				    		<hr class="blue mt-auto" />
+                            <a href="{% url 'recipes:detail' recipe.id %}" class="card-link mt-auto btn btn-primary">View recipe</a>
 				  		</div>
   					</div>
 				{% endfor %}
