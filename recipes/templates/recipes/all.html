@@ -5,32 +5,30 @@
 {% block content %}
 
 <div class="row">
-	<div class="col-md-12 col-lg-8">
-		<h3>All recipes</h3>
+	<div class="col-md-12 col-lg-9">
+		<h2>All Recipes</h2>
 		<div class="infinite-container row">
 		    {% for recipe in recipes %}
 		    <div class="card recipe-card infinite-item">
 								<div class="card-image">
-									<img class="img-card" src="/static/img/{{ recipe.image }}.jpg">
+									<a href="{% url 'recipes:detail' recipe.id %}"><img class="img-card" src="/static/img/{{ recipe.image }}.jpg"></a>
 								</div>
 								<div class="card-body">
-					    			<h5 class="card-title">{{ recipe.title }}</h5>
+					    			<h5 class="card-title"><a href="{% url 'recipes:detail' recipe.id %}">{{ recipe.title }}</a></h5>
+					    			
 					    			<hr class="blue" />
-					    			<a href="{% url 'recipes:detail' recipe.id %}" class="card-link btn btn-primary">View recipe</a>
+					    			{% if recipe.tags %}
+					    				{% for tag in recipe.tags.all %}
+					    				<div class="tags">
+					    					<a href="{% url 'recipes:tag' tag.id %}">{{ tag.name }}</a>
+					    				</div>
+					    				{% endfor %}
+					    			{% endif %}
+					    			<!-- <a href="{% url 'recipes:detail' recipe.id %}" class="card-link btn btn-primary">View recipe</a> -->
 					  			</div>
 							</div>
 		    {% endfor %}
 	    </div>
-	</div>
-	<div class="col-md-12 col-lg-4">
-		{% if tags %}
-			<h3>Tags</h3>
-			<ul id="horizontal-list">
-				{% for tag in tags %}
-					<li><a href="{% url 'recipes:tag' tag.id %}">{{ tag.name }}</a></li>
-				{% endfor %}
-			</ul>
-		{% endif %}
 	</div>
 </div>
 

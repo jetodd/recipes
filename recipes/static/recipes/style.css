@@ -48,11 +48,14 @@ h2, h3, h4 {
 }
 
 h2, h3 {
-	font-size: 1.5em;
+	font-size: 2.2em;
 	margin-top: 15px;
 	color: var(--text-colour);
-		text-align: center;
+	text-align: center;
+}
 
+h3 {
+	font-size: 1.6em;
 }
 
 h4 {
@@ -108,12 +111,11 @@ ol li:before {
 	padding:15px;
 }
 
-
-
 /************ Header (navigation) ************/
 .navbar {
-	padding: 0rem 1rem;
+	padding: 1rem 1.5rem;
 	padding-top: 20px;
+	background-color: #fff;
 }
 
 .navbar-brand, .nav-link {
@@ -133,7 +135,7 @@ ol li:before {
 .navbar-dark .navbar-nav .nav-link:focus, 
 .navbar-dark .navbar-nav .nav-link:hover, 
 .navbar-dark .navbar-brand:hover {
-    color: var(--other-text-colour);
+    color: var(--header-colour);
 }
 
 .navbar-dark .navbar-toggler {
@@ -153,12 +155,21 @@ ol li:before {
   bottom: 0;
   left: 0;
   width: 0%;
-  background: var(--card-bg-colour);
+  background: var(--header-colour);
   transition: 0.2s;
 }
 
 .lime:hover:after, .lime:visited:hover:after {
   width: 100%;
+}
+
+.waves {
+	display: block;
+	height: 52px;
+	background-repeat: repeat-x;
+	background-size: contain;
+	background-position: center center;
+	background-image: url('../images/waves.svg');
 }
 
 /************ Forms ************/
@@ -281,34 +292,52 @@ ol li:before {
 }
 
 /************ Tags ************/
-ul#horizontal-list {
+ul.horizontal-list {
 	list-style: none;
-	padding-top:20px;
-	padding-left: 0px;
 	columns: 1;
 	-webkit-columns: 1;
 	-moz-columns: 1;
 }
 
-ul#horizontal-list li {
+ul.horizontal-list li {
 	display: inline-block;
 	margin:0 auto;
-	height: 60px;
+	height: 0px;
 }
 
-ul#horizontal-list li a {
+ul.horizontal-list li a {
 	color: var(--btn-text-colour);
 	text-decoration: none;
 	margin:0 5px;
 	background: var(--tag-bg-colour);
 	padding: 6px 8px;
-	border-radius: 6px;
+	border-radius: 8px;
 }
 
-ul#horizontal-list li a:hover {
+ul.horizontal-list li a:hover {
 	background-color: var(--header-colour);
 }
 
+.tags > a {
+    padding: 8px 12px 6px;
+    background: var(--header-colour);
+    border-radius: 100px;
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.8rem;
+    line-height: 1;
+    letter-spacing: 0.07em;
+    color: var(--other-text-colour);
+    display: inline-block;
+    text-decoration: none;
+    align-self: start;
+    transition: all 0.25s ease-in-out;
+}
+
+.tags > a:hover {
+	background: var(--text-colour);
+}
 
 .resize {
 	height: 200px;
@@ -325,6 +354,7 @@ ul.single, ul.block {
 	font-size: 1em;
 	letter-spacing:1px;
 	width: 100%;
+	border-radius: 8px;
 }
 
 .btn-primary {
@@ -377,7 +407,7 @@ ul.single, ul.block {
 
 /************ Recipe cards ************/
 .card {
-	border-radius: 0;
+	border-radius: 15px;
 }
 
 .recipe-card {
@@ -394,6 +424,7 @@ ul.single, ul.block {
 
 .img-card {
 	width: 100%;
+	border-radius: 15px;
 }
 
 .card-horizontal {
@@ -424,9 +455,13 @@ ul.single, ul.block {
 .card-title {
 	color: var(--card-font-colour);
 	text-align: center;
-	font-size: 1em;
+	font-size: 1.1em;
 	letter-spacing: 1px;
-	text-transform: uppercase;
+}
+
+/************ Shopping ************/
+.recipe-image {
+	border-radius: 12px;
 }
 
 /************ Shopping ************/

@@ -2,17 +2,17 @@
 
 {% block content %}
 <div class="row">
-	<div class="col-md-12 order-md-2 col-lg-8 order-lg-1">
-		<h3>Newest recipes</h3>
+	<div class="col-md-12 order-md-1 col-lg-8 order-lg-1">
+		<h2>Newest Recipes</h2>
 		{% if latest_recipes_list %}
 			<div class="row home">
 				{% for recipe in latest_recipes_list %}
   					<div class="card recipe-card">
   						<div class="card-image">
-      						<img class="img-card" src="/static/img/{{ recipe.image }}.jpg">
+      						<a href="{% url 'recipes:detail' recipe.id %}"><img class="img-card" src="/static/img/{{ recipe.image }}.jpg"></a>
       					</div>
       					<div class="card-body">
-				    		<h5 class="card-title">{{ recipe.title }}</h5>
+				    		<h5 class="card-title"><a href="{% url 'recipes:detail' recipe.id %}">{{ recipe.title }}</a></h5>
 				    		<hr class="blue" />
 				    		<a href="{% url 'recipes:detail' recipe.id %}" class="card-link btn btn-primary">View recipe</a>
 				  		</div>
@@ -22,7 +22,7 @@
 		{% endif %}
 	</div>
 
-	<div class="col-md-12 order-md-1 col-lg-3 order-lg-2">
+	<div class="col-md-12 order-md-2 col-lg-3 order-lg-2">
 		{% if this_week %}
 			<h3>This week</h3>
 			<ul class="single">
