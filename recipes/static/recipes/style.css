@@ -118,6 +118,14 @@ ol li:before {
 	background-color: #fff;
 }
 
+.navbar-toggler {
+	border-color: var(--text-colour);
+}
+
+.navbar-toggler-icon {
+	color: var(--text-colour);
+}
+
 .navbar-brand, .nav-link {
 	font-size: 1em;
 	letter-spacing: 1px;
@@ -205,8 +213,6 @@ ol li:before {
 .searchbutton {
 	height: 20px;
     width: 20px;
-    float: right;
-    display: flex;
     justify-content: center;
     align-items: center;
     border-radius: 50%;
