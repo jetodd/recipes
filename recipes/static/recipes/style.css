@@ -93,14 +93,13 @@ ol {
 
 ol li {
    counter-increment: item;
-   margin-bottom: 8px;
 }
 
 ol li:before {
    margin-right: 20px;
    content: counter(item);
    color: var(--text-colour);
-   font-size: 1.8em;
+   font-size: 1.6em;
 }
 
 *:focus {
@@ -199,7 +198,7 @@ ol li:before {
     padding: 10px;
 }
 
-.searchbutton {
+.icon-button {
   all: unset;
 }
 
@@ -215,7 +214,7 @@ ol li:before {
     border-bottom: 2px solid var(--text-colour);
 }
 
-.searchbutton {
+.icon-button {
 	height: 20px;
     width: 20px;
     justify-content: center;
@@ -223,9 +222,10 @@ ol li:before {
     border-radius: 50%;
 	color: var(--text-colour);
 	font-size: 20px;
+	margin: 0 0.5em;
 }
 
-.searchbutton:hover {
+.icon-button:hover {
 	cursor: pointer;
 }
 

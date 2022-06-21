@@ -37,7 +37,10 @@
             </li>
           </ul>
         </div>      
-        <button class="searchbutton">
+        <button class="icon-button">
+          <i class="fas fa-random"></i>
+        </button>
+        <button class="icon-button">
           <i class="fas fa-search" id="toggle_search"></i>
         </button>
       </nav>
@@ -48,7 +51,7 @@
           <div class="d-flex justify-content-center">
             <div class="searchbar">
               <input class="search_input" type="text" placeholder="Search..." name='q' value="{{ request.GET.q }}">
-              <button class="searchbutton">
+              <button class="icon-button">
                 <i class="fas fa-search"></i>
               </button>
             </div>
