@@ -22,6 +22,7 @@ body {
 
 .content {
 	width: 85%;
+	background-color: var(--main-bg-colour);
 }
 
 a {
@@ -178,6 +179,10 @@ ol li:before {
 	background-size: contain;
 	background-position: center center;
 	background-image: url('../images/waves.svg');
+}
+
+.reverse {
+	transform: rotate(180deg);
 }
 
 /************ Forms ************/
