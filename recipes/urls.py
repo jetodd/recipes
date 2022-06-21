@@ -13,5 +13,6 @@ urlpatterns = [
 	path('all', views.all, name='all'),
 	path('shopping', views.shopping, name='shopping'),
 	path('deleteitems', views.deleteitems, name='deleteitems'),
-	path('search', views.search, name='search')
+	path('search', views.search, name='search'),
+	path('random', views.random, name='random')
 ]

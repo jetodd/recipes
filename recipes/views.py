@@ -1,4 +1,5 @@
 import json
+import random
 
 from django.http import HttpResponseRedirect
 from django.shortcuts import render, get_object_or_404
@@ -27,6 +28,10 @@ def index(request):
                'query': query, 'queryset_list': queryset_list, 'most_popular_recipes_list': most_popular_recipes_list}
     return render(request, 'recipes/index.html', context)
 
+def random(request):
+    recipe = Recipe.objects.order_by('?').first()
+
+    return detail(request, recipe.id)
 
 def detail(request, recipe_id):
     recipe = get_object_or_404(Recipe, id=recipe_id)
