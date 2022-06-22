@@ -14409,6 +14409,50 @@
                 "breakfast",
                 "sweet"
             ]
+        },
+        {
+            "title": "Turnip cakes",
+            "image": "turnip-cakes",
+            "url": "https://www.okonomikitchen.com/vegan-turnip-cakes-lo-bak-go/",
+            "ingredients": [
+                "4 cloves garlic, finely chopped",
+                "½ bell pepper, finely diced",
+                "6–8 dried shiitake mushrooms, rehydrated",
+                "4 scallions, whites and greens seperated",
+                "2 tbsp mushroom sauce (or hoisin sauce)",
+                "1/2 tsp salt",
+                "600g radish",
+                "1 1/3 cup water + shiitake mushroom soaking liquid total to cook",
+                "1/2 tsp garlic powder",
+                "2 tsp sugar",
+                "2 tsp kombu dashi powder or mushroom powder",
+                "½ tsp salt",
+                "110g rice flour",
+                "40g corn starch",
+                "200ml water + cooking liquid total"
+            ],
+            "steps": [
+                "In a pan, over medium add ingredients from garlic to salt and cook for 1 minute.",
+                "Turn off the heat and stir in the green onions. Move to a plate and set aside.",
+                "Wash and peel the daikon. Weigh out 600 grams and then set aside 200g.",
+                "Take the 400 grams and shred with a grater or food processor.",
+                "Take the remaining 200 grams and slice them into match sticks.",
+                "Measure the liquid the shiitake mushrooms were soaking in. Add more water until you have 1 1/3 cup.",
+                "In the pan add the the daikon, shiitake water, garlic powder, sugar, dashi powder and salt.",
+                "Cook for 5 minutes covered, stirring occasionally so it doesn’t brown.",
+                "Fish out the daikon and measure out the liquid. Add water to get a total of 200ml.",
+                "Add the rice flour, corn starch and salt to the daikon mixture. Mix until well incorporated.",
+                "Add in the filling and mix. Let it sit for 10-15 minutes or until thickened.",
+                "Stir once more and then pour into lined or greased pan that fits your steamer basket.",
+                "Place the pan into a steamer and steam over medium high for 30-40 mins.",
+                "Remove the pot from the stove and open the steamer basket lid. Let it sit for 10 minutes.",
+                "Discard any water that may have accumulated on the surface. Cover and set in the refrigerator for 1 hour",
+                "Cut into squares and pan fry until both sides are crispy to your liking.",
+                "Serve with soy sauce, black vinegar, chili crisp oil, sambal oelek and/or hoisin sauce."
+            ],
+            "tags": [
+                "dimsum"
+            ]
         }
     ]
 }
