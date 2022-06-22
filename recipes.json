@@ -14385,6 +14385,30 @@
             "tags": [
                 "Pasta"
             ]
+        },
+        {
+            "title": "Fig and cinnamon porridge",
+            "image": "fig-porridge",
+            "url": "https://thehappyfoodie.co.uk/recipes/fig-and-cinnamon-quinoa-porridge/",
+            "ingredients": [
+                "1/2 cup oats",
+                "1 cup oat milk",
+                "3 ripe figs",
+                "1/2 tsp vanilla",
+                "1/2 tsp cinnamon",
+                "1 tbsp maple syrup"
+            ],
+            "steps": [
+                "Add the oats and milk to a small pot, simmer until cooked stirring frequently.",
+                "Cut two of the figs in half and scoop the flesh out, then add it to a bowl.",
+                "Use a fork to mash it up, then stir it into the porridge with the vanilla and cinnamon.",
+                "Slice the remaining fig.",
+                "Stir the maple syrup into the porridge and top with the sliced fig."
+            ],
+            "tags": [
+                "breakfast",
+                "sweet"
+            ]
         }
     ]
 }
