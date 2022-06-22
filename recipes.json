@@ -2823,7 +2823,8 @@
                 "Microwave"
             ],
             "tags": [
-                "Sweet"
+                "Sweet",
+                "Brownies"
             ]
         },
         {
@@ -8923,7 +8924,8 @@
                 "Bake for 25 minutes. Leave to cool completely before slicing."
             ],
             "tags": [
-                "Sweet"
+                "Sweet",
+                "Brownies"
             ]
         },
         {
@@ -14452,6 +14454,32 @@
             ],
             "tags": [
                 "dimsum"
+            ]
+        },
+        {
+            "title": "Miso brownies",
+            "image": "miso-brownies",
+            "url": "https://thehappyfoodie.co.uk/recipes/salted-miso-brownies/",
+            "ingredients": [
+                "5 tbsp milled chia seeds",
+                "150g coconut oil",
+                "250g dark chocolate, broken into small pieces",
+                "350g brown sugar",
+                "120g plain flour",
+                "3 tbsp white miso",
+                "¾ tsp flaky sea salt"
+            ],
+            "steps": [
+                "Preheat the oven to 180°C and line a 20cm cake tin with greaseproof paper.",
+                "In a small bowl, mix the milled chia seeds with 270ml of water and set aside.",
+                "Put the coconut oil and chocolate in a saucepan over low heat. Stir occasionally until melted.",
+                "Mix in the sugar, flour and miso, and crumble in the salt flakes.",
+                "Finally, add the bloomed chia seeds and mix. Pour into the lined tin and gently shake to distribute the mixture.",
+                "Place on the middle shelf of the oven for 45 minutes, then remove."
+            ],
+            "tags": [
+                "Sweet",
+                "Brownies"
             ]
         }
     ]
