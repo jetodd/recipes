@@ -1,7 +1,7 @@
 {% extends 'recipes/base.html' %}
 
 {% block content %}
-	<h3>{{ tag.name }}</h3>
+	<h2>{{ tag.name }}</h2>
 	{% if recipes %}
 		<div class="row justify-content-center" id="more">
 			{% for recipe in recipes %}

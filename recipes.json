@@ -14481,6 +14481,40 @@
                 "Sweet",
                 "Brownies"
             ]
+        },
+        {
+            "title": "Lava cake",
+            "image": "lava-cake",
+            "url": "https://thehappyfoodie.co.uk/recipes/vegan-chocolate-lava-cakes/",
+            "ingredients": [
+                "Coconut oil, melted",
+                "120g plain flour",
+                "110g icing sugar",
+                "30g cocoa powder",
+                "½ tbsp instant coffee",
+                "½ tsp baking powder",
+                "½ tsp bicarbonate of soda",
+                "1 small ripe banana",
+                "120ml dairy-free milk",
+                "½ tbsp apple cider vinegar",
+                "½ tbsp vanilla bean paste",
+                "120g chocolate, broken into chunks"
+            ],
+            "steps": [
+                "Preheat the oven to 180. Grease 3 ramekins with coconut oil.",
+                "Sift the flour, icing sugar, cocoa, coffee, baking powder and bicarb into a medium-sized bowl and mix to combine.",
+                "In a separate bowl, mash the banana, then add the milk, apple cider vinegar and vanilla bean paste. Whisk to combine.",
+                "Add the wet ingredients to the dry and fold together – don’t overmix!",
+                "Divide half the batter between the ramekins, then press a third of the chocolate into the centre of each ramekin.",
+                "Spoon the remaining batter over the chocolate chunks until they are completely hidden.",
+                "Place the ramekins on a baking tray and place the tray in the centre of the oven.",
+                "Bake for 20–25 minutes. Once baked, run a knife around the edge of each ramekin to help loosen the sponge.",
+                "Place a plate on top of each ramekin in turn, flip upside down, then lift off the ramekin."
+            ],
+            "tags": [
+                "Sweet",
+                "Cake"
+            ]
         }
     ]
 }
