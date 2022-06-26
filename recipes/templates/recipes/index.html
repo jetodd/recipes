@@ -29,9 +29,9 @@
 				{% for recipe in this_week %}
 					<li><a href="{% url 'recipes:detail' recipe.id %}">{{ recipe.title }}</a>
 						{% for item in shopping %}
-							{% ifequal item.recipe.id recipe.id %}
+							{% if item.recipe.id == recipe.id %}
 								({{ item.name }})
-							{% endifequal %}
+							{% endif %}
 						{% endfor %} 
 					</li>
 				{% endfor %}
@@ -44,9 +44,9 @@
 				{% for recipe in next_week %}
 					<li><a href="{% url 'recipes:detail' recipe.id %}">{{ recipe.title }}</a>
 					{% for item in shopping %}
-						{% ifequal item.recipe.id recipe.id %}
+						{% if item.recipe.id == recipe.id %}
 							({{ item.name }})
-						{% endifequal %}
+						{% endif %}
 					{% endfor %}
 				{% endfor %}
 				</li>
