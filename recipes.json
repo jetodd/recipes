@@ -14515,6 +14515,75 @@
                 "Sweet",
                 "Cake"
             ]
+        },
+        {
+            "title": "Leek and mushroom soup",
+            "image": "leek-mushroom-soup",
+            "url": "https://lucyandlentils.co.uk/recipe/leek-mushroom-and-rice-creamy-soup",
+            "ingredients": [
+                "1 tbsp vegan butter",
+                "2 leeks one finely chopped, one diced",
+                "1 onion, finely chopped",
+                "3 shallots, finely chopped",
+                "6 cloves garlic, minced",
+                "250 g mushrooms, roughly chopped",
+                "1 red pepper, bite size pieces",
+                "2 stick celery, finely chopped",
+                "1 1/2 cups cooked wild rice",
+                "250ml vegan cream",
+                "700ml vegetable stock",
+                "1 tsp sage",
+                "2 sprigs thyme",
+                "1 tbsp smoked paprika",
+                "1 tsp soy sauce"
+            ],
+            "steps": [
+                "Heat the butter in the wok until melted.",
+                "Add in the celery, carrot, leeks and onion and fry for around 5 minutes",
+                "Add the shallots, garlic, pepper and mushrooms.",
+                "Once vegetables have softened add the soy sauce, paprika, thyme and sage.",
+                "Pour in the stock, vegan cream and season with salt and pepper.",
+                "Cover and leave to simmer on a low heat for around 10 minutes",
+                "Stir in the rice."
+            ],
+            "tags": [
+                "Soup"
+            ]
+        },
+        {
+            "title": "Crispy chicken and rice",
+            "image": "crispy-chicken-rice",
+            "url": "https://lucyandlentils.co.uk/recipe/vegan-crispy-chicken-with-sticky-rice-wagamamas",
+            "ingredients": [
+                "Vegan chicken fillets",
+                "2 cups cooked rice",
+                "100g spinach",
+                "1 inch ginger, grated",
+                "6 cloves garlic, minced",
+                "1 onion, finely chopped",
+                "2 shallots, diced",
+                "2 carrots, finely chopped",
+                "Shiitake mushrooms, diced",
+                "1 courgette, finely chopped",
+                "Frozen peas",
+                "3 tbsp kimchi",
+                "2 tbsp sriracha",
+                "2 tbsp soy sauce",
+                "2 tbsp sesame oil",
+                "1 tsp grated ginger",
+                "1 tbsp sesame seeds"
+            ],
+            "steps": [
+                "Start by getting the vegan chicken fillets in the oven for 20 minutes.",
+                "Heat the wok with some oil. Once hot add the carrot and onion.",
+                "Once onion is translucent add the shallots, ginger, garlic, shiitake mushrooms and courgette.",
+                "Mix ingredients from sriracha to sesame seeds together and add half to the wok.",
+                "Add the cooked rice to the wok along with the frozen peas, spinach, remaining sauce and kimchi.",
+                "Chop the fillets and serve on top of the rice."
+            ],
+            "tags": [
+                "asian"
+            ]
         }
     ]
 }
