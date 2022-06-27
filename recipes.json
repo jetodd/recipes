@@ -14629,6 +14629,45 @@
                 "Curry",
                 "Eggplant"
             ]
+        },
+        {
+            "title": "Roast vegetable and pesto sandwich",
+            "image": "roast-veggie-sandwich",
+            "url": "https://www.instagram.com/p/CUFiKRurRAm/",
+            "ingredients": [
+                "1 tsp oregano",
+                "2 tbsp chopped basil",
+                "½ tsp salt",
+                "½ tsp black pepper",
+                "1 eggplant, sliced",
+                "1 zucchini, sliced",
+                "2 red peppers",
+                "1 red onion, sliced",
+                "1/4 cup cashews",
+                "2 cups fresh packed basil",
+                "3 cloves garlic",
+                "3 tbsp lemon juice",
+                "1/4 cup nutritional yeast",
+                "1/2 teaspoon salt",
+                "6 tablespoons olive oil",
+                "4 large ciabatta rolls",
+                "Spinach",
+                "Sundried tomatoes",
+                "Vegan butter"
+            ],
+            "steps": [
+                "Soak the cashews in boiling water for at least 15 minutes.",
+                "In a large bowl combine the oregano, basil, salt, pepper and oil.",
+                "Add the eggplant, zucchini, bell peppers, and onion and stir to coat.",
+                "Roast the vegetable for 20 minutes (roughly) at 220 C.",
+                "Place ingredients from cashews to salt in the blender and blend until finely chopped.",
+                "With the food processor running, slowly drizzle in the olive oil and blend until smooth.",
+                "Melt butter in a pan and toast the cut sides of the ciabatta rolls.",
+                "Spread pesto over each roll and add the roast vegetables, sundried tomatoes and spinach."
+            ],
+            "tags": [
+                "sandwich"
+            ]
         }
     ]
 }
