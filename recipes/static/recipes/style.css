@@ -20,6 +20,10 @@ body {
 	margin: 0 auto;
 }
 
+form {
+	    margin-block-end: 0;
+}
+
 .content {
 	width: 85%;
 	background-color: var(--main-bg-colour);
