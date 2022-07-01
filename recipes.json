@@ -1575,13 +1575,13 @@
                 "1 tsp cumin seeds",
                 "1 tsp white peppercorn",
                 "3 serranos, thinly sliced",
-                "9 Thai chilies, thinly sliced",
+                "9 Thai green chilies, sliced",
                 "2 shallots, finely chopped",
                 "1 lemongrass stalk, rough chopped",
                 "2 inches Galangal, finely chopped",
                 "4 kaffir lime leaves",
-                "7 cloves garlic",
-                "4 springs coriander",
+                "8 cloves garlic",
+                "4 sprigs coriander",
                 "Zest of 1 lime",
                 "1/2 tsp miso paste"
             ],
@@ -10128,9 +10128,9 @@
             "ingredients": [
                 "4 Chinese eggplants",
                 "1 tsp toasted sesame seeds",
-                "2 scallion, finely sliced",
+                "2 scallions, finely sliced",
                 "4 tbsp soy sauce",
-                "4 tbsp mirin",
+                "3 tbsp mirin",
                 "4 tsp shaoxing wine",
                 "4 tbsp dark brown sugar",
                 "Rice"
@@ -14755,6 +14755,97 @@
                 "Noods",
                 "Japanese",
                 "soup"
+            ]
+        },
+        {
+            "title": "Mapo eggplant",
+            "image": "mapo-eggplant",
+            "url": "https://food52.com/recipes/87978-mapo-eggplant-recipe",
+            "ingredients": [
+                "600g Chinese eggplant",
+                "1 block tofu, drained and crumbled",
+                "2 tsp finely minced ginger",
+                "6 garlic cloves, finely minced",
+                "2 scallions, sliced",
+                "1 1/4 vegetable stock",
+                "1/2 tsp Sichuan peppercorns, crushed",
+                "1/2 tbsp chile powder",
+                "1 tbsp doubanjiang",
+                "1 tbsp light soy sauce",
+                "1 tbsp Shaoxing wine",
+                "1/2 tbsp dark soy sauce",
+                "1/2 tbsp granulated sugar",
+                "2 tsp cornstarch",
+                "Rice"
+            ],
+            "steps": [
+                "Clean and cook the rice.",
+                "Add some oil to the frying pan and heat on high.",
+                "Trim the ends from the eggplant, then roll-cut into 3cm pieces.",
+                "Fry the eggplants for about 1 minute, until it turns slightly tender. Remove from pan.",
+                "In the wok over medium sauté the tofu, until slightly crispy.", 
+                "Push the tofu aside and add the ginger, garlic, and scallion whites. Cook until fragrant.",
+                "Lower the heat and add the peppercorns, chile powder, doubanjiang, soy sauce, wine, dark soy sauce, sugar, and stock.",
+                "Stir to mix well, increase the heat to medium-high, and bring the liquid to a boil.",
+                "Reduce heat, add the eggplant, and gently toss to combine. Simmer until eggplant is tender.",
+                "Season if needed then add the cornstarch slurry. Simmer until sauce is thickened."
+            ],
+            "tags": [
+                "Chinese",
+                "Eggplant"
+            ]
+        },
+        {
+            "title": "Pad see ew",
+            "image": "pad-see-ew",
+            "url": "https://chejorge.com/2020/11/10/vegan-chicken-pad-see-ew",
+            "ingredients": [             
+                "200g wide rice noodles",
+                "200g Chinese Broccoli",
+                "6 cloves garlic, minced",
+                "2 Thai chiles, minced",
+                "1 block tofu",
+                "½ tablespoon sugar",
+                "½ tablespoon soy sauce",
+                "1 tablespoon dark soy sauce",
+                "1 tablespoon water",
+                "1 tablespoon cornstarch",
+                "3 tablespoons vegan oyster sauce",
+                "2 teaspoons black bean sauce",
+                "2 tablespoons light soy sauce",
+                "1 tablespoon dark soy sauce",
+                "2 teaspoons brown sugar",
+                "2 tablespoons water"
+            ],
+            "steps": [
+                "Drain and press the tofu. Then cut into slices.",
+                "Whisk together sugar, soy sauce, dark soy, and water in a bowl until well-combined.",
+                "Marinate the sliced tofu in the sauce.",
+                "Prepare rice noodles according to packaged directions.",
+                "Combine oyster sauce, black bean sauce, light soy sauce, dark soy sauce, brown sugar, and water.",
+                "Heat the wok on high heat and swirl oil around to evenly coat.",
+                "Fry the garlic and chiles until aromatic.",
+                "Add the tofu and fry until lightly brown & charred, about 3-4 minutes.",
+                "Add Chinese Broccoli, followed by rice noodles and the prepared sauce.",
+                "Gently toss and mix everything together. Continue to cook, so as to develop charred flavors."
+            ],
+            "tags": [
+                "Thai",
+                "noods"
+            ]
+        },
+        {
+            "title": "",
+            "image": "",
+            "url": "",
+            "ingredients": [
+                
+            ],
+            "steps": [
+                
+            ],
+            "tags": [
+                
             ]
         }
     ]
