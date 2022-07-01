@@ -14805,17 +14805,18 @@
                 "6 cloves garlic, minced",
                 "2 Thai chiles, minced",
                 "1 block tofu",
-                "½ tablespoon sugar",
-                "½ tablespoon soy sauce",
-                "1 tablespoon dark soy sauce",
-                "1 tablespoon water",
-                "1 tablespoon cornstarch",
-                "3 tablespoons vegan oyster sauce",
-                "2 teaspoons black bean sauce",
-                "2 tablespoons light soy sauce",
-                "1 tablespoon dark soy sauce",
-                "2 teaspoons brown sugar",
-                "2 tablespoons water"
+                "½ tbsp sugar",
+                "¼ tsp white pepper",
+                "½ tbsp soy sauce",
+                "1 tbsp dark soy sauce",
+                "1 tbsp water",
+                "1 tbsp cornstarch",
+                "3 tbsp vegan oyster sauce",
+                "2 tsp black bean sauce",
+                "2 tbsp light soy sauce",
+                "1 tbsp dark soy sauce",
+                "2 tsp brown sugar",
+                "2 tbsp water"
             ],
             "steps": [
                 "Drain and press the tofu. Then cut into slices.",
@@ -14876,6 +14877,77 @@
             "tags": [
                 "Taiwanese",
                 "Tofu"
+            ]
+        },
+        {
+            "title": "Shanghai stir fried rice cakes",
+            "image":"stir-fried-rice-cakes",
+            "url": "https://tiffycooks.com/shanghai-stir-fried-rice-cakes-20-minutes-only/",
+            "ingredients": [
+                "500g of rice cakes",
+                "15 shiitake mushroom, sliced",
+                "6 cloves of garlic, minced",
+                "0.5 tbsp of ginger minced",
+                "1 onion, sliced",
+                "3 spring onion, sliced into 1 inch pieces",
+                "Pak choi",
+                "Broccoli",
+                "½ cup water",
+                "3 tbsp shaoxing wine",
+                "2.5 tbsp soy sauce",
+                "2 tbsp dark soy sauce",
+                "1 tbsp sugar",
+                "1 tsp white pepper",
+                "1 tbsp sesame oil",
+                "1.5 tbsp vegan oyster sauce"
+            ],
+            "steps": [
+              "Prepare the rice cakes based on the package instruction.",
+              "In a pan, drizzle in oil and turn the heat to medium-high.",
+              "Once the pan is hot add the ginger, garlic, shiitake mushroom, and onion.",
+              "Stir-fry everything for 2-3 minutes.",
+              "Add the broccoli, pak choi and rice cakes. Saute for 2-3 minutes.",
+              "Add in shaoxing wine and water, mix, put the lid on and let it cook until rice cakes are soft.",
+              "In a bowl mix soy sauce, dark soy sauce, sugar, white pepper, sesame oil, and oyster sauce.",
+              "Pour in the sauce add the spring onion, and saute for another 2-3 minutes."
+            ],
+            "tags": [
+                "Chinese"
+            ]
+        },
+        {
+            "title": "Vegan gyudon",
+            "image": "vegan-gyudon",
+            "url": "https://flouredframe.com/vegan-gyudon-japanese-beef-bowl/",
+            "ingredients": [
+              "Kombu,",
+              "8 dried shiitake mushrooms",
+              "1 tbsp mushroom seasoning",
+              "1 cup water",
+              "2 tbsp sake",
+              "2 tbsp sugar",
+              "3 tbsp soy sauce",
+              "1 tbsp mirin",
+              "1 large onion, thinly sliced",
+              "2 cups soy curls",
+              "1 tbsp grated ginger",
+              "Pickled red ginger",
+              "Spring onions"
+            ],
+            "steps": [
+                "Clean and cook the rice.",
+                "Heat water along with kombu, dried shiitake mushrooms, and mushroom seasoning in a small saucepan.",
+                "Bring to a boil then turn the heat off and sit for 10 minutes.",
+                "Drain the dashi into a bowl and discard the rest. Return the dashi back to the pot.",
+                "To the pot, mix in the sake, sugar, soy sauce and mirin.",
+                "Heat the pot on medium heat, and add in the thinly sliced onions. Boil the onions in the dashi mixture until they get soft.",
+                "Add in the soy curls, and mix it in. Make sure they are mixed well into the dashi to rehydrate it.",
+                "Cook for about 5 minutes, while stirring every now and then.",
+                "Mix in the ginger and continue to cook for about 3-5 minutes. Turn off the heat."
+            ],
+            "tags": [
+                "Japanese",
+                "Rice"
             ]
         }
     ]
