@@ -13124,27 +13124,24 @@
             "image": "garlic-lemon-pasta",
             "url": "https://www.instagram.com/p/CJ3fxQDJFyA/",
             "ingredients": [
-                "Spinach",
-                "1 onion",
-                "2 king oyster mushrooms",
-                "6 cloves garlic",
-                "2 tbsp vegan butter",
-                "Juice of 1/2 lemon",
-                "4 tbsp nooch",
-                "1 tbsp chives",
-                "150ml vegetable stock",
-                "2 tbsp vegan cream",
-                "1/2 cup grated cheese",
-                "Pasta",
-                "1 tsp smoked paprika",
-                "Garlic bread"
+                "Tagliatelle",
+                "2 lemons",
+                "3 tbsp vegan butter",
+                "3 shallots, finely sliced",
+                "8 garlic cloves, sliced",
+                "1 tsp crushed red pepper",
+                "1 tsp garlic powder",
+                "2 tbsp nooch",
+                "1 cup frozen peas",
+                "Parsley"
             ],
             "steps": [
-                "Boil salted water in a pot and cook pasta according to package instructions.",
-                "Melt half of the butter in the wok and add the onion. Once soft add the garlic and cook until fragrant.",
-                "Add the mushrooms and lemon juice. Cook for a few minutes.",
-                "Add the cream, cheese, chives and nooch. Stir to combine and cook until cheese melts.",
-                "Add the stock, pasta and remaining butter. Let sauce simmer and reduce slightly."
+                "Boil salted water in a pot and cook pasta according to package instructions. Reserve 1/4 cup of pasta water.",
+                "Melt the butter in the wok and add the shallots, cook until softened.",
+                "Stir in the garlic, lemon zest, and red pepper flakes. Cook until the garlic is fragrant.",
+                "Turn the heat to low and stir in the garlic powder, nooch, salt and pepper.",
+                "Add the cooked pasta, pasta water and peas and heat until pasta is warmed through.",
+                "Reduce heat to low, stir in the lemon juice and parsley. Season with salt and pepper."
             ],
             "tags": [
                 "Pasta"
@@ -14972,6 +14969,42 @@
                 "drink",
                 "sweet",
                 "cold"
+            ]
+        },
+        {
+            "title": "Vegan jeyuk bokkeum",
+            "image": "vegan-jeyuk-bokkeum",
+            "url": "https://thefoodietakesflight.com/korean-spicy-pork-stir-fry",
+            "ingredients": [
+               "50g soy strips",
+                "1 1/2 tbsp gochujang",
+                "1 1/2 tbsp soy sauce",
+                "1/4 packed cup grated Fuji apple",
+                "2-3 tsp gochugaru",
+                "1 tsp grated ginger",
+                "6 cloves garlic minced",
+                "1 tbsp mirin",
+                "1/2 tbsp brown sugar",
+                "1/2 tbsp sesame oil",
+                "1 tsp sesame seeds",
+                "2 onions, thinly sliced",
+                "2 carrots, peeled and thinly sliced",
+                "1/4 head cabbage, chopped",
+                "2 scallions, sliced into 2” pieces",
+                "Rice"
+            ],
+            "steps": [
+                "Soak the soy strips in boiling hot water until doubled or even tripled in size.",
+                "Squeeze out the liquid from each piece, break apart any larger pieces.",
+                "Mix ingredients from gochujang to sesame seeds to make the sauce.",
+                "Coat the soy chunks in the sauce. Leave to marinate for at least 30 minutes, ideally overnight.",
+                "Clean and cook the rice.",
+                "Heat the wok over medium high. Once hot, add in some oil.",
+                "Stir-fry the onion and carrot over until lightly browned and the carrots are tender.",
+                "Add in the soy curls, cabbage and garlic and cook until lightly brown. Add the spring onions halfway."
+            ],
+            "tags": [
+                "Korean"
             ]
         }
     ]
