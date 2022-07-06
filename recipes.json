@@ -15006,6 +15006,79 @@
             "tags": [
                 "Korean"
             ]
+        },
+        {
+            "title": "Masak Lemak Cili Padi",
+            "image": "masak-lemak-cili-padi",
+            "url": "https://www.thekampungvegan.com/recipes/vegan-masak-lemak-cili-padi",
+            "ingredients": [
+                "Rice",
+                "2 medium red onions",
+                "6 cloves of garlic",
+                "1.5 inch fresh turmeric",
+                "10 green bird's eye chilies",
+                "5 red bird's eye chilies",
+                "1/4 cup or 60ml water, to blend",
+                "4 kaffir lime leaves",
+                "4 stalks of lemongrass, bruised",
+                "1 tbsp tamarind paste",
+                "1 large potato, cubed",
+                "1 small head of broccoli",
+                "4 small eggplants, cut into chunks",
+                "10 long beans, cut into 1.5 inch lengths",
+                "1 block tofu, frozen then thawed",
+                "200ml coconut cream",
+                "750ml water",
+                "1 tsp mushroom seasoning",
+                "MSG"
+            ],
+            "steps": [
+                "Cleand and cook the rice.",
+                "Blend ingredients from red onion to water to form the curry paste.",
+                "Heat wok on medium add some oil. Once hot add the curry paste then lower the heat. Cook until dry and aromatic.",
+                "Add the potato along with 750ml of water, the bruised lemongrass and kaffir lime leaves. Simmer until potatoes are half cooked.",
+                "Add the eggplant, beans and tofu. Cover and simmer until almost cooked.",
+                "Add the coconut cream, tamarind and broccoli. Stir through to incorporate and simmer until broccoli is cooked."
+            ],
+            "tags": [
+                "Malaysian",
+                "Curry"
+            ]
+        },
+        {
+            "title": "Hong shao tofu",
+            "image": "hong-shao-tofu",
+            "url": "https://www.instagram.com/p/CXT1AzIp_px/",
+            "ingredients": [
+                "Rice",
+                "2 green onions, cut into 2 inch pieces",
+                "2 inch ginger, peeled and sliced",
+                "5 cloves of garlic, smashed",
+                "5 shiitake mushrooms, halved",
+                "½ large russet potato, peeled and cubed",
+                "1 medium carrot, peeled and cubed",
+                "1 block tofu",
+                "3 star anise pods",
+                "2 tbsp brown sugar",
+                "3 tbsp light soy sauce",
+                "2 tbsp dark soy sauce",
+                "1 tsp Shaoxing wine",
+                "1 cup vegetable broth",
+                "1 tsp mushroom bouillon"
+            ],
+            "steps": [
+                "Drain and press the tofu.",
+                "Clean and cook the rice.",
+                "Heat the wok with some oil. Add the garlic, ginger, spring onion whites and star anise.",
+                "Add the sugar and let it melt.",
+                "Add in mushroom, potatoes, carrots. Saute and then add in light soy sauce. Thoroughly combine.",
+                "Add in tofu and carefully combine in the sauce without breaking the pieces.",
+                "Add in dark soy sauce and Shaoxing wine. Add stock and cover. Let simmer for about 5 minutes.",
+                "Uncover and add in mushroom bouillon. Stir and let sit on low heat until potatoes are tender but not too soft."
+            ],
+            "tags": [
+                "Chinese"
+            ]
         }
     ]
 }
