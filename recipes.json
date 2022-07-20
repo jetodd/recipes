@@ -13428,7 +13428,7 @@
                 "Roast near the top of the oven for 25-30 minutes, until softened and slightly charred.",
                 "Put all ingredients from tofu to salt in the blender, season with pepper and blend until smooth.",
                 "Cook the gnocchi according to package instructions.",
-                "Once tomatoes are roasted, stir in the gnocchu and a tablespoon of water." ,
+                "Once tomatoes are roasted, stir in the gnocchi and a tablespoon of water." ,
                 "Turn the grill to its highest setting. Top the gnocchi with the bechamel, leaving spaces here and there.",
                 "Drizzle with oil and grill until golden brown and bubbling, five to ten minutes.",
                 "In a bowl mix the tomato, chilli, onion, oil, lime juice, coriander and salt.",
@@ -15033,7 +15033,7 @@
                 "MSG"
             ],
             "steps": [
-                "Cleand and cook the rice.",
+                "Clean and cook the rice.",
                 "Blend ingredients from red onion to water to form the curry paste.",
                 "Heat wok on medium add some oil. Once hot add the curry paste then lower the heat. Cook until dry and aromatic.",
                 "Add the potato along with 750ml of water, the bruised lemongrass and kaffir lime leaves. Simmer until potatoes are half cooked.",
@@ -15078,6 +15078,40 @@
             ],
             "tags": [
                 "Chinese"
+            ]
+        },
+        {
+            "title": " Braised potatoes with tofu",
+            "image": "braised-potato-tofu",
+            "url": "https://www.instagram.com/p/CbKf0NypfKg/",
+            "ingredients": [
+                "Rice",
+                "2 potatoes, peeled & sliced thinly",
+                "Garlic shoots",
+                "Pak choi",
+                "2 shallots, finely diced",
+                "6 cloves garlic, minced",
+                "3 stalks spring onion, chopped",
+                "1 block tofu",
+                "500ml water",
+                "2 tbsp soy sauce",
+                "1 tbsp oyster sauce",
+                "2 tsp Shao Xing wine",
+                "1 tsp dark soy sauce",
+                "1 tsp sugar",
+                "1 tsp sesame oil",
+                "Dash of white pepper"
+            ],
+            "steps": [
+                "Clean and cook the rice.",
+                "Drain and press the tofu then crumble until it resembles mince.",
+                "Mix ingredients from soy sauce to white pepper to make the sauce, set aside.",
+                "Fry the potato slices over medium heat until lightly golden browned. Drain and set aside.",
+                "Remove excess oil from the pan. Add garlic, shallot and spring onion whites. Saute until fragrant.",
+                "Add vegan mince. Saute until light browned.",
+                "Add the sauce, stir quickly to combine. Add water and fried potato slices.",
+                "Bring to a simmer and braise until the sauce thickens up and potatoes soften.",
+                "Once almost done add the garlic shoots and pak choi, simmer until cooked."
             ]
         }
     ]
