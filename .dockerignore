@@ -1,3 +1,9 @@
-node_modules/
-venv/
-
+*
+!recipes/
+!fly.toml
+!manage.py
+!package.json
+!package-lock.json
+!Procfile
+!recipes.json
+!requirements.txt
