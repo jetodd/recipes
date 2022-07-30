@@ -11,7 +11,7 @@ https://docs.djangoproject.com/en/2.1/ref/settings/
 """
 
 import os
-import django_heroku
+import dj_database_url
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -20,11 +20,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # https://docs.djangoproject.com/en/1.9/howto/static-files/
 STATIC_ROOT = os.path.join(BASE_DIR, 'recipes', 'static')
 STATIC_URL = '/static/'
+STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
 
 # Extra places for collectstatic to find static files.
-STATICFILES_DIRS = (
-    os.path.join(BASE_DIR, 'recipes', 'static'),
-)
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/2.1/howto/deployment/checklist/
@@ -35,8 +33,11 @@ SECRET_KEY = 'g4^0or9-1$v4y@k@ya8mk@go(fcoae63iuris8mro5ii)q1v1y'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'stitches-recipes.fly.dev', 'stitchs-recipes.herokuapp.com',
+                 'stitchs-recipes.timja.dev']
 
+CSRF_TRUSTED_ORIGINS = ['https://stitchs-recipes.herokuapp.com', 'https://stitches-recipes.fly.dev',
+                        'https://stitchs-recipes.timja.dev']
 
 # Application definition
 
@@ -53,6 +54,7 @@ INSTALLED_APPS = [
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
+    'whitenoise.middleware.WhiteNoiseMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
@@ -66,8 +68,8 @@ ROOT_URLCONF = 'recipes.root_urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR, 'recipes', 'templates', 'recipes'), 
-            os.path.join(BASE_DIR, 'recipes', 'static', 'recipes')],
+        'DIRS': [os.path.join(BASE_DIR, 'recipes', 'templates', 'recipes'),
+                 os.path.join(BASE_DIR, 'recipes', 'static', 'recipes')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -82,18 +84,19 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'recipes.wsgi.application'
 
-
 # Database
 # https://docs.djangoproject.com/en/2.1/ref/settings/#databases
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+
+if os.getenv('DATABASE_URL') is None:
+    DATABASES = {
+        'default': {
+            'ENGINE': 'django.db.backends.sqlite3',
+            'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        }
     }
-}
-
-
+else:
+    DATABASES = {"default": dj_database_url.config(conn_max_age=600)}
 # Password validation
 # https://docs.djangoproject.com/en/2.1/ref/settings/#auth-password-validators
 
@@ -112,7 +115,6 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-
 # Internationalization
 # https://docs.djangoproject.com/en/2.1/topics/i18n/
 
@@ -124,10 +126,7 @@ USE_I18N = True
 
 USE_TZ = True
 
-
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.1/howto/static-files/
-
-django_heroku.settings(locals())
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
