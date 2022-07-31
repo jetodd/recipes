@@ -1,8 +1,7 @@
-ARG PYTHON_VERSION=3.10
-
-FROM python:${PYTHON_VERSION}
+FROM python:3.10-slim-bullseye
 
 RUN apt-get update && apt-get install -y \
+    libpq-dev \
     python3-pip \
     python3-venv \
     python3-dev \
