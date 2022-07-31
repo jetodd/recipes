@@ -12,3 +12,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: superfly/flyctl-actions/setup-flyctl@67ddda2a87628f1aff28a54b8a708879ec62c80f
       - run: flyctl deploy --remote-only
+      - run: flyctl ssh console --command "/app/manage.py migrate"
+      - run: flyctl ssh console --command "/app/manage.py add_recipes"
