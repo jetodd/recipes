@@ -15191,6 +15191,52 @@
                 "weekend",
                 "vietnamese"
             ]
+        },
+        {
+            "title": "Spicy sichuan boiled tofu",
+            "image": "sichuan-boiled-tofu",
+            "url": "https://thewoksoflife.com/spicy-sichuan-boiled-tofu-shuizhu",
+            "ingredients": [
+                "300g five spice tofu",
+                "4 tbsp vegetable oil",
+                "200g enoki mushrooms, ends trimmed",
+                "Vermicelli noodles",
+                "1 slice ginger",
+                "2 teaspoons Sichuan peppercorns",
+                "3 scallions",
+                "3 cloves garlic, sliced",
+                "2 tbsp spicy bean paste",
+                "1 tbsp tomato paste",
+                "1 1/2 cups water",
+                "2 tsp sugar",
+                "2 tsp light soy sauce",
+                "1 1/2 teaspoons cornstarch",
+                "3 cloves garlic, minced",
+                "1/4 tsp dried Sichuan chili flakes",
+                "1/4 tsp Sichuan peppercorn powder",
+                "1 tbsp coriander, chopped",
+                "Pak choi"
+            ],
+            "steps": [
+            "Bring a medium pot of water to a boil. Add the tofu slices and blanch for 30 seconds.",
+            "Cook noodles according to package instructions.",
+            "Heat 1 tablespoon of oil in the wok over high. Add the enoki mushrooms, in a single layer.",
+            "Stir-fry until the mushrooms have wilted, 1 minute.",
+            "Turn off the heat, spread the noodles and enoki mushrooms around the bottom of the bowl.",
+            "Add another tablespoon of oil to the wok, along with the ginger and Sichuan peppercorns.",
+            "Cook until fragrant, then remove the peppercorns and ginger, leaving the oil.",
+            "To the oil, add the scallion whites, spicy bean paste, sliced garlic and tomato paste.",
+            "Fry for 1 minute, until the oil is red, then stir in the tofu and pak choi. Stir-fry for 30 seconds.",
+            "Then add the water, sugar, and light soy sauce. Bring to a simmer then add the cornstarch slurry.",
+            "When it’s thickened, add this mixture on top of the mushrooms and noodles.",
+            "Top with the minced garlic, chili flakes, and Sichuan peppercorn powder on top.",
+            "In a small saucepan, heat the remaining 2 tablespoons of oil until it shimmers.",
+            "Pour hot oil into the garlic, chili, and peppercorn powder; the ingredients should sizzle immediately.",
+            "Sprinkle over the green parts of the scallions and the coriander."
+            ],
+            "tags": [
+                "Chinese"
+            ]
         }
     ]
 }
