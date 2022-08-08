@@ -15237,6 +15237,72 @@
             "tags": [
                 "Chinese"
             ]
+        },
+        {
+            "title": "Mie goreng",
+            "image": "mie-goreng",
+            "url": "https://thefoodietakesflight.com/vegan-mie-goreng",
+            "ingredients": [
+                "4 servings noodles",
+                "2 tbsp kecap manis",
+                "2 tsp light soy sauce",
+                "2 tsp dark soy sauce ",
+                "1 tbsp hoisin",
+                "2 tbsp ketchup",
+                "1 tsp sambal oelak",
+                "2 tsp sesame oil",
+                "½ teaspoon white pepper",
+                "1 block tofu",
+                "1 cup choy sum, chopped",
+                "2 scallions, thinly sliced",
+                "2 shallots, sliced",
+                "6 garlic, minced",
+                "1 red onion, sliced",
+                "1 red chilli, thinly sliced",
+                "1 carrot, thinly sliced",
+                "1 red pepper - cut into thin slices or batons"
+            ],
+            "steps": [
+                "Drain and press the tofu then rip into pieces and in a bowl toss in cornstarch.",
+                "Heat oil in the frying pan, fry the tofu pieces until golden-brown and crispy.",
+                "In a bowl mix ingredients from kecap manis to white pepper to make sauce, set aside.",
+                "Cook your noodles according to package instructions and set aside.",
+                "Heat the wok over high. Once hot, add in the oil.",
+                "Add the garlic, spring onion whites and chilli and cook for about a minute.",
+                "Now add the carrots and the pepper, and cook until slightly softened.",
+                "Add the choy sum stems and cook until tender.",
+                "Add the noodles and tofu. Mix and add the remaining kecap manis sesame oil and soy sauce."
+            ],
+            "tags":[
+                "Indonesian"
+            ]
+        },
+        {
+            "title": "Potato and lentil salad",
+            "image": "potato-lentil-salad",
+            "url": "https://www.theguardian.com/food/2022/aug/06/potato-lentil-salad-pistachio-chimichurri-vegan-recipe-meera-sodha",
+            "ingredients": [
+                "230g dried puy lentils",
+                "600g new potatoes, halved",
+                "2 fennel bulbs cut into 2cm wedges",
+                "2 red onions, cut into 2cm wedges",
+                "2 lemons, 1 cut into wedges",
+                "8 garlic cloves",
+                "Chimichurri"
+            ],
+            "steps": [
+                "Preheat the oven to 220C.",
+                "Rinse the lentils, tip into a small saucepan, and add enough cold water to cover by 2cm.",
+                "Bring to a boil, then turn down the heat, put on the lid and simmer for 12 minutes.",
+                "Drain and leave to cool down in a sieve, so they don’t continue cooking.",
+                "Put the potatoes, fennel, onion, lemon wedges and six garlic cloves on a large roasting tray.",
+                "Pour over oil and sprinkle over with salt. Toss to coat everything, then roast for 50 minutes.",
+                "While cooking make the chimichurri sauce.",
+                "Add the lentils, stir, then return to the oven for five minutes, to warm the lentils through."
+            ],
+            "tags": [
+                "potatoes"
+            ]
         }
     ]
 }
