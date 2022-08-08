@@ -15303,6 +15303,45 @@
             "tags": [
                 "potatoes"
             ]
+        },
+        {
+            "title": "Stir-fried vermicelli",
+            "image": "stir-fried-vermicelli",
+            "url": "https://theplantbasedwok.com/stir-fried-vermicelli-noodles-vegan",
+            "ingredients": [
+                "2 tbsp soy sauce",
+                "1 tbsp shaoxing",
+                "1 tsp sugar",
+                "1 tsp Chinkiang black vinegar",
+                "¾ cup vegetable stock",
+                "3 bundles dried mung bean vermicelli",
+                "2 tsp sesame oil",
+                "1 tsp dark soy sauce",
+                "6 garlic cloves, minced",
+                "2 scallions",
+                "Shiitake mushrooms, sliced",
+                "2 red chiles, thinly sliced",
+                "1 carrot, julienned",
+                "4 cups finely shredded cabbage",
+                "1 tsp toasted sesame oil",
+                "¼ tsp ground white pepper"
+            ],
+            "steps": [
+                "In a bowl, mix ingredients from soy sauce to vegetable stock until combined.",
+                "In a large bowl, soak the noodles in warm water for 15 minutes, then drain and place them in a another bowl.",
+                "Cut the noodles roughly in half with kitchen scissors.",
+                "Add the sesame oil and dark soy sauce, and toss to coat.",
+                "Heat the wok over medium-high. Once hot add oil and swirl it around to evenly coat the sides.",
+                "Add the garlic, scallion whites, mushrooms, carrot and chilies and stir-fry until fragrant.",
+                "Add the cabbage and toss, stir-frying until the cabbage is softened. Sprinkle with salt and stir to incorporate.",
+                "Push the cabbage to one side. Pour the sauce into the center of the wok. It should sizzle.",
+                "Immediately add the noodles. Stir continuously and fold to incorporate with the vegetables and sauce.",
+                "Once noodles are hot remove from heat and stir in the scallion greens, sesame oil, and white pepper."
+            ],
+            "tags": [
+                "Chinese",
+                "noods"
+            ]
         }
     ]
 }
