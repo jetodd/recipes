@@ -15342,6 +15342,42 @@
                 "Chinese",
                 "noods"
             ]
+        },
+        {
+            "title": "BBQ tofu bowl",
+            "image": "bbq-tofu-bowl",
+            "url": "https://georgieeats.co.uk/bbq-tofu-bowls/",
+            "ingredients": [
+                "1 block smoked tofu",
+                "6 tbsp bbq sauce",
+                "5 tbsp cornflour",
+                "2 mangos, finely diced",
+                "1 avocado, finely diced",
+                "1/2 bunch coriander, chopped",
+                "1/2 red onion, finely chopped",
+                "1 red chilli, finely chopped",
+                "Juice of 1 lime",
+                "1 tbsp olive oil",
+                "Rice",
+                "1/2 bunch coriander",
+                "Juice of 1 lime"
+            ],
+            "steps": [
+                "Drain and press the tofu then cut into cubes.",
+                "Combine the tofu with 2 tbsp of the bbq sauce, then let it marinate for 15 minutes.",
+                "Combine the mango, avocado, coriander, red onion, chilli, lime juice and olive oil in a bowl.",
+                "Season with salt and black pepper then refrigerate.",
+                "Clean and cook the rice.",
+                "Pour the cornflour out onto a plate and season with salt and pepper.",
+                "Roll and coat each cube of tofu in the cornflour mixture, then shake off any excess.",
+                "Heat oil in a large pan over medium-high.",
+                "Once hot, add the tofu pieces and fry for 2-3 minutes each side, or until golden and crispy.",
+                "Add the remaining BBQ sauce into the pan, give everything a good stir to coat, then remove from the heat.",
+                "Once rice is cooked mix the coriander and lime juice into the rice and fluff with a fork."
+            ],
+            "tags": [
+                "bowl"
+            ]
         }
     ]
 }
