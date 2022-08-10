@@ -15378,6 +15378,32 @@
             "tags": [
                 "bowl"
             ]
+        },
+        {
+            "title": "Cheesy garlic potatoes",
+            "image": "cheesy-garlic-potatoes",
+            "url": "https://www.reddit.com/r/veganrecipes/comments/wje580/i_made_cheesy_garlic_potatoes_super_crispy_on_the",
+            "ingredients": [
+                "1kg potatoes",
+                "60ml olive oil",
+                "7 garlic cloves",
+                "80g grated vegan cheese",
+                "1 tsp oregano",
+                "1 tsp thyme",
+                "Salt & pepper"
+            ],
+            "steps": [
+                "Cut potatoes into halfs or quarters.",
+                "Add the potatoes to some salted boiling water and parboil them for 6-8 minutes.",
+                "Mix the rest of the ingredients into a dressing.",
+                "Drain the potatoes and add them to the dressing. Mix until all the potatoes are coated.",
+                "Grease a baking sheet with some oil and spread the potatoes out onto this.",
+                "Roast in the oven for 15 minutes on 200C on the lowest rack of the oven.",
+                "Take them out, flip the potatoes and roast for 20 minutes in the middle of the oven."
+            ],
+            "tags": [
+                "potatoes"
+            ]
         }
     ]
 }
