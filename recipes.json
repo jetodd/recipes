@@ -15470,6 +15470,63 @@
             "tags": [
                 "pasta"
             ]
+        },
+        {
+            "title": "Garlic green beans",
+            "image": "garlic-green-beans",
+            "url": "https://omnivorescookbook.com/chinese-garlic-green-beans/",
+            "ingredients": [
+                "Green beans",
+                "6 cloves garlic",
+                "1 inch ginger",
+                "1 tbsp shaoxing wine",
+                "1 tsp soy sauce",
+                "Chilli flakes"
+            ],
+            "steps": [
+                "Heat oil in the wok over medium and add the beans.",
+                "Toss to coat with oil then spread them out and add the salt.",
+                "Let cook until the bottom starts to blister and turn golden.",
+                "Once golden transfer to a plate.",
+                "Add the ginger and garlic to the pan, cook until fragrant then add the beans back.",
+                "Stir then pour in the wine, soy sauce salt. Stir to coat."
+            ],
+            "tags": [
+                "sides",
+                "chinese"
+            ]
+        },
+        {
+            "title": "Lemon chicken",
+            "image": "lemon-chicken",
+            "url": "https://thefoodietakesflight.com/vegan-lemon-chicken",
+            "ingredients": [
+                "Vegan chicken",
+                "1 tbsp shaoxing wine",
+                "1/2 cup lemon juice",
+                "6 tbsp maple syrup",
+                "1 tbsp soy sauce",
+                "6 cloves garlic minced",
+                "1 tbsp cornstarch",
+                "2 tbsp cornstarch",
+                "1/4 tsp white pepper",
+                "Thinly sliced lemon",
+                "Rice",
+                "Garlic green beans"
+            ],
+            "steps": [
+                "Clean and cook the rice.",
+                "Put the chicken in a bowl. Add in the rice wine and mix well. Allow to sit for 3-5 minutes.",
+                "Make the sauce by mixing ingredients from lemon juice to garlic. Season with salt and pepper.",
+                "Heat a large pan or wok over medium and add some oil.",
+                "While the wok is heating toss the chicken in 2 tbsp cornstarch and white pepper.",
+                "Add the chicken and cook until both sides are golden brown. Set aside.",
+                "Pour in the lemon sauce over medium low. Allow the sauce to come to boil then lower to a simmer.",
+                "Add in the chicken and lemon slices. Pour in the cornstarch slurry. Cook until sauce thickens."
+            ],
+            "tags": [
+                "chinese"
+            ]
         }
     ]
 }
