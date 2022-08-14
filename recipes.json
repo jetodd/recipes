@@ -15567,6 +15567,33 @@
             "tags": [
                 "chinese"
             ]
+        },
+        {
+            "title": " Bok Choy in Garlic Sauce",
+            "image": "bok-choy-garlic-sauce",
+            "url": "https://theyummyvegan.com/blog/babybokchoyingarlicsauce",
+            "ingredients": [
+                "6 baby bok choy",
+                "4 spring onions, sliced diagonally",
+                "5-6 cloves of garlic, minced",
+                "1 inch ginger, grated",
+                "1 1/2 tbsp sesame oil",
+                "1 tbsp soy sauce",
+                "1/2 cup water",
+                "Cornstarch slurry"
+            ],
+            "steps": [
+                "Cut the bok choy in half or quarters depending on size. Rinse to remove any dirt.",
+                "Blanch the bok choy in boiling salted water for 30 seconds. Set aside.",
+                "In the wok sauté the garlic and ginger in the sesame oil on medium until fragrant. Add in the soy sauce.",
+                "Add the bok choy to the wok and cook for a minute before adding in the spring onions.",
+                "Raise the heat slightly and add the water.",
+                "Let everything cook for a couple of minutes while stirring then add in the cornstarch slurry.",
+                "Season with salt and pepper and mix well until sauce has completely thickened."
+            ],
+            "tags": [
+                "sides"
+            ]
         }
     ]
 }
