@@ -15569,7 +15569,7 @@
             ]
         },
         {
-            "title": " Bok Choy in Garlic Sauce",
+            "title": " Bok choy in garlic sauce",
             "image": "bok-choy-garlic-sauce",
             "url": "https://theyummyvegan.com/blog/babybokchoyingarlicsauce",
             "ingredients": [
@@ -15593,6 +15593,63 @@
             ],
             "tags": [
                 "sides"
+            ]
+        },
+        {
+            "title": "Sinangag",
+            "image": "sinangag",
+            "url": "https://thefoodietakesflight.com/filipino-fried-garlic-rice",
+            "ingredients": [
+                "1/2 tsp salt",
+                "10 cloves garlic minced",
+                "2 cups rice cooked and cooled"
+            ],
+            "steps": [
+                "Heat the wok over medium high. Once hot, add in the oil. Add in the salt and mix into the oil.",
+                "Add in the garlic and cook over medium heat until golden brown.",
+                "Add in the leftover cooked and cooled rice, and break apart any large chunks.",
+                "Mix the rice into the oil and garlic and leave to cook for 4-5 minutes over medium high heat."
+            ],
+            "tags": [
+                "filipino",
+                "rice"
+            ]
+        },
+        {
+            "title": "Kare-kare",
+            "image": "kare-kare",
+            "url": "https://thefoodietakesflight.com/vegan-filipino-kare-kare",
+            "ingredients": [
+                "4 Chinese eggplants",
+                "Green beans",
+                "Bok choy",
+                "1 onion, diced",
+                "6 cloves garlic, roughly chopped",
+                "1/4 cup crushed peanuts",
+                "1/2 cup smooth peanut butter",
+                "2 cups vegetable stock",
+                "1/3 cup white rice flour",
+                "2 tbsp sugar",
+                "Rice OR sinangag",
+                "Sliced shallots"
+            ],
+            "steps": [
+                "Heat the wok over medium high and add 1 tbsp oil.",
+                "Once hot sauté the eggplant until slightly tender. Remove from the pan and set aside.",
+                "Repeat this for the long beans and add a splash of water to half cook. Set aside.",
+                "Quickly sauté the bok choy. Remove from the pan and set aside.",
+                "In the same plan, add in the remaining oil. Once hot, sauté the garlic and onion until aromatic.",
+                "Move the onion and garlic to the side and add in the crushed peanuts. Lightly toast.",
+                "Add in the peanut butter and mix well with the crushed peanuts.",
+                "Pour in half the stock. Simmer, mixing constantly, until the peanut butter dissolves.",
+                "Mix in the rice flour until it dissolves as well and then leave to boil over medium high heat.",
+                "Leave to cook until the sauce thickens, mixing occasionally.",
+                "Add in the sautéed vegetables. Mix well to incorporate in the sauce. Season with salt and sugar.",
+                "Add in more water or vegetable broth to thin out the sauce if you'd like.",
+                "Once the vegetables are cooked through, turn off the heat."
+            ],
+            "tags": [
+                "filipino"
             ]
         }
     ]
