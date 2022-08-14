@@ -15439,6 +15439,37 @@
                 "sweet",
                 "turkish"
             ]
+        },
+        {
+            "title": "Creamy farfelle with spinach",
+            "image": "creamy-farfelle",
+            "url": "https://munchmealsbyjanet.com/2021/11/07/creamy-farfalle-with-spinach-and-sun-dried-tomatoes/",
+            "ingredients": [
+                "Farfalle",
+                "1 onion, finely, chopped",
+                "6 garlic cloves, minced",
+                "4 plant based sausages",
+                "1 tsp dried parsley",
+                "1/2 tsp dried oregano",
+                "2 cups baby spinach",
+                "1 can crushed tomatoes",
+                "1 cup vegan cream",
+                "1/2 cup chopped sun-dried tomatoes",
+                "Red chili flakes",
+                "Basil"
+            ],
+            "steps": [
+                "Cook farfalle in salted water according to package directions, reserve 1/4 cup of the water.",
+                "Meanwhile, preheat large pan on medium heat.",
+                "Add onions and oil, cook on medium low for 10 min, adding 1/2 cup water to prevent burning.",
+                "Add minced garlic and crumble in the sausages.",
+                "Stir, season and cook for 6 to 8 min, stirring periodically, until starting to brown.",
+                "Add remaining ingredients (besides the pasta) and cook 2 to 3 min, stirring as spinach wilts.",
+                "Add pasta, stir, add pasta cooking water if desired."
+            ],
+            "tags": [
+                "pasta"
+            ]
         }
     ]
 }
