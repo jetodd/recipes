@@ -14954,12 +14954,14 @@
             "ingredients": [
                 "1 ¼ cups strawberries",
                 "¼ cup sugar",
+                "2 tbsp maple syrup ",
+                "1 tbsp lemon juice",
                 "¾ cup strawberries, cubed",
                 "2 cups coconut milk"
             ],
             "steps": [
                 "Puree the 1¼ cups of strawberries using a blender, food processor, or masher.",
-                "In a small pot, add the strawberry puree, sugar, and a third of the cut strawberry pieces.",
+                "In a small pot, add the strawberry puree, sugar, maple syrup, lemon juice and a third of the cut strawberry pieces.",
                 "Bring to a boil. Let it boil for 1 minute, turn off the heat, and let it cool in the refrigerator.",
                 "Add 2-4 tbsp of the syrup to a glass, pour in the milk, and topped with fresh strawberry cubes.",
                 "Shake it all up together when you are ready to drink."
@@ -15773,6 +15775,33 @@
             ],
             "tags": [
                 "Pasta"
+            ]
+        },
+        {
+            "title": "Butter mushroom rice",
+            "image": "butter-mushroom-rice",
+            "url": "https://tiffycooks.com/butter-mushroom-rice-15-minutes/",
+            "ingredients": [
+                "3 tbsp vegan butter",
+                "2.5 cups rice (cooked & cooled)",
+                "3 cups mushrooms",
+                "1/2 tsp black pepper",
+                "1 1/2 tbsp soy sauce",
+                "2 tbsp soy sauce",
+                "1 tsp sugar",
+                "1 tsp dashi powder",
+                "Spring onions"
+            ],
+            "steps": [
+                "Add 2 tbsp of butter to a pan and turn the heat to medium-high.",
+                "Once the pan is hot, add the mushroom, 1.5 tbsp soy sauce and black pepper.",
+                "Saute the mushroom for 3-4 minutes or until fragrant.",
+                "Mix 2 tbsp soy sauce, sugar, and dashi powder.",
+                "Add the rice, sauce, and saute for another 2-3 minutes. Make sure the rice is coated in sauce and butter.",
+                "Finish off with another 1 tbsp of butter, and saute on high heat for another 1 minute."
+            ],
+            "tags": [
+                "rice"
             ]
         }
     ]
