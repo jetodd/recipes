@@ -15698,7 +15698,7 @@
         {
             "title": "Vegan chilli crab",
             "image": "chilli-crab",
-            "url": "https://www.vforveganista.com/recipes/vegan-singapore-chilli-crab/",
+            "url": "https://goodlifewithgan.com/?p=1623",
             "ingredients": [
                 "200g fresh enoki mushrooms",
                 "100g all purpose flour",
@@ -15745,6 +15745,34 @@
             ],
             "tags": [
                 "singaporean"
+            ]
+        },
+        {
+            "title": "Pea and leek linguini",
+            "image": "pea-and-leek-linguini",
+            "url": "https://lucyandlentils.co.uk/recipe/pea-and-leek-linguini",
+            "ingredients": [
+                "2 leeks, sliced",
+                "6 asparagus tips, diced",
+                "2 shallots, sliced",
+                "6 cloves garlic, minced",
+                "250ml vegan cream",
+                "100g frozen peas",
+                "4 servings linguini",
+                "Juice of 1 lemon",
+                "1 tsp chilli flakes",
+                "1/4 cup nooch"
+            ],
+            "steps": [
+                "Heat the wok with some olive oil. Once hot add the leeks, shallots, asparagus and garlic.",
+                "In a seperate pot cook pasta according to package instructions until just al dente.",
+                "Sauté leeks before adding the cream, lemon juice, salt and pepper. Simmer for ten minutes.",
+                "Save a ladle of pasta water and add to the pot with the cream and leeks. Mix well.",
+                "Add in the nooch, frozen peas, chilli flakes and cooked spaghetti for the final 2 minutes.",
+                "Season with salt and pepper to taste."
+            ],
+            "tags": [
+                "Pasta"
             ]
         }
     ]
