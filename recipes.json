@@ -13402,8 +13402,10 @@
             "url": "https://www.theguardian.com/food/2022/mar/26/vegan-recipe-butter-bean-gratin-ixta-belfrage",
             "ingredients": [
                 "450g cherry tomatoes",
+                "1 eggplant",
+                "2 sweet peppers",
                 "15g coriander",
-                "4 garlic cloves",
+                "8 garlic cloves",
                 "2 tsp maple syrup",
                 "1 tsp flaked salt",
                 "Black pepper",
@@ -13423,7 +13425,7 @@
                 "2 tbsp chopped coriander"
             ],
             "steps": [
-                "Heat the oven to 220C. Put the cherry tomatoes in a single layer in a casserole dish.",
+                "Heat the oven to 220C. Put the cherry tomatoes, eggplant and peppers in a single layer in a casserole dish.",
                 "Add the coriander, garlic, oil, maple syrup, salt, pepper and stir to coat.",
                 "Roast near the top of the oven for 25-30 minutes, until softened and slightly charred.",
                 "Put all ingredients from tofu to salt in the blender, season with pepper and blend until smooth.",
@@ -15694,7 +15696,7 @@
                 "Place the rice noodles in a bowl and cover with the sticky sauce then top with vegetables, mushrooms and tofu."
             ],
             "tags": [
-                
+                "Noods"
             ]
         },
         {
@@ -15831,7 +15833,8 @@
                 "Toward the end, add in the onion and mix to combine. "
             ],
             "tags": [
-                
+                "rice",
+                "chick'n"
             ]
         },
         {
@@ -15873,6 +15876,39 @@
             ],
             "tags": [
                 "Rice"
+            ]
+        },
+        {
+            "title": "Fettuccine alfredo",
+            "image": "fettuccine-alfredo",
+            "url": "",
+            "ingredients": [
+                "Fettuccine",
+                "1 white onion, diced",
+                "2 cups vegetable broth",
+                "1/2 tsp salt",
+                "1/2 tsp black pepper",
+                "8 garlic cloves, minced",
+                "3/4 cup cashews",
+                "1 tbsp lemon juice",
+                "1 cup vegan milk",
+                "3 tbsp nutritional yeast",
+                "1 cup peas",
+                "2 cups baby spinach",
+                "Red pepper flakes"
+            ],
+            "steps": [
+                "Bring a large pot of salted water to a boil. Boil the pasta until it is al dente. Drain and set aside.",
+                "Add the onion and 1 cup of the stock to a large pan over medium to medium-high heat.",
+                "Cook until the onion is very tender. Then add the garlic and cook stirring often until the liquid has evaporated.",
+                "Add the onion and garlic to a blender. Add 1/2 cup stock and ingredients from salt to nooch.",
+                "Blend on high until very creamy and smooth. Add any more stock to reach desired consistency.",
+                "Add sauce back to the pan along with peas, chilli flakes and pasta. Mix well and cook until heated through.",
+                "Turn off the heat then add the spinach and cook until wilted. Season with salt and pepper."
+            ],
+            "tags": [
+                "pasta",
+                "italian"
             ]
         }
     ]
