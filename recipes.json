@@ -15985,6 +15985,41 @@
                 "Rice",
                 "risotto"
             ]
+        },
+        {
+            "title": "Kung pao chicken",
+            "image": "kung-pao-chicken",
+            "url": "https://chejorge.com/2021/03/25/vegan-kung-pao-chicken",
+            "ingredients": [
+                "Vegan chicken",
+                "2 tbsp light soy sauce",
+                "1 tbsp black vinegar",
+                "1 tbsp shaoxing wine",
+                "1 tsp dark soy sauce",
+                "1 tsp mushroom bouillon",
+                "1 tbsp sugar",
+                "1/4 tsp fine salt",
+                "1 tsp cornstarch",
+                "2 tbsp water",
+                "Rice",
+                "10 dried chilis, deseeded",
+                "15 whole Sichuan peppercorns",
+                "6 cloves garlic, minced",
+                "1 inch ginger, minced",
+                "6 scallions",
+                "1/4 cup cashews"
+            ],
+            "steps": [
+                "In a bowl combine ingredients from soy sauce to water. Add chicken and let marinate for 15 minutes.",
+                "Clean and cook the rice.",
+                "Remove the chicken and wring it dry of excess marinade. Cook the chicken in the air frier.",
+                "In the wok heat some oil, add dried chiles and Sichuan peppercorns and fry until fragrant.",
+                "Add the chicken, ginger and garlic. Stir-fry until fragrant.",
+                "Finish with scallions, cashews and the marinade. Cook until sauce thickens."
+            ],
+            "tags": [
+                
+            ]
         }
     ]
 }
