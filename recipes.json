@@ -15945,6 +15945,46 @@
                 "turkish",
                 "sweet"
             ]
+        },
+        {
+            "title": "Mint and pea risotto",
+            "image": "mint-pea-risotto",
+            "url": "https://www.deliciousmagazine.co.uk/recipes/asparagus-pea-and-mint-risotto/",
+            "ingredients": [
+                "2 shallots, finely diced",
+                "6 cloves garlic, finely chopped",
+                "1 celery stick, finely chopped",
+                "300g bunch asparagus",
+                "4 cups vegetable stock",
+                "1 cup arborio",
+                "200ml dry white wine",
+                "Mint, finely chopped",
+                "Zest and juice 1 lemon",
+                "200g frozen peas",
+                "50g butter",
+                "1/4 cup nooch",
+                "1 tsp chilli flakes",
+                "150g frozen peas",
+                "70g spinach",
+                "1 tbsp neutral oil",
+                "Juice 1 lemon",
+                "Handful parsley"
+            ],
+            "steps": [
+                "Put 150g frozen peas in a bowl and cover with boiling water for 30 seconds.",
+                "Drain and transfer to a blender and whizz with the spinach, oil, lemon and parsley until smooth. Season.",
+                "Heat oil in the wok and cook shallots, garlic, celery and asparagus stalks until softened.",
+                "Meanwhile, put the stock in a potatoes and gently heat. Keep warm on a low heat.",
+                "Stir the rice into the vegetables to coat the grains in the oil, lightly toast the rice.",
+                "Pour in the wine, bring up to a fast simmer and cook until most of the wine has evaporated.",
+                "Start adding stock a ladleful at a time, stirring often, adding more once the previous stock has been absorbed.",
+                "Once rice is almost cooked stir in the asparagus tips, mint, peas and pea purée. Cook until the rice is tender.",
+                "Stir in the butter, chilli flakes, lemon juice, zest and nooch. Season with salt and pepper."
+            ],
+            "tags": [
+                "Rice",
+                "risotto"
+            ]
         }
     ]
 }
