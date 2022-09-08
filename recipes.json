@@ -16056,6 +16056,40 @@
             "tags": [
                 "chinese"
             ]
+        },
+        {
+            "title": "Corn cheese ramen",
+            "image": "corn-cheese-ramen",
+            "url": "https://www.eatfigsnotpigs.com/korean-inspired-vegan-corn-cheese-ramen",
+            "ingredients": [
+                "1 bunch spring onions",
+                "10 cloves garlic, minced",
+                "1 tsp gochugaru",
+                "2 cups sweet corn",
+                "2 tbsp gochujang",
+                "½ cup vegan mayonnaise",
+                "½ teaspoon MSG",
+                "⅔ cup vegetable stock",
+                "3 packets ramen noodles",
+                "1 cup shredded vegan mozzarella",
+                "½ cup shredded vegan cheddar",
+                "Toasted sesame seeds"
+            ],
+            "steps": [
+                "Cook ramen according to package instructions.",
+                "Preheat the oven to 190°C.",
+                "Heat oil in the wok over medium-high. Once hot, add the spring onion whites and garlic, and season with gochugaru.",
+                "Cook, stirring often, until fragrant, 1 to 2 minutes.",
+                "Add the corn, mayo, gochujang and MSG. Give it a good stir to combine and cook until heated through, 3 to 5 minutes.",
+                "Pour in the broth and noodles and toss again to combine.",
+                "Transfer to an oven safe dish and top with the vegan cheese shreds.",
+                "Cover and bake until the cheese is melted and bubbly 8 to 10 minutes.",
+                "Garnish with toasted sesame seeds, green onion and a pinch of gochugaru."
+            ],
+            "tags": [
+                "korean",
+                "noods"
+            ]
         }
     ]
 }
