@@ -16142,6 +16142,28 @@
             "tags": [
                 "bread"
             ]
+        },
+        {
+            "title": "Korean banana milk",
+            "image": "korean-banana-milk",
+            "url": "https://drivemehungry.com/korean-banana-milk",
+            "ingredients": [
+                "2 large ripe bananas, peeled",
+                "1.5 cup ice-cold coconut milk",
+                "2/3 cup ice-cold water",
+                "2 to 6 tsp sugar",
+                "1/2 teaspoon vanilla extract"
+            ],
+            "steps": [
+                "Add all the ingredients to a blender and blend on high speed.",
+                "Garnish with a banana slice and serve immediately."
+            ],
+            "tags": [
+                "korean",
+                "drink",
+                "sweet",
+                "cold"
+            ]
         }
     ]
 }
