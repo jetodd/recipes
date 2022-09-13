@@ -16090,6 +16090,27 @@
                 "korean",
                 "noods"
             ]
+        },
+        {
+            "title": "Limeade",
+            "image": "limeade",
+            "url": "https://www.badmanners.com/broiler-room/recipes/sunset-limeade",
+            "ingredients": [
+                "4 cups water",
+                "1 cup lime juice",
+                "¼ cup orange juice",
+                "¼-⅓ cup agave",
+                "1 tsp citric acid",
+                "Salt to taste"
+            ],
+            "steps": [
+                "In a big ass jar with a lid or pitcher, mix all the ingredients together then taste.",
+                "Throw on the lid, and shake that shit up. Strain and serve over fresh ice."
+            ],
+            "tags": [
+                "Drink",
+                "Sweet"
+            ]
         }
     ]
 }
