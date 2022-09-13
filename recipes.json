@@ -15974,7 +15974,7 @@
                 "Put 150g frozen peas in a bowl and cover with boiling water for 30 seconds.",
                 "Drain and transfer to a blender and whizz with the spinach, oil, lemon and parsley until smooth. Season.",
                 "Heat oil in the wok and cook shallots, garlic, celery and asparagus stalks until softened.",
-                "Meanwhile, put the stock in a potatoes and gently heat. Keep warm on a low heat.",
+                "Meanwhile, put the stock in a pot and gently heat. Keep warm on a low heat.",
                 "Stir the rice into the vegetables to coat the grains in the oil, lightly toast the rice.",
                 "Pour in the wine, bring up to a fast simmer and cook until most of the wine has evaporated.",
                 "Start adding stock a ladleful at a time, stirring often, adding more once the previous stock has been absorbed.",
@@ -16110,6 +16110,37 @@
             "tags": [
                 "Drink",
                 "Sweet"
+            ]
+        },
+        {
+            "title": "Roast garlic bread",
+            "image": "roast-garlic-bread",
+            "url": "https://www.badmanners.com/recipes/roasted-garlic-pull-apart-bread",
+            "ingredients": [
+                "3 bulbs garlic",
+                "1/3 cup olive oil",
+                "1 tablespoon lemon juice",
+                "¼ teaspoon lemon zest",
+                "1/8 teaspoon paprika",
+                "Pinch of salt",
+                "1 loaf of crusty bread",
+                "1 tablespoon nooch",
+                "¼ chopped parsley"
+            ],
+            "steps": [
+                "Warm the oven to 200°C and pull off all the extra layers of paper around the bulbs of garlic.",
+                "Chop the top ¼” off the bulbs to expose their innards.",
+                "Wrap them individually in foil and pour ½ teaspoon of olive oil over the top as you close them up.",
+                "Roast in the oven for 40 minutes or until all the cloves look golden.",
+                "Lower oven to 160°C. Then cut diagonally from corner to corner in both directions, like a checkerboard.",
+                "Grab you blender or food processor and dump all the cloves of garlic from the 2 bulbs right in.",
+                "Add the oil, lemon juice, zest, paprika, and salt and run that shit until the mixture looks nice and smooth.",
+                "Using a knife or pastry brush, smear the sauce inside all the open cuts on the bread.",
+                "Sprinkle in the nooch, wrap in foil, and throw it in the oven to get all toasty, about 20 minutes.",
+                "Sprinkle over the parsley and serve as soon as it’s cool enough to eat."
+            ],
+            "tags": [
+                "bread"
             ]
         }
     ]
