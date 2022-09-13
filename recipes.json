@@ -16164,6 +16164,52 @@
                 "sweet",
                 "cold"
             ]
+        },
+        {
+            "title": "Pak choi and mushroom stir fry",
+            "image": "pak-choi-mushroom-stir-fry",
+            "url": "https://omnivorescookbook.com/bok-choy-and-mushroom-stir-fry",
+            "ingredients": [
+                "2 tbsp water",
+                "2 tbsp soy sauce",
+                "1 tbsp hoisin sauce",
+                "1 tsp sugar",
+                "1/4 tsp black pepper",
+                "1/2 tsp sesame oil",
+                "1 tbsp cornstarch",
+                "450g baby bok choy, quartered",
+                "2 1/2 tablespoons peanut oil",
+                "450g brown mushrooms, halved",
+                "4 dried chili peppers",
+                "4 garlic cloves, sliced",
+                "1 inch ginger, thinly sliced",
+                "2 green onions, sliced",
+                "1 block tofu",
+                "2 garlic cloves, minced",
+                "1/2 inch ginger, minced",
+                "1/2 tbsp soy sauce",
+                "1/2 tbsp miso paste",
+                "1 tsp red chili oil",
+                "Rice"
+            ],
+            "steps": [
+                "Mix ingredients from water to sesame oil in a small bowl and set aside.",
+                "Clean and cook the rice. Drain and press the tofu.",
+                "Heat 1/4 cup water in the wok over medium high. Once the water boils add the pak choi and sprinkle with a pinch of salt.",
+                "Cover and let steam for 30 seconds. Uncover the pan and stir then repeat. Set aside.",
+                "Add a little sesame oil to the wok then add the ginger and garlic.",
+                "Once fragrant crumble in the tofu and add soy sauce, miso paste and chilli oil. Fry until slightly crispy, set aside.",
+                "Add 2 tablespoons of peanut oil to the wok, turn to high heat.",
+                "Add the mushrooms. Let sear for 1 minute without touching.",
+                "Flip the mushrooms, cook stirring occasionally, until browned and there’s no juice left in the pan.",
+                "Move the mushrooms to one side. Pour the remaining oil on the other side and add the chili, garlic, ginger and green onion.",
+                "Stir a few times until the chili pepper turns dark red.",
+                "Pour in the sauce. Stir and cook for 30 seconds.",
+                "Make cornstarch slurry and add to the pan with the tofu and pak choi. Cook until the sauce has thickened."
+            ],
+            "tags": [
+                "Chinese"
+            ]
         }
     ]
 }
