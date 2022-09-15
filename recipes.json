@@ -13058,11 +13058,10 @@
             "url": "https://theplantbasedwok.com/vegan-chinese-tomato-egg-stir-fry/",
             "ingredients": [
                 "800g tomatoes, cut into chunks",
-                "1 cup dried gluten puffs",
                 "2 sheets yuba",
                 "5 cloves garlic, sliced",
                 "1 inch ginger, diced",
-                "1 scallion",
+                "2 scallions",
                 "1 tbsp sugar",
                 "1/2 tsp salt",
                 "1/4 cup Shaoxing wine",
@@ -16209,6 +16208,76 @@
             ],
             "tags": [
                 "Chinese"
+            ]
+        },
+        {
+            "title": "Biang biang noodles",
+            "image": "biang-biang-noodles",
+            "url": "https://redhousespice.com/biang-biang-noodles/",
+            "ingredients": [
+                "250g all-purpose flour",
+                "125ml water",
+                "¼ teaspoon salt",
+                "3 tbsp cooking oil",
+                "1 tbsp scallions, finely chopped",
+                "2 tsp garlic, minced",
+                "Chilli flakes",
+                "Chilli powder",
+                "¼ tsp ground Sichuan pepper",
+                "2 tsp light soy sauce",
+                "1 tbsp black rice vinegar",
+                "Pak choi"
+            ],
+            "steps": [
+                "Mix flour, water and salt by hand. Knead until well combined and very smooth.",
+                "Divide the dough into 8 equal pieces. Knead each one again and roll it into a gherkin shape.",
+                "Thoroughly coat each piece with oil then place them on a plate. Cover with cling film then leave to rest for 1 hour.",
+                "Heat up a pot of water. While waiting, flatten each dough piece into a rectangle shape with a rolling pin.",
+                "Once water is boiling take on piece of dough and press the center with a chopstick.",
+                "Hold each end of the dough and pull gently until it stretches to your preferred thickness.",
+                "Put the noodle on a surface. Break it apart from the middle line to make a loop.",
+                "Put the noodle into the boiling water for 1 minute each. Repeat with the other noodles.",
+                "Once the noodles are cooked blanch the pak choi.",
+                "Place scallions, garlic, chilli flakes, chilli powder, Sichuan pepper and salt on top of the noodles.",
+                "Heat up the oil. When it starts to smoke, pour it over the scallion, garlic, etc.",
+                "Add soy sauce and vinegar. Stir to coat the noodles evenly."
+
+            ],
+            "tags": [
+                "chinese",
+                "noods"
+            ]
+        },
+        {
+            "title": "Doubanjiang Stir-Fry",
+            "image": "doubanjiang-stir-fry",
+            "url": "https://woonheng.com/doubanjiang-eggplant-stir-fry",
+            "ingredients": [
+                "3 chinese eggplants",
+                "Rice",
+                "8 cloves garlic, sliced",
+                "1 onion",
+                "1 red pepper, chopped",
+                "1 green pepper, chopped",
+                "Cornstarch",
+                "2 tbsp doubanjiang",
+                "4 tbsp soy sauce",
+                "2 tbsp Chinese black vinegar",
+                "1 tbsp sugar"
+            ],
+            "steps": [
+                "Roll-cut the eggplant. Transfer to a bowl and rub ½ teaspoon salt all over the eggplant. Set aside for 5-10 minutes.",
+                "Drain excess liquid from eggplant. Lightly coat the eggplant with 2 tablespoons of cornstarch.",
+                "Cook the eggplant in the air frier. Once cooked drain on a paper towel.",
+                "Clean and cook the rice.",
+                "Heat the wok over medium. Add a drizzle of oil and sauté garlic until aromatic.",
+                "Add the bell peppers and cook for a minute. Then add the onion.",
+                "Add the doubanjiang, stir to combine.",
+                "Add the eggplant and remaining sauces, then quickly toss everything together to combine.",
+                "If it appears to be too dry, add about 3-4 tablespoons of water then continue to stir-fry until flavors meld."
+            ],
+            "tags": [
+                "Rice"
             ]
         }
     ]
