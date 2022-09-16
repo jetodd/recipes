@@ -16279,6 +16279,36 @@
             "tags": [
                 "Rice"
             ]
+        },
+        {
+            "title": "Eggdrop soup",
+            "image": "eggdrop-soup",
+            "url": "https://www.nomss.com/vegan-egg-drop-soup",
+            "ingredients": [
+                "5 tbsp egg replacer",
+                "4 dried shitake mushrooms",
+                "2 bunches Enoki Mushrooms, stems removed",
+                "½ tbsp grated ginger",
+                "½ tsp ground white pepper",
+                "3 stalks spring onion, finely chopped",
+                "½ tsp cornstarch",
+                "1 tbsp light soy sauce",
+                "4 cups vegetable stock",
+                "1 cup water"
+            ],
+            "steps": [
+                "Soak dried shiitake mushrooms in boiling water for 10-20 minutes, covered.",
+                "Add vegetable broth or vegan chicken broth and cold water to a medium pot.",
+                "Add mushrooms, spring onions, ginger, soy sauce and white pepper to the pot and bring to a boil.",
+                "In a bowl mix the egg replacer as if you were making scrambled eggs.",
+                "Add egg to a frying pan on medium.",
+                "Occasionally scrape and pull the mixture to desired half-cooked consistency. Reserve for later.",
+                "Once the mushroom veggie broth comes to a boil, stir in cornstarch slurry.",
+                "Stir in vegan egg substitute."
+            ],
+            "tags": [
+                "soup"
+            ]
         }
     ]
 }
