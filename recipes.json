@@ -16312,7 +16312,7 @@
         },
         {
             "title": "Doenjang jjigae",
-            "image": "doenjang-jjigae",
+            "image": "doenjang-jigae",
             "url": "https://www.instagram.com/p/CiM-H15JSa_/",
             "ingredients": [
                 "4 dried shiitake mushrooms",
@@ -16342,6 +16342,41 @@
             "tags": [
                 "korean",
                 "stew"
+            ]
+        },
+        {
+            "title": "Beancurd with mixed mushrooms",
+            "image": "beancurd-with-mixed-mushrooms",
+            "url": "https://www.instagram.com/p/CdsxDvdpaTq/",
+            "ingredients": [
+                "6 slices ginger",
+                "6 dried shiitake mushrooms",
+                "5 pieces fresh beancurd skin",
+                "200g shimeiji mushrooms",
+                "200g enoki mushrooms",
+                "1 carrot, peeled and sliced thinly",
+                "1/2 tbsp cornstarch",
+                "Pak choi",
+                "2 tbsp of oyster sauce",
+                "1 tbsp of soy sauce",
+                "1 tsp of sugar",
+                "1/2 tsp of white pepper"
+            ],
+            "steps": [
+                "Soak dried shiitake mushrooms in 1 cup boiling water for 10-20 minutes, covered.",
+                "Mix ingredients from hoisin to the seasoning in a small bowl. Set aside.",
+                "Clean and cook the rice.",
+                "Pan fry the beancurd skin until both sides are golden browned. Shred into smaller pieces. Set aside.",
+                "In the wok add vegetable oil and saute ginger until fragrant over high heat.",
+                "Add shiitake mushrooms, carrot and shimeiji mushrooms and saute until fragrant and lightly browned.",
+                "Add the tofu skins and sauce and mix evenly. Add the mushroom water, until it just covers the ingredients.",
+                "Bring to a simmer then make and add the cornstarch slurry",
+                "Lastly, taste and season with salt to taste. Turn off the heat and serve."
+            ],
+            "tags": [
+                "Asian",
+                "rice",
+                "mushrooms"
             ]
         }
     ]
