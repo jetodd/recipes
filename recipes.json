@@ -16460,6 +16460,43 @@
             "tags": [
                 "bread"
             ]
+        },
+        {
+            "title": "Beer battered eggplant tacos",
+            "image": "beer-battered-eggplant-tacos",
+            "url": "https://www.theguardian.com/food/2022/oct/01/vegan-beer-battered-aubergine-baja-tacos-recipe-meera-sodha",
+            "ingredients": [
+                "150g vegan creme fraiche",
+                "1 lime, zested and juiced",
+                "100g red cabbage, finely sliced",
+                "½ red onion, finely sliced",
+                "2 tbsp lime juice",
+                "½ tsp fine sea salt",
+                "300g tomatoes, finely chopped",
+                "20g coriander, finely chopped",
+                "1 tbsp chipotle paste",
+                "2 tbsp red-wine vinegar",
+                "½ tsp fine sea salt",
+                "1 red chilli, finely chopped",
+                "230g plain flour",
+                "1 tsp salt",
+                "330ml beer",
+                "2 tsp English mustard",
+                "2 eggplants, cut into batons",
+                "Corn tortillas"
+            ],
+            "steps": [
+                "In a small bowl, mix the creme fraiche with the lime juice and zest, a tablespoon of water and a pinch of salt.",
+                "Put the cabbage, red onion, lime juice and salt in a bowl, massage the lime and salt into the vegetables and set aside.",
+                "Combine the chopped tomatoes, coriander, chipotle paste, vinegar, salt and chilli in a medium bowl, then leave to marinate.",
+                "Put the flour in a bowl, add the salt and whisk to mix.",
+                "Slowly add the beer and mustard, whisking along the way, then add the aubergine pieces and stir to coat.",
+                "Air fry the aubergine pieces in a single layer. Put on a paper towel lined plate to soak up the oil.",
+                "Spread a tortilla with a little crema, top with eggplant, some pickled cabbage and finally, some salsa."
+            ],
+            "tags": [
+                "eggplant"
+            ]
         }
     ]
 }
