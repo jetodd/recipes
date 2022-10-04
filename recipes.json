@@ -16424,6 +16424,42 @@
                 "Sweet",
                 "Bread"
             ]
+        },
+        {
+            "title": "Soft pretzels",
+            "image": "soft-pretzels",
+            "url": "https://thecarrotunderground.com/vegan-snack-recipes/best-vegan-homemade-soft-pretzels/",
+            "ingredients": [
+                "1.5 cups warm water",
+                "1 tbsp sugar",
+                "2 tsp salt",
+                "7 grams active dry yeast",
+                "1 tbsp butter, melted",
+                "4 cups flour",
+                "⅓ cup baking soda",
+                "2 tbsp non-dairy milk",
+                "1 tbsp maple syrup",
+                "2 tsp coarse sea salt"
+            ],
+            "steps": [
+                "In a large bowl, combine water, sugar and salt.",
+                "Sprinkle yeast on top. Allow to sit about 5 minutes, until foaming.",
+                "With a silicone spatula mix in the melted butter. Gradually add the flour a small amount at a time.",
+                "Form dough into a ball. Place in an oiled bowl and cover with plastic wrap.",
+                "Set aside to proof for one hour or until dough doubles in volume.",
+                "Once dough has proofed, boil 9 cups of water in large pot. Once boiling, gradually add baking soda.",
+                "Preheat oven to 425°F",
+                "Meanwhile, roll dough into ropes. Cut into 8 even pieces about 60cm long. Twist into pretzel shapes.",
+                "Place pretzels, one at a time onto slotted spoon and lower into boiling water.",
+                "Let boil for 15 seconds, flip pretzel over and boil another 15 seconds.",
+                "Remove from water and place on parchment lined baking sheet. Repeat process for each pretzel.",
+                "Combine milk with maple syrup. Lightly brush tops of each pretzel with wash. Sprinkle with sea salt.",
+                "Use tips of scissors or end of sharp knife and lightly score the sides of each pretzel in one or two places.",
+                "Bake for 12 - 15 minutes or until golden brown."
+            ],
+            "tags": [
+                "bread"
+            ]
         }
     ]
 }
