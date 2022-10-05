@@ -16497,6 +16497,41 @@
             "tags": [
                 "eggplant"
             ]
+        },
+        {
+            "title": "Falafel",
+            "image": "falafel",
+            "url": "https://www.themediterraneandish.com/how-to-make-falafel/",
+            "ingredients": [
+                "2 cups dried chickpeas",
+                "½ tsp baking soda",
+                "1 cup parsley, stems removed",
+                "¾ cup cilantro, stems removed",
+                "½ cup dill, stems removed",
+                "1 small onion, quartered",
+                "8 garlic cloves",
+                "Salt to taste",
+                "1 tbsp ground black pepper",
+                "1 tbsp cumin",
+                "1 tbsp coriander",
+                "1 tsp cayenne",
+                "1 tsp baking powder",
+                "2 tbsp toasted sesame seeds"
+            ],
+            "steps": [
+                "Place the chickpeas and baking soda in a large bowl filled with water to cover the chickpeas by at least 2 inches.",
+                "Soak overnight for at least 18 hours or until soft. When ready, drain the chickpeas and pat them dry.",
+                "Add the chickpeas, herbs, onion, garlic and spices to the large bowl of a food processor fitted with a blade.",
+                "Run the food processor 40 seconds at a time until all is well combined forming a the falafel mixture.",
+                "Transfer the falafel mixture to a container and cover tightly. Refrigerate for at least 1 hour.",
+                "Just before frying, add the baking powder and sesame seeds to the falafel mixture and stir with a spoon.",
+                "Scoop tablespoonfuls of the falafel mixture and form into patties (½ inch in thickness each).",
+                "Air fry in batches if necessary to avoid overcrowding.",
+                "Place the fried falafel on a plate lined with paper towels to drain."
+            ],
+            "tags": [
+                "Middle eastern"
+            ]
         }
     ]
 }
