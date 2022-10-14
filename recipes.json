@@ -16532,6 +16532,46 @@
             "tags": [
                 "Middle eastern"
             ]
+        },
+        {
+            "title": "Loaded baked potato soup",
+            "image": "loaded-baked-potato-soup",
+            "url": "https://www.eatfigsnotpigs.com/loaded-baked-potato-soup/",
+            "ingredients": [
+                "1 block tofu",
+                "1⁄4 cup vegetable oil",
+                "2 tbsp soy sauce",
+                "2 tbsp maple syrup",
+                "2 tsp liquid smoke",
+                "1 tsp kosher salt",
+                "4 tbsp vegan butter",
+                "1 onion, roughly chopped",
+                "6 cloves garlic, minced",
+                "¼ cup all-purpose flour",
+                "6 cups non-dairy milk",
+                "6 tsp vegetable bouillon paste",
+                "1 tsp salt",
+                "1 tsp black pepper",
+                "2 ½ pounds russet potatoes, peeled and diced",
+                "1 cup vegan cheddar shreds",
+                "½ cup vegan sour cream",
+                "Thinly sliced green onion"
+            ],
+            "steps": [
+                "Drain and press the tofu and preheat the oven to 375°F.",
+                "Crumble the tofu into small pieces in a bowl.",
+                "Add the vegetable oil, soy sauce, maple syrup, liquid smoke and kosher salt and toss gently to combine.",
+                "Place on a lined baking sheet and bake until crispy, 30 to 40 minutes, stirring every 10 minutes or so.",
+                "For the soup, heat the butter in a large pot or Dutch Oven over medium heat.",
+                "Once the butter is melted, add the onions and garlic and sauté, stirring frequently, until the onions are translucent",
+                "Stir in the flour and continue to cook, while stirring, another 1 to 2 minutes.",
+                "Slowly whisk in the milk with the bouillon paste until thoroughly combined and there are no clumps.",
+                "Add the potatoes and increase the heat to a light boil, reduce to low. Cover and simmer until the potatoes are fork tender.",
+                "Stir in the cheese and sour cream until the cheese has melted through."
+            ],
+            "tags": [
+                "soup"
+            ]
         }
     ]
 }
