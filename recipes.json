@@ -12013,7 +12013,9 @@
                 "6 garlic cloves, chopped",
                 "2 poblano peppers, diced",
                 "1 jalapeno, diced fine",
-                "7 cups broccoli",
+                "5 cups broccoli",
+                "2 carrots, chopped",
+                "2 ribs celery, chopped",
                 "4 cups vegetable stock",
                 "1 cup water",
                 "1 bay leaf",
@@ -12030,7 +12032,7 @@
             ],
             "steps": [
                 "Soak cashews in boiling water, covered, for 15 minutes.",
-                "Heat oil in the wok and add the onion, garlic, poblanos and jalapeno, stirring occasionally.",
+                "Heat oil in the wok and add the onion, garlic, carrot, celery, poblanos and jalapeno, stirring occasionally.",
                 "Add the broccoli, stock, water, bay leaf, coriander, oregano, salt, and pepper. The liquid should just cover the veggies.",
                 "Cover, bring to a boil, turn heat down and simmer gently until broccoli is tender.", 
                 "Turn heat off and remove bay leaf.",
@@ -16571,6 +16573,49 @@
             ],
             "tags": [
                 "soup"
+            ]
+        },
+        {
+            "title": "Potato broccoli casserole",
+            "image": "potato-broccoli-casserole",
+            "url": "https://ilovevegan.com/cheesy-vegan-potato-broccoli-casserole/",
+            "ingredients": [
+                "2 tbsp vegan butter",
+                "2 tbsp flour",
+                "1 red onion, finely chopped",
+                "½ tsp garlic powder",
+                "¼ tsp turmeric",
+                "¼ tsp paprika",
+                "¼ tsp salt",
+                "1 1/2 cups vegetable stock",
+                "3 cups non-dairy milk",
+                "½ cup nooch",
+                "½ cup grated mozzarella",
+                "800g potatoes",
+                "2 heads broccoli, cut into florets",
+                "½ cup panko",
+                "1 tbsp melted vegan butter",
+                "¼ tsp garlic powder",
+                "¼ tsp onion powder",
+                "¼ tsp oregano",
+                "Sausages"
+            ],
+            "steps": [
+                "In a medium sized saucepan, heat 2 tablespoon of vegan butter medium-high heat.",
+                "Add the red onion and cook until translucent and tender.",
+                "Whisk in the flour, garlic powder, turmeric, and paprika. Cook for 1 minute.",
+                "Slowly whisk in the vegetable broth, followed by the unsweetened soy milk.",
+                "Stir in the nooch and cheese. Turn heat down and simmer until the cheese is melted. Season with salt and pepper then set aside.",
+                "Preheat oven to 190°C and line the casserole dish.",
+                "Combine bread crumbs, melted butter, garlic and onion powder, oregano, and a sprinkle of salt.",
+                "Begin with 1 layer of thinly sliced potato, slightly overlapping. Sprinkle with salt. Add a thin layer of sauce.",
+                "Layer broccoli, slightly over lapping. Sprinkle with salt. Add a thin layer of sauce. Repeat. Finish with remaining sauce.", 
+                "Top with seasoned bread crumbs.",
+                "Cover with aluminum foil and bake for 50 minutes. Uncover, and bake for another 10 minutes."
+            ],
+            "tags": [
+                "casserole",
+                "potatoes"
             ]
         }
     ]
