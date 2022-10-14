@@ -16666,6 +16666,39 @@
             "tags": [
                 "dumplings"
             ]
+        },        
+        {
+            "title": "Vegan oyakodon",
+            "image": "vegan-oyakodon",
+            "url": "https://www.seriouseats.com/oyakodon-japanese-chicken-and-egg-rice-bowl-recipe",
+            "ingredients": [
+                "1/2 cup dashi",
+                "1½ Tbsp mirin",
+                "1½ Tbsp sake",
+                "1 tbsp soy sauce",
+                "1 tbsp sugar",
+                "2 onions, thinly sliced",
+                "1 packet vegan chicken",
+                "3 scallions, thinly sliced",
+                "3 oggs",
+                "1 tsp pepper",
+                "1/2 tsp salt",
+                "2 cups cooked white rice",
+                "Shichimi"
+            ],
+            "steps": [
+                "Beat eggs in a bowl along with pepper and salt.",
+                "Combine dashi, mirin, sake, soy sauce, and sugar in a 10-inch skillet and bring to a simmer over high heat.",
+                "Stir in onion and cook, stirring occasionally, until onion is half tender, about 5 minutes.",
+                "Add chicken and cook, stirring occasionally, until broth has reduced by about half.",
+                "Stir in half of scallions, then season broth to taste with more soy sauce or sugar as desired.",
+                "Reduce heat to a bare simmer.",
+                "Pour oggs into skillet in a steady stream, try to distribute evenly",
+                "Cover and cook until oggs are cooked to desired doneness."
+            ],
+            "tags": [
+                "Japanese"
+            ]
         }
     ]
 }
