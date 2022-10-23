@@ -16848,6 +16848,40 @@
                 "Italian",
                 "pasta"
             ]
+        },
+        {
+            "title": "Rose tteokbokki",
+            "image": "rose tteokbokki",
+            "url": "https://seonkyounglongest.com/rose-tteokbokki",
+            "ingredients": [
+                "60g wide dangmyeon",
+                "2 onions, sliced",
+                "6 cloves garlic, sliced",
+                "5 tbsp gochujang",
+                "2 tbsp soy sauce",
+                "1 tbsp gochugaru",
+                "2 cups oat milk",
+                "2 tsp mushroom seasoning",
+                "2 tbsp agave",
+                "3 tbsp nooch",
+                "14 oz rice cake",
+                "3 fried beancurd, sliced",
+                "3 spring onions"
+            ],
+            "steps": [
+                "Cook the dangmyeon in boiling water by following the package instructions.",
+                "Meanwhile heat the wok over medium, add the cooking oil and swirl to coat.",
+                "Add sliced onion and garlic, season with salt and pepper. Saute until onion is translucent.",
+                "Add gochujang, soy sauce, gochugaru, and sauté everything together for a minute.",
+                "Pour plant-based milk and deglaze the bottom with a wooden spoon.",
+                "Season the sauce with mushroom seasoning, agave nectar, and nutritional yeast. Bring to a simmer.",
+                "Drain the noodles and add them into the sauce along with the rice cakes. Stir well and bring back to simmer.",
+                "Stir in the yubu and green onion and remove from the heat. Cook until heated through."
+            ],
+            "tags": [
+                "korean",
+                "noods"
+            ]
         }
     ]
 }
