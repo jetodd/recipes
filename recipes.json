@@ -16941,6 +16941,50 @@
             "tags": [
                 "gnocchi"
             ]
+        },
+        {
+            "title": "Red braised tofu",
+            "image": "red-braised-tofu",
+            "url": "https://www.youtube.com/watch?v=EA2Mx1m7NAI",
+            "ingredients": [
+                "1 block tofu, 1cm slices",
+                "400g peeled potatoes, cubed",
+                "1 onion, diced",
+                "5 cloves garlic",
+                "1 inch ginger, sliced",
+                "Spring onion whites",
+                "2 tsp Shaoxing wine",
+                "1 1/2 cups hot water",
+                "3 tbsp soy sauce",
+                "1 tsp dark soy sauce",
+                "3 tsp sugar",
+                "1 tsp five spice powder",
+                "1/2 tsp Sichuan peppercorns",
+                "1/4 tsp msg",
+                "1/2 tsp salt",
+                "1 tsp cornstarch",
+                "1 tsp sesame oil",
+                "Pak choi",
+                "Spring onion greens",
+                "Rice"
+            ],
+            "steps": [
+                "Drain and press the tofu. Soak the potatoes in water.",
+                "Heat the frying pan with some oil. Once hot add the tofu.",
+                "Fry tofu for five minutes on one side or until browned, repeat on the other side.",
+                "Transfer tofu to a plate lined with a paper towel.",
+                "Heat oil in the wok, once hot add the potatoes. Fry until cooked through then set aside.",
+                "Add the garlic, ginger and spring onion whites to the wok and fry until fragrant.",
+                "Add the five spice and cook for 30 seconds, then add the tofu and potatoes back to the wok.",
+                "Swirl in the shaoxing wine. Then add the hot water, soy sauces, sugar and peppercorns.",
+                "Cover and simmer on low until everything is tender, about ten minutes.",
+                "Clean and cook the rice.",
+                "Uncover. Turn heat to high, add the onion and let reduce. Season with salt and MSG and mix in the pak choi.",
+                "Add the cornstarch slurry. Once thickened remove from heat and drizzle with the sesame oil."
+            ],
+            "tags": [
+                "chinese"
+            ]
         }
     ]
 }
