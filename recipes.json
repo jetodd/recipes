@@ -16882,6 +16882,65 @@
                 "korean",
                 "noods"
             ]
+        },
+        {
+            "title": "Potato and lentil soup",
+            "image": "potato-lentil-soup",
+            "url": "https://www.pickuplimes.com/recipe/turkish-red-lentil-soup-26",
+            "ingredients": [
+                "1 onion, diced",
+                "2 shallots, diced",
+                "5 cups water",
+                "1 vegetable stock cube",
+                "1 ¼ cup red lentils, rinsed",
+                "2 potatoes, diced",
+                "1 1/2 tbsp paprika",
+                "2 tsp onion powder",
+                "2 tsp garlic powder",
+                "Salt and pepper",
+                "2 tsp balsamic vinegar",
+                "1 cup coconut yogurt ",
+                "3 slices bread" 
+            ],
+            "steps": [
+                "Heat the wok on medium and add some oil. When hot, add the onion and sauté until golden.",
+                "Add the shallots and sauté until translucent.",
+                "Add the remaining ingredients until balsamic vinegar. Bring to a boil and then reduce to a simmer.",
+                "Partially cover with a lid and cook until the lentils and potato are cooked through."
+            ],
+            "tags": [
+                "soup"
+            ]
+        },
+        {
+            "title": "Creamy mushroom gnocchi",
+            "image": "creamy-mushroom-gnocchi",
+            "url": "https://www.avantgardevegan.com/recipes/creamy-mushroom-gnocchi/",
+            "ingredients": [
+                "Gnocchi",
+                "300g mushrooms, chopped evenly",
+                "1 onion, finely chopped",
+                "2 shallots, chopped",
+                "6 cloves garlic, minced",
+                "1 tsp chilli",
+                "1 tbsp tarragon",
+                "1 shot brandy",
+                "1 cup vegan cream",
+                "1 tsp salt",
+                "1 tsp black pepper"
+            ],
+            "steps": [
+                "Cook the gnocchi according to package instructions.",
+                "Heat the wok over a medium heat with a little oil.",
+                "Sauté the mushrooms, onion, shallots & garlic until onion is translucent with the chilli & dried tarragon.",
+                "When the mushrooms are golden, deglaze the pan with the brandy.",
+                "When the alcohol has cooked off, add the salt, pepper & vegan cream.",
+                "Let the sauce bubble away and thicken up for 4-5 minutes.",
+                "Transfer the gnocchi to the sauce and xoat the gnocchi in the sauce. "
+            ],
+            "tags": [
+                "gnocchi"
+            ]
         }
     ]
 }
