@@ -16985,6 +16985,72 @@
             "tags": [
                 "chinese"
             ]
+        },
+        {
+            "title": "Gingerbread apple baked oats",
+            "image": "gingerbread-apple-baked-oats",
+            "url": "https://www.reddit.com/r/Veganforbeginners/comments/ryx8nw/gingerbread_apple_baked_oats/",
+            "ingredients": [
+                "2 bananas",
+                "2 cups oatmeal",
+                "2 cups plant milk",
+                "2 tbsp molasses",
+                "1.5 tsp vanilla",
+                "2 tbsp chia",
+                "1 tsp baking powder",
+                "2 tsp cinnamon",
+                "1 tsp ginger",
+                "0.5 tsp nutmeg",
+                "0.25 tsp salt",
+                "1 large apple, diced"
+            ],
+            "steps": [
+                "Mash your bananas, add in the rest of the ingredients and mix well.",
+                "Bake at 375f for 30 minutes."
+            ],
+            "tags": [
+                "Sweet"
+            ]
+        },
+        {
+            "title": "Roast garlic vegetable stew",
+            "image": "roast-garlic-vegetable-stew",
+            "url": "https://crumbsandcaramel.com/roasted-garlic-vegetable-stew-red-lentils-savory-tomatoes",
+            "ingredients": [
+                "1 cauliflower, cut into florets",
+                "1 kumara, peeled and cubed",
+                "2 red bell peppers, chopped",
+                "2 heads garlic",
+                "1 onion, diced",
+                "4 cloves garlic, minced",
+                "1 tsp oregano",
+                "½ tsp thyme",
+                "2 tsp basil",
+                "2 cans fire-roasted diced tomatoes",
+                "6 cups vegetable stock",
+                "1 cup red lentils",
+                "4 tbsp tomato paste",
+                "6 cups kale",
+                "1 tbsp balsamic vinegar",
+                "Bread"
+            ],
+            "steps": [
+                "Preheat the oven to 160°C and line a large baking tray.",
+                "Place the cauliflower, kumara and bell peppers on the tray, drizzle with olive oil and toss well.",
+                "Chop the top ¼” off the garlic bulbs to expose their innards.",
+                "Wrap them individually in foil and pour ½ teaspoon of olive oil over the top as you close them up.",
+                "Bake for 30-40 minutes, tossing every 15 minutes or so.",
+                "In the wok over medium, sauté the onion and garlic in olive oil until translucent.",
+                "Add the oregano, basil, thyme, canned tomatoes, vegetable broth and red lentils.",
+                "Bring to a boil, lower the heat, cover and let simmer for about 10 minutes",
+                "Squeeze the roasted garlic out of its skins into a blender.",
+                "Add tomato paste, balsamic vinegar, 1/2 of the roasted vegetables, and 2 cups of the soup.",
+                "Blend on high until smooth. Pour back into the soup with the remaining roasted vegetables.",
+                "Stir the kale into the soup and cook about  until it's just wilted."
+            ],
+            "tags": [
+                "stew"
+            ]
         }
     ]
 }
