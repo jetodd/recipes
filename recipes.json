@@ -17051,6 +17051,75 @@
             "tags": [
                 "stew"
             ]
+        },
+        {
+            "title": "Sesame crusted mushroom pie",
+            "image": "sesame-crusted-mushroom-pie",
+            "url": "https://carlocao.com/sesame-crusted-vegan-mushroom-pie/",
+            "ingredients": [
+                "70g vegan butter",
+                "6 onions, quartered",
+                "6 cloves garlic, sliced",
+                "600g mixed mushrooms",
+                "200ml white wine",
+                "3 tbsp marsala",
+                "200ml vegan sour cream",
+                "15g dill, chopped",
+                "15g parsley chopped",
+                "2 sheets puff pastry",
+                "1 tbsp maple syrup",
+                "1 tbsp sesame seeds",
+                "Salt and pepper"
+            ],
+            "steps": [
+                "Preheat the oven to 200°C and line a pie tin with baking paper.",
+                "Heat butter in a large pan. Once hot add onions and saute until brown.",
+                "Stir in mushrooms and garlic, season with salt and pepper and cook until mushrooms release their juice.",
+                "Simmer until the juice has completely evaporated.",
+                "Pour in wine and marsala and keep on simmering until evaporated.",
+                "Stir in sour cream and herbs and mix until combined.",
+                "Cover the bottom and sides of the pie tin with a sheet of puff pastry, remove excess pastry.",
+                "Stir in filling and spread evenly.",
+                "Top with the second sheet of puff pastry, seal edges and remove excess pastry.",
+                "Brush with maple syrup and top with sesame seeds. Bake for 40 minutes in the center of the oven."
+            ],
+            "tags": [
+                "Mushrooms"
+            ]
+        },
+        {
+            "title": "Carrot cake baked oatmeal",
+            "image": "carrot-cake-baked-oatmeal",
+            "url": "https://www.instagram.com/p/CezLG0XpHAF/",
+            "ingredients": [
+                "2 cups oats",
+                "2 cups plant milk",
+                "1/4 cup almond butter",
+                "2 tbsp maple syrup",
+                "2 tsp vanilla",
+                "1/4 cup cranberries",
+                "1/4 cup chopped walnuts",
+                "2 tbsp chia seeds",
+                "1 tsp baking powder",
+                "2 tsp cinnamon",
+                "1/2 tsp nutmeg",
+                "Dash of salt",
+                "1 large carrot",
+                "300g lb silken tofu",
+                "1 tbsp lemon juice",
+                "4 tbsp icing sugar",
+                "1/2 tsp vanilla"
+            ],
+            "steps": [
+                "Add ingredients from oats to salt into a baking dish.",
+                "Grate the carrot and add in the rest of the ingredients. Mix well to combine.",
+                "Bake oatmeal at 200°C for 35-40 minutes.",
+                "Blend the tofu, lemon juice, icing sugar and vanilla to make the icing.",
+                "Spread the icing on top of the oats."
+            ],
+            "tags": [
+                "sweet"
+            ]
         }
     ]
 }
