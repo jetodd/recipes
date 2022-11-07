@@ -17194,6 +17194,47 @@
                 "sweet",
                 "cold"
             ]
+        },
+        {
+            "title": "Roasted tomato soup",
+            "image": "roasted-tomato-soup",
+            "url": "https://serenetrail.com/vegan-roasted-tomato-soup",
+            "ingredients": [
+                "1kg vine ripened tomatoes",
+                "350g grape tomatoes",
+                "2 onions",
+                "2 bulbs garlic",
+                "1 cup vegetable stock",
+                "⅓ cup basil",
+                "¼ cup plant milk",
+                "½ tbsp sugar",
+                "2 tsp salt",
+                "2 tsp pepper",
+                "1 tsp dried oregano",
+                "4 tbsp vegan butter",
+                "1/2 tsp garlic powder",
+                "4 slices bread",
+                "Vegan cheese"
+            ],
+            "steps": [
+                "Position an oven rack to the center of the oven then preheat it to 210°C.",
+                "Cut the larger tomatoes and onion into chunks. Place on a lined tray with the cut side up.",
+                "Add the grape tomatoes to the tray. Drizzle tomatoes with olive oil and season with salt and pepper.",
+                "Chop the top ¼” off the garlic bulbs to expose their innards.",
+                "Wrap them individually in foil and pour ½ teaspoon of olive oil over the top as you close them up.",
+                "Roast the vegetables for 30-35 minutes in the center of the oven until they are slightly browned.",
+                "Let them cool for 10 minutes then add half the vegetables to the blender. Squeeze out one garlic bulb into the blender.",
+                "Purée the veggies with a quarter of the stock and half the basil until it’s smooth and creamy. Repeat.",
+                "Add the puréed mixture, remaining stock, milk, sugar, salt, pepper, and oregano to a medium-sized pot.",
+                "Simmer the soup on low for 10 minutes to bring the flavors together. Taste and season.",
+                "Meanwhile soften the vegan butter and then mash in the garlic powder.",
+                "Spread the butter onto one side of each slice of bread.",
+                "Add 2 slices of vegan cheese in between the un-buttered sides.",
+                "Cook them in a pan over medium-low until the cheese has melted and the bread is golden brown."
+            ],
+            "tags": [
+                "soup"
+            ]
         }
     ]
 }
