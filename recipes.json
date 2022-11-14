@@ -4977,7 +4977,7 @@
             "ingredients": [
                 "Noodles",
                 "Enoki mushrooms, root ends trimmed",
-                "1 block tofu",
+                "1 block z",
                 "2 handfuls spinach",
                 "Pak choi",
                 "3 tbsp vegan butter",
@@ -17234,6 +17234,71 @@
             ],
             "tags": [
                 "soup"
+            ]
+        },
+        {
+            "title": "Tamarind eggplant",
+            "image": "https://www.theguardian.com/food/2022/nov/12/vegan-tamarind-aubergines-thai-basil-recipe-meera-sodha",
+            "url": "tamarind-eggplant",
+            "ingredients": [
+                "2 large eggplants",
+                "2 red onions, sliced",
+                "1 tsp salt",
+                "6 garlic cloves, finely chopped",
+                "1 tsp chilli flakes",
+                "1 tbsp brown sugar",
+                "3 tbsp tamarind paste",
+                "½ tbsp light soy sauce",
+                "15g Thai basil, leaves",
+                "Rice"
+            ],
+            "steps": [
+                "Cut off the eggplant stalks, cut the eggplants in half lengthways then into wedges about 5cm long.",
+                "Heat oil in the frying pan on medium high. Line a plate with a paper towel.",
+                "When hot, add a single layer of eggplant. Cook for three minutes then flip to the other side and cook for another three minutes.",
+                "Transfer to the plate. Add some more oil then repeat with the remaining eggplant wedges.",
+                "Turn down the heat to medium, add three more tablespoons of oil and, when hot, add the onion and a teaspoon of salt.",
+                "Stirring infrequently, sweat down the onions until browning nicely. Add water if they seem like they're burning.",
+                "Stir in the garlic and cook for three minutes more, or until the onions are caramelised and soft.",
+                "Add the chilli flakes, sugar, tamarind paste, soy sauce and 175ml water to the pan, then stir in the eggplant.",
+                "Turn down the heat to medium-low, simmer for 10 minutes, or until the eggplants are tender.",
+                "Remove the eggplant. Add the Thai basil to the pan.",
+                "Stir until it wilts into the mixture, then pour over the eggplant."
+            ],
+            "tags": [
+                "rice",
+                "eggplant"
+            ]
+        },
+        {
+            "title": "Sausage, bean and kale stew",
+            "image": "sausage-bean-kale-stew",
+            "url": "https://www.instagram.com/p/CixfaRyo5PF",
+            "ingredients": [
+                "2 leeks, finely sliced",
+                "250g kale",
+                "10 vegan chipolatas",
+                "2 tsp dried thyme",
+                "6 cloves garlic, chopped",
+                "1.5 tbsp flour",
+                "750ml vegetable stock",
+                "400g tin of butter beans, drained",
+                "200ml milk",
+                "Rice"
+            ],
+            "steps": [
+                "Clean and cook the rice.",
+                "Heat oil in the wok. Once hot add the leek and kale and saute until softened. Set aside.",
+                "Add a little more oil and the sausages. Cook until browned all over.",
+                "Return the kale and leeks to the pan with the thyme, garlic and flour.",
+                "Stir on the heat for one minute until the flour has disappeared.",
+                "Slowly add the stock a little at a time, stirring continuously.",
+                "When all the stock is used, add the milk and beans and season to taste.",
+                "Simmer for 5 minutes on a low to medium heat before serving."
+            ],
+            "tags": [
+                "stew",
+                "sausage"
             ]
         }
     ]
