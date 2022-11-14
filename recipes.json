@@ -17238,8 +17238,8 @@
         },
         {
             "title": "Tamarind eggplant",
-            "image": "https://www.theguardian.com/food/2022/nov/12/vegan-tamarind-aubergines-thai-basil-recipe-meera-sodha",
-            "url": "tamarind-eggplant",
+            "image": "tamarind-eggplant",
+            "url": "https://www.theguardian.com/food/2022/nov/12/vegan-tamarind-aubergines-thai-basil-recipe-meera-sodha",
             "ingredients": [
                 "2 large eggplants",
                 "2 red onions, sliced",
