@@ -17339,6 +17339,42 @@
             "tags": [
                 "tofu"
             ]
+        },
+        {
+            "title": "Summer pasta",
+            "image": "summer-pasta",
+            "url": "https://www.lazycatkitchen.com/vegan-summer-pasta",
+            "ingredients": [
+                "200g penne",
+                "1 courgette, cut into chunks",
+                "6 garlic cloves, sliced",
+                "2 tomatoes, peeled and chopped",
+                "8 cherry tomatoes, halved",
+                "2 red onions, cut into chunks",
+                "2 sweet peppers, sliced",
+                "White wine",
+                "2 tsp balsamic vinegar",
+                "Chilli flakes",
+                "1/2 tsp sugar",
+                "4 artichoke heart halves, chopped",
+                "8 olives, de-stoned and chopped",
+                "Chopped fresh parsley"
+            ],
+            "steps": [
+                "Cook the pasta just short of al dente, saving ¼ cup of cooking water before draining.",
+                "Heat oil in the wok. Once hot, add courgette and cook on a gentle heat, stirring occasionally.",
+                "Once courgette is almost done, add the garlic and cook until fragrant, stirring frequently.",
+                "Season with salt and pepper and transfer out of the pan. Set aside.",
+                "Add chopped tomatoes, red onion, sweet peppers and a good splash of wine to the same pan.",
+                "Allow the tomatoes to break down and thicken a little. Add a splash more liquid if the pan is getting dry.",
+                "Season with salt, pepper, sugar, balsamic vinegar and chilli flakes. Stir well.",
+                "Add cherry tomato halves to the pan, allow the cherry tomatoes to soften in the sauce.",
+                "Add pasta and a bit of pasta cooking water if needed. Coat the pasta in the tomato sauce.",
+                "Return fried zucchini and add chopped artichoke hearts and olives to the pan."
+            ],
+            "tags": [
+                "pasta"
+            ]
         }
     ]
 }
