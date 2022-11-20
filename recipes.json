@@ -17300,6 +17300,45 @@
                 "stew",
                 "sausage"
             ]
+        },
+        {
+            "title": "BBQ shredded tofu",
+            "image": "bbq-shredded-tofu",
+            "url": "https://www.doasyoupeas.com/mains/bbq-shredded-tofu",
+            "ingredients": [
+                "1 block tofu",
+                "1 tbsp olive oil",
+                "1 tbsp soy sauce",
+                "1 tsp chilli powder",
+                "1/2 tsp smoked paprika",
+                "1 tsp garlic powder",
+                "1/2 cup bbq sauce",
+                "1/4 cup water",
+                "Buns",
+                "Shredded cabbage",
+                "Shredded carrot",
+                "Red onion, thinly sliced",
+                "½ cup minced coriander",
+                "½ cup mayo",
+                "2 tbsp adobo sauce",
+                "3 tbsp lime juice",
+                "1 tsp sugar"
+            ],
+            "steps": [
+                "Preheat the oven to 210°C and line a baking tray.",
+                "Drain the tofu and pat it dry then use the large side of a grater to shred the tofu.",
+                "In a large bowl, combine the soy sauce, olive oil, chili powder, garlic powder and paprika. Add the tofu, mix until coated.",
+                "Spread the tofu in a thin layer on the pan. Bake for 15 minutes, stir the tofu, and bake for an additional 15 minutes.",
+                "Meanwhile add the veggies to a large mixing bowl.",
+                "In a small bowl whisk ingredients from mayo to sugar until combined.",
+                "Pour the dressing over the veggies and stir to combine until thoroughly coated.",
+                "Season with salt and pepper, taste and adjust flavors as needed.",
+                "In another bowl mix the barbecue sauce and water together & pour over the tofu.",
+                "Mix on the pan to combine as much as you can, then return to the oven for another two minutes."
+            ],
+            "tags": [
+                "tofu"
+            ]
         }
     ]
 }
