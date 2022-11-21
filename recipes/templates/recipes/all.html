@@ -16,7 +16,7 @@
 								<div class="card-body">
 					    			<h5 class="card-title"><a href="{% url 'recipes:detail' recipe.id %}">{{ recipe.title }}</a></h5>
 					    			
-					    			<hr class="blue" />
+					    			<hr />
 					    			{% if recipe.tags %}
 					    				{% for tag in recipe.tags.all %}
 					    				<div class="tags">

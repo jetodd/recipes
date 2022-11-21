@@ -1,10 +1,10 @@
 :root {
-	--header-colour: #edc544;
-	--main-bg-colour: #d1edc7;
+	--header-colour: #D0D8C3;
+	--main-bg-colour: #FFFAE4;
 	--card-bg-colour: #fff;
-	--text-colour: #16ba83;
-	--other-text-colour: #fff;
-	--link-hover: var(--header-colour);
+	--text-colour: #4A695D;
+	--other-text-colour: #ef968f;
+	--link-hover: var(--other-text-colour);
 	--header-search-icon: var(--text-colour);
 	--tag-bg-colour: var(--text-colour);
 	--btn-text-colour: #fff;
@@ -84,11 +84,6 @@ hr {
     margin: 25px auto;
 }
 
-hr.blue {
-	color: var(--main-bg-colour);
-    background: var(--main-bg-colour);
-}
-
 ol {
    list-style: none;
    counter-reset: item;
@@ -119,7 +114,7 @@ ol li:before {
 .navbar {
 	padding: 1rem 1.5rem;
 	padding-top: 20px;
-	background-color: #fff;
+	background-color: #D0D8C3;
 }
 
 .navbar-toggler {
@@ -321,7 +316,7 @@ ul.horizontal-list li {
 }
 
 ul.horizontal-list li a {
-	color: var(--btn-text-colour);
+	color: var(--main-bg-colour);
 	text-decoration: none;
 	margin:0 5px;
 	background: var(--tag-bg-colour);
@@ -348,7 +343,7 @@ ul.horizontal-list li a:hover {
     font-size: 0.8rem;
     line-height: 1;
     letter-spacing: 0.07em;
-    color: var(--other-text-colour);
+    color: var(--main-bg-colour);
     display: inline-block;
     text-decoration: none;
     align-self: start;
@@ -379,7 +374,7 @@ ul.single, ul.block {
 }
 
 .btn-primary {
-	background-color: var(--btn-colour);
+	background-color: var(--other-text-colour);
 	border: none;
 	color: var(--btn-text-colour);
 }
