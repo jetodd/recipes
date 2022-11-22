@@ -17434,6 +17434,49 @@
             "tags": [
                 "sides"
             ]
+        },
+        {
+            "title": "One pot chickn and rice",
+            "image": "chickn-and-rice",
+            "url": "https://www.rachelama.com/recipes/g9rvzdfyxkeczq57q8fk8jf6swo94a",
+            "ingredients": [
+                "3 green cardamon pods, pods removed",
+                "1 tsp coriander seeds",
+                "1 tsp caraway seeds",
+                "1 tsp cumin seeds",
+                "1 tsp agave",
+                "1 tsp orange juice and zest",
+                "1 tsp smoked paprika",
+                "1 tsp olive oil",
+                "180g vegan chicken",
+                "1 onion, diced",
+                "4 cloves of garlic, minced",
+                "Handful of cherry tomatoes",
+                "1 green pepper, diced",
+                "1 red pepper, diced",
+                "1 tsp coriander leaves",
+                "1 cup rice, cleaned",
+                "2 cups water",
+                "Stock cube",
+                "Orange zest",
+                "Squeeze of lemon",
+                "Coconut yogurt",
+                "Coriander",
+                "Chilli oil"
+            ],
+            "steps": [
+                "Blend all of the spices in a mortar and pestle.",
+                "In a bowl add half the spices, agave, orange zest and juice, smoked paprika and olive oil.",
+                "Place plant based chunks in a pan, add paste and cook until golden brown. Set aside.",
+                "In the same pan, add remaining spices, onions, garlic and cook until onions have softened.",
+                "Add cherry tomatoes, bell pepper, rice, water, coriander, stock cube, orange zest and a sqeeze of lemon juice.",
+                "Season with salt and pepper. Place chicken on top, bring to a boil then lower to a simmer for 10 minutes.",
+                "Turn off heat, and allow to sit with the lid on for another 5 minutes.",
+                "Serve with coconut yogurt, chilli oil, and coriander."
+            ],
+            "tags": [
+                "rice"
+            ]
         }
     ]
 }
