@@ -17407,6 +17407,33 @@
             "tags": [
                 "Rice"
             ]
+        },
+        {
+            "title": "Garlickly creamed spinach",
+            "image": "garlicky-creamed-spinach",
+            "url": "https://minimalistbaker.com/garlicky-vegan-creamed-spinach",
+            "ingredients": [
+                "1 tbsp vegan butter",
+                "1 shallot, finely chopped",
+                "3 cloves garlic, peeled and minced",
+                "½ cup vegan cream",
+                "¼ tsp salt",
+                "¼ tsp black pepper",
+                "Pinch of ground nutmeg",
+                "¼ cup nutritional yeast",
+                "Pinch of chilli flakes",
+                "250g baby spinach"
+            ],
+            "steps": [
+                "Melt the butter in the pan over medium-low. Add the shallots and cook until translucent.",
+                "Add the garlic and cook, stirring constantly, for 1 minute more.",
+                "Add the cream, salt, pepper and nutmeg and bring to a gentle boil.",
+                "Cook, stirring occasionally, until the cream is thick enough to coat a wooden spoon.",
+                "Add the nooch and stir. Add the spinach and stir until evenly combined and wilted."
+            ],
+            "tags": [
+                "sides"
+            ]
         }
     ]
 }
