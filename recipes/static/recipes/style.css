@@ -1,21 +1,25 @@
 :root {
-	--header-colour: #D0D8C3;
-	--main-bg-colour: #FFFAE4;
-	--card-bg-colour: #fff;
-	--text-colour: #4A695D;
-	--other-text-colour: #ef968f;
-	--link-hover: var(--other-text-colour);
-	--header-search-icon: var(--text-colour);
-	--tag-bg-colour: var(--text-colour);
-	--btn-text-colour: #fff;
-	--btn-colour: var(--header-colour);
-	--hr-colour: var(--header-colour);
-	--card-font-colour: var(--text-colour);
+	--white: #FFF;
+	--cream: #FFFAE4;
+	--pink: #EF968F;
+	--pale-green: #D0D8C3;
+	--dark-green: #4A695D;
+
+	--text-colour: var(--dark-green);
+	--link-hover: var(--pink);
+	--btn-text-colour: var(--white);
+	--btn-bg-colour: var(--pink);
+	--btn-hover-colour: var(--dark-green);
+	--card-bg-colour: var(--white);
+	--hr-colour: var(--pale-green);
+	--header-colour: var(--pale-green);
+	--main-bg-colour: var(--cream);
 }
   
 body {
 	font-family: "Century Gothic", CenturyGothic, Tahoma, sans-serif;
 	background-color: var(--main-bg-colour);
+	color: var(--dark-green);
 	font-size: 1.4rem;
 	margin: 0 auto;
 }
@@ -150,23 +154,23 @@ ol li:before {
 }
 
 /************ Header (link hover) ************/
-.lime, .lime:visited {
+.header-link, .header-link:visited {
   text-decoration: none;
   position: relative;
 }
 
-.lime:after, .lime:visited:after {
+.header-link:after, .header-link:visited:after {
   content: '';
   height: 2px;
   position: absolute;
   bottom: 0;
   left: 0;
   width: 0%;
-  background: var(--header-colour);
+  background: var(--link-hover);
   transition: 0.2s;
 }
 
-.lime:hover:after, .lime:visited:hover:after {
+.header-link:hover:after, .header-link:visited:hover:after {
   width: 100%;
 }
 
@@ -319,13 +323,13 @@ ul.horizontal-list li a {
 	color: var(--main-bg-colour);
 	text-decoration: none;
 	margin:0 5px;
-	background: var(--tag-bg-colour);
+	background: var(--header-colour);
 	padding: 6px 8px;
 	border-radius: 8px;
 }
 
 ul.horizontal-list li a:hover {
-	background-color: var(--header-colour);
+	background-color: var(--btn-bg-colour);
 }
 
 .tags {
@@ -335,7 +339,7 @@ ul.horizontal-list li a:hover {
 
 .tags > a {
     padding: 8px 12px 6px;
-    background: var(--header-colour);
+    background: var(--btn-bg-colour);
     border-radius: 100px;
     text-transform: uppercase;
     font-style: normal;
@@ -343,7 +347,7 @@ ul.horizontal-list li a:hover {
     font-size: 0.8rem;
     line-height: 1;
     letter-spacing: 0.07em;
-    color: var(--main-bg-colour);
+    color: var(--btn-text-colour);
     display: inline-block;
     text-decoration: none;
     align-self: start;
@@ -352,7 +356,7 @@ ul.horizontal-list li a:hover {
 }
 
 .tags > a:hover {
-	background: var(--text-colour);
+	background: var(--btn-hover-colour);
 }
 
 .resize {
@@ -374,13 +378,13 @@ ul.single, ul.block {
 }
 
 .btn-primary {
-	background-color: var(--other-text-colour);
+	background-color: var(--btn-bg-colour);
 	border: none;
 	color: var(--btn-text-colour);
 }
 
 .btn-primary:hover, .btn-primary:active, .btn-primary:focus {
-	background-color: var(--tag-bg-colour);
+	background-color: var(--btn-hover-colour);
 }
 
 /************ Checkboxes ************/
@@ -429,7 +433,7 @@ ul.single, ul.block {
 .recipe-card {
 	margin: 0.8rem 2%;
 	border:none;
-	background-color: var(--card-bg-colour);
+	background-color: var(--white);
 }
 
 .card-image {
@@ -469,7 +473,6 @@ ul.single, ul.block {
 }
 
 .card-title {
-	color: var(--card-font-colour);
 	text-align: center;
 	font-size: 1.1em;
 	letter-spacing: 1px;
