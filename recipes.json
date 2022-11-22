@@ -17375,6 +17375,38 @@
             "tags": [
                 "pasta"
             ]
+        },
+        {
+            "title": "Coconut braised spring greens",
+            "image": "coconut-braised-spring-greens",
+            "url": "https://www.sainsburysmagazine.co.uk/recipes/mains/coconut-braised-spring-greens",
+            "ingredients": [
+                "3 heads spring greens",
+                "2 tbsp coconut oil",
+                "2 garlic cloves, thinly sliced",
+                "25g root ginger, grated",
+                "1 onion, finely chopped",
+                "1 tsp ground turmeric",
+                "250ml coconut cream",
+                "1 tbsp soy sauce",
+                "150g rice",
+                "Pinch of chilli flakes",
+                "15g pistachio kernels, chopped"
+            ],
+            "steps": [
+                "Clean and cook the rice in the rice cooker.",
+                "Wash the greens, cut off the base and slice into 2cm-thick ribbons.",
+                "Heat the coconut oil in the wok over medium.",
+                "Add the garlic and ginger and cook until fragrant.",
+                "Stir in the onion and gently cook until soft and golden.",
+                "Then mix in the turmeric, coconut cream and soy sauce. Bring to a simmer.",
+                "Add the greens and cover. Leave for 2 minutes, stir, then re-cover and cook for 2 minutes.",
+                "Once the greens are nicely wilted, remove the lid and simmer for a final 2 minutes.",
+                "Season to taste with salt and pepper."
+            ],
+            "tags": [
+                "Rice"
+            ]
         }
     ]
 }
