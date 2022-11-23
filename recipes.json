@@ -255,7 +255,8 @@
             ],
             "tags": [
                 "Rice",
-                "Sausage"
+                "Sausage",
+                "Curry"
             ]
         },
         {
@@ -328,7 +329,8 @@
             ],
             "tags": [
                 "Rice",
-                "Vegan"
+                "Vegan",
+                "Tofu"
             ]
         },
         {
@@ -448,7 +450,8 @@
             ],
             "tags": [
                 "Brinner",
-                "Sweet"
+                "Sweet",
+                "Bread"
             ]
         },
         {
@@ -2000,7 +2003,8 @@
             ],
             "tags": [
                 "Vegan",
-                "Chinese"
+                "Chinese",
+                "Sides"
             ]
         },
         {
@@ -2618,7 +2622,8 @@
                 "Remove potatoes from the oven and sprinkle with chopped fresh parsley, salt, and pepper."
             ],
             "tags": [
-                "Potatoes"
+                "Potatoes",
+                "Sides"
             ]
         },
         {
@@ -3047,7 +3052,8 @@
             "tags": [
                 "Asian",
                 "Chinese",
-                "Vegan"
+                "Vegan",
+                "Tofu"
             ]
         },
         {
@@ -3686,7 +3692,8 @@
             "tags": [
                 "Sweet",
                 "Vegan",
-                "Bread"
+                "Bread",
+                "Japanese"
             ]
         },
         {
@@ -3819,7 +3826,8 @@
                 "Return curry base to pot and simmer for half an hour."
             ],
             "tags": [
-                "vegan"
+                "vegan",
+                "curry"
             ]
         },
         {
@@ -3864,7 +3872,8 @@
             ],
             "tags": [
                 "Indian",
-                "Vegan"
+                "Vegan",
+                "curry"
             ]
         },
         {
@@ -3900,7 +3909,8 @@
             ],
             "tags": [
                 "Korean",
-                "Vegan"
+                "Vegan",
+                "tofu"
             ]
         },
         {
@@ -4140,7 +4150,8 @@
                 "Baste each side of chicken with reserved marinade during the last minute of cooking."
             ],
             "tags": [
-                "Chicken"
+                "Chicken",
+                "Tofu"
             ]
         },
         {
@@ -4210,7 +4221,8 @@
             ],
             "tags": [
                 "Vegan",
-                "Creole"
+                "Creole",
+                "rice"
             ]
         },
         {
@@ -4278,7 +4290,8 @@
             ],
             "tags": [
                 "Sweet",
-                "Cake"
+                "Cake",
+                "kiwi"
             ]
         },
         {
@@ -4525,7 +4538,8 @@
                 "Grill."
             ],
             "tags": [
-                "Vegan"
+                "Vegan",
+                "sides"
             ]
         },
         {
@@ -4551,7 +4565,8 @@
             ],
             "tags": [
                 "Spanish",
-                "Potatoes"
+                "Potatoes",
+                "Eggs"
             ]
         },
         {
@@ -4677,7 +4692,8 @@
             ],
             "tags": [
                 "Vegan",
-                "Sides"
+                "Sides",
+                "thai"
             ]
         },
         {
@@ -4784,7 +4800,8 @@
                 "Fluff the rice gently with a fork. Add the lime juice, coconut flakes, cilantro, and black beans."
             ],
             "tags": [
-                "Vegan"
+                "Vegan",
+                "rice"
             ]
         },
         {
@@ -4823,7 +4840,8 @@
             "tags": [
                 "Japanese",
                 "Vegan",
-                "Curry"
+                "Curry",
+                "rice"
             ]
         },
         {
@@ -4917,7 +4935,8 @@
             ],
             "tags": [
                 "Vegan",
-                "Korean"
+                "Korean",
+                "tofu"
             ]
         },
         {
@@ -4967,7 +4986,8 @@
             "tags": [
                 "Vegan",
                 "Thai",
-                "Curry"
+                "Curry",
+                "rice"
             ]
         },
         {
@@ -4977,7 +4997,7 @@
             "ingredients": [
                 "Noodles",
                 "Enoki mushrooms, root ends trimmed",
-                "1 block z",
+                "1 block tofu",
                 "2 handfuls spinach",
                 "Pak choi",
                 "3 tbsp vegan butter",
@@ -5467,7 +5487,8 @@
             "tags": [
                 "Thai",
                 "Vegan",
-                "Curry"
+                "Curry",
+                "rice"
             ]
         },
         {
@@ -5503,7 +5524,8 @@
             "tags": [
                 "Thai",
                 "Sauce",
-                "Vegan"
+                "Vegan",
+                "curry"
             ]
         },
         {
@@ -5754,7 +5776,8 @@
             ],
             "tags": [
                 "Chinese",
-                "Vegan"
+                "Vegan",
+                "tofu"
             ]
         },
         {
@@ -5831,7 +5854,8 @@
             ],
             "tags": [
                 "Vegan",
-                "Asian"
+                "Asian",
+                "soup"
             ]
         },
         {
@@ -5867,7 +5891,8 @@
             "tags": [
                 "Vegan",
                 "Asian",
-                "vietnamese"
+                "vietnamese",
+                "noods"
             ]
         },
         {
@@ -6164,7 +6189,8 @@
             ],
             "tags": [
                 "Vegan",
-                "Eggplant"
+                "Eggplant",
+                "salad"
             ]
         },
         {
@@ -6196,7 +6222,8 @@
                 "Drizzle the oil, coconut yogurt and remaining parsley over the served stew."
             ],
             "tags": [
-                "Vegan"
+                "Vegan",
+                "stew"
             ]
         },
         {
@@ -6366,7 +6393,8 @@
             ],
             "tags": [
                 "Vegan",
-                "Thai"
+                "Thai",
+                "sides"
             ]
         },
         {
@@ -6430,7 +6458,8 @@
             ],
             "tags": [
                 "Vegan",
-                "Japanese"
+                "Japanese",
+                "sides"
             ]
         },
         {
@@ -6450,7 +6479,8 @@
             "tags": [
                 "Sweet",
                 "Vegan",
-                "Indian"
+                "Indian",
+                "drink"
             ]
         },
         {
@@ -6480,7 +6510,8 @@
             ],
             "tags": [
                 "Vegan",
-                "potatoes"
+                "potatoes",
+                "sides"
             ]
         },
         {
@@ -6543,7 +6574,8 @@
             ],
             "tags": [
                 "Vegan",
-                "Asian"
+                "Asian",
+                "tofu"
             ]
         },
         {
@@ -6612,7 +6644,8 @@
             ],
             "tags": [
                 "Indian",
-                "Vegan"
+                "Vegan",
+                "sides"
             ]
         },
         {
@@ -6711,7 +6744,8 @@
                 "Top with remaining 1/2 cup cashews, 1/4 cup cilantro, and 1/4 cup fennel fronds."
             ],
             "tags": [
-                "Vegan"
+                "Vegan",
+                "indian"
             ]
         },
         {
@@ -6738,7 +6772,8 @@
             ],
             "tags": [
                 "Vegan",
-                "Sweet"
+                "Sweet",
+                "cake"
             ]
         },
         {
@@ -6937,7 +6972,8 @@
                 "Cover and cook for five minutes and at the same time steam the broccoli in the microwave."
             ],
             "tags": [
-                "tofu"
+                "tofu",
+                "rice"
             ]
         },
         {
@@ -7210,7 +7246,9 @@
             ],
             "tags": [
                 "Vegan",
-                "Chinese"
+                "Chinese",
+                "sides",
+                "Dim sum"
             ]
         },
         {
@@ -7251,7 +7289,8 @@
             ],
             "tags": [
                 "Vegan",
-                "Chinese"
+                "Chinese",
+                "noods"
             ]
         },
         {
@@ -7291,7 +7330,9 @@
                 "Steam the shumai for about 5 minutes and serve immediately with the dipping sauce of your choice!"
             ],
             "tags": [
-                "Chinese"
+                "Chinese",
+                "sides",
+                "Dim sum"
             ]
         },
         {
@@ -7314,7 +7355,8 @@
             ],
             "tags": [
                 "Vegan",
-                "Sweet"
+                "Sweet",
+                "cold"
             ]
         },
         {
@@ -7323,7 +7365,7 @@
             "url": "https://vanillaandbean.com/lemon-garlic-orzo-with-roasted-vegetables/",
             "ingredients": [
                 "1/3 cup pine nuts",
-                "1 1/2 cup crimini mushrooms destemmed and sliced",
+                "1 1/2 cup cremini mushrooms destemmed and sliced",
                 "1 cup diced bell peppers, deseeded and diced",
                 "1 eggplant, diced",
                 "1 courgette, diced",
@@ -7623,7 +7665,8 @@
                 "Serve with remaining vegatables, chilli flakes and vegan parmesan."
             ],
             "tags": [
-                "Vegan"
+                "Vegan",
+                "pasta"
             ]
         },
         {
@@ -7692,7 +7735,8 @@
             ],
             "tags": [
                 "Vegan",
-                "Asian"
+                "Asian",
+                "thai"
             ]
         },
         {
@@ -7757,7 +7801,8 @@
             ],
             "tags": [
                 "Vegan",
-                "stew"
+                "stew",
+                "french"
             ]
         },
         {
@@ -7829,7 +7874,8 @@
             ],
             "tags": [
                 "Vegan",
-                "Potatoes"
+                "Potatoes",
+                "sides"
             ]
         },
         {
@@ -8199,7 +8245,8 @@
                 "Bake for 10 minutes. Rotate the pan, flipping any pieces that look crispy and bake for another 10 minutes."
             ],
             "tags": [
-                "Vegan"
+                "Vegan",
+                "sides"
             ]
         },
         {
@@ -8288,7 +8335,8 @@
                 "Warm the tortillas and then assemble like a burrito."
             ],
             "tags": [
-                "Indian"
+                "Indian",
+                "wrap"
             ]
         },
         {
@@ -8326,7 +8374,9 @@
                 "Pour the custard into each tart shell. Allow to sit for 5 minutes then transfer them to the fridge for 1-2 hours or until set."
             ],
             "tags": [
-                "Sweet"
+                "Sweet",
+                "chinese",
+                "Dim sum"
             ]
         },
         {
@@ -8411,7 +8461,8 @@
                 "Remove from heat and stir in the rice vinegar and soy sauce"
             ],
             "tags": [
-                "Chinese"
+                "Chinese",
+                "soup"
             ]
         },
         {
@@ -8453,7 +8504,8 @@
                 "Transfer the pierogies to a paper towel-lined plate. Add butter to the skillet between batches as needed."
             ],
             "tags": [
-                "Polish"
+                "Polish",
+                "sides"
             ]
         },
         {
@@ -8475,7 +8527,8 @@
             ],
             "tags": [
                 "Vegan",
-                "Bread"
+                "Bread",
+                "indian"
             ]
         },
         {
@@ -8498,7 +8551,8 @@
             ],
             "tags": [
                 "Breakfast",
-                "Vegan"
+                "Vegan",
+                "sweet"
             ]
         },
         {
@@ -8537,7 +8591,8 @@
             "tags": [
                 "Vegan",
                 "Fusion",
-                "Thai"
+                "Thai",
+                "wrap"
             ]
         },
         {
@@ -8570,7 +8625,8 @@
                 "Heat oil in a pan. Spoon the mixture into the pan, creating golf ball-sized rounds. Flatten slightly, and sear each side until golden."
             ],
             "tags": [
-                "Vegetarian"
+                "Vegetarian",
+                "sides"
             ]
         },
         {
@@ -8625,7 +8681,8 @@
             ],
             "tags": [
                 "Indian",
-                "Vegan"
+                "Vegan",
+                "curry"
             ]
         },
         {
@@ -8734,7 +8791,8 @@
                 "Remove the bay leaves and serve with rice."
             ],
             "tags": [
-                "Vegan"
+                "Vegan",
+                "Creole"
             ]
         },
         {
@@ -8742,12 +8800,12 @@
             "url": "https://www.theppk.com/2021/02/apple-peanut-butter-caramel-bars/",
             "image": "apple-peanut-butter-caramel-bars",
             "ingredients": [
-                "3 cups graham cracker ­crumbs",
+                "3 cups graham cracker crumbs",
                 "1⁄3 cup refined coconut oil",
                 "3 tablespoons vegan milk",
-                "1 teaspoon vanilla ­extract",
-                "1⁄2 cup all-purpose ­flour",
-                "3 tablespoons ­sugar",
+                "1 teaspoon vanilla extract",
+                "1⁄2 cup all-purpose flour",
+                "3 tablespoons sugar",
                 "1/4 teaspoon ground cinnamon",
                 "1/4 teaspoon ground ginger",
                 "1/4 teaspoon ground nutmeg",
@@ -8755,27 +8813,27 @@
                 "3 tablespoons coconut oil, melted",
                 "6 granny smith apples, thinly sliced",
                 "1⁄3 cup sugar",
-                "3 tablespoons all-purpose ­flour",
+                "3 tablespoons all-purpose flour",
                 "1 teaspoon lemon juice",
                 "1/4 teaspoon ground cinnamon",
                 "1/4 teaspoon ground ginger",
                 "2⁄3 cup well stirred chunky peanut butter",
-                "1⁄4 cup pure maple ­syrup",
-                "3 tablespoons brown rice ­syrup"
+                "1⁄4 cup pure maple syrup",
+                "3 tablespoons brown rice syrup"
             ],
             "steps": [
-                "Preheat the oven to 180 celsius. Grease and line a baking ­pan.",
+                "Preheat the oven to 180 celsius. Grease and line a baking pan.",
                 "Place the graham cracker crumbs in a mixing bowl. Drizzle with the coconut oil and mix until moistened.",
                 "Add the milk and mix with your fingers; the crumbs should hold together if pinched.",
-                "Press the crumbs firmly into the prepared baking pan to form a ­crust.",
+                "Press the crumbs firmly into the prepared baking pan to form a crust.",
                 "Combine the flour, sugar, spices, and salt in a mixing bowl.",
                 "Drizzle 2 tablespoons of oil into the flour and mix with your fingertips until crumbs start to form.",
-                "Keep tossing the mixture with your fingers; you want the crumbs to be fairly large for crumbs. Add more oil if ­necessary.",
+                "Keep tossing the mixture with your fingers; you want the crumbs to be fairly large for crumbs. Add more oil if necessary.",
                 "Layer the apples onto the crust and sprinkle with the crumb topping.",
-                "Bake for 40 to 45 minutes, until the apples are ­tender.",
+                "Bake for 40 to 45 minutes, until the apples are tender.",
                 "When the bars are close to being done, start preparing the peanut butter caramel.",
                 "Mix the peanut butter, maple syrup and brown rice syrup very well with a fork in a small saucepan.",
-                "Heat over medium heat for about 3 minutes. The mixture should soften and slide off the fork in ­ribbons.",
+                "Heat over medium heat for about 3 minutes. The mixture should soften and slide off the fork in ribbons.",
                 "When the bars are done baking, drizzle the caramel in ribbons all over the top."
             ],
             "tags": [
@@ -8817,7 +8875,8 @@
             ],
             "tags": [
                 "Vegan",
-                "British"
+                "British",
+                "potatoes"
             ]
         },
         {
@@ -8960,7 +9019,8 @@
             ],
             "tags": [
                 "Vegan",
-                "Asian"
+                "Asian",
+                "tofu"
             ]
         },
         {
@@ -9182,7 +9242,8 @@
             ],
             "tags": [
                 "Vegan",
-                "Soup"
+                "Soup",
+                "stew"
             ]
         },
         {
@@ -9393,7 +9454,8 @@
             ],
             "tags": [
                 "Vegan",
-                "Indian"
+                "Indian",
+                "sides"
             ]
         },
         {
@@ -9526,7 +9588,8 @@
                 "Assemble"
             ],
             "tags": [
-                "Breakfast"
+                "Breakfast",
+                "brinner"
             ]
         },
         {
@@ -10190,7 +10253,8 @@
             ],
             "tags": [
                 "Vegan",
-                "Thai"
+                "Thai",
+                "tofu"
             ]
         },
         {
@@ -10225,7 +10289,8 @@
             ],
             "tags": [
                 "Italian",
-                "Vegan"
+                "Vegan",
+                "pasta"
             ]
         },
         {
@@ -10260,7 +10325,8 @@
             ],
             "tags": [
                 "Vegan",
-                "Sides"
+                "Sides",
+                "tofu"
             ]
         },
         {
@@ -10282,7 +10348,8 @@
                 "Cut into bite sized pieces."
             ],
             "tags": [
-                "Sweet"
+                "Sweet",
+                "cake"
             ]
         },
         {
@@ -10323,7 +10390,8 @@
             ],
             "tags": [
                 "Vegan",
-                "Bowls"
+                "Bowls",
+                "tofu"
             ]
         },
         {
@@ -10484,7 +10552,8 @@
             "tags": [
                 "Vegan",
                 "Curry",
-                "Malaysian"
+                "Malaysian",
+                "tofu"
             ]
         },
         {
@@ -11008,7 +11077,8 @@
             ],
             "tags": [
                 "Asian",
-                "thai"
+                "thai",
+                "noods"
             ]
         },
         {
@@ -11175,7 +11245,8 @@
             ],
             "tags": [
                 "Thai",
-                "Curry"
+                "Curry",
+                "rice"
             ]
         },
         {
@@ -11474,7 +11545,8 @@
                 "Add the broccoli and garlic shoots and mix. Once almost cook add the pak choi and cook until wilted."
             ],
             "tags": [
-                "Asian"
+                "Asian",
+                "tofu"
             ]
         },
         {
@@ -11632,7 +11704,8 @@
                 "Pour the filling into the pastry and allow it to set in the fridge for 3 to 4 hours."
             ],
             "tags": [
-                "sweet"
+                "sweet",
+                "tart"
             ]
         },
         {
@@ -11673,7 +11746,8 @@
             ],
             "tags": [
                 "sweet",
-                "breakfast"
+                "breakfast",
+                "bread"
             ]
         },
         {
@@ -11896,7 +11970,9 @@
                 "Once peppers are cooked add cornstarch slurry and cook until the sauce is thickened."
             ],
             "tags": [
-                "Korean"
+                "Korean",
+                "rice",
+                "potatoes"
             ]
         },
         {
@@ -12094,7 +12170,8 @@
                 "Assemble the sandwich."
             ],
             "tags": [
-                "Korean"
+                "Korean",
+                "burger"
             ]
         },
         {
@@ -12127,7 +12204,8 @@
                 "Assemble the bowls."
             ],
             "tags": [
-                "Hawaiian"
+                "Hawaiian",
+                "rice"
             ]
         },
         {
@@ -12768,7 +12846,8 @@
                 "When ready to serve stir in toasted rice powder, mint and cilantro."
             ],
             "tags": [
-                "Lao"
+                "Lao",
+                "rice"
             ]
         },
         {
@@ -13519,7 +13598,8 @@
                 "Add extra pepper if wanted."
             ],
             "tags": [
-                "Japanese"
+                "Japanese",
+                "rice"
             ]
         },
         {
@@ -13780,7 +13860,8 @@
                 "Assemble the bowl."
             ],
             "tags": [
-                "Quick"
+                "Quick",
+                "bowl"
             ]
         },
         {
@@ -13982,7 +14063,8 @@
               "Put all ingredients into a food processor and whizz to combine, stopping to scrape down the sides as needed."
             ],
             "tags": [
-                "Dip"
+                "Dip",
+                "Syrian"
             ]
         },
         {
@@ -14208,7 +14290,9 @@
                 "From one end, carefully roll the rice sheet until you have a log. Transfer to a plate and repeat."
             ],
             "tags": [
-                "Chinese"
+                "Chinese",
+                "sides",
+                "Dim sum"
             ]
         },
         {
@@ -14458,7 +14542,7 @@
                 "Serve with soy sauce, black vinegar, chili crisp oil, sambal oelek and/or hoisin sauce."
             ],
             "tags": [
-                "dimsum"
+                "dim sum"
             ]
         },
         {
@@ -16464,7 +16548,8 @@
                 "Bake for 12 - 15 minutes or until golden brown."
             ],
             "tags": [
-                "bread"
+                "bread",
+                "german"
             ]
         },
         {
@@ -16576,7 +16661,8 @@
                 "Stir in the cheese and sour cream until the cheese has melted through."
             ],
             "tags": [
-                "soup"
+                "soup",
+                "potatoes"
             ]
         },
         {
@@ -16943,7 +17029,8 @@
                 "Transfer the gnocchi to the sauce and xoat the gnocchi in the sauce. "
             ],
             "tags": [
-                "gnocchi"
+                "gnocchi",
+                "mushroom"
             ]
         },
         {
@@ -16987,7 +17074,8 @@
                 "Add the cornstarch slurry. Once thickened remove from heat and drizzle with the sesame oil."
             ],
             "tags": [
-                "chinese"
+                "chinese",
+                "tofu"
             ]
         },
         {
@@ -17088,7 +17176,8 @@
                 "Brush with maple syrup and top with sesame seeds. Bake for 40 minutes in the center of the oven."
             ],
             "tags": [
-                "Mushrooms"
+                "Mushroom",
+                "pie"
             ]
         },
         {
@@ -17122,7 +17211,8 @@
                 "Spread the icing on top of the oats."
             ],
             "tags": [
-                "sweet"
+                "sweet",
+                "oats"
             ]
         },
         {
@@ -17233,7 +17323,8 @@
                 "Cook them in a pan over medium-low until the cheese has melted and the bread is golden brown."
             ],
             "tags": [
-                "soup"
+                "soup",
+                "tomato"
             ]
         },
         {
@@ -17337,7 +17428,8 @@
                 "Mix on the pan to combine as much as you can, then return to the oven for another two minutes."
             ],
             "tags": [
-                "tofu"
+                "tofu",
+                "burger"
             ]
         },
         {
@@ -17476,6 +17568,83 @@
             ],
             "tags": [
                 "rice"
+            ]
+        },
+        {
+            "title": "Garlic butter linguine",
+            "image": "garlic-butter-basil-linguine",
+            "url": "https://itslivb.com/2022/04/28/vegan-garlic-butter-basil-linguine",
+            "ingredients": [
+                "300g linguine",
+                "2 tbsp olive oil",
+                "6 cloves garlic, minced",
+                "2 shallots, finely chopped",
+                "1 tsp chilli flakes",
+                "2 cups milk",
+                "Handful of basil",
+                "½ tsp onion powder",
+                "½ tsp garlic powder",
+                "½ tsp black pepper",
+                "¼ tsp salt",
+                "3 tbsp nooch",
+                "Juice of 1 lemon",
+                "2 tbsp cornstarch",
+                "4 tbsp vegan butter",
+                "1 cup reserved pasta water",
+                "150g baby spinach"
+            ],
+            "steps": [
+                "Cook pasta according to package directions. Set aside a cup of pasta water when draining.",
+                "Meanwhile, in the wok on medium, add the olive oil, garlic, shallots and chilli flakes.",
+                "Fry a few minutes, until starting to brown.",
+                "Add the milk and basil to a blender and blend until smooth.",
+                "Add the milk, onion powder, garlic powder, salt, pepper, nooch and lemon juice to the pan and stir.",
+                "Add the cornstarch slurry and cook until slightly thickened.",
+                "Add the drained pasta and spinach and stir to combine. Cook until spinach is wilted.",
+                "Add the vegan butter and pasta water and mix vigorously being careful not to splash."
+            ],
+            "tags": [
+                "pasta"
+            ]
+        },
+        {
+            "title": "Sesame balls",
+            "image": "sesame-balls",
+            "url": "https://whattocooktoday.com/sesame-balls.html",
+            "ingredients": [
+                "60g boiling water",
+                "50g sugar",
+                "120g glutinous rice flour",
+                "Small pinch of salt",
+                "1 tsp oil",
+                "2 cups sesame seeds, untoasted",
+                "75g red bean paste",
+                "75g roasted peanuts, chopped",
+                "45g agave",
+                "1 tbsp glutinous rice flour",
+                "3 tbsp water"
+            ],
+            "steps": [
+                "Mix the roasted peanuts with the agave and a pinch of salt. Roll into 6 balls.",
+                "Divide the red bean paste into 6 portions and roll into balls.",
+                "In a bowl add glutinous rice flour, sugar, and small pinch of salt in a bowl. Whisk to mix.",
+                "Pour 60ml boiling water into the mixture to start with. Use a rubber spatula to stir and mix.",
+                "Once cool add the oil and continue to knead into smooth non-sticky dough.",
+                "If too sticky add a bit more rice flour, if too dry add some more hot water.",
+                "Roll the dough into a log and then divide into 12 equal small dough balls. Keeping them covered.",
+                "Take one ball and use your thumb to make a well in the center, widen the well to fit the filling in there.",
+                "Put 1 of the fillings in the dough. Gather the edge to enclose and pinch to seal.",
+                "Roll the dough ball in between your palms to make it smooth, ensuring there are no cracks. Repeat.",
+                "Prepare the flour paste by mixing the flour and water together.",
+                "Roll one dough into the paste and then roll into the sesame seeds. Repeat with the rest.",
+                "Preheat your air fryer 160°C for 5 minutes.",
+                "Brush the sesame balls with oil and put in the air fryer basket. Air fry for about 10-15 minutes, checking occasionally.",
+                "Increase the temperature to 180°C and air fry for another 15 minutes or until lightly golden brown"
+            ],
+            "tags": [
+                "Dim sum",
+                "sweet",
+                "chinese"
             ]
         }
     ]
