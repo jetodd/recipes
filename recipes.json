@@ -17664,6 +17664,40 @@
                 "sweet",
                 "chinese"
             ]
+        },
+        {
+            "title": "Suan la fen",
+            "image": "suan-la-fen",
+            "url": "https://whattocooktoday.com/suan-la-fen.html",
+            "ingredients": [
+                "500g sweet potato noodles",
+                "Baby pak choi",
+                "200g raw peanuts",
+                "8 tbsp oil divided",
+                "4 cloves garlic grated",
+                "½ tsp ground Sichuan peppercorns",
+                "2 tbsp sesame seeds",
+                "1 tbsp red chili flakes",
+                "⅔ cup hot oil",
+                "1 tsp sugar",
+                "4 tbsp soy sauce",
+                "4 tbsp Chinese black vinegar",
+                "1 cup vegetable stock",
+                "Coriander, chopped"
+            ],
+            "steps": [
+                "Cook the noodles according to package instructions.",
+                "Blanch the pak choi then set aside.",
+                "Heat wok with oil. Once hot add the peanuts and cook over medium-low until golden brown. Set aside.",
+                "Put the garlic, Sichuan peppercorns, sesame seeds and chili flakes in a heat-proof medium-size bowl.",
+                "Heat up 1/3 cup of oil until really hot and then carefully pour this over the garlic mixture and stir a little bit.",
+                "Add the rest of the ingredients from sugar to vegetable stock. Adjust seasonings.",
+                "Divide the noodles into bowls. Pour the soup base over. Add the pak choi and garnish."
+            ],
+            "tags": [
+                "noods",
+                "spicy"
+            ]
         }
     ]
 }
