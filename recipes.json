@@ -17698,6 +17698,71 @@
                 "noods",
                 "spicy"
             ]
+        },
+        {
+            "title": "Garlic mashed potatoes",
+            "image": "garlic-mashed-potatoes",
+            "url": "https://www.fromthecomfortofmybowl.com/vegan-garlic-mashed-potatoes/",
+            "ingredients": [
+                "2 bulbs garlic",
+                "900g potatoes, peeled and cubed",
+                "5 tbsp butter",
+                "⅔ cup oat milk",
+                "Pepper, to taste",
+                "Salt, to taste",
+                "Chives, chopped"
+            ],
+            "steps": [
+                "Preheat the oven to 220˚C. Cut about ½ inch off the top of the garlic bulb.",
+                "Drizzle the cut portion with olive oil, then wrap in tin foil.",
+                "Place on a baking sheet and roast for 35 minutes. Unwrap and cool to handling temperature.",
+                "Place the potatoes in a large pot and add enough water to cover them.",
+                "Bring to a boil, then cover and reduce to a simmer. Cook until they are tender.",
+                "Drain the potatoes and put in a large bowl. Squeeze in the garlic then mash.",
+                "Heat milk in the microwave. Gradually stir into the potatoes until fully incorporated.",
+                "Stir in the butter until melted and season to taste with salt and pepper. Serve with chives."
+            ],
+            "tags": [
+                "sides",
+                "potatoes"
+            ]
+        },
+        {
+            "title": "Gnocchi with lemon garlic sauce",
+            "image": "https://www.connoisseurusveg.com/vegan-gnocchi/",
+            "url": "gnocchi-lemon-garlic",
+            "ingredients": [
+                "600g gnocchi",
+                "150g baby spinach",
+                "1 cup frozen peas",
+                "3 shallots, finely chopped",
+                "6 garlic cloves, minced",
+                "2 ⅔ tbsp flour",
+                "⅓ cup dry white wine",
+                "1 ⅓ tbsp thyme",
+                "1 ⅓ cups coconut milk",
+                "⅔ teaspoon salt",
+                "1 ⅓ tbsp lemon juice",
+                "1 ⅓ tsp lemon zest",
+                "⅓ cup nooch",
+                "Black pepper, to taste",
+                "Chilli flakes"
+            ],
+            "steps": [
+                "Cook the gnocchi according to package instructions. Set aside.",
+                "Heat oil in the wok on medium. Once hot add shallots and cook until translucent.",
+                "Add the garlic and cook until fragrant.",
+                "Stir in the flour. Coook until flour forms a paste and coats the shallots.",
+                "Add the wine and thyme, then bring liquid to a simmer. Simmer until liquid is reduced by about half.",
+                "Add the salt, then encorporate the coconut milk a bit at a time.",
+                "Bring to a boil, then lower to a simmer. Cook until sauce has thickened.",
+                "Add the lemon juice, zest, nooch, gnocchi, peas and spinach. Stir to coat then cook until spinach is wilted.",
+                "Season with salt, pepper and chilli flakes."
+            ],
+            "tags": [
+                "potatoes",
+                "gnocchi"
+            ]
         }
     ]
 }
