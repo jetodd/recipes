@@ -2973,12 +2973,13 @@
                 "Juice of 1 large lemon",
                 "1 - 2 tbsp nutritional yeast",
                 "1 garlic clove",
-                "1/2 teaspoon onion powder"
+                "1/2 teaspoon onion powder",
+                "Salt and pepper"
             ],
             "steps": [
-                "Soak cashews for at least 2 hours.",
+                "Soak cashews for at least 2 hours or in hot water for 15 minutes.",
                 "Drain cashews and place all ingredients in a blender, process until creamy.",
-                "Season more if necessary."
+                "Taste and adjust seasonings."
             ],
             "tags": [
                 "Vegan",
@@ -17762,6 +17763,47 @@
             "tags": [
                 "potatoes",
                 "gnocchi"
+            ]
+        },
+        {
+            "title": "Baked ziti",
+            "image": "baked-ziti",
+            "url": "https://www.eatfigsnotpigs.com/skillet-baked-ziti/",
+            "ingredients": [
+                "300g Italian-style sausages",
+                "1 onion, chopped",
+                "2 shallots, minced",
+                "6 cloves garlic, sliced",
+                "½ cup red wine",
+                "1 tsp sugar",
+                "1 tsp Italian seasoning",
+                "½ tsp red pepper flakes",
+                "½ teaspoon ground fennel",
+                "2 cans diced tomatoes",
+                "1/4 cup tomato paste",
+                "2 cups water",
+                "2 bay leaves",
+                "½ teaspoon salt and pepper",
+                "Penne",
+                "2 cups grated mozzarella",
+                "Cashew ricotta",
+                "1/2 cup cream",
+                "Fresh basil"
+            ],
+            "steps": [
+                "Preheat the oven to 220°C and prepare a casserole dish.",
+                "Heat some oil in the wok on medium. Once hot add the sausage, breaking it into pieces.",
+                "Once sausage is cooked add the onion, shallot and garlic. Cook until fragrant.",
+                "Season with the sugar, Italian seasoning, pepper flakes and fennel, mixing to combine.",
+                "Add the wine, pour in and cook until alcohol burns off.",  
+                "Next, add the tomatoes, tomato paste and bay leaves. Season with salt and pepper.",
+                "Add the water and penne, simmer until pasta is cooked. Remove from heat.",
+                "Stir in the cream, ½ of the mozzarella, and 3 tablespoons of the basil.",
+                "Transfer to the casserole dish and sprinkle the remaining mozzarella on top.",
+                "Bake uncovered in the oven for 10 minutes. Sprinkle with remaining basil."
+            ],
+            "tags": [
+                "pasta"
             ]
         }
     ]
