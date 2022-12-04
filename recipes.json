@@ -15514,7 +15514,8 @@
                 "Take them out, flip the potatoes and roast for 20 minutes in the middle of the oven."
             ],
             "tags": [
-                "potatoes"
+                "potatoes",
+                "cheeze"
             ]
         },
         {
@@ -16196,7 +16197,8 @@
             ],
             "tags": [
                 "korean",
-                "noods"
+                "noods",
+                "cheeze"
             ]
         },
         {
@@ -17804,6 +17806,42 @@
             ],
             "tags": [
                 "pasta"
+            ]
+        },
+        {
+            "title": "Vegan mozzarella",
+            "image": "vegan-mozzarella",
+            "url": "https://www.reddit.com/r/veganrecipes/comments/z6xdoz/vegan_mozzarella_ig_for_more_recipes/",
+            "ingredients": [
+                "1/2 cup cashews",
+                "2 cups cashew cooking water",
+                "150g coconut cream, whisked",
+                "2 tsp tahini",
+                "1 tbsp vegan butter",
+                "1 tbsp lemon juice",
+                "1/4 tsp garlic powder",
+                "1/4 tsp onion powder",
+                "1 1/2 tsp salt",
+                "2-3 fennel seeds",
+                "4-5 mustard seeds",
+                "2 tbsp nooch",
+                "6 tsp pectin",
+                "6 tsp tapioca flour"
+            ],
+            "steps": [
+                "Boil cashews in a sauce pot for 20 minutes.",
+                "Strain and reserve 2 cups of the cashew cooking water.",
+                "Mix salt, garlic powder, onion powder, nooch, fennel, and mustard seeds in a mortar and pestle. Grind.",
+                "Add cashews, coconut cream, tahini, butter, lemon juice, spice mixture, and cashew water to a blender.",
+                "Blend until all ingredients are well incorporated, about 4-5 minutes.",
+                "Pour mixture into a pot over medium high and whisk in pectin until well-combined.",
+                "Continue to whisk frequently as it cooks for the next 4-5 minutes.",
+                "Add tapioca flour, whisk in, then cook for another 1-2 minutes.",
+                "Pour cheese into a glass container that has been sprayed with cooking oil.",
+                "Place in the fridge for at least 4 hours to firm up."
+            ],
+            "tags": [
+                "cheeze"
             ]
         }
     ]
