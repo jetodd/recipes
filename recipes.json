@@ -17843,6 +17843,78 @@
             "tags": [
                 "cheeze"
             ]
+        },
+        
+        {
+            "title": "Broccoli cheddar soup",
+            "image": "broccoli-cheddar-soup",
+            "url": "https://www.mob.co.uk/recipes/broccoli-cheddar-soup-with-cheddar-sesame-cracker",
+            "ingredients": [
+                "1 onion, thinly sliced",
+                "6 garlic cloves, sliced",
+                "2 shallots, thinly sliced",
+                "1 potato, peeled and cubed",
+                "1 head of broccoli, chopped",
+                "200g spinach",
+                "1l vegetable stock",
+                "100ml cream",
+                "400g cheddar, grated",
+                "4 tbsp black sesame",
+                "2 Tbsp gochugaru",
+                "Olive oil",
+                "Salt"
+            ],
+            "steps": [
+                "Preheat the wok over medium. Once hot add a splash of olive oil.",
+                "Add onion, garlic and shallots and sweat with a pinch of salt for 6-7 mins.",
+                "Add the potato to the pan and cook for 5 mins.",
+                "Now add the broccoli, stock and cream. Bring to a simmer and cook for 10-12 mins.",
+                "Preheat a non-stick pan over medium heat, then add a handful of cheddar.",
+                "Cook for a couple of mins until lacy and caramelised.",
+                "Sprinkle your cheddar crisp with black sesame seeds and gochugaru.",
+                "Flip, then cook for 2 mins on the other side. Repeat until only 100g cheese left.",
+                "Add the spinach to the soup, and cook for another minute until just wilted.",
+                "Transfer to a blender along with the remaining cheese and blend until smooth.",
+                "Season your soup with salt and black pepper to taste."
+            ],
+            "tags": [
+                "soup",
+                "cheeze"
+            ]
+        },
+        {
+            "title": "Harissa & cumin potatoes",
+            "image": "harissa-cumin-potatoes",
+            "url": "https://www.mob.co.uk/recipes/harissa-and-cumin-potatoes-with-crispy-chickpeas-and-yoghurt",
+            "ingredients": [
+                "1 tin chickpeas",
+                "3 tbsp cumin seeds",
+                "1 onion, finely sliced",
+                "3 shallots, sliced",
+                "6 cloves garlic, sliced",
+                "1 tbsp harissa",
+                "3 tbsp tomato paste",
+                "750g potatoes, cubed",
+                "3 cups vegetable stock",
+                "A pinch of cinnamon",
+                "Cherry tomatoes",
+                "Handful of mint, chopped",
+                "250g vegan yoghurt",
+                "Handful of coriander",
+                "Rice"
+            ],
+            "steps": [
+                "Preheat the oven to 220°C and line a baking tray.",
+                "Drain the chickpeas and add to the tray with 1 tbsp cumin seeds, olive oil and salt.",
+                "Mix well and cook for 25 mins until golden brown, shaking the tray a few times during cooking.",
+                "Add the onion to a saucepan over a medium with olive oil. Cook until the onion starts to soften.",
+                "Add the garlic and shallots along with the remaining cumin seeds, harissa and tomato paste.",
+                "Add potatoes, cinnamon and tomatoes to the pan then pour in the stock and bring to a simmer. Cook until potatoes are soft.",
+                "Stir the yoghurt and mint with a pinch of salt."
+            ],
+            "tags": [
+                "potatoes"
+            ]
         }
     ]
 }
