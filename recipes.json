@@ -17915,6 +17915,44 @@
             "tags": [
                 "potatoes"
             ]
+        },
+        {
+            "title": "Potato tart",
+            "image": "potato-tart",
+            "url": "https://www.bunchbunchbunch.com/recipes/new-potato-tart-with-rocket-pesto",
+            "ingredients": [
+                "320g puff pastry",
+                "300g baby potatoes, thinly sliced",
+                "2 leeks, sliced and washed",
+                "5 garlic cloves, sliced",
+                "200g oat fraiche",
+                "50g milk",
+                "1 pinch nutmeg",
+                "1/4 cup cashews",
+                "2 cups fresh packed basil",
+                "2 cloves garlic",
+                "3 tbsp lemon juice",
+                "1/4 cup nutritional yeast",
+                "1/2 teaspoon salt",
+                "6 tablespoons olive oil"
+            ],
+            "steps": [
+                "Preheat the oven to 180°C.",
+                "Heat some oil in the wok on medium. Add the leeks and garlic and saute until softened.",
+                "Add the potatoes and sauté until they are soft and almost fully cooked, stirring often.",
+                "Meanwhile, whisk the milk with the oat fraiche and nutmeg. Add to the potatoes once cooked and mix well.",
+                "Lay out your puff pastry and score the edges about 1.5cm from the edge along each side.",
+                "Poke the inner many times with a fork and brush the frame with a little milk. Bake for 5 minutes.",
+                "Take the tart out and lay the potato mix evenly into the inner square.",
+                "Grind plenty of pepper on top and a sprinkle of salt. Bakes for 25-30 minutes until golden brown.",
+                "Place ingredients from cashews to salt in the blender and blend until finely chopped.",
+                "With the food processor running, slowly drizzle in the olive oil and blend until smooth.",
+                "Once cooked top tart with spinach and pesto."
+            ],
+            "tags": [
+                "pastry",
+                "tart"
+            ]
         }
     ]
 }
