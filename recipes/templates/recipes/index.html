@@ -25,11 +25,11 @@
 	<div class="col-md-12 order-md-2 col-lg-3 order-lg-2">
 		{% if this_week %}
 			<h3>This week</h3>
-			<ul class="single">
-				{% for recipe in this_week %}
-					<li><a href="{% url 'recipes:detail' recipe.id %}">{{ recipe.title }}</a>
+			<ul id="this-week" class="single">
+				{% for thisWeekItem in this_week %}
+					<li class="recipe_item"><a href="{% url 'recipes:detail' thisWeekItem.recipe.id %}">{{ thisWeekItem.recipe.title }}</a>
 						{% for item in shopping %}
-							{% if item.recipe.id == recipe.id %}
+							{% if item.recipe.id == thisWeekItem.recipe.id %}
 								({{ item.name }})
 							{% endif %}
 						{% endfor %} 
@@ -40,11 +40,11 @@
 
 		{% if next_week %}
 			<h3>Next week</h3>
-			<ul class="single">
-				{% for recipe in next_week %}
-					<li><a href="{% url 'recipes:detail' recipe.id %}">{{ recipe.title }}</a>
+			<ul id="next-week" class="single">
+				{% for nextWeekItem in next_week %}
+					<li class="recipe_item"><a href="{% url 'recipes:detail' nextWeekItem.recipe.id %}">{{ nextWeekItem.recipe.title }}</a>
 					{% for item in shopping %}
-						{% if item.recipe.id == recipe.id %}
+						{% if item.recipe.id == nextWeekItem.recipe.id %}
 							({{ item.name }})
 						{% endif %}
 					{% endfor %}

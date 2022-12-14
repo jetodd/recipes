@@ -21,7 +21,8 @@
 			<div class="box pb-1">
 			<form action="" method="post">
 	    		{% csrf_token %}
-	    		{% bootstrap_form form %}
+	    		{% bootstrap_form this_week %}
+	    		{% bootstrap_form next_week %}
 	    		<input class="btn btn-primary" type="submit" value="Update">
 			</form>
 			</div>

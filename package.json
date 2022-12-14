@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {},
   "devDependencies": {
     "gulp": "^4.0.0",
     "gulp-livereload": "^4.0.1"

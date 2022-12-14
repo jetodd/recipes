@@ -5,6 +5,7 @@
 	--pale-green: #D0D8C3;
 	--dark-green: #4A695D;
 
+	--border-color: var(--pale-green);
 	--text-colour: var(--dark-green);
 	--link-hover: var(--pink);
 	--btn-text-colour: var(--white);
@@ -122,7 +123,7 @@ ol li:before {
 }
 
 .navbar-toggler {
-	border-color: var(--text-colour);
+	border-color: var(--border-color);
 }
 
 .navbar-toggler-icon {
@@ -150,7 +151,7 @@ ol li:before {
 }
 
 .navbar-dark .navbar-toggler {
-    border-color: var(--text-colour);
+    border-color: var(--border-color);
 }
 
 /************ Header (link hover) ************/
@@ -545,4 +546,17 @@ ul.single, ul.block {
 
 @media (min-width: 1200px) 
 {
+}
+
+.drag-and-drop-ghost {
+	background-color: var(--pale-green) !important;
+}
+
+.recipe_item {
+	background-color: white;
+	border: 1px solid var(--border-color);
+	margin-bottom: -1px;
+	padding: .5rem;
+	cursor: grab;
+	border-radius: 3px;
 }

@@ -9,4 +9,21 @@ $(document).ready(function() {
 		$('#search_form').toggleClass('show');
 		$('.search_input').focus();
 	});
+
+	const thisWeek = document.getElementById('this-week');
+
+	const options = {
+		animation: 150,
+		ghostClass: 'drag-and-drop-ghost'
+	}
+
+	if (thisWeek) {
+		Sortable.create(thisWeek, options);
+	}
+
+	const nextWeek = document.getElementById('next-week');
+	if (nextWeek) {
+		Sortable.create(nextWeek, options);
+	}
 });
+
