@@ -73,6 +73,10 @@ h4 {
 	color: var(--text-colour);
 }
 
+ul.columns {
+  columns: 2;
+}
+
 hr {
     height: 2px;
     color: var(--hr-colour);
