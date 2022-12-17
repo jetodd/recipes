@@ -12,8 +12,8 @@ from .models import Tag, Recipe, ShoppingItem, ThisWeekItem, NextWeekItem, ThisW
 # Create your views here.
 def index(request):
     latest_recipes_list = Recipe.objects.order_by('-pub_date')[:3]
-    this_week = ThisWeekItem.objects.all().order_by('-position');
-    next_week = NextWeekItem.objects.all().order_by('-position');
+    this_week = ThisWeekItem.objects.all().order_by('position')
+    next_week = NextWeekItem.objects.all().order_by('position')
     most_popular_recipes_list = Recipe.objects.all().filter(cooked_count__gt=0).order_by('-cooked_count')[:3]
     shopping_list = ShoppingItem.objects.filter(recipe__isnull=False)
 
@@ -54,12 +54,12 @@ def detail(request, recipe_id):
 
         if this_week_form.is_valid() and next_week_form.is_valid():
             if this_week_item is None and this_week_form.cleaned_data['this_week']:
-                this_week_item = ThisWeekItem(recipe_id=recipe.id, position=999)
+                this_week_item = ThisWeekItem(recipe_id=recipe.id)
                 this_week_item.save()
             elif this_week_item is not None and not this_week_form.cleaned_data['this_week']:
                 this_week_item.delete()
             if next_week_item is None and next_week_form.cleaned_data['next_week']:
-                next_week_item = NextWeekItem(recipe_id=recipe.id, position=999)
+                next_week_item = NextWeekItem(recipe_id=recipe.id)
                 next_week_item.save()
             elif next_week_item is not None and not next_week_form.cleaned_data['next_week']:
                 next_week_item.delete()
@@ -113,7 +113,7 @@ def move(request):
             this_week_items = ThisWeekItem.objects.filter(recipe_id=recipe.id)
 
             if len(this_week_items) == 0:
-                this_week_item = ThisWeekItem(recipe_id=recipe.id, position=999)
+                this_week_item = ThisWeekItem(recipe_id=recipe.id)
                 this_week_item.save()
             NextWeekItem.objects.get(recipe_id=recipe.id).delete()
     return HttpResponseRedirect('/recipes')

@@ -32,7 +32,7 @@ class NextWeekMealItem(models.Model):
 
 
 class ThisWeekItem(models.Model):
-    position = models.IntegerField()
+    position = models.IntegerField(blank=False, default=100_000)
     recipe = models.OneToOneField(Recipe, on_delete=models.CASCADE, related_name='this_week')
 
     def __str__(self):
