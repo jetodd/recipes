@@ -122,7 +122,8 @@ def move(request):
 def deleteitems(request):
     if request.method == 'POST':
         for item in request.POST.getlist('item'):
-            ShoppingItem.objects.get(name=item).delete()
+            delete_item = ShoppingItem.objects.filter(name=item)
+            delete_item[0].delete()
         return HttpResponseRedirect('/recipes/shopping')
 
 
