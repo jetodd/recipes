@@ -40,7 +40,7 @@ class ThisWeekItem(models.Model):
 
 
 class NextWeekItem(models.Model):
-    position = models.IntegerField()
+    position = models.IntegerField(blank=False, default=100_000)
     recipe = models.ForeignKey(Recipe, on_delete=models.CASCADE, related_name='next_week')
 
     def __str__(self):
