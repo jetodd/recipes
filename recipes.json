@@ -18163,6 +18163,52 @@
                 "soup",
                 "weekend"
             ]
+        },
+        {
+            "title": "Sizzling hot plate tofu",
+            "image": "sizzling-hot-plate-tofu",
+            "url": "https://www.youtube.com/watch?v=44km0kB2pHs",
+            "ingredients": [
+                "150g chickpea flour",
+                "3/4 tsp kala namak",
+                "1/2 tsp tumeric powder",
+                "1/2 tsp garlic powder",
+                "1/2 tsp onion powder",
+                "Black pepper",
+                "3/4 cup water",
+                "2 logs soft tofu",
+                "1 onion, chopped",
+                "2 shallots, chopped",
+                "6 cloves garlic, minced",
+                "Thumb size ginger, chopped",
+                "1 chilli, sliced",
+                "1 carrot, thinly sliced",
+                "200g shiitake mushrooms, roughly chopped",
+                "2 tbsp sesame oil",
+                "2 tbsp hoisin sauce",
+                "1 1/2 tbsp sesame oil",
+                "2 tbsp shaoxing wine",
+                "1 tbsp soy sauce",
+                "1 tsp sugar",
+                "1/2 cup water",
+                "White pepper",
+                "Rice"
+            ],
+            "steps": [
+                "In a medium bowl mix ingredients from chickpea flour to water. Whisk until well combined.",
+                "Slice the tofu in 1 inch thick rounds.",
+                "Heat the pan with sesame oil and pan fry the tofu until golden brown on both sides. Set aside.",
+                "Heat the pan with the chilli oil. Once hot add onion, shallot, garlic, ginger and chilli. Saute until fragrant.",
+                "Add the carrot and mushrooms, cook until carrot has softened.",
+                "Mix in the sesame oil, hoisin, shaoxing wine and season with salt and white pepper.",
+                "Add the water and cornstarch slurry. Cook until sauce has thickened. Set aside.",
+                "Heat some oil in a clean pan then add the egg mixture.",
+                "Once egg is almost set arrange the tofu on top then pour the sauce over the top."
+            ],
+            "tags": [
+                "chinese",
+                "rice"
+            ]
         }
     ]
 }
