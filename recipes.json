@@ -18209,6 +18209,33 @@
                 "chinese",
                 "rice"
             ]
+        },
+        {
+            "title": "Chinese broccoli stir fry",
+            "image": "chinese-broccoli-stir-fry",
+            "url": "https://www.instagram.com/p/CfWm-r3pzKr",
+            "ingredients": [
+                "400g Chinese broccoli",
+                "1/2 tbsp oil",
+                "1/2 tsp salt",
+                "2 tbsp vegan oyster sauce",
+                "1 tbsp soy sauce",
+                "1 tsp sesame oil",
+                "1 tsp sugar",
+                "3 tbsp water",
+                "1/2 tbsp cornstarch",
+                "4 cloves garlic, minced"
+            ],
+            "steps": [
+                "Bring a pot of water to a boil. Add in salt and oil, quick blanch the Chinese broccoli.",
+                "Remove the vegetables from the heat, drain and arrange on a serving plate.",
+                "In a pan heat some oil, sauté the garlic till fragrant. Add in the sauce mixture.",
+                "Cook over medium till the sauce thickens. Pour the sauce over the Chinese broccoli."
+            ],
+            "tags": [
+                "chinese",
+                "sides"
+            ]
         }
     ]
 }
