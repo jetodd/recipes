@@ -18089,8 +18089,8 @@
         },
         {
             "title": "Bruschetta",
-            "image": "https://chefsavvy.com/easy-bruschetta",
-            "url": "bruschetta",
+            "image": "bruschetta",
+            "url": "https://chefsavvy.com/easy-bruschetta",
             "ingredients": [
                 "6 roma tomatoes, coarsely chopped and drained",
                 "1/4 cup red onion, diced",
