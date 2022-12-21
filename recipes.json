@@ -18036,7 +18036,8 @@
                 "Add the bell pepper, beans and banana blossom to the curry and simmer until cooked through."
             ],
             "tags": [
-                
+                "curry",
+                "indian"
             ]
         },
         {
@@ -18082,7 +18083,35 @@
                 "Split biscuits in half, smear both biscuits with honey butter and add your chick'n."
             ],
             "tags": [
-                
+                "burger",
+                "weekend"
+            ]
+        },
+        {
+            "title": "Bruschetta",
+            "image": "https://chefsavvy.com/easy-bruschetta",
+            "url": "bruschetta",
+            "ingredients": [
+                "6 roma tomatoes, coarsely chopped and drained",
+                "1/4 cup red onion, diced",
+                "4 cloves garlic, minced",
+                "1 tbsp extra virgin olive oil",
+                "2 tbsp balsamic vinegar",
+                "1/4 cup fresh basil",
+                "1 baguette, sliced into 1/2 inch pieces",
+                "Olive oil",
+                "1 clove garlic, halved"
+            ],
+            "steps": [
+                "Combine tomatoes, red onion, garlic, oil, vinegar and basil in a medium bowl, set aside.",
+                "Add salt and pepper to taste. Mix again. Cover and chill for at least an hour.",
+                "Place baguette slices on a baking tray. Drizzle with olive oil. Broil until crispy and lightly toasted.",
+                "When the baguette comes out of the oven rub each slice with cut side of the raw garlic clove.",
+                "Top each baguette slice with tomato mixture and serve immediately."
+            ],
+            "tags": [
+                "bread",
+                "Sides"
             ]
         }
     ]
