@@ -18310,6 +18310,40 @@
             "tags": [
                 "moroccan"
             ]
+        },
+        {
+            "title": "Persian herb & bean stew",
+            "image": "persian-herb-bean-stew",
+            "url": "https://wickedkitchen.com/persian-herb-bean-stew-with-chickpeas/",
+            "ingredients": [
+                "250g plant-based mince",
+                "1 can chickpeas, drained",
+                "1 can kidney beans, drained",
+                "5 cloves garlic, chopped",
+                "2 large onions, diced",
+                "250g baby spinach",
+                "150g spring onion, thinly sliced",
+                "50g parsley, chopped",
+                "50g coriander, chopped",
+                "1 ½ tbsp fenugreek",
+                "½ tbsp turmeric",
+                "1 tsp chili flakes",
+                "1 lemon, juiced",
+                "1 litre stock",
+                "Rice"
+            ],
+            "steps": [
+                "Heat the wok on medium high and add oil.",
+                "Add onions and garlic and sauté until translucent.",
+                "Add chickpeas, beans, lemon juice, and stock and bring to a simmer.",
+                "Lower heat and add half of the fresh chopped parsley and coriander, spinach and spices, stirring often.",
+                "Simmer on low-medium heat until the stew thickens and water evaporates.",
+                "Just before serving, stir through the remaining herbs, spinach and spring onion and cook until wilted."
+            ],
+            "tags": [
+                "persian",
+                "stew"
+            ]
         }
     ]
 }
