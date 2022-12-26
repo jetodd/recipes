@@ -18247,12 +18247,13 @@
                 "1 tbsp black peppercorns",
                 "1 tsp chilli flakes",
                 "3 springs rosemary",
+                "3 sprigs thyme",
                 "3 bay leaves",
                 "salt and pepper to taste"
             ],
             "steps": [
                 "Place garlic in a large saucepan and cover it in the olive oil.",
-                "Add the peppercorns, chilli flakes, rosemary and bay leaves.",
+                "Add the peppercorns, chilli flakes, rosemary, thyme and bay leaves.",
                 "Bring the oil to a light simmer, then turn down the heat as low as possible.",
                 "Allow to cook for 30-45 minutes, until the garlic is soft but not completely falling apart.",
                 "Remove the saucepan from the heat and allow it to cool down fully.",
@@ -18343,6 +18344,41 @@
             "tags": [
                 "persian",
                 "stew"
+            ]
+        },
+        {
+            "title": "Mushroom Shawarma",
+            "image": "mushroom-shawarma",
+            "url": "https://www.instagram.com/p/ChPmkmfKpI0/",
+            "ingredients": [
+                "2 punnets oyster mushrooms",
+                "1 tsp cumin",
+                "1 tbsp thyme",
+                "1 tbsp cajun",
+                "1 tsp zaatar",
+                "1 tsp smoked paprika",
+                "1 tsp garlic powder",
+                "1 tsp salt",
+                "Pita",
+                "Lettuce",
+                "Red onion",
+                "Tomato",
+                "Hummus",
+                "Aioli",
+                "Chilli sauce"
+            ],
+            "steps": [
+                "Mix together all the spices in a small bowl.",
+                "In a large bowl add a glug of oil and the mushrooms.",
+                "Sprinkle the spice mixture on the mushrooms and mix to coat.",
+                "Heat some oil in a skillet and add the mushrooms.",
+                "Add something heavy on top, like another pan or a bowl and press down.",
+                "Let cook until charred slightly and then flip the mushrooms and repeat the process.",
+                "Mix together your salad ingredients in a bowl.",
+                "Heat the pita, load on the salad, hummus and aioli then top with the mushroom shawarma."
+            ],
+            "tags": [
+                "turkish"
             ]
         }
     ]
