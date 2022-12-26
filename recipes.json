@@ -18236,6 +18236,32 @@
                 "chinese",
                 "sides"
             ]
+        },
+        {
+            "title": "Garlic confit",
+            "image": "garlic-confit",
+            "url": "https://ohmyveggies.com/garlic-confit-recipe",
+            "ingredients": [
+                "9 bulbs garlic, peeled",
+                "2 cups olive oil",
+                "1 tbsp black peppercorns",
+                "1 tsp chilli flakes",
+                "3 springs rosemary",
+                "3 bay leaves",
+                "salt and pepper to taste"
+            ],
+            "steps": [
+                "Place garlic in a large saucepan and cover it in the olive oil.",
+                "Add the peppercorns, chilli flakes, rosemary and bay leaves.",
+                "Bring the oil to a light simmer, then turn down the heat as low as possible.",
+                "Allow to cook for 30-45 minutes, until the garlic is soft but not completely falling apart.",
+                "Remove the saucepan from the heat and allow it to cool down fully.",
+                "Then, use a slotted spoon to transfer the garlic to a jar.",
+                "Finally, pour in the oil, seal, and store in the fridge."
+            ],
+            "tags": [
+                "garlic"
+            ]
         }
     ]
 }
