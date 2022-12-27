@@ -18499,6 +18499,43 @@
                 "indian",
                 "curry"
             ]
+        },
+        {
+            "title": "Nam khao",
+            "image": "nam-khao",
+            "url": "https://www.instagram.com/p/ChNm1Z0Km0R/",
+            "ingredients": [
+                "2 1/2 cups cooked rice",
+                "2 tbsp red curry paste",
+                "4 cloves garlic",
+                "2 shallots",
+                "3 lime leaves",
+                "3 tsp sugar",
+                "3 tsp vegan fish sauce",
+                "1 chili",
+                "2 tbsp vegan fish sauce",
+                "2 cloves garlic",
+                "juice of 1/2 lime",
+                "2 Tbsp sugar",
+                "1/4 cup water",
+                "Hanful mint, chopped",
+                "Handful coriander, chopped",
+                "Peanuts",
+                "Coconut flakes",
+                "Fried shallots",
+                "Lettuce leaves"
+            ],
+            "steps": [
+                "Add the garlic, shallots, lime leaves, curry paste, sugar and fish sauce to the cooked rice.",
+                "Mix thoroughly then shape into balls.",
+                "Fry the balls in the air frier until crispy.",
+                "In a frying pan toast the peanuts and coconut until lightly browned.",
+                "Combine ingredients from chilli to water in a small bowl.",
+                "Assemble everything in a bowl and combine with the dressing."
+            ],
+            "tags": [
+                "Lao"
+            ]
         }
     ]
 }
