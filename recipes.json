@@ -18536,6 +18536,43 @@
             "tags": [
                 "Lao"
             ]
+        },
+        {
+            "title": "Nepalese mince curry",
+            "image": "",
+            "url": "",
+            "ingredients": [
+                "2 tbsp peanut oil",
+                "2 tbsp yellow mustard seeds",
+                "1 tbsp black mustard seeds",
+                "2 tsp cumin",
+                "1 tsp coriander",
+                "1 tsp turmeric",
+                "2 tsp garam masala",
+                "6 cloves garlic, crushed",
+                "4cm ginger, grated",
+                "2 onions, finely chopped",
+                "2 shallots, chopped",
+                "600g vegan mince",
+                "240g green beans",
+                "1/2 cup frozen peas",
+                "1 cup vegetable stock",
+                "1/4 cup chopped coriander",
+                "Rice"
+            ],
+            "steps": [
+                "Heat oil in the wok over medium. Cook mustard seeds until they pop.",
+                "Add cumin, coriander, turmeric and garam masala. Cook, stirring until fragrant.",
+                "Add garlic, ginger, shallots and onion. Cook, stirring, until onion softens.",
+                "Add mince. Cook, stirring, until cooked through.",
+                "Add stock. Simmer for 15 minutes, mixing in green beans halfway through.",
+                "Season with salt and pepper and add the frozen peas.",
+                "Once peas are cooked remove from heat and stir through coriander."
+            ],
+            "tags": [
+                "nepalese",
+                "curry"
+            ]
         }
     ]
 }
