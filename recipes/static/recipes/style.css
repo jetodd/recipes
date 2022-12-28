@@ -440,12 +440,12 @@ ul.single, ul.block {
 
 /************ Recipe cards ************/
 .card {
-	border-radius: 10px;
+	border-radius: 5px;
 }
 
 .recipe-card {
 	margin: 0.8rem 2%;
-	border:none;
+	border: none;
 	background-color: var(--white);
 }
 
@@ -457,7 +457,7 @@ ul.single, ul.block {
 
 .img-card {
 	width: 100%;
-	border-radius: 10px;
+	border-radius: 5px;
 }
 
 .card-horizontal {
