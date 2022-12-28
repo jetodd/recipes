@@ -574,11 +574,14 @@ ul.single, ul.block {
 	background-color: var(--pale-green) !important;
 }
 
+.recipe_item > .fas {
+	cursor: grab;
+}
+
 .recipe_item {
 	background-color: white;
 	border: 1px solid var(--border-color);
 	margin-bottom: -1px;
 	padding: .5rem;
-	cursor: grab;
 	border-radius: 3px;
 }

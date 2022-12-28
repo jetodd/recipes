@@ -13,7 +13,8 @@ $(document).ready(function () {
 
   const options = {
     animation: 150,
-    ghostClass: 'drag-and-drop-ghost'
+    ghostClass: 'drag-and-drop-ghost',
+    handle: '.fa-grip-vertical'
   }
 
   function saveFormAsync(form) {
