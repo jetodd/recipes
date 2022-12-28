@@ -16,7 +16,7 @@
 	--header-colour: var(--pale-green);
 	--main-bg-colour: var(--cream);
 }
-  
+
 body {
 	font-family: "Century Gothic", CenturyGothic, Tahoma, sans-serif;
 	background-color: var(--main-bg-colour);
@@ -504,6 +504,12 @@ ul.single, ul.block {
 
 .page-item.active .page-link {
     background-color: var(--text-colour);
+}
+
+#more {
+	text-align: center;
+	width: 50%;
+	margin:20px auto;
 }
 
 /************ Media queries ************/
