@@ -1,7 +1,8 @@
 :root {
 	--white: #FFF;
-	--cream: #FFFAE4;
+	--cream: #fff9ef;
 	--pink: #EF968F;
+	--pale-pink: #FEECE9;
 	--pale-green: #D0D8C3;
 	--dark-green: #4A695D;
 
@@ -58,7 +59,7 @@ h2, h3, h4 {
 }
 
 h2, h3 {
-	font-size: 2.2em;
+	font-size: 1.8em;
 	margin-top: 15px;
 	color: var(--text-colour);
 	text-align: center;
@@ -84,7 +85,7 @@ hr {
     font-size: 0;
     border: 0;
     width: 50%;
-    margin: 25px auto;
+    margin: 15px auto;
 }
 
 ol {
@@ -314,21 +315,20 @@ ul.horizontal-list {
 
 ul.horizontal-list li {
 	display: inline-block;
-	margin:0 auto;
-	height: 0px;
+	height: 50px;
 }
 
 ul.horizontal-list li a {
-	color: var(--main-bg-colour);
+	color: var(--btn-text-colour);
 	text-decoration: none;
 	margin:0 5px;
-	background: var(--header-colour);
+	background: var(--btn-bg-colour);
 	padding: 6px 8px;
 	border-radius: 8px;
 }
 
 ul.horizontal-list li a:hover {
-	background-color: var(--btn-bg-colour);
+	background-color: var(--btn-hover-colour);
 }
 
 .tags {
@@ -344,14 +344,13 @@ ul.horizontal-list li a:hover {
     font-style: normal;
     font-weight: 400;
     font-size: 0.8rem;
-    line-height: 1;
     letter-spacing: 0.07em;
     color: var(--btn-text-colour);
     display: inline-block;
     text-decoration: none;
     align-self: start;
     transition: all 0.25s ease-in-out;
-	margin-bottom: 0.2rem
+	margin-bottom: 0.5rem
 }
 
 .tags > a:hover {
@@ -384,6 +383,21 @@ ul.single, ul.block {
 
 .btn-primary:hover, .btn-primary:active, .btn-primary:focus {
 	background-color: var(--btn-hover-colour);
+}
+
+.btn-secondary {
+	background: none;
+	border: 2px solid var(--pale-pink);
+	color: var(--pink);
+	border-radius: 0;
+	font-size: 0.8rem;
+ 	text-transform: uppercase;
+}
+
+.btn-secondary:hover, .btn-secondary:active, .btn-secondary:focus {
+	background-color: var(--pale-pink);
+	color: var(--pink);
+	border: 2px solid var(--pale-pink);
 }
 
 /************ Checkboxes ************/
@@ -426,7 +440,7 @@ ul.single, ul.block {
 
 /************ Recipe cards ************/
 .card {
-	border-radius: 15px;
+	border-radius: 10px;
 }
 
 .recipe-card {
@@ -443,7 +457,7 @@ ul.single, ul.block {
 
 .img-card {
 	width: 100%;
-	border-radius: 15px;
+	border-radius: 10px;
 }
 
 .card-horizontal {
@@ -464,17 +478,21 @@ ul.single, ul.block {
 .card-img {
 	height: 130px;
 	width: 130px;
-	/* overflow: visible; */
 }
 
 .card-img-top {
 	margin-top: -140px;
 }
 
+.card-body {
+	padding: 0.9rem;
+}
+
 .card-title {
 	text-align: center;
-	font-size: 1.1em;
+	font-size: 0.9rem;
 	letter-spacing: 1px;
+	text-transform: uppercase;
 }
 
 /************ Shopping ************/
@@ -508,7 +526,7 @@ ul.single, ul.block {
 
 #more {
 	text-align: center;
-	width: 50%;
+	width: 40%;
 	margin:20px auto;
 }
 
@@ -543,7 +561,7 @@ ul.single, ul.block {
 		-webkit-columns: 1;
 		-moz-columns: 1;
 	}
-	#more .card {
+	#tag .card {
 		width: 19%;
 	}
 }
