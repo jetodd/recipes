@@ -16,22 +16,33 @@ $(document).ready(function () {
     ghostClass: 'drag-and-drop-ghost'
   }
 
-  if (thisWeek) {
+  function saveFormAsync(form) {
+    fetch(form.action, {
+      body: new FormData(form),
+      method: 'POST'
+    })
+      .catch(console.error)
+  }
 
-    // const saveOrderingButton = document.getElementById('saveThisWeekBtn');
+  function updatePositionHiddenInput(list, formInput) {
+    const rows = list.querySelectorAll('li');
+    let ids = [];
+    for (let row of rows) {
+      ids.push(row.dataset.recipeId);
+    }
+    formInput.value = ids.join(',');
+  }
+
+  if (thisWeek) {
     const form = document.getElementById('this-week-frm');
     const formInput = document.getElementById('thisWeekPositionInput');
 
-    function saveOrdering() {
-      const rows = thisWeek.querySelectorAll('li');
-      let ids = [];
-      for (let row of rows) {
-        ids.push(row.dataset.recipeId);
-      }
-      formInput.value = ids.join(',');
-      form.submit();
+    function saveThisWeek() {
+      updatePositionHiddenInput(thisWeek, formInput);
+      saveFormAsync(form);
     }
-    Sortable.create(thisWeek, { ...options, onEnd: saveOrdering });
+
+    Sortable.create(thisWeek, {...options, onEnd: saveThisWeek});
   }
 
   const nextWeek = document.getElementById('next-week');
@@ -39,16 +50,12 @@ $(document).ready(function () {
     const form = document.getElementById('next-week-frm');
     const formInput = document.getElementById('nextWeekPositionInput');
 
-    function saveOrdering() {
-      const rows = nextWeek.querySelectorAll('li');
-      let ids = [];
-      for (let row of rows) {
-        ids.push(row.dataset.recipeId);
-      }
-      formInput.value = ids.join(',');
-      form.submit();
+    function saveNextWeek() {
+      updatePositionHiddenInput(nextWeek, formInput);
+      saveFormAsync(form);
     }
-		Sortable.create(nextWeek, { ...options, onEnd: saveOrdering });
+
+    Sortable.create(nextWeek, {...options, onEnd: saveNextWeek});
   }
 });
 

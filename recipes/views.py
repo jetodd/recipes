@@ -1,6 +1,6 @@
 import json
 
-from django.http import HttpResponseRedirect
+from django.http import JsonResponse
 from django.shortcuts import render, get_object_or_404
 from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
 from django.views.generic.list import ListView
@@ -181,7 +181,7 @@ def save_this_week_position(request):
         item.save()
         current_order += 1
 
-    return HttpResponseRedirect('/recipes')
+    return ajax_success()
 
 
 def save_next_week_position(request):
@@ -194,7 +194,11 @@ def save_next_week_position(request):
         item.save()
         current_order += 1
 
-    return HttpResponseRedirect('/recipes')
+    return ajax_success()
+
+
+def ajax_success():
+    return JsonResponse({'success': True})
 
 
 def get_recipe_ids_for_position(request):
