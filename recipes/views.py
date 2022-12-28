@@ -169,3 +169,35 @@ def search(request):
 
     context = {'queryset_list': queryset_list, 'tags_list': tags_list, 'query': query}
     return render(request, 'recipes/search.html', context)
+
+
+def save_this_week_position(request):
+    ordered_ids = get_recipe_ids_for_position(request)
+
+    current_order = 1
+    for position in ordered_ids:
+        item = ThisWeekItem.objects.get(recipe_id=position)
+        item.position = current_order
+        item.save()
+        current_order += 1
+
+    return HttpResponseRedirect('/recipes')
+
+
+def save_next_week_position(request):
+    ordered_ids = get_recipe_ids_for_position(request)
+
+    current_order = 1
+    for position in ordered_ids:
+        item = NextWeekItem.objects.get(recipe_id=position)
+        item.position = current_order
+        item.save()
+        current_order += 1
+
+    return HttpResponseRedirect('/recipes')
+
+
+def get_recipe_ids_for_position(request):
+    ids = request.POST.get('position')
+    ordered_ids = ids.split(',')
+    return ordered_ids

@@ -27,7 +27,7 @@
 			<h3>This week</h3>
 			<ul id="this-week" class="single">
 				{% for thisWeekItem in this_week %}
-					<li class="recipe_item" data-position="{{ thisWeekItem.position }}"><a href="{% url 'recipes:detail' thisWeekItem.recipe.id %}">{{ thisWeekItem.recipe.title }}</a>
+					<li class="recipe_item" data-recipe-id="{{ thisWeekItem.recipe.id }}"><a href="{% url 'recipes:detail' thisWeekItem.recipe.id %}">{{ thisWeekItem.recipe.title }}</a>
 						{% for item in shopping %}
 							{% if item.recipe.id == thisWeekItem.recipe.id %}
 								({{ item.name }})
@@ -36,13 +36,18 @@
 					</li>
 				{% endfor %}
 			</ul>
+            <form id="this-week-frm" method="post" action="{% url 'recipes:this-week-position' %}">
+                {% csrf_token %}
+                <input type="hidden" id="thisWeekPositionInput" name="position">
+                <button id="saveThisWeekBtn" class="btn btn-outline-primary">Save</button>
+            </form>
 		{% endif %}
 
 		{% if next_week %}
 			<h3>Next week</h3>
 			<ul id="next-week" class="single">
 				{% for nextWeekItem in next_week %}
-					<li class="recipe_item" data-position="{{ nextWeekItem.position }}"><a href="{% url 'recipes:detail' nextWeekItem.recipe.id %}">{{ nextWeekItem.recipe.title }}</a>
+					<li class="recipe_item" data-recipe-id="{{ nextWeekItem.recipe.id }}"><a href="{% url 'recipes:detail' nextWeekItem.recipe.id %}">{{ nextWeekItem.recipe.title }}</a>
 					{% for item in shopping %}
 						{% if item.recipe.id == nextWeekItem.recipe.id %}
 							({{ item.name }})
@@ -51,6 +56,11 @@
 				{% endfor %}
 				</li>
 			</ul>
+            <form class="mb-2" id="next-week-frm" method="post" action="{% url 'recipes:next-week-position' %}">
+                {% csrf_token %}
+                <input type="hidden" id="nextWeekPositionInput" name="position">
+                <button id="saveNextWeekBtn" class="btn btn-outline-primary">Save</button>
+            </form>
 			<form action="move" method="post">
 				{% csrf_token %}
 				<input class="btn btn-primary" type="submit" value="Move">
