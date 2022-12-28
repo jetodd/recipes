@@ -7090,7 +7090,7 @@
                 "Add the white parts of the spring onions, carrot, onion and garlic; simmer for 2 to 3 minutes.",
                 "Stir in the gochujang, soy sauce and sugar. Add the mushrooms and simmer for an additional 1 to 2 minutes.",
                 "Add the rice cakes to the pot and simmer for 15 minutes, stirring occasionally. For the last five minutes add the pak choi.",
-                "Turn the heat off and stir in the green onions and sesame oil (optional). Top with sesame seeds."
+                "Turn the heat off and stir in the green onions and sesame oil. Top with sesame seeds."
             ],
             "tags": [
                 "Korean",
@@ -18292,8 +18292,8 @@
                 "1 cup dry couscous",
                 "1 cup vegetable stock",
                 "Juice of 1/2 lemon",
-                "1/2 cup chopped parsley",
-                "1/2 cup chopped coriander"
+                "½ cup chopped parsley",
+                "½ cup chopped coriander"
             ],
             "steps": [
                 "In the wok over medium, add olive oil and bring to temperature.",
@@ -18654,6 +18654,39 @@
             ],
             "tags": [
                 "tofu"
+            ]
+        },
+        {
+            "title": "Rice paper tteokbokki",
+            "image": "rice-paper-tteokbokki",
+            "url": "https://www.instagram.com/p/Cj6DQEsKlCE/",
+            "ingredients": [
+                "20 sheets rice paper",
+                "1 onion, sliced",
+                "6 cloves garlic, sliced",
+                "1 inch ginger, grated",
+                "1 tsp gochugaru",
+                "2 tbsp gochujang",
+                "1 tbsp soy sauce",
+                "A pinch of sugar",
+                "2 ½ cups vegetable stock",
+                "1 carrot, thinly sliced",
+                "100g fried or smoked tofu",
+                "Pak choi, halved and cored",
+                "Sesame seeds",
+                "Spring onions, chopped"
+            ],
+            "steps": [
+                "Fill a shallow and wide dish with water.",
+                "Dip a rice paper sheet in, place on the bench. Dip another one and stack them.",
+                "Roll them up tightly then cut into pieces. Repeat until no more rice paper sheets are left.",
+                "Heat the wok with some oil. Once hot add the onion and cook until translucent.",
+                "Add the ginger, garlic, spring onion whites and carrot and cook until fragrant.",
+                "Add gochugaru,gochujang, soy sauce, sugar and vegetable stock. Bring to a boil then lower to a simmer.",
+                "Add the rice cakes, tofu and pak choi. Simmer until pak choi is cooked."
+            ],
+            "tags": [
+                "korean"
             ]
         }
     ]
