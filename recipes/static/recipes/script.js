@@ -17,9 +17,8 @@ $(document).ready(function () {
   }
 
   if (thisWeek) {
-    Sortable.create(thisWeek, options);
 
-    const saveOrderingButton = document.getElementById('saveThisWeekBtn');
+    // const saveOrderingButton = document.getElementById('saveThisWeekBtn');
     const form = document.getElementById('this-week-frm');
     const formInput = document.getElementById('thisWeekPositionInput');
 
@@ -32,15 +31,11 @@ $(document).ready(function () {
       formInput.value = ids.join(',');
       form.submit();
     }
-
-    saveOrderingButton.addEventListener('click', saveOrdering);
+    Sortable.create(thisWeek, { ...options, onEnd: saveOrdering });
   }
 
   const nextWeek = document.getElementById('next-week');
   if (nextWeek) {
-    Sortable.create(nextWeek, options);
-
-    const saveOrderingButton = document.getElementById('saveNextWeekBtn');
     const form = document.getElementById('next-week-frm');
     const formInput = document.getElementById('nextWeekPositionInput');
 
@@ -53,8 +48,7 @@ $(document).ready(function () {
       formInput.value = ids.join(',');
       form.submit();
     }
-
-    saveOrderingButton.addEventListener('click', saveOrdering);
+		Sortable.create(nextWeek, { ...options, onEnd: saveOrdering });
   }
 });
 
