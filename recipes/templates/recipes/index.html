@@ -27,7 +27,7 @@
 			<h3>This week</h3>
 			<ul id="this-week" class="single">
 				{% for thisWeekItem in this_week %}
-					<li class="recipe_item" data-recipe-id="{{ thisWeekItem.recipe.id }}"><i class="fas fa-grip-vertical mr-1"></i>
+					<li class="recipe_item" data-recipe-id="{{ thisWeekItem.recipe.id }}"><i class="fas fa-paw mr-1"></i>
                         <a href="{% url 'recipes:detail' thisWeekItem.recipe.id %}">{{ thisWeekItem.recipe.title }}</a>
 						{% for item in shopping %}
 							{% if item.recipe.id == thisWeekItem.recipe.id %}
@@ -47,7 +47,7 @@
 			<h3>Next week</h3>
 			<ul id="next-week" class="single">
 				{% for nextWeekItem in next_week %}
-					<li class="recipe_item" data-recipe-id="{{ nextWeekItem.recipe.id }}"><i class="fas fa-grip-vertical mr-1"></i>
+					<li class="recipe_item" data-recipe-id="{{ nextWeekItem.recipe.id }}"><i class="fas fa-paw mr-1"></i>
                     <a href="{% url 'recipes:detail' nextWeekItem.recipe.id %}">{{ nextWeekItem.recipe.title }}</a>
 					{% for item in shopping %}
 						{% if item.recipe.id == nextWeekItem.recipe.id %}
