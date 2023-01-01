@@ -18736,6 +18736,48 @@
                 "bread",
                 "dip"  
             ]
+        },
+        {
+            "title": "Zuppa toscana",
+            "image": "zuppa-toscana",
+            "url": "https://www.thissavoryvegan.com/vegan-zuppa-toscana",
+            "ingredients": [
+                "1 onion, diced",
+                "8 cloves garlic, minced",
+                "2 tbsp vegan butter",
+                "2 tbsp flour",
+                "1 tsp oregano",
+                "½ tsp fennel",
+                "1 tsp Italian seasoning",
+                "5 sprigs thyme",
+                "1 leaf bay",
+                "½ tsp black pepper",
+                "Red pepper flakes",
+                "6 cups vegan chicken broth",
+                "1/3 cup white wine",
+                "6 potatoes, peeled",
+                "1 bunch kale",
+                "400g spicy vegan sausage",
+                "1 cup vegan cream",
+                "2 tbsp nooch",
+                "Bread"
+            ],
+            "steps": [
+                "Heat some olive oil in the wok over medium. Add the sausage and break it apart.",
+                "Allow the sausage to brown, stirring frequently. Set aside.",
+                "Add the butter to the wok and let it melt. Slowly whisk in the flour until the mixture is smooth and bubbly.",
+                "Add the onion, fennel, oregano, Italian seasoning, black pepper and red pepper flakes and stir to coat.",
+                "Continue to cook until the onion begins to soften.",
+                "Add the garlic and cook until fragrant.",
+                "Slowly pour in the water and cream. Add the bouillon and stir until it is combined.",
+                "Add the potatoes to the pot, cover and bring to a boil.",
+                "Once it has reached a boil, remove the lid and lower the heat. Simmer until the potatoes are fork tender.",
+                "Add the kale and most of the sausage back to the pot and cook for an additional 5 minutes.",
+                "Serve the soup topped with more black pepper, red pepper flakes and the leftover sausage pieces."
+            ],
+            "tags": [
+                "soup"
+            ]
         }
     ]
 }
