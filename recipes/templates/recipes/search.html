@@ -8,18 +8,22 @@
 {% if queryset_list %}
 	<h2>Search results: {{ query }}</h2>
 	<div class="row justify-content-center">
-		{% for recipe in queryset_list %}
-			<div class="card recipe-card">
-				<div class="card-image">
-					<a href="{% url 'recipes:detail' recipe.id %}"><img class="img-card" src="/static/img/{{ recipe.image }}.jpg"></a>
+		<div class="col-md-12 col-lg-10">
+			<div class="row">
+			{% for recipe in queryset_list %}
+				<div class="card recipe-card">
+					<div class="card-image">
+						<a href="{% url 'recipes:detail' recipe.id %}"><img class="img-card" src="/static/img/{{ recipe.image }}.jpg"></a>
+					</div>
+					<div class="card-body">
+		    			<h5 class="card-title"><a href="{% url 'recipes:detail' recipe.id %}">{{ recipe.title }}</a></h5>
+		    			<hr />
+		    			<a href="{% url 'recipes:detail' recipe.id %}" class="card-link btn btn-primary">View recipe</a>
+		  			</div>
 				</div>
-				<div class="card-body">
-	    			<h5 class="card-title"><a href="{% url 'recipes:detail' recipe.id %}">{{ recipe.title }}</a></h5>
-	    			<hr />
-	    			<a href="{% url 'recipes:detail' recipe.id %}" class="card-link btn btn-primary">View recipe</a>
-	  			</div>
+			{% endfor %}
 			</div>
-		{% endfor %}
+		</div>
 	</div>
 {% else %}
 	<h3>No results found for:</h3>
