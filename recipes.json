@@ -18908,6 +18908,39 @@
             "tags": [
                 "pasta"
             ]
+        },
+        {
+            "title": "Miso rice soup",
+            "image": "miso-rice-soup",
+            "url": "https://donalskehan.com/recipes/miso-rice-soup/",
+            "ingredients": [
+                "6 spring onions, thinly sliced",
+                "1 red chilli, thinly sliced",
+                "1 inch ginger, thinly sliced",
+                "4 cloves garlic, thinly sliced",
+                "1.5 litres vegetable stock",
+                "2 tsp sesame oil",
+                "1 tsp light soy sauce",
+                "1 tbsp rice wine vinegar",
+                "1 tbsp miso paste",
+                "1/4 cup wakame",
+                "125g shiitake mushrooms, thinly sliced",
+                "250g brown rice, cooked",
+                "2 baby bok choy, quartered",
+                "1 block silken tofu, cubed"
+            ],
+            "steps": [
+                "Place the wok over a medium heat and add some oil.",
+                "Add the spring onions, chilli and ginger and fry for 3–4 minutes.",
+                "Pour in the stock, sesame oil, soy sauce and rice wine vinegar then mix in the miso paste.",
+                "Bring to a simmer and then add the mushrooms, rice, wakame, tofu and bok choy.",
+                "Cook for until the bok choy is tender. Serve immediately."
+            ],
+            "tags": [
+                "soup",
+                "rice",
+                "japanese"
+            ]
         }
     ]
 }
