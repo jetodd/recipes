@@ -18872,6 +18872,42 @@
                 "bread",
                 "sides"
             ]
+        },
+        {
+            "title": "Creamy harissa pasta",
+            "image": "creamy-harissa-pasta",
+            "url": "https://www.pickuplimes.com/recipe/creamy-vegan-harissa-pasta-836",
+            "ingredients": [
+                "250g linguine",
+                "1 onion, chopped",
+                "2 shallots, chopped",
+                "3 cloves garlic, minced",
+                "2 red peppers, thinly sliced",
+                "2 cups spinach, chopped",
+                "1 ½ tbsp tomato paste",
+                "1 stock cube",
+                "2 tbsp harissa",
+                "1 tbsp oregano",
+                "½ tsp paprika",
+                "1 cup cream",
+                "1 cup frozen peas",
+                "3 tbsp nooch",
+                "3 tbsp pine nuts",
+                "½ lemon, zest and juice",
+                "Fresh basil"
+            ],
+            "steps": [
+                "Cook pasta according to the package directions, reserve ½ cup of the cooking water.",
+                "In the wok on high heat, add olive oil. Once hot add the onion and cook until translucent.",
+                "Add the garlic, bell pepper and shallots to and cook until fragrant.",
+                "Add the tomato paste, stock, harissa, oregano, paprika, and salt and cook for 2 minutes.",
+                "Add the reserved pasta cooking water to the pan.",
+                "Add the pasta along with the remaining ingredients except basil and lemon.",
+                "Once heated through, add some lemon zest and squeeze over the lemon juice."
+            ],
+            "tags": [
+                "pasta"
+            ]
         }
     ]
 }
