@@ -18941,6 +18941,41 @@
                 "rice",
                 "japanese"
             ]
+        },
+        {
+            "title": "Sausage & fennel rigatoni",
+            "image": "sausage-fennel-rigatoni",
+            "url": "https://theflouredkitchen.com/rigatoni-with-tomato-eggplant-fennel-sausage-vegan/",
+            "ingredients": [
+                "250g rigatoni",
+                "300g vegan sausages, deskinned",
+                "2 shallots, finely chopped",
+                "6 cloves garlic, thinly sliced",
+                "1 tsp chili flakes",
+                "1 tsp fennel seeds",
+                "600g cherry tomatoes",
+                "1 tsp sugar",
+                "1 large eggplant cut into medium dice",
+                "1 cup spinach",
+                "1 bunch basil",
+                "1 tbsp red wine vinegar",
+                "2 tbsp nooch"
+            ],
+            "steps": [
+                "Bring a large pot of salted water to the boil, add pasta and cook until just al dente.",
+                "Reserve 2 cups of cooking water then drain pasta.",
+                "In the wok heat 2 tbsp of olive oil over medium‐high heat.",
+                "Once hot add the sausage, break apart into small pieces and cook until browned. Set aside.",
+                "Add the shallots, garlic, chilli flakes and fennel seeds to the wok. Cook until fragrant.",
+                "Add the tomatoes, a pinch of salt, black pepper and sugar. Cook until tomatoes have broken down.",
+                "Get a fry pan nice and hot, coat the pan with a couple of tbsp of olive oil.",
+                "Fry the eggplant in batches, stirring  often until they're browned on all edges.",
+                "Add eggplant to the sauce along with the red wine vinegar and a cup of the pasta water.",
+                "Stir in the sausage chunks, basil and pasta. Season to taste with salt and pepper."
+            ],
+            "tags": [
+                "pasta"
+            ]
         }
     ]
 }
