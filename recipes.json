@@ -19050,6 +19050,40 @@
                 "rice",
                 "chinese"
             ]
+        },
+        {
+            "title": "The soup",
+            "image": "the-soup",
+            "url": "https://www.365daysofcrockpot.com/slow-cooker-tortellini-spinach-soup",
+            "ingredients": [
+                "1 onion, diced",
+                "1/4 cup flour",
+                "1 tbsp basil",
+                "6 cloves garlic, minced",
+                "2 tbsp tomato paste",
+                "4 vegan sausages, casings removed",
+                "3 cups vegetable stock",
+                "2 cans diced tomatoes",
+                "1/2 tsp salt",
+                "1/2 tsp pepper",
+                "2 cups tortellini",
+                "3 cups packed spinach",
+                "1/2 cup vegan parmesan",
+                "1 cup vegan cream"
+            ],
+            "steps": [
+                "Heat oil in the wok, add the sausage and break into pieces. Cook until browned then set aside.",
+                "In the wok add the diced onion and cook until translucent.",
+                "Add in the garlic and tomato paste and cook until fragrant.",
+                "Turn heat to low and add flour and 1/4 cup of stock. Cook until thickened.",
+                "Add remaining stock, tomatoes, sausage, basil, salt and pepper, stir.",
+                "Bring to a boil then lower to a simmer. Simmer for 20 minutes.",
+                "Add tortellini and simmer until almost cooked.",
+                "Add spinach, cream and parmesan and cook until spinach is wilted."
+            ],
+            "tags": [
+                "soup"
+            ]
         }
     ]
 }
