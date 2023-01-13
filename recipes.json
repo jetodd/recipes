@@ -12421,8 +12421,8 @@
               "Heat oil over a medium heat and fry the mustard and fenugreek seeds for 1 minute until popping.",
               "Add the onion, garlic, chilli, spices, tomato, curry leaves and pandan leaf.",
               "Stir continuously for 3-5 minutes or until the tomato starts to break down.",
-                "Bring to a boil, put on a lid and gently simmer for 1 hour or until the jackfruit is very soft.",
-                "Clean and cook the rice."
+              "Bring to a boil, put on a lid and gently simmer for 1 hour or until the jackfruit is very soft.",
+              "Clean and cook the rice."
             ],
             "tags": [
                 "Curry",
@@ -19083,6 +19083,86 @@
             ],
             "tags": [
                 "soup"
+            ]
+        },
+        {
+            "title": "Vindaloo",
+            "image": "vindaloo",
+            "url": "https://www.reddit.com/r/Old_Recipes/comments/jqmpqz/i_made_vindaloo_an_indoportuguese_recipe_from_the",
+            "ingredients": [
+                "2 cans jackfruit",
+                "6 dried red chillies",
+                "1 tbsp cumin seeds",
+                "1 tbsp coriander seeds",
+                "10 cloves",
+                "1 tsp black peppercorns",
+                "3/4 tsp black mustard seeds",
+                "6 cloves garlic",
+                "1 inch ginger",
+                "80mls apple cider vinegar",
+                "1 cinnamon stick",
+                "1/2 tsp black mustard",
+                "1 red onion, finely chopped",
+                "3 green chilies, slit in the center",
+                "1 tsp turmeric",
+                "1 1/2 tsp red chili powder",
+                "1 tsp salt",
+                "2 tbsp brown sugar",
+                "1 cup stock",
+                "Rice",
+                "Coriander, chopped"
+            ],
+            "steps": [
+                "Drain the canned jackfruit and lightly rinse under water, shaking off excess water.",
+                "Remove any thick cores from the jackfruit.",
+                "Dry roast the spices from red chillies to mustard seeds.",
+                "When the spices have cooled off a bit, make a paste with ginger, garlic, and vinegar.",
+                "Marinate the jackfruit in this paste for at least 4 hours.",
+                "Heat oil in the wok, once hot add the cinnamon stick, mustard seeds and chillies. Cook until mustard seeds crackle.",
+                "Add the onion and cook on medium low to slightly caramelize them.",
+                "Add turmeric, red chili powder and salt and cook for a few mins.",
+                "Add the jackfruit. Cook until half done. Once half done add the sugar and mix well.",
+                "Add the stock and let the jackfruit cook fully."
+            ],
+            "tags": [
+                "Indian",
+                "Portuguese",
+                "curry"
+            ]
+        },
+        {
+            "title": "Mushroom peposo",
+            "image": "mushroom-peposo",
+            "url": "https://www.louchegastronomique.com/blog/2016/mushroom-peposo",
+            "ingredients": [
+               "400g chestnut mushrooms",
+               "200g wild mushrooms",
+               "2 onions, roughly diced",
+               "2 tbsp butter",
+               "500ml red wine",
+               "300ml vegetable stock",
+               "1 bulb garlic",
+               "2 sprigs rosemary",
+               "2 tbsp black pepper",
+               "2 tsp flour",
+               "4 dried porcini mushrooms",
+               "1 tbsp red currant jelly",
+               "Parsley",
+               "Bread"
+            ],
+            "steps": [
+                "Thickly slice the mixed mushrooms. Break the wild mushrooms into chunks.",
+                "Combine the wine, stock, pepper, garlic, jelly, herbs and porcini mushrooms.",
+                "Simmer this for at at least 30 mins, reducing it to at least half volume.",
+                "In the wok fry the onion on low in butter until soft and golden, 15 to 20 minutes.",
+                "Raise the heat a little, and add the sliced mushrooms.",
+                "Cook until softened, then add the flour, and stir until everything's coated.",
+                "Work it round for a minute or two, and add the liquid.",
+                "Add the wild mushrooms, amalgamate everything, and simmer for at least 15 minutes."
+            ],
+            "tags": [
+                "tuscan",
+                "stew"
             ]
         }
     ]
