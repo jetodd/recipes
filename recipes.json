@@ -19164,6 +19164,38 @@
                 "tuscan",
                 "stew"
             ]
+        },
+        {
+            "title": "Menemen",
+            "image": "menemen",
+            "url": "https://www.themediterraneandish.com/menemen-recipe",
+            "ingredients": [
+                "1/2 tsp crushed chiles",
+                "1/4 tsp oregano",
+                "1 onion, finely diced",
+                "1 chilli, finely chopped",
+                "1 bell pepper, chopped",
+                "2 tbsp tomato paste",
+                "1 can chopped tomatoes",
+                "1 tsp sugar",
+                "1 block silken tofu",
+                "Chopped fresh parsley",
+                "Bread"
+            ],
+            "steps": [
+                "Heat olive oil in the wok over medium.",
+                "Add the onions, chillies and peppers and season with kosher salt.",
+                "Cook until softened. Then add the tomato paste, tomatoes and sugar.",
+                "Season with black pepper, oregano, and Aleppo pepper.",
+                "Cook for a few minutes over medium heat, stirring occasionally.",
+                "Add tofu and season with salt and pepper.",
+                "Cook, folding gently, until tofu is heated through and broken into large curds."
+            ],
+            "tags": [
+                "turkish",
+                "breakfast",
+                "bread"
+            ]
         }
     ]
 }
