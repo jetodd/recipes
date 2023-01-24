@@ -18836,7 +18836,8 @@
                 "Remove from BBQ and let rest for 5 minutes then slice into segments!"
             ],
             "tags": [
-                
+                "chinese",
+                "mushrooms"
             ]
         },
         {
@@ -19235,6 +19236,39 @@
             "tags": [
                 "risotto",
                 "rice"
+            ]
+        },
+        {
+            "title": "Miso butter greens pasta",
+            "image": "miso-butter-greens-pasta",
+            "url": "https://www.theguardian.com/food/2023/jan/21/miso-butter-greens-pasta-vegan-recipe-meera-sodha",
+            "ingredients": [
+                "60g vegan butter",
+                "6 garlic cloves, chopped",
+                "½ tsp fennel seeds",
+                "½ tsp chilli flakes",
+                "100g broccoli, chopped",
+                "400g cavolo nero",
+                "¾ tsp salt",
+                "2½ tbsp white miso",
+                "40ml olive oil",
+                "1/2 cup vegan parmesan",
+                "500g orecchiette",
+                "Chilli crisp oil"
+            ],
+            "steps": [
+                "Melt the butter in the wok on medium heat.",
+                "Once bubbling add the garlic, fennel seeds and chilli flakes, and cook until fragrant.",
+                "Add the broccoli, cavolo nero, 250ml water and salt, stir.",
+                "Cover, turn down the heat and cook, stirring occasionally until greens are tender.",
+                "Scrape all the contents of the pan into the blender.",
+                "Add the miso and olive oil, and blend to a smooth sauce. Add water if necessary.",
+                "Cook the pasta according to the packet instructions.",
+                "Drain the pasta, reserving a cup of the cooking water.",
+                "Add the pasta to the wok with the sauce, parmesan and five tablespoons of the pasta water."
+            ],
+            "tags": [
+                "pasta"
             ]
         }
     ]
