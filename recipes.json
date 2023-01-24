@@ -19270,6 +19270,34 @@
             "tags": [
                 "pasta"
             ]
+        },
+        {
+            "title": "Polenta with tomato sugo",
+            "image": "polenta-with-tomato-sugo",
+            "url": "https://www.theveganitaliankitchen.com/post/recipe-soft-polenta-with-tomato-sugo",
+            "ingredients": [
+                "2 tbsp olive oil",
+                "3 garlic cloves, crushed",
+                "400g tomato passata",
+                "1 teaspoon salt",
+                "Basil leaves",
+                "1 tsp salt",
+                "2 cups polenta",
+                "3 tbsp olive oil",
+                "4 tbsp vegan parmesan"
+            ],
+            "steps": [
+                "In a medium pot, heat the oil on low and fry the garlic for 1-2 minutes.",
+                "Pour in the passata, salt and basil, if using. Cover and simmer on low.",
+                "In a large pot, bring 8 cups of water to the boil, along with the salt.",
+                "Once boiling, start whisking and then slowly pour in the polenta while whisking.",
+                "Lower the heat and continue to stir until there are no lumps.",
+                "Cover and simmer for 25-30 minutes, stirring occasionally until softened.",
+                "Take off the heat and hand-beat in the butter or oil and parmesan."
+            ],
+            "tags": [
+                "italian"
+            ]
         }
     ]
 }
