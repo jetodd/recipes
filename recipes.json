@@ -19332,6 +19332,37 @@
                 "italian",
                 "pasta"
             ]
+        },
+        {
+            "title": "Charred eggplant",
+            "image": "charred-eggplant",
+            "url": "https://www.instagram.com/p/Cnha34Hhd41/",
+            "ingredients": [
+                "2 eggplants",
+                "1 tsp chilli paste",
+                "1 tsp chili oil",
+                "2 cloves garlic",
+                "1 tbsp soy sauce",
+                "1 tbsp rice vinegar",
+                "1 tbsp maple syrup",
+                "1 tbsp hoisin",
+                "Rice",
+                "Spring onions",
+                "Sesame seeds",
+                "Pak choi"
+            ],
+            "steps": [
+                "Start by salting your eggplant slices and patting the moisture dry.",
+                "Clean and cook the rice.",
+                "Blend ingredients from chilli paste to hoisin for the marinade.",
+                "Brush one side of each eggplant slice with the marinade.",
+                "Heat skillet with some oil over high and sear the eggplant on the marinated side.",
+                "Brush the other side then flip. Cook until charred and softened.",
+                "Blanch the pak choi."
+            ],
+            "tags": [
+                "eggplant"
+            ]
         }
     ]
 }
