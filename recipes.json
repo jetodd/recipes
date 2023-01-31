@@ -19298,6 +19298,40 @@
             "tags": [
                 "italian"
             ]
+        },
+        {
+            "title": "Spaghetti pomodoro",
+            "image": "spaghetti-pomodoro",
+            "url": "https://theflouredkitchen.com/a-single-bowl-of-spaghetti-pomodoro/",
+            "ingredients": [
+                "250g spaghetti",
+                "1 tbsp olive oil",
+                "2 tbsp vegan butter",
+                "1 onion, finely chopped",
+                "4 garlic cloves, minced",
+                "Large pinch chilli flakes",
+                "2 cans whole tomatoes",
+                "1 pinch sugar",
+                "Squeeze of lemon",
+                "Handful of basil leaves",
+                "Vegan parmesan"
+            ],
+            "steps": [
+                "In a pot melt the olive oil and butter, then add the onion, garlic and chilli flakes.",
+                "Cook until the onion is softened.",
+                "Pour in the tomatoes and their juice, crushing them with your wooden spoon.",
+                "Sprinkle in the sugar, salt and the lemon. Give it a stir.",
+                "Let it simmer on low for 10-20 minutes until reduced and thick.",
+                "Meanwhile, bring a large pot of water to the boil, salt it well until it's salty like the sea.",
+                "Cook your spaghetti until al dente, reserving half a cup of the water when draining it.",
+                "Take tomatoes off the heat and blitz with a hand blender until smooth.",       
+                "Add pasta and pasta water to the sauce. Stir until the sauce coats the pasta.",
+                "Add basil and parmesan and toss until cheese is melted."
+            ],
+            "tags": [
+                "italian",
+                "pasta"
+            ]
         }
     ]
 }
