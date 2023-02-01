@@ -19363,6 +19363,34 @@
             "tags": [
                 "eggplant"
             ]
+        },
+        {
+            "title": "Tteokbokki gratin",
+            "image": "tteokbokki-gratin",
+            "url": "https://www.instagram.com/p/CZKbFSxqzr_/",
+            "ingredients": [
+                "200g rice cakes",
+                "1 tbsp gochugaru",
+                "100ml gochujang",
+                "200ml vegetable stock",
+                "1 tbsp maple syrup",
+                "2 spring onions, sliced",
+                "1/2 sheet nori",
+                "50g shredded mozzarella",
+                "Sesame seeds to serve"
+            ],
+            "steps": [
+                 "Bring the vegetable broth to simmer in a pot.",
+                 "Add the nori, then reduce heat to low-medium. Let it cook for 10-15 minutes.",
+                 "Meanwhile, mix gochujang with gochugaru.",
+                 "Remove the nori from the broth, then add the gochujang and mix until dissolved.",
+                 "Add the rice cakes, spring onions and maple syrup and simmer until thickened.",
+                 "Transfer to an oven safe container, then sprinkle the mozzarella on top.",
+                 "Bake at 200°C for 10-15 minutes until the cheese has melted."
+            ],
+            "tags": [
+                "korean"
+            ]
         }
     ]
 }
