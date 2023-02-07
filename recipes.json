@@ -19464,6 +19464,37 @@
             "tags": [
                 "pasta"
             ]
+        },
+        {
+            "title": "Choripán",
+            "image": "choripan",
+            "url": "https://plantbased-passport.com/vegan-argentinian-choripan/",
+            "ingredients": [
+                "Chimichurri sauce",
+                "4 vegan chorizo sausages",
+                "2 baguettes",
+                "1 red onion, finely chopped",
+                "1/2 tbsp red wine vinegar",
+                "5 plum tomatoes, finely chopped",
+                "1/2 tbsp olive oil",
+                "1/2 tsp chili flakes",
+                "1/2 tsp salt",
+                "1/2 tsp pepper"
+            ],
+            "steps": [
+                "Make chimichurri sauce according to the recipe.",
+                "In a medium bowl combine ingredients from red onion to pepper for the salsa. Set aside.",
+                "Heat a frying pan with a teaspoon of oil. Add the chorizo to the pan and fry until fully cooked.",
+                "Remove the chorizo from the pan and slice in half lengthways without cutting the entire way through.",
+                "Get your small baguette roll and slice in half but not all the way through.",
+                "Place it face down in the pan used to cook the chorizo, and fry for 3 minutes on medium.",
+                "Remove from the pan and put it on a plate. Serve by adding on the chimichurri, chorizo, and salsa."
+            ],
+            "tags": [
+                "bread",
+                "sandwich",
+                "sausage"
+            ]
         }
     ]
 }
