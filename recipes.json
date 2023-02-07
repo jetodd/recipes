@@ -19495,6 +19495,34 @@
                 "sandwich",
                 "sausage"
             ]
+        },
+        {
+            "title": "Stir fried cabbage",
+            "image": "stir-fried-cabbage",
+            "url": "https://www.instagram.com/p/CbD-bNbIVw6/",
+            "ingredients": [
+                "1 head sweetheart cabbage",
+                "1 tbsp oil",
+                "5 cloves garlic, finely chopped",
+                "1 red chilli, chopped",
+                "1/2 tsp salt",
+                "1 tbsp sesame oil",
+                "2 tbsp soy sauce",
+                "1/2 tsp sugar",
+                "1 tbsp vegan oyster sauce",
+                "Rice"
+            ],
+            "steps": [
+                "Clean and cook the rice.",
+                "Half the cabbage then remove the hard core. Place cut side down and thinly slice.",
+                "Heat oil in a pan. Once hot add the garlic and chilli and cook until fragrant.",
+                "Add the cabbage along with some salt. Cook for a few minutes.",
+                "Season with soy sauce, sesame oil, sugar and oyster sauce. Cook until cabbage is softened."
+            ],
+            "tags": [
+                "asian",
+                "cabbage"
+            ]
         }
     ]
 }
