@@ -15796,7 +15796,7 @@
                 "Add the five-spice powder, Chinese cooking wine, vegan oyster sauce, soy sauce, dark soy sauce, and sugar.",
                 "Bring to a boil, then turn the heat down to low and braise for at least 20 minutes.",
                 "Meanwhile, slice the tofu skins diagonally.",
-                "Fill a pot with just enough water to cover the tofu skins and add vegan chick'un stock.",
+                "Fill a pot with just enough water to cover the tofu skins and add vegan chick'n stock.",
                 "Boil the tofu sticks until cooked but still firm. Drain and set aside.",
                 "Top up the heat and blanch the green leafy vegetables. Drain and set aside.",
                 "Turn the heat down so the water is boiling gently. Soak the rice noodles in this until they are cooked al dente.",
@@ -19560,6 +19560,40 @@
             "tags": [
                 "sauces",
                 "asian"
+            ]
+        },
+        {
+            "title": "Honey miso skewers",
+            "image": "honey-miso-skewers",
+            "url": "https://www.mob.co.uk/recipes/spicy-honey-miso-and-charred-spring-onion-skewers",
+            "ingredients": [
+                "Vegan chick'n pieces",
+                "2 bell peppers",
+                "4 spring onions",
+                "8 bamboo skewers",
+                "3cm ginger, grated",
+                "4 cloves garlic, grated",
+                "1 ½ tbsp miso paste",
+                "4 tbsp soy sauce",
+                "3 tbsp agave",
+                "1 tsp chilli flakes",
+                "1 tbsp sesame oil",
+                "2 tbsp rice wine vinegar",
+                "Salt",
+                "Pepper",
+                "Sesame oil"
+            ],
+            "steps": [
+                "Chop the peppers into 2cm sized chunks and spring onions into 3cm parts lengthways.",
+                "Roughly chop the chick'n chunks into 2cm-size pieces.",
+                "Assemble the skewers.",
+                "In a bowl mix ginger, garlic, miso, soy sauce, agave, chilli flakes, sesame oil and rice wine vinegar.",
+                "Brush skewers with the sauce and leave to marinate for 10-15 mins.",
+                "On medium, add the skewers to a griddle pan and lightly brush your skewers with sesame oil.",
+                "Cook for a few mins on each side until the skewers are golden."
+            ],
+            "tags": [
+                "sides"
             ]
         }
     ]
