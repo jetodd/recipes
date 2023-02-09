@@ -19802,6 +19802,40 @@
                 "curry",
                 "rice"
             ]
+        },
+        {
+            "title": "Kebabs with couscous",
+            "image": "kebab-with-couscous",
+            "url": "https://oumph.net/recipes/oumph-bulgur-salad",
+            "ingredients": [
+                "1 tomato, diced",
+                "1 red onion, finely chopped",
+                "1 clove garlic, finely chopped.",
+                "20g parsley, chopped",
+                "20g coriander, chopped",
+                "Juice of ½ lemon",
+                "½ tsp sumac",
+                "1 pack spiced kebab meat",
+                "Skewers",
+                "1 red onion, roughly chopped",
+                "2 bell peppers, chopped",
+                "240g couscous",
+                "360ml vegetable stock",
+                "Chopped parsley",
+                "Chopped coriander",
+                "Juice of ½ lemon"
+            ],
+            "steps": [
+                "Add the tomato, onion, garlic, coriander and parsley to a bowl.",
+                "Add 1 tbsp olive oil, juice of 1/2 lemon, sumac and season with salt and pepper",
+                "Thread the kebab meat, red onion and bell peppers on the skewers and fry at medium heat.",
+                "Cover the couscous with the vegetable stock and wait 5 minutes.",
+                "To the coucous add the lemon juice, 1 tbsp olive oil, parsley and coriander.",
+                "Fluff the couscous with a fork."
+            ],
+            "tags": [
+                "kebab"
+            ]
         }
     ]
 }
