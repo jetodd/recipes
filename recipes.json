@@ -19765,6 +19765,43 @@
             "tags": [
                 "pasta"
             ]
+        },
+        {
+            "title": "Butter bean curry",
+            "image": "butter-bean-curry",
+            "url": "https://www.romylondonuk.com/butter-bean-curry",
+            "ingredients": [
+                "2 tins butter beans, drained",
+                "1 onion, diced",
+                "5 garlic cloves, grated",
+                "1/4 tsp salt",
+                "2 tsp ginger, grated",
+                "1 tsp coriander",
+                "1 tsp ground cumin",
+                "2 tsp garam masala",
+                "2 tbsp curry powder",
+                "1 tin chopped tomatoes",
+                "1 tin coconut milk",
+                "2 cups spinach",
+                "Chili powder, to taste",
+                "Rice",
+                "Coriander",
+                "Coconut yogurt"
+            ],
+            "steps": [
+                "In the wok over medium heat, heat the oil and saute the onions until softened.",
+                "Stir in the garlic, ginger and sprinkle with salt.",
+                "Stir in all spices. Let them toast until fragrant.",
+                "Add the tinned tomatoes and stir to combine.",
+                "Add the drained butter beans and the coconut milk.",
+                "Simmer over low heat for 15-20 minutes, or until thickened and fragrant.",
+                "Add the spinach and cook until wilted.",
+                "Season to taste with salt and serve on rice with coriander and a dollop of yogurt."
+            ],
+            "tags": [
+                "curry",
+                "rice"
+            ]
         }
     ]
 }
