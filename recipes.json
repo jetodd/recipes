@@ -19731,6 +19731,40 @@
                 "tofu",
                 "rice"
             ]
+        },
+        {
+            "title": "Eggplant ragu",
+            "image": "eggplant-ragu",
+            "url": "https://cravingcalifornia.com/slow-roasted-eggplant-ragu-with-goat-cheese-and-basil",
+            "ingredients": [
+                "2 large eggplant",
+                "800g cherry tomatoes",
+                "2 red peppers, quartered",
+                "12 unpeeled cloves garlic",
+                "3 large shallots, halved",
+                "½ cup olive oil",
+                "8 large basil leaves",
+                "250g pasta"
+            ],
+            "steps": [
+                "Preheat the oven to 180°C. Heat a large skillet over medium-high heat.",
+                "Meanwhile, remove the stem of each eggplant then peel and discard the skin.",
+                "Slice each eggplant in half lengthwise then cut each half into quarters.",
+                "Coat the surface of the pan in a thin even layer of olive oil.",
+                "Add half the eggplant pieces to the pan and cook until golden brown on all sides.",
+                "Transfer to a plate and season with salt. Repeat with the remaining eggplant.",
+                "Place the eggplant, tomatoes, garlic, peppers and shallots on a lined baking tray.",
+                "Drizzle the olive oil over top and season generously with salt.",
+                "Transfer the mixture to the oven and bake for an hour, stirring every 20 minutes.",
+                "Remove from the oven and fold in the basil leaves. Let stand for 15 minutes.",
+                "Meanwhile salt a pot of boiling water and cook the pasta, reserve a cup of pasta water before draining.",
+                "Transfer the eggplant mixture to a blender or food processor.",
+                "Pulse until all of the ingredients are finely minced",
+                "Add the sauce back to the pan with the pasta and ½ cup of pasta water, mix."
+            ],
+            "tags": [
+                "pasta"
+            ]
         }
     ]
 }
