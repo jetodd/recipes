@@ -19640,6 +19640,40 @@
                 "chinese",
                 "noods"
             ]
+        },
+        {
+            "title": "Tarka roasted cauliflower",
+            "image": "tarka-roasted-cauliflower",
+            "url": "https://zenaskitchen.com/tarka-roasted-cauliflower/",
+            "ingredients": [
+                "1 large cauliflower",
+                "Olive oil",
+                "100g butter",
+                "2 tsp mustard seeds",
+                "2 tsp cumin seeds",
+                "6 garlic cloves, minced",
+                "2 inch ginger, minced",
+                "30 curry leaves",
+                "1 tsp chilli powder",
+                "5 tbsp yoghurt",
+                "Flatbreads, to serve"
+            ],
+            "steps": [
+                "Preheat your oven to 180°C.",
+                "Quarter the cauliflower, drizzle with olive oil and season with salt and pepper.",
+                "Heat a pan over medium then sear the cauliflower until browned on both sides.",
+                "Transfer the cauliflower to the oven and roast for 15 minutes or until tender.",
+                "Meanwhile, melt the butter in a small saucepan over medium.",
+                "Let the butter bubble for a few minutes until the bubbles die down.",
+                "Once the butter is caramelised add the mustard and cumin seeds and cook for 1 minute.",
+                "Then add the garlic, ginger, curry leaves and chilli powder and cook for another minute.",
+                "Season with salt and pepper to taste.",
+                "Spread the yoghurt onto a plate and top with the cauliflower.",
+                "Pour the tarka over the top then serve"
+            ],
+            "tags": [
+                "cauliflower"
+            ]
         }
     ]
 }
