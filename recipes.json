@@ -19916,7 +19916,7 @@
             "ingredients": [
                 "1 1/2 cups paella rice",
                 "3 tomatoes, grated, skin removed",
-                "2 chorizo sausages",
+                "2 chorizo sausages, skinned",
                 "½ cup cherry tomatoes, halved",
                 "1 cup white beans",
                 "1 onion, diced fine",
@@ -19935,16 +19935,16 @@
                 "2 lemons, cut into wedges"
             ],
             "steps": [
-                "Preheat oven 180°C.",
-                "Add bell pepper and green beans to an oven tray with olive oil and season with salt and black pepper.",
+                "Preheat the  oven to 180°C.",
+                "Add bell pepper and beans to a tray with olive oil and season with salt and pepper.",
                 "Once the oven is hot, roast for 15-20 minutes.",
-                "In a large pan, add the onion and olive oil. Cook on medium until golden.",
-                "Add the garlic and cook for an additional 4 minutes, stirring occasionally.",
+                "In a large pan heat a little oil. Add the sausages, breaking them into pieces.",
+                "Add the onion, cook until translucent. Add the garlic, cook until fragrant.",
                 "Add the grated tomato and stir through. Reduce heat and simmer for 15 minutes.", 
                 "Around the last 5 minutes, add the smoked paprika and season to taste.",
-                "Next, add 1 cup of the vegetable stock and stir through with the sofrito on low heat.",
-                "Add the beans, artichoke hearts and half the cherry tomatoes. Mix well and bring to a boil.",
-                "Add another 2 cups of stock and the rice. Mix well and aim to have an even layer of rice around the pan.",
+                "Next, add 1 cup of stock and stir through on low heat.",
+                "Add the beans, artichoke hearts and cherry tomatoes. Mix well and bring to a boil.",
+                "Add another 2 cups of stock, rosemary and rice. Mix well and evenly spread around the pan.",
                 "Season with garlic powder, and a little salt. Simmer for 5 minutes on medium.",
                 "Remove your roasted bell pepper from the oven, and allow to cool slightly.",
                 "Arrange green beans, bell pepper, and artichoke hearts around the pan.",
@@ -19953,6 +19953,56 @@
             ],
             "tags": [
                 "Spanish"
+            ]
+        },
+        {
+            "title": "Herby polenta with pesto",
+            "image": "herby-polenta-pesto",
+            "url": "https://www.21daysvegan.com/vegan-herby-polenta-with-arugula-pesto-and-roast-vegetables/",
+            "ingredients": [
+                "400g cherry tomatoes",
+                "300g shallots, peeled",
+                "400g shiitake mushrooms, thickly sliced",
+                "2 sweet peppers, thickly sliced",
+                "1 courgette, cubed",
+                "1 eggplant, cubed",
+                "1 bulb garlic",
+                "2 tbsp olive oil",
+                "1/4 cup cashews, soaked in hot water",
+                "2 cups fresh packed basil",
+                "3 cloves garlic",
+                "3 tbsp lemon juice",
+                "1/4 cup nutritional yeast",
+                "1/2 teaspoon salt",
+                "3 1/2 cups water",
+                "1/2 cup plant-based milk",
+                "1 cup polenta",
+                "1/4 tsp baking soda",
+                "1/2 tsp salt",
+                "1 tbsp vegan butter",
+                "1/2 cup vegan parmesan",
+                "1 1/2 tbsp nooch",
+                "1 bunch coriander, chopped",
+                "1 bunch chives, chopped",
+                "1 bunch parsley, chopped",
+                "1/2 lemon, zest and juice"
+            ],
+            "steps": [
+                "Preheat oven to 160°C and line a baking tray.",
+                "Place the tomatoes, shallots, mushrooms, eggplant, courgette, peppers and garlic on the tray.",
+                "Drizzle with olive oil, salt, and pepper, and toss to evenly coat all the vegetables.",
+                "Place the vegetables in the oven for one hour or until tomatoes are blistered.",
+                "Meanwhile put ingredients from cashews to salt in the blender and blend until finely chopped.",
+                "With the food processor running, slowly drizzle in the olive oil and blend until smooth.",
+                "With 15-20 minutes left for the vegetables, start the polenta.",
+                "Bring the water and plant milk to a low boil in a pot",
+                "Pour in the polenta whilst stirring with a whisk. Add the baking soda and salt and mix.",
+                "Cover, turn the heat to low, and let cook for 15 minutes, stirring occasionally.",
+                "Add the butter, parmesan, and nooch and stir until completely combined.",
+                "Remove the pot from the heat, and stir in the herbs."
+            ],
+            "tags": [
+                "vegetables"
             ]
         }
     ]
