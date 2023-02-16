@@ -19908,6 +19908,52 @@
                 "korean",
                 "rice"
             ]
+        },
+        {
+            "title": "Arroz al horno",
+            "image": "arroz-al-horno",
+            "url": "https://thespanishradish.com/recipes/vegan-arroz-al-horno-valencian-oven-baked-rice/",
+            "ingredients": [
+                "1 1/2 cups paella rice",
+                "3 tomatoes, grated, skin removed",
+                "2 chorizo sausages",
+                "½ cup cherry tomatoes, halved",
+                "1 cup white beans",
+                "1 onion, diced fine",
+                "6 cloves garlic, sliced",
+                "½ cup artichoke hearts, quartered",
+                "2 tsp smoked paprika",
+                "1 tsp garlic powder",
+                "750ml vegetable stock",
+                "3 tbsp olive oil",
+                "1 head garlic",
+                "1 red pepper, 1cm strips",
+                "24 green beans",
+                "½ cup artichoke hearts, quartered",
+                "2-3 sprigs of fresh rosemary",
+                "Handful of fresh parsley",
+                "2 lemons, cut into wedges"
+            ],
+            "steps": [
+                "Preheat oven 180°C.",
+                "Add bell pepper and green beans to an oven tray with olive oil and season with salt and black pepper.",
+                "Once the oven is hot, roast for 15-20 minutes.",
+                "In a large pan, add the onion and olive oil. Cook on medium until golden.",
+                "Add the garlic and cook for an additional 4 minutes, stirring occasionally.",
+                "Add the grated tomato and stir through. Reduce heat and simmer for 15 minutes.", 
+                "Around the last 5 minutes, add the smoked paprika and season to taste.",
+                "Next, add 1 cup of the vegetable stock and stir through with the sofrito on low heat.",
+                "Add the beans, artichoke hearts and half the cherry tomatoes. Mix well and bring to a boil.",
+                "Add another 2 cups of stock and the rice. Mix well and aim to have an even layer of rice around the pan.",
+                "Season with garlic powder, and a little salt. Simmer for 5 minutes on medium.",
+                "Remove your roasted bell pepper from the oven, and allow to cool slightly.",
+                "Arrange green beans, bell pepper, and artichoke hearts around the pan.",
+                "Place the head of garlic in the center and drizzle with some olive oil.",
+                "Top up stock to ensure everything is just covered. Bake for 20 minutes on the middle shelf."
+            ],
+            "tags": [
+                "Spanish"
+            ]
         }
     ]
 }
