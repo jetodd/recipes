@@ -3204,7 +3204,8 @@
             ],
             "tags": [
                 "Vegan",
-                "Eggplant"
+                "Eggplant",
+                "jamaican"
             ]
         },
         {
@@ -19957,7 +19958,7 @@
         },
         {
             "title": "Herby polenta with pesto",
-            "image": "herby-polenta-pesto",
+            "image": "herby-polenta-with-pesto",
             "url": "https://www.21daysvegan.com/vegan-herby-polenta-with-arugula-pesto-and-roast-vegetables/",
             "ingredients": [
                 "400g cherry tomatoes",
@@ -20003,6 +20004,51 @@
             ],
             "tags": [
                 "vegetables"
+            ]
+        },
+        {
+            "title": "Jerk mushrooms with salsa",
+            "image": "jerk-mushrooms",
+            "url": "https://somiigbene.com/vegan-jamaican-jerk-mushrooms/",
+            "ingredients": [
+                "400g oyster mushrooms",
+                "1 red onion, thickly sliced",
+                "1 red pepper, sliced",
+                "2 tsp chili powder",
+                "1 tsp smoked paprika",
+                "1 tsp garlic powder",
+                "1 tsp onion powder",
+                "1 tsp dried thyme",
+                "1 tsp liquid smoke",
+                "1 tsp salt",
+                "2 tbsp olive oil",
+                "2 cups mango, diced",
+                "1 avocado, diced",
+                "1/2 red onion, finely diced",
+                "1 red pepper, diced",
+                "1/2 cup coriander, chopped",
+                "1 chilli, finely diced",
+                "1 lime",
+                "1 cup basmati rice",
+                "1 1/2 cup coconut milk",
+                "1/2 cup water",
+                "1 can beans"
+            ],
+            "steps": [
+                "Preheat the oven to 210°C and line a baking tray.",
+                "Wash the mushrooms and pat them dry. Separate them from the stalk and tear into pieces.",
+                "Mix ingredients from chilli powder to olive oil in a large bowl.",
+                "Add the mushrooms, red onion and bell pepper to the bowl and coat. Marinate for at least 15 minutes.",
+                "Place the mushrooms, onion and bell pepper on the lined tray in an even layer.",
+                "Roast for 25 minutes, tossing once about halfway through the cooking time.",
+                "Clean the rice. Then add the coconut milk and water. Bring to a boil then simmer.",
+                "Once rice is almost cooked stir in the beans.",
+                "Meanwhile combine ingredients from mango to chilli.",
+                "Squeeze the lime juice over the salsa then toss to combine."
+            ],
+            "tags": [
+                "jamaican",
+                "rice"
             ]
         }
     ]
