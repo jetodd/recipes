@@ -20009,7 +20009,7 @@
         {
             "title": "Jerk mushrooms with salsa",
             "image": "jerk-mushrooms",
-            "url": "https://somiigbene.com/vegan-jamaican-jerk-mushrooms/",
+            "url": "https://www.21daysvegan.com/vegan-jerk-mushrooms-with-pineapple-salsa/",
             "ingredients": [
                 "400g oyster mushrooms",
                 "1 red onion, thickly sliced",
@@ -20049,6 +20049,37 @@
             "tags": [
                 "jamaican",
                 "rice"
+            ]
+        },
+        {
+            "title": "Mushroom swiss burger",
+            "image": "mushroom-swiss-burger",
+            "url": "https://veganiac.com/vegan-mushroom-swiss-burger",
+            "ingredients": [
+                "4 plant-based burgers",
+                "4 burger buns",
+                "4 sliced onions",
+                "1/4 tsp brown sugar",
+                "1 tbsp butter",
+                "Pinch of salt",
+                "Pinch of pepper",
+                "1 tbsp of butter",
+                "300g mushrooms, sliced",
+                "1 garlic clove, minced",
+                "Aioli",
+                "Spinach"
+            ],
+            "steps": [
+                "Heat the pan over medium and add butter. Once melted add the onions and sugar.",
+                "Turn the heat down and cook, stirring occasionally until caramelized.",
+                "Add the mushrooms and continue to cook until they are soft and caramelized. Set aside.",
+                "Toast the buns with a little butter in the oven.",
+                "Turn the heat up and add the burger patties to the pan. Cook on both sides.",
+                "When the patties are almost done, put the mushrooms and onions on top of them.",
+                "Put a slice of cheese on each one and cook until slightly melted."
+            ],
+            "tags": [
+                
             ]
         }
     ]
