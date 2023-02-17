@@ -20081,6 +20081,35 @@
             "tags": [
                 
             ]
+        },
+        {
+            "title": "Cabbage tofu soup",
+            "image": "cabbage-tofu-soup",
+            "url": "https://omnivorescookbook.com/napa-cabbage-tofu-soup",
+            "ingredients": [
+                "4 cups vegetable stock",
+                "4 slices ginger",
+                "2 spring onions, sliced",
+                "4 cloves garlic, smashed",
+                "2 tsp light soy sauce",
+                "8 napa cabbage leaves, sliced",
+                "140g mushrooms, sliced",
+                "1/2 block soft tofu, sliced",
+                "1/2 tsp vegan chicken bouillon",
+                "1/4 teaspoon white pepper",
+                "1 teaspoon sesame oil"
+            ],
+            "steps": [
+                "Heat the stock in a medium-size pot over medium-high heat.",
+                "Add the ginger, garlic and light soy sauce.",
+                "When the stock starts to boil, add the white part of the cabbage and mushrooms",
+                "Cook for 4 minutes, until the white part of the cabbage starts to soften.",
+                "Add the green part of the napa cabbage and tofu and continue cooking for another 2 to 3 minutes.",
+                "Add the bouillon powder, white pepper, and drizzle with sesame oil."
+            ],
+            "tags": [
+                "soup"
+            ]
         }
     ]
 }
