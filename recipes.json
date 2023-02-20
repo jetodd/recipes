@@ -20151,6 +20151,40 @@
                 "sweet",
                 "chocolate"
             ]
+        },
+        {
+            "title": "Curried cauliflower traybake",
+            "image": "curried-cauliflower-traybake",
+            "url": "https://www.bettinaskitchen.com/vegan-recipes/curried-cauliflower-orzo-leek-traybake/",
+            "ingredients": [
+                "2 leeks, 2cm chunks",
+                "1 cauliflower head",
+                "100g orzo",
+                "500ml plant cream",
+                "1 tsp salt",
+                "1 tbsp maple syrup",
+                "1 1/2 tbsp curry powder",
+                "1 tsp turmeric",
+                "Thumb of ginger",
+                "4 cloves garlic",
+                "Small onion",
+                "Juice of 1 lime",
+                "1 tbsp soy sauce",
+                "400ml veg stock",
+                "1/2 tsp black pepper"
+            ],
+            "steps": [
+                "Preheat the oven to 200ºC. Drizzle olive oil on a baking tray.",
+                "Blend ingredients from cream to pepper for the sauce.",
+                "Remove the cauliflower leaves, wash and roughly chop them.",
+                "Slice the cauliflower into 1-2cm steaks.",
+                "Add the orzo, leeks & cauliflower to the tray, making sure the orzo is at the bottom.",
+                "Pour over the cream mixture, making sure the orzo is covered, top with a drizzle of olive oil.",
+                "Put in the oven for 45 minutes until the cauliflower is cooked through and crispy on top."
+            ],
+            "tags": [
+                "orzo"
+            ]
         }
     ]
 }
