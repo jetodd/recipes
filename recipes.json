@@ -19764,7 +19764,8 @@
                 "Add the sauce back to the pan with the pasta and ½ cup of pasta water, mix."
             ],
             "tags": [
-                "pasta"
+                "pasta",
+                "weekend"
             ]
         },
         {
@@ -20109,6 +20110,46 @@
             ],
             "tags": [
                 "soup"
+            ]
+        },
+        {
+            "title": "chocolate, miso and banana mug cake",
+            "image": "chocolate-banana-miso-mug-cake",
+            "url": "https://www.theguardian.com/food/2023/feb/11/vegan-recipe-microwaveb-chocolatea-miso-banana-mug-cakes-meera-sodha",
+            "ingredients": [
+                "1 banana, peeled",
+                "1½ tsp white miso",
+                "5 tbsp plain flour",
+                "1 tsp baking powder",
+                "4 tbsp caster sugar",
+                "2 tbsp cocoa powder",
+                "2 tbsp olive oil",
+                "5 tbsp oat milk",
+                "½ tsp white miso",
+                "½ tsp water",
+                "2 tsp caster sugar",
+                "75ml vegan double cream",
+                "1 square dark chocolate"
+            ],
+            "steps": [
+
+                "Line both mugs by scrunching in a square of baking paper, smooth the sides if possible.",
+                "Put the banana in a medium bowl and mash to a paste with a fork.",
+                "Add the miso, then stir in the flour, baking powder, sugar and cocoa powder.",
+                "Still using a fork, slowly mix in the oil and oat milk, until you have a smooth batter.",
+                "Distribute equally between the mugs – the batter should fill them to about halfway.",
+                "Microwave the mug cakes one by one for two minutes.",
+                "Cool slightly them use the paperlining to lift out the cakes.",
+                "Peel off the paper and put each cake on a plate.",
+                "Mix the miso and half a teaspoon of cold water in a small bowl.",
+                "Add the sugar and mix again.", 
+                "Pour the cream into a large bowl, whisk until thick and fluffy",
+                "Then add the sweetened miso mixture and whisk until it’s thick and fluffy again.",
+                "Spoon the cream over the top of the cakes, grate over the chocolate and serve."
+            ],
+            "tags": [
+                "sweet",
+                "chocolate"
             ]
         }
     ]
