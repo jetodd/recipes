@@ -20230,6 +20230,40 @@
                 "risotto",
                 "rice"
             ]
+        },
+        {
+            "title": "Fricassee of purple sprouting broccoli",
+            "image": "fricassee-of-purple-sprouting-broccoli",
+            "url": "https://schoolnightvegan.com/home/fricassee-of-purple-sprouting-broccoli/#recipe",
+            "ingredients": [
+                "8 stems PSB",
+                "80g butter",
+                "2 tbsp olive oil",
+                "10 bulb shallots",
+                "6 cloves garlic, chopped",
+                "100g shredded fennel",
+                "Pinch salt and pepper",
+                "4 tbsp white wine",
+                "220g vegan cream",
+                "110g water",
+                "2 tsp lemon juice",
+                "1 tsp dried oregano",
+                "Gnocchi"
+            ],
+            "steps": [
+                "Cook the gnocchi according to packet instructions.",
+                "Bring a medium pot of water to the boil.",
+                "Blanch the broccoli in the water for 2 minutes max. Transfer to a bowl of cold water and set aside.",
+                "In the wok over medium heat, add the butter and the olive oil.",
+                "Once butter is melter add the shallots and fry for a minute or two until turning translucent.",
+                "Add the garlic and fennel. Season. Cook, stirring regularly, until the fennel starts to turn translucent.",
+                "Add the white wine and cook until almost all the liquid has evaporated.",
+                "Add the cream, water and broccoli stems and leaves. Cover and cook until the broccoli is cooked through.",
+                "Turn off the heat, add the lemon juice and stir through the oregano."
+            ],
+            "tags": [
+                "gnocchi"
+            ]
         }
     ]
 }
