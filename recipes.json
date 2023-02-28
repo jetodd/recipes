@@ -20264,6 +20264,45 @@
             "tags": [
                 "gnocchi"
             ]
+        },
+        {
+            "title": "Mujaddara",
+            "image": "mujaddara",
+            "url": "https://www.theguardian.com/lifeandstyle/2010/oct/09/mejadra-recipe-yotam-ottolenghi",
+            "ingredients": [
+                "250ml sunflower oil",
+                "4 onions, thinly sliced",
+                "250g green or brown lentils",
+                "2 tsp cumin seeds",
+                "1 ½ tbsp coriander seeds",
+                "3 cloves garlic, chopped",
+                "1 cup basmati rice",
+                "½ tsp turmeric",
+                "1 ½ tsp allspice",
+                "1 ½ tsp cinnamon",
+                "1 tsp sugar",
+                "350ml vegetable stock",
+                "1/2 cup coriander, chopped",
+                "Juice of 1/2 lemon",
+                "Vegan yogurt"
+            ],
+            "steps": [
+                "Cook the sliced onion in batches in the air frier until golden-brown and crispy.",
+                "Once cooked transfer to a colander and sprinkle with salt.",
+                "Meanwhile, put the lentils in a small saucepan, cover with plenty of water.",
+                "Bring to a boil and cook for 12-15 minutes, or until softened. Drain.",
+                "In the wok add the cumin seeds and coriander seeds, toast over medium until fragrant.",
+                "Add the rice, garlic, olive oil, turmeric, allspice, cinnamon, sugar, salt and pepper.",
+                "Stir to coat the rice with oil, then add the cooked lentils and water.",
+                "Bring to a boil, cover and simmer on very low heat for 15 minutes.",
+                "Remove from the heat, lift off the lid and cover the pan with a clean tea towel.",
+                "Seal tightly with the lid and set aside for 10 minutes.",
+                "Finally, tip the rice, lentils, coriander and lemon juice into a large mixing bowl.",
+                "Add half the fried onion and stir gently with a fork."
+            ],
+            "tags": [
+                
+            ]
         }
     ]
 }
