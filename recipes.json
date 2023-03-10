@@ -20239,7 +20239,7 @@
                 "8 stems PSB",
                 "80g butter",
                 "2 tbsp olive oil",
-                "10 bulb shallots",
+                "10 bulb shallots, quartered",
                 "6 cloves garlic, chopped",
                 "100g shredded fennel",
                 "Pinch salt and pepper",
@@ -20301,7 +20301,35 @@
                 "Add half the fried onion and stir gently with a fork."
             ],
             "tags": [
-                
+                "lentils",
+                "rice"
+            ]
+        },
+        {
+            "title": "Tabbouleh",
+            "image": "tabbouleh",
+            "url": "https://feelgoodfoodie.net/recipe/traditional-lebanese-tabbouleh-salad",
+            "ingredients": [
+                "⅓ cup olive oil",
+                "3 tbsp lemon juice",
+                "¼ cup extra fine bulgur wheat",
+                "2 bunches parsley, chopped",
+                "2 vine-ripe tomatoes",
+                "2 spring onions, thinly sliced",
+                "1/2 red onion, diced",
+                "¼ cup mint, chopped",
+                "Salt and pepper",
+                "1 clove garlic, minced"
+            ],
+            "steps": [
+                "In a small bowl, whisk together olive oil and lemon juice until well combined.",
+                "Add the bulgur and let it soak until it is soft and plumped, about 15 minutes.",
+                "Prepare the vegetables by washing, drying thoroughly and finely chopping them.",
+                "Place the chopped vegetables in a large bowl. Season with salt and pepper.",
+                "Then pour the bulgur and dressing mixture over. Gently toss to combine."
+            ],
+            "tags": [
+                "salad"
             ]
         }
     ]
