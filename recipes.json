@@ -20376,6 +20376,38 @@
             "tags": [
                 "rice"
             ]
+        },
+        {
+            "title": "Soy-Glazed Eggplant Donburi",
+            "image": "soy-glazed-eggplant-donburi",
+            "url": "https://www.justonecookbook.com/soy-glazed-eggplant-donburi",
+            "ingredients": [
+                "4 Japanese eggplants",
+                "4 spring onions",
+                "1 inch knob ginger, grated",
+                "4 tbsp cornstarch",
+                "8 Tbsp neutral-flavored oil",
+                "1 tsp toasted white sesame seeds",
+                "6 tbsp mirin",
+                "3 tbsp soy sauce",
+                "Rice"
+            ],
+            "steps": [
+                "Slice eggplant into ¼ inch slices and sprinkle salt over them.",
+               " Set aside for 15 minutes and wipe off the moisture with a paper towel.",
+               "Put cornstarch in a small tray and thinly coat the eggplant slices on both sides.",
+               "Heat 4 tablespoons oil in a frying pan over medium. Once hot, add the eggplant slices in a single layer.",
+               "Cook until the bottom side is golden brown, about 3-4 minutes.",
+               "When the bottom is seared, drizzle the rest of oil on top and flip the eggplant to cook the other side.",
+               "Reduce the heat to medium-low heat and add mirin, soy sauce, and grated ginger.",
+               "Bring it back to simmer and spoon the sauce over the eggplant a few times.",
+               "Remove from the heat when the eggplant is well-coated with the sauce.",
+               "Serve over rice and garnish with spring onions and sesame seeds."
+            ],
+            "tags": [
+                "Japanese",
+                "Rice"
+            ]
         }
     ]
 }
