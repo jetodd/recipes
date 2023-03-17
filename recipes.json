@@ -20408,6 +20408,53 @@
                 "Japanese",
                 "Rice"
             ]
+        },
+        {
+            "title": "Hambagu",
+            "image": "hambagu",
+            "url": "https://pickledplum.com/beyond-beef-hambagu-recipe",
+            "ingredients": [
+                "1 packet vegan mince",
+                "1 onion, finely chopped",
+                "4 garlic cloves, minced",
+                "1 tbsp soy sauce",
+                "2 tbsp oat milk",
+                "1/4 cup panko",
+                "1/2 tsp salt",
+                "1/4 tsp black pepper",
+                "1 tbsp ground flaxseed",
+                "1 tbsp vegetable oil",
+                "A little flour",
+                "2 tbsp vegan butter",
+                "1/4 cup all-purpose flour",
+                "2 cups mushroom broth",
+                "1 tbsp soy sauce",
+                "1 tbsp ketchup",
+                "1/2 tsp mirin",
+                "1 tsp sugar",
+                "Rice",
+                "150g baby spinach",
+                "1 tbsp toasted sesame oil",
+                "10g toasted sesame seeds"
+            ],
+            "steps": [
+                "Mix ingredients from mince to flaxseed egg in a bowl until well combined.",
+                "Form a ball and cut it into four equal parts.",
+                "Rub a little oil in the palm of your hands and grab one part.",
+                "Form it into an oval shape patty that’s about 1-inch thick. Repeat.",
+                "In the skillet over medium, add the vegetable oil. Once hot lay two patties on the skillet.",
+                "Lightly press the patties down so they are flat on the skillet and cook for 6 minutes.",
+                "Flip the patties and cook for another 6 minutes. Set aside and repeat with other patties.",
+                "In a small pot over medium heat, add the butter and flour and stir for 1 minute.",
+                "Slowly whisk in the mushroom broth, soy sauce, ketchup, mirin, and sugar.",
+                "Bring to a boil and boil for 2-3 minutes, until you get the consistency of gravy.",
+                "Add the spinach to a colander and pour over boiling water so that it starts to wilt.",
+                "Run cold water over the spinach to stop it cooking.",
+                "Add the spinach, sesame oil, sesame seeds and a pinch of salt to a bowl and mix it."
+            ],
+            "tags": [
+                "japanese"
+            ]
         }
     ]
 }
