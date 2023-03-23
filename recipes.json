@@ -20536,6 +20536,44 @@
                 "chinese",
                 "weekend"
             ]
+        },
+        {
+            "title": "Kofte",
+            "image": "kofte",
+            "url": "https://meatlessfarm.com/recipes/meatless-kofte-with-flatbreads-spicy-green-sauce/",
+            "ingredients": [
+                "1 pack vegan burger patties",
+                "Bamboo skewers",
+                "3 tsp harissa",
+                "Handful parsley, chopped",
+                "Handful coriander, chopped",
+                "4 cloves garlic, minced",
+                "½ tsp coriander",
+                "½ tsp cumin",
+                "½ tsp sumac",
+                "½ lemon, zest not juice",
+                "4 flatbreads",
+                "¼ cucumber, chopped",
+                "2 tomatoes, roughly chopped",
+                "8 mint leaves, roughly chopped",
+                "½ red onion, finely chopped",
+                "Chimichurri",
+                "Vegan yogurt"
+            ],
+            "steps": [
+                "Put the burgers in bowl, add ingredients from harissa to lemon zest, season and mix well.",
+                "Shape into two long rectangles, carefully skewer with the bamboo skewers.",
+                "Place on grease proof paper on a plate, keep covered in the fridge until needed",
+                "In a bowl mix the tomato, cucumber, mint, red onion and drizzle with olive oil and splash of vinegar.",
+                "Heat the griddle and lightly brush the kofte with oil.",
+                "Place on the BBQ, cook until crispy on one side, then flip and cook on the other side.",
+                "Brush the flatbreads with oil, toast on the BBQ for 30 seconds until warm.",
+                "Place the flatbread on a plate, add salad and kofte, drizzle over the chimichurri and yogurt."
+            ],
+            "tags": [
+                "wraps",
+                "turkish"
+            ]
         }
     ]
 }
