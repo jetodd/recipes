@@ -20282,8 +20282,8 @@
                 "1 ½ tsp cinnamon",
                 "1 tsp sugar",
                 "350ml vegetable stock",
-                "1/2 cup coriander, chopped",
-                "Juice of 1/2 lemon",
+                "½ cup coriander, chopped",
+                "Juice of ½ lemon",
                 "Vegan yogurt"
             ],
             "steps": [
@@ -20316,7 +20316,7 @@
                 "2 bunches parsley, chopped",
                 "2 vine-ripe tomatoes",
                 "2 spring onions, thinly sliced",
-                "1/2 red onion, diced",
+                "½ red onion, diced",
                 "¼ cup mint, chopped",
                 "Salt and pepper",
                 "1 clove garlic, minced"
@@ -20348,7 +20348,7 @@
                 "2 tbsp vegetable oil",
                 "3 cloves garlic, grated",
                 "1 tsp sambal oelek",
-                "1/2 tbsp brown sugar",
+                "½ tbsp brown sugar",
                 "2 tbsp kecap manis",
                 "1 tbsp soy sauce",
                 "250g peanut butter",
@@ -20454,6 +20454,87 @@
             ],
             "tags": [
                 "japanese"
+            ]
+        },
+        {
+            "title": "Charred courgette and pesto wraps",
+            "image": "charred-courgette-pesto-wraps",
+            "url": "https://www.instagram.com/p/Cp49h11qpxG/",
+            "ingredients": [
+                "4 courgettes, halved",
+                "8 leaves cavalenero",
+                "1 punnet shiitake mushrooms",
+                "6 cloves garlic",
+                "Wraps",
+                "Coconut yoghurt",
+                "Chilli crisp",
+                "1/4 cup cashews",
+                "2 cups fresh packed basil",
+                "2 cloves garlic",
+                "3 tbsp lemon juice",
+                "1/4 cup nutritional yeast",
+                "1/2 tsp salt",
+                "4 tbsp olive oil"
+            ],
+            "steps": [
+                "Soak the cashews in boiling water for 10 minutes.",
+                "Score the courgetter flesh in a cross cross pattern.",
+                "Brush some salt on top so the moisture gets released and leave for 15 mins.",
+                "Place ingredients from cashews to salt in the blender and blend until finely chopped.",
+                "With the food processor running, slowly drizzle in the olive oil and blend until smooth.",
+                "Now pat dry the courgette flesh with some kitchen towel.",
+                "Heat up some oil in a skillet and fry the courgettes until the bottom is charred.",
+                "Flip the courgettes and add them to the oven in the pan at 200C for 5 mins.",
+                "Then flip them again and cook for another 5 mins.",
+                "Meanwhile fry off your kale, mushrooms and garlic in some olive oil until cooked.",
+                "Spoon some pesto onto the wrap, add kale and mushrooms, top with courgette. Spoon on yogurt and chilli crisp."
+            ],
+            "tags": [
+                "wraps"
+            ]
+        },
+        {
+            "title": "Lion head soup",
+            "image": "lion-head-soup",
+            "url": "https://www.peacefuldumpling.com/recipe/lions-head-soup-chinese-vegan-meatball-soup",
+            "ingredients": [
+                "2 tbsp ground flax seed",
+                "1/2 tsp sugar",
+                "2 tsp Shaoxing wine",
+                "1/2 tsp white pepper",
+                "2 tsp soy sauce",
+                "4 tbsp water",
+                "1 block tofu, crumbled",
+                "6 shiitake mushrooms, diced",
+                "1/2 carrot, finely chopped",
+                "1 thumb ginger, minced",
+                "4 cloves garlic, minced",
+                "1/4 cup water chestnuts, diced",
+                "4 spring onion",
+                "3 tbsp cornstarch",
+                "2 tsp five spice",
+                "1 tbsp soy sauce",
+                "1 tbsp sesame oil",
+                "100g vermicelli noodles",
+                "4 cups vegetable stock",
+                "6 napa cabbage leaves",
+                "2 heads bok choy, halved and cored",
+                "1/2 carrot, sliced",
+                "1 thumb ginger cut into coins"
+            ],
+            "steps": [
+                 "Prepare your vegan eggs by combining the ground flax seed with water.",
+                 "In a large bowl combine ingredients from flax seed eggs to spring onion whites.",
+                 "Shape the mixture into meatballs and brush lightly with sesame oil.",
+                 "Cook meatballs in the air fryer until golden and crispy.",
+                 "Soak vermicelli noodles in warm water until softened, about 5 minutes. Drain and set aside.",
+                 "Meanwhile in a pot on low heat, simmer the vegetable stock and boil the vegetables.",
+                 "Add soy sauce and sesame oil to add a light flavor to your broth.",
+                 "Add vermicelli noodles and mix. Float the meatballs to the top of the soup."
+            ],
+            "tags": [
+                "chinese",
+                "weekend"
             ]
         }
     ]
