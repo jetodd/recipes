@@ -20574,6 +20574,43 @@
                 "wraps",
                 "turkish"
             ]
+        },
+        {
+            "title": "Eggplant fatteh",
+            "image": "eggplant-fatteh",
+            "url": "https://meatlessfarm.com/recipes/meatless-mince-aubergine-fatteh/",
+            "ingredients": [
+                "1 pack vegan mince",
+                "4 pita breads, cut into triangles",
+                "500g Greek yogurt",
+                "5 tbsp tahini",
+                "2 lemons, juiced",
+                "4 garlic cloves, crushed",
+                "2 tsp salt",
+                "125g pomegranate seeds",
+                "50g toasted pine nuts",
+                "1 tbsp shredded mint leaves",
+                "3 tbsp olive oil",
+                "1 onion, finely chopped",
+                "1 aubergine, cubed",
+                "2 tsp cumin",
+                "2 tsp coriander",
+                "1 tsp paprika"
+            ],
+            "steps": [
+                "Spread the pita triangles out on a large baking sheet.",
+                "Toast in a preheated oven at 180C for 10-15 mins or until they are crisp. Set aside.",
+                "In a heat-proof bowl mix the yogurt, tahini, lemon juice, garlic and 1/2 tsp of salt.",
+                "Heat oil in the wok and cook the onion, stirring occasionally, until translucent.",
+                "Turn the heat up and add the aubergine and stir well. Cook for 10 mins, stirring frequently.",
+                "Add the cumin, coriander, paprika and salt. Add the mince, breaking it up. Cook until mince is cooked through.",
+                "Pour 3cm of boiled water into  a fresh pan and put over a low heat.",
+                "Sit the bowl with the yogurt mixture on top, making sure it doesn’t touch the water.",
+                "Beat the yogurt mixture until it’s slightly above room temperature and has the consistency of lightly whipped cream."
+            ],
+            "tags": [
+                "egyptian"
+            ]
         }
     ]
 }
