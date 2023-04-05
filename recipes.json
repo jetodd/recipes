@@ -20611,6 +20611,75 @@
             "tags": [
                 "egyptian"
             ]
+        },
+        {
+            "title": "Eggplant, peanut and herb tarte tatin",
+            "image": "eggplant-peanut-herb-tart",
+            "url": "https://www.theguardian.com/food/2023/apr/01/vegan-sticky-aubergine-peanut-herb-tarte-tatin-recipe-georgina-hayden",
+            "ingredients": [
+                "2 eggplants",
+                "2 tbsp rice vinegar",
+                "3 tbsp soy sauce",
+                "3 tbsp caster sugar",
+                "5cm ginger, grated",
+                "2 green chillies, finely sliced",
+                "1 bunch spring onions, trimmed",
+                "2 garlic cloves, finely sliced",
+                "500g puff pastry",
+                "30g toasted peanuts",
+                "Small bunch coriander",
+                "Small bunch mint",
+                "Juice of 1 lime"
+            ],
+            "steps": [
+                "Preheat the oven to 200°C. Trim the eggplants, peel off the skin and cut into 2½cm slices.",
+                "Put an ovenproof pan on medium, add oil and fry the slices in batches until lightly browned on both sides.",
+                "Meanwhile whisk the rice vinegar, soy, sugar, ginger and half the chilli in a small bowl.",
+                "Cut the spring onions into 2-3cm lengths, and set aside a few of the green ends for garnish.",
+                "When the eggplant is cooked, add the spring onion and garlic to the pan, cook until fragrant.",
+                "Pour in the soy and vinegar mixture. Simmer for a couple of minutes, then take off the heat.",
+                "Roll out the puff pastry so it’s a bit larger than the frying pan.",
+                " Drape this over the top of the aubergine mixture and tuck it in neatly around the sides.",
+                "Prick all over with a fork, then bake for 25-30 minutes, until the pastry is golden.",
+                "Remove, leave to rest for two minutes, then carefully turn out on to a board.",
+                "Finely slice the spring onion, roughly chop the peanuts, coriander and mint.",
+                "Toss these with the remaining chilli and lime juice, sprinkle all over the top of the tart."
+            ],
+            "tags": [
+                "tart"
+            ]
+        },
+        {
+            "title": "Kimchi Risotto",
+            "image": "kimchi-risotto",
+            "url": "https://www.veggiesattiffanis.com/single-post/2023/04/03/vegan-kimchi-risotto/",
+            "ingredients": [
+                "3 spring onions",
+                "Toasted sesame oil",
+                "1 tbsp minced garlic",
+                "1 tbsp minced ginger",
+                "1 cup arborio",
+                "1/2 cup sake",
+                "White pepper",
+                "1 1/2 cups vegan kimchi",
+                "1 cup vegetable broth",
+                "6 tbsp coconut milk",
+                "1/2 tbsp agave",
+                "Toasted sesame seeds"
+            ],
+            "steps": [
+                "Lightly drizzle the wok with oil over medium heat.",
+                "Once hot, add in the whites of the green onions and sauté for one minute.",
+                "Add the garlic and ginger and drizzle with sesame oil. Sauté for 30 seconds.",
+                "Add the rice and cook for a minute to lightly toast.",
+                "Pour in sake and stir frequently until the wine is absorbed. Season with salt and pepper.",
+                "Stir in the kimchi (with liquid) and continue to stir until the liquid is absorbed.",
+                "Start adding the stock, a quarter of a cup at a time, until the rice is al dente.",
+                "Add the coconut milk, agave, and spring onion greens and stir."
+            ],
+            "tags": [
+                "rice"
+            ]
         }
     ]
 }
