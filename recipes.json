@@ -20680,6 +20680,36 @@
             "tags": [
                 "rice"
             ]
+        },
+        {
+            "title": "Banana bread baked oatmeal",
+            "image": "banana-bread-baked-oatmeal",
+            "url": "https://www.instagram.com/p/CqqqboeKYba/",
+            "ingredients": [
+                "2 large ripe bananas",
+                "330ml plant milk",
+                "60g nut butter",
+                "4 tbsp maple syrup",
+                "2 tsp vanilla",
+                "2 cups oats",
+                "2 tsp baking powder",
+                "½ tsp cinnamon",
+                "½ tsp salt",
+                "Handful of chocolate chips"
+            ],
+            "steps": [
+                "Preheat the oven to 200°C.",
+                "In an ovensafe tin mash the ripe bananas with a fork.",
+                "Add the milk, maple syrup, nut butter, vanilla and salt. Whisk until combined.",
+                "In a large bowl, mix together the oats, baking powder, cinnamon, and salt.",
+                "Add the oats, baking powder and chocolate chips, mix well.",
+                "Top with banana slices.",
+                "Bake for 30 to 40 minutes, until the top is nicely golden."
+            ],
+            "tags": [
+                "sweet",
+                "breakfast"
+            ]
         }
     ]
 }
