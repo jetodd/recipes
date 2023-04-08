@@ -20710,6 +20710,43 @@
                 "sweet",
                 "breakfast"
             ]
+        },
+        {
+            "title": "Smoked chipotle cauliflower",
+            "image": "smoked-chipotle-cauliflower",
+            "url": "https://www.instagram.com/p/CpCv6blKdKl/",
+            "ingredients": [
+                "1 cauliflower, quartered",
+                "2 onions, thickly sliced",
+                "Baby sweet peppers",
+                "1 tsp smoked paprika",
+                "1 tsp ground cumin",
+                "1 tsp garlic granules",
+                "Sprinkle of corn starch",
+                "4-5 gloves garlic",
+                "1 tbsp sriracha",
+                "2 tbsp chipotle paste",
+                "2 tbsp soy sauce",
+                "2 tbsp water",
+                "1 tbsp agave",
+                "1/2 cup vegan yogurt",
+                "Coriander",
+                "2 cloves garlic",
+                "Juice of 1/2 lime",
+                "Flatbreads"
+            ],
+            "steps": [
+                "Coat the cauliflower with paprika, cumin, garlic, salt, cornstarch and oil.",
+                "Massage in the seasoning until evenly coated.",
+                "Heat the griddle and sear the cauliflower on each side.",
+                "Transfer to the oven along with onion and peppers and cook until golden brown.",
+                "Meanwhile heat oil in a pan. Once hot add the garlic and cook until fragrant.",
+                "Add ingredients from sriracha to again and cook until heated through.",
+                "Blend ingredients from yogurt to lime."
+            ],
+            "tags": [
+                "bread"
+            ]
         }
     ]
 }
