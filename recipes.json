@@ -20747,6 +20747,44 @@
             "tags": [
                 "bread"
             ]
+        },
+        {
+            "title": "Beef and broccoli noodles",
+            "image": "beef-and-broccoli-noodles",
+            "url": "https://www.eatfigsnotpigs.com/vegan-beef-and-broccoli-noodles/",
+            "ingredients": [
+                "2 cups vegan beef",
+                "10 cloves garlic, minced",
+                "2 tbsp ginger, minced",
+                "¼ cup cornstarch",
+                "2 cups vegan beef stock",
+                "¼ cup soy sauce",
+                "3 tbsp Shaoxing wine",
+                "2 tbsp dark soy sauce",
+                "2 tbsp sesame oil",
+                "1/2 tsp five spice",
+                "1 tbsp sugar",
+                "2 tsp white pepper",
+                "340g hokkien noodles",
+                "2 heads broccoli",
+                "2 onions, sliced",
+                "Sesame seeds"    
+            ],
+            "steps": [
+                "Heat oil in the wok over medium. Once hot add the beef and cook until lightly browned.",
+                "Meanwhile, whisk the cornstarch and ¼ cup of water in a large bowl.",
+                "Whisk in the stock, soy sauce, Shaoxing wine, dark soy sauce, sesame oil, sugar, five spice and white pepper.",
+                "To the wok add the ginger and garlic and cook until fragrant.",
+                "Push the soy curls to the sides of the wok and pour in the sauce.",
+                "Reduce the heat and simmer until the sauce thickens and reduces a bit.",
+                "Meanwhile, cook the noodles according to package directions. Drain and set aside.",
+                "Add the broccoli and onion to the wok and simmer, until the broccoli softens just a bit.",
+                "Reduce the heat. Add the noodles and give it a toss to ensure they’re coated in the sauce."
+            ],
+            "tags": [
+                "noods",
+                "chinese"
+            ]
         }
     ]
 }
