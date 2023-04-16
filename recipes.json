@@ -20785,6 +20785,33 @@
                 "noods",
                 "chinese"
             ]
+        },
+        {
+            "title": "Garlic leeks and beans",
+            "image": "garlic-leeks-and-beans",
+            "url": "https://www.instagram.com/p/CqDOfUmqIL8/",
+            "ingredients": [
+                "4 leeks",
+                "6 cloves garlic",
+                "2 cans cannellini beans",
+                "2 tbsp tahini",
+                "Juice of 1/2 lemon",
+                "1 tsp coriander",
+                "1 tsp cumin",
+                "1/2 cup stock",
+                "Chives, chopped",
+                "Crusty bread"
+            ],
+            "steps": [
+                "Preheat the oven to 180°c.",
+                "Heat some oil in the wok. Once hot and add the leeks, cook until jammy.",
+                "Add the garlic, tahini, lemon juice, cumin and coriander. Season with salt and pepper.",
+                "Add the stock and mix. Pop in the oven for 15 minutes.",
+                "Top with chives and serve with bread."
+            ],
+            "tags": [
+                "bread"
+            ]
         }
     ]
 }
