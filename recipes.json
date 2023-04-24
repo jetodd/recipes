@@ -20914,6 +20914,33 @@
                 "chinese",
                 "rice"
             ]
+        },
+        {
+            "title": "Banana brownies",
+            "image": "banana-brownies",
+            "url": "https://minibatchbaker.com/small-batch-banana-brownies/",
+            "ingredients": [
+                "1 ripe banana",
+                "1/4 cup nut butter",
+                "1/4 cup sugar",
+                "1/4 cup cocoa powder",
+                "1/4 cup flour",
+                "1/4 tsp baking powder",
+                "1/2 tsp vanilla extract",
+                "1/8 tsp salt",
+                "1/4 cup chocolate chips"
+            ],
+            "steps": [
+                "Preheat oven to 180˚C and line a loaf pan with parchment.",
+                "In a bowl mash the banana and mix with everything but chocolate chips.",
+                "If the batter is dry add 1 tsp milk at a time to make it pourable and spreadable.",
+                "Fold in chocolate chips.",
+                "Pour in the pan and bake 20 minutes until the edges are done and the middle is springy.",
+                "Let bars cool completely and slice into fudgy squares."
+            ],
+            "tags": [
+                "sweet"
+            ]
         }
     ]
 }
