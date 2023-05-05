@@ -20941,6 +20941,33 @@
             "tags": [
                 "sweet"
             ]
+        },
+        {
+            "title": "Mushroom rice",
+            "image": "mushroom-rice",
+            "url": "https://daigasikfaan.com/blog/kfc-mushroom-rice/",
+            "ingredients": [
+                "2 servings rice",
+                "250g mushrooms, sliced",
+                "300g vegan beef stock",
+                "25g butter",
+                "2 tbsp flour",
+                "1 tbsp oyster sauce",
+                "1/2 tsp black pepper",
+                "1/2 tsp sugar",
+                "1/4 tsp salt"
+            ],
+            "steps": [
+                "Heat a tablespoon of oil in a frying pan. On medium-high heat.",
+                "Add the mushrooms and cook until softened. Remove and set aside.",
+                "Reduce heat to low-medium. Add a knob of butter into the pan.",
+                "Once it has melted, add flour. Mix until it becomes a roux and cook for 1 minute.",
+                "Add stock. Increase heat back to medium and stir until it becomes a thick gravy.",
+                "Add the mushrooms back. Add pepper, salt and sugar to taste. Mix well."
+            ],
+            "tags": [
+                "rice"
+            ]
         }
     ]
 }
