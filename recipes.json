@@ -9511,7 +9511,7 @@
             ],
             "steps": [
                 "Make marinara sauce",
-                "Preheat oven to 220C",
+                "Preheat oven to 220°C",
                 "Shave off long alternating strips of eggplant peel with a peeler. The eggplants will look striped like zebras when you’re done.",
                 "Slice the eggplants into ½-inch thick rounds, discarding the end pieces",
                 "Place the eggplant on the lined baking sheets.",
@@ -9617,7 +9617,7 @@
                 "14 oz can coconut milk"
             ],
             "steps": [
-                "Preheat the oven to 200 celsius.",
+                "Preheat the oven to 200°C.",
                 "Place sweet potato in a large bowl and toss with oil, jerk seasoning, and a pinch of salt.",
                 "Roast 20 minutes along with the cloves of garlic, turning halfway through.",
                 "In a saucepan add oil, half the onion and half the garlic. Cook until softened, 3 to 5 minutes.",
@@ -9760,7 +9760,7 @@
                 "Bread"
             ],
             "steps": [
-                "Preheat the oven to 190C.",
+                "Preheat the oven to 190°C.",
                 "Place a large pan over a medium heat and add a drizzle of olive oil.",
                 "Add the onion, garlic and a pinch of salt. Cook until soft.",
                 "Add the chopped sun-dried tomatoes and spices, mix well and cook for a few minutes ",
@@ -10090,7 +10090,7 @@
                 "Bread"
             ],
             "steps": [
-                "Preheat oven to 200C. Line a large baking sheet with parchment paper.",
+                "Preheat oven to 200°C. Line a large baking sheet with parchment paper.",
                 "Place tomatoes and garlic cloves on the baking sheet and drizzle with olive oil.",
                 "Season with salt and pepper. Roast in the oven for 30-35 minutes.",
                 "Add olive oil to the frying pan. Add the onions and stir to coat with olive oil.",
@@ -10121,7 +10121,7 @@
                 "1/2 cup chopped pecans"
             ],
             "steps": [
-                "Preheat the oven to 180C.",
+                "Preheat the oven to 180°C.",
                 "Wash squash under running water to remove any dirt or debris.",
                 "Pierce the all over with a knife to allow any steam to escape.",
                 "Place on a tray and roast for about an hour, or until easily pierced with a fork.",
@@ -10204,7 +10204,7 @@
                 "Rice"
             ],
             "steps": [
-                "Preheat the oven to 200C. Poke holes with a fork all around the eggplant.",
+                "Preheat the oven to 200°C. Poke holes with a fork all around the eggplant.",
                 "Roast the eggplants until their skins are blistered, about 30 minutes",
                 "Clean and cook the rice.",
                 "Prepare the sauce by combining soy sauce, mirin, sake and brown sugar. Set aside.",
@@ -21029,6 +21029,33 @@
             "tags": [
                 "tofu",
                 "rice"
+            ]
+        },
+        {
+            "title": "Garlic and chilli confit orzo",
+            "image": "garlic-chilli-confit-orzo",
+            "url": "https://myriadrecipes.com/garlic-chilli-confit-orzo",
+            "ingredients": [
+                "250g orzo",
+                "1 tsp salt",
+                "24 cloves garlic",
+                "2 red chillies, sliced",
+                "100ml vegetable oil",
+                "4 tbsp vegan parmesan",
+                "1 bunch broccolini"
+            ],
+            "steps": [
+                "Preheat the oven to 180°C.",
+                "Place garlic and chillies into a small ramekin and cover with oil.",
+                "Place into the oven and bake for 20-30 minutes.",
+                "Meanwhile, add your orzo, salt, and 400ml of boiling water to a pan.",
+                "Cook the orzo to packet instructions and then drain, reserving some water.",
+                "Once confit is cooked add to a pan with the orzo, parmesan and broccolini.",
+                "Add ¼ cup pasta water and cook until broccolini is tender."
+            ],
+            "tags": [
+                "orzo",
+                "pasta"
             ]
         }
     ]
