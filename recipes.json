@@ -21057,6 +21057,45 @@
                 "orzo",
                 "pasta"
             ]
+        },
+        {
+            "title": "Mango curry",
+            "image": "mango-curry",
+            "url": "https://myriadrecipes.com/mango-curry-recipe",
+            "ingredients": [
+                "2 tbsp coconut oil",
+                "6 garlic cloves, sliced",
+                "2 red onions, sliced",
+                "4 tsp black mustard seeds",
+                "½ tsp cinnamon",
+                "2 tsp curry powder",
+                "1 tsp turmeric",
+                "1 tsp cayenne",
+                "1 tbsp sugar",
+                "½ tsp salt",
+                "1 red chilli, sliced",
+                "1 tin coconut milk",
+                "2 tbsp desiccated coconut",
+                "¼ cup coconut milk",
+                "¼ tsp white vinegar",
+                "3 mangoes",
+                "Coriander",
+                "Rice"
+            ],
+            "steps": [
+                "Clean the rice, add half the coconut milk for cooking and top up with water.",
+                "Cut each mango into roughly eight wedges.",
+                "Place a pan on medium heat and add in the coconut oil.",
+                "Add the mustard seeds, turmeric, garlic, and onion. Cook until onions have softened.",
+                "Next, add cinnamon, cayenne, curry powder, salt, and sugar. Stir and cook until fragrant.",
+                "Add coconut milk, dessicated coconut, ½ cup water and red chillies. Heat to a simmer.",
+                "Add mango and vinegar, cover, and simmer on low for 15 minutes, stirring occasionally.",
+                "Serve over rice and garnish with coriander."
+            ],
+            "tags": [
+                "curry",
+                "rice"
+            ]
         }
     ]
 }
