@@ -2,6 +2,8 @@
 
 echo $PATH
 
+find / -name gunicorn
+
 ls -la /usr/local/bin/
 
 which gunicorn || echo "gunicorn not found"
