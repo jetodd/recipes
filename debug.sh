@@ -2,7 +2,7 @@
 
 echo $PATH
 
-which gunicorn
+which gunicorn || echo "gunicorn not found"
 
 pwd
 
