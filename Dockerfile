@@ -8,6 +8,9 @@ RUN apt-get update && apt-get install -y \
     python3-setuptools \
     python3-wheel
 
+ENV PYTHONDONTWRITEBYTECODE 1
+ENV PYTHONUNBUFFERED 1
+
 RUN mkdir -p /app
 WORKDIR /app
 
