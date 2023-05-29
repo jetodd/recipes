@@ -1,7 +1,7 @@
 FROM python:3.10-slim-bullseye
 
 RUN apt-get update && apt-get install -y \
-    libpq-dev \
+    libpq5 \
     python3-pip \
     python3-venv \
     python3-dev \
