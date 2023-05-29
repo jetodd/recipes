@@ -7,3 +7,4 @@
 !Procfile
 !recipes.json
 !requirements.txt
+!debug.sh
