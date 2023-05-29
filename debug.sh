@@ -2,6 +2,8 @@
 
 echo $PATH
 
+ls -la /usr/local/bin/
+
 which gunicorn || echo "gunicorn not found"
 
 pwd
