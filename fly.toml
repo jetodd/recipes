@@ -1,43 +1,35 @@
-# fly.toml file generated for stitches-recipes on 2022-07-30T19:23:40+01:00
+# fly.toml file generated for stitches-recipes on 2023-05-29T11:32:10+01:00
 
 app = "stitches-recipes"
 kill_signal = "SIGINT"
 kill_timeout = 5
-processes = []
 
 [env]
+  FLY_PROCESS_GROUP = "app"
   PORT = "8080"
-
-[experimental]
-  allowed_public_ports = []
-  auto_rollback = true
-
-[[services]]
-  http_checks = []
-  internal_port = 8080
-  processes = ["app"]
-  protocol = "tcp"
-  script_checks = []
-  [services.concurrency]
-    hard_limit = 25
-    soft_limit = 20
-    type = "connections"
-
-  [[services.ports]]
-    force_https = true
-    handlers = ["http"]
-    port = 80
-
-  [[services.ports]]
-    handlers = ["tls", "http"]
-    port = 443
-
-  [[services.tcp_checks]]
-    grace_period = "1s"
-    interval = "15s"
-    restart_limit = 0
-    timeout = "2s"
 
 [[statics]]
   guest_path = "/app/public"
   url_prefix = "/static/"
+
+[[services]]
+  protocol = "tcp"
+  internal_port = 8080
+
+  [[services.ports]]
+    port = 80
+    handlers = ["http"]
+    force_https = true
+
+  [[services.ports]]
+    port = 443
+    handlers = ["tls", "http"]
+  [services.concurrency]
+    type = "connections"
+    hard_limit = 25
+    soft_limit = 20
+
+  [[services.tcp_checks]]
+    interval = "15s"
+    timeout = "2s"
+    restart_limit = 0
