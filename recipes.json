@@ -17073,6 +17073,9 @@
                 "1 tsp dark soy sauce",
                 "3 tsp sugar",
                 "1 tsp five spice powder",
+                "1 star anise",
+                "2 dried red chili",
+                "1 cinnamon stick",
                 "½ tsp Sichuan peppercorns",
                 "¼ tsp msg",
                 "½ tsp salt",
@@ -17090,7 +17093,7 @@
                 "Heat oil in the wok, once hot add the potatoes. Fry until cooked through then set aside.",
                 "Add the garlic, ginger and spring onion whites to the wok and fry until fragrant.",
                 "Add the five spice and cook for 30 seconds, then add the tofu and potatoes back to the wok.",
-                "Swirl in the shaoxing wine. Then add the hot water, soy sauces, sugar and peppercorns.",
+                "Swirl in the shaoxing wine. Then add the hot water, soy sauces, sugar and whole spices.",
                 "Cover and simmer on low until everything is tender, about ten minutes.",
                 "Clean and cook the rice.",
                 "Uncover. Turn heat to high, add the onion and let reduce. Season with salt and MSG and mix in the pak choi.",
@@ -21174,6 +21177,44 @@
             ],
             "tags": [
                 "bread"
+            ]
+        },
+        {
+            "title": "Miso butter pasta",
+            "image": "miso-butter-pasta",
+            "url": "https://www.mob.co.uk/recipes/miso-butter-pasta",
+            "ingredients": [
+                "1 block tofu",
+                "1 tbsp garlic",
+                "1 tsp ginger",
+                "1 tsp light soy",
+                "1 tsp doubanjiang",
+                "1 tsp oyster sauce",
+                "1 tsp shaoxing wine",
+                "½ tsp chilli flakes",
+                "240g pasta",
+                "4 spring onions",
+                "6 cloves garlic, sliced",
+                "1 savoy cabbage, chopped",
+                "1 tsp mirin",
+                "3 tbsp red miso",
+                "50g butter",
+                "75g parmesan",
+                "Salt",
+                "Black pepper",
+                "Olive oil"
+            ],
+            "steps": [
+                "Drain and press the tofu. Once done crumble the tofu until it resembles mince.",
+                "In the pan with a little sesame oil add the ginger, garlic and tofu.",
+                "Once slightly crispy add the soy sauce, doubanjiang, oyster sauce and shaoxing wine.",
+                "Boil salted water and cook pasta according to package instructions. Reserve 1 cup pasta water.",
+                "Add cabbage, garlic and spring onion whites to the tofu. Cook until wilted.",
+                "Mix the miso, mirin and butter with 250ml pasta water, and add it to the browned pork.",
+                "Toss in the pasta, parmesan and black pepper. Mix well."
+            ],
+            "tags": [
+                
             ]
         }
     ]
