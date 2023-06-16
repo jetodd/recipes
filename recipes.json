@@ -21240,11 +21240,79 @@
                 "Meanwhile cook the gnocchi according to package instructions.",
                 "Add the canned tomatoes, red pepper, eggplant, oat milk, nooch, chili flakes, and garlic powder to the wok.",
                 "Add half the cherry tomatoes then blend with the immersion blender until smooth.",
-                "Add the gnocchi and remaining cherry tomatoesthen turn on the heat and cook for few minutes."
+                "Add the gnocchi and remaining cherry tomatoes then turn on the heat and cook for few minutes. Top with basil."
             ],
             "tags": [
                 "gnocchi",
                 "tomato"
+            ]
+        },
+        {
+            "title": "Pea and potato risotto",
+            "image": "pea-and-potato-risotto",
+            "url": "https://exploringvegan.com/vegan-pea-and-potato-risotto/",
+            "ingredients": [
+                "1 onion, diced",
+                "6 cloves garlic, sliced",
+                "450g potatoes, peeled and cubed",
+                "1 cup arborio",
+                "5 cups veggie stock",
+                "1 cup peas",
+                "½ cup dill, roughly chopped",
+                "2 tbsp vegan butter"
+            ],
+            "steps": [
+                "Heat oil in the wok on medium heat. Add the onion and cook until it softens.",
+                "Add the potatoes and cook until they just begin to soften around the edges.",
+                "Add the garlic and cook until fragrant. Season with salt and pepper.",
+                "Add the rice to the potatoes and toss to combine. Cook for a minute to toast.",
+                "Begin adding the stock incrementally. Stir frequently.",
+                "Add the peas, dill and butter and cook until the peas are bright green."
+            ],
+            "tags": [
+                "rice"
+            ]
+        },
+        {
+            "title": "Black pepper tofu in miso",
+            "image": "black-pepper-tofu-in-miso",
+            "url": "https://exploringvegan.com/black-pepper-tofu-in-sesame-miso-broth",
+            "ingredients": [
+                "1 block tofu",
+                "2 tbsp cornstarch",
+                "2 tbsp black pepper",
+                "1 onion, sliced",
+                "6 cloves garlic, sliced",
+                "6 scallions",
+                "2 tbsp miso paste",
+                "6 cups vegetable stock",
+                "2 tbsp tahini",
+                "2 tsp sesame oil",
+                "2 tsp soy sauce",
+                "150g baby spinach",
+                "Babk pak choi, quartered",
+                "1 cup unsalted peanuts",
+                "1 tbsp sesame seeds"
+            ],
+            "steps": [
+                "Drain and press the tofu then cut into cubes.",
+                "Clean and cook the rice.",
+                "Toss the tofu cornstarch. Season with salt and the black pepper.",
+                "Heat oil in the frying pan over medium-high heat.",
+                "Add the tofu in one layer and cook until crisp. Flip and repeat. Set aside.",
+                "Add oil to the wok, add onion and cook until softened.",
+                "Add garlic and spring onion whites and cook until fragrant.",
+                "Add miso paste, pressing it into the onions, for 1 minute until fragrant.",
+                "Pour in stock, stirring to incorporate.",
+                "Once it bubbles lightly turn down the heat and add tahini, sesame oil, and soy sauce",
+                "Add the tofu to the broth and cook, uncovered, for 15 minutes.",
+                "Meanwhile in a small pot cook the peanuts until brown.",
+                "Turn off the heat and stir in the spring onion greens and sesame seeds. Set aside.",
+                "Stir in the spinach and pak choi and cook until bright green and wilted. Taste and season."
+            ],
+            "tags": [
+                "rice",
+                "tofu"
             ]
         }
     ]
