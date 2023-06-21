@@ -21314,6 +21314,49 @@
                 "rice",
                 "tofu"
             ]
+        },
+        {
+            "title": "Eggplant, coriander and lemongrass soup",
+            "image": "eggplant-coriander-lemongrass-soup",
+            "url": "https://www.theguardian.com/lifeandstyle/2017/apr/30/nigel-slater-spring-soup-recipes",
+            "ingredients": [
+                "2 chillies",
+                "4 cloves garlic",
+                "1 knob gaflangal",
+                "1 shallot",
+                "3 lemongrass stalks",
+                "1/2 tsp coriander seeds",
+                "1/2 tsp cumin seeds",
+                "75g coriander",
+                "1 tsp turmeric",
+                "500g eggplant",
+                "Green beans",
+                "500ml vegetable stock",
+                "1 can coconut milk",
+                "Rice noodles",
+                "2 tbsp vegan fish sauce",
+                "Juice of 1 lime",
+                "Mint",
+                "Coriander",
+                "Thai basil"
+            ],
+            "steps": [
+                "In a dry pan toast the coriander and cumin seeds until fragrant, do not burn them.",
+                "Slice the eggplants in half lengthways then score the flesh in a lattice pattern.",
+                "Warm the oil in a flat pan then fry on both sides until golden. Set aside.",
+                "In the blender add the ingredients from chillies to tumeric.",
+                "Blend into a thick paste, slowly adding oil to reach desired consistency.",
+                "Add the paste to a saucepan with a tablespoon of coconut milk.",
+                "Fry over a moderate heat for two minutes, stirring continually.",
+                "Pour in the stock and the coconut milk. Bring to the boil then lower to a simmer.",
+                "Add the eggplant and fish sauce. Taste and season, then simmer for five minutes.",
+                "Meanwhile, soak rice noodles in boiling water.",
+                "Add the lime juice to the soup. Serve over noodles with herbs on top."
+            ],
+            "tags": [
+                "soup",
+                "noods"
+            ]
         }
     ]
 }
