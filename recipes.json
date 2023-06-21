@@ -21357,6 +21357,74 @@
                 "soup",
                 "noods"
             ]
+        },
+        {
+            "title": "Roasted garlic alfredo",
+            "image": "roasted-garlic-alfredo",
+            "url": "https://www.bosh.tv/recipes/creamy-roasted-garlic-alfredo",
+            "ingredients": [
+                "1 cauliflower, cut into florets",
+                "2 large garlic bulbs",
+                "450ml oat milk",
+                "4 tsp nooch",
+                "8 sprigs thyme",
+                "4 sprigs rosemary",
+                "2 bay leaves",
+                "240 linguine",
+                "30g parsley, chopped"
+            ],
+            "steps": [
+                "Spread cauliflower on a baking tray, drizzle with olive oil and season with salt and pepper.",
+                "Cut about ½ inch off the top of the garlic bulb.",
+                "Drizzle the cut portion with olive oil, then wrap in tin foil.",
+                "Roast at 180˚C for 25 mins or until the cauliflower is tender.",
+                "Add the oat milk, nooch, rosemary, thyme and bay leaf to a saucepan and simmer for 10 minutes.",
+                "Take off the stove and leave to cool. Once cool sieve the mixture to remove the herbs.",
+                "Once garlic is cool squeeze into the blender, add cauliflower and blend into a puree.",
+                "Gradually pour in the milk whilst blending, once smooth turn off.",
+                "Prepare pasta according to package instructions. Reserve some cooking water.",
+                "Meanwhile, pour the sauce into the wok and simmer gently. Taste and season.",
+                "Add a little pasta water to the sauce, then stir in the pasta."
+            ],
+            "tags": [
+             "pasta"   
+            ]
+        },
+        {
+            "title": "Curry puffs",
+            "image": "curry-puffs",
+            "url": "https://foodpassionical.com/oven-baked-vegan-curry-puffs/",
+            "ingredients": [
+                "2 potatoes, peeled and diced",
+                "1/4 cup carrot, diced",
+                "1 onion, chopped",
+                "1/4 cup frozen peas",
+                "1 green chilli, chopped",
+                "1 red chilli, chopped",
+                "4 cloves garlic, minced",
+                "1 tbsp chopped curry leaves",
+                "1 1/2 tbsp curry powder",
+                "1/2 tsp chilli powder",
+                "1/2 tbsp garam masala",
+                "1 tsp cumin",
+                "1/4 tsp tumeric",
+                "1 tsp sugar",
+                "1 tsp mushroom powder",
+                "80ml water",
+                "2 sheets of Puff pastry"
+            ],
+            "steps": [
+                "Heat oil in a pan, sauté onion and garlic until softened.",
+                "Add curry leaves and spices, cook for few minutes.",
+                "Add potatoes, cook a little, then add carrots.",
+                "Once mostly cooked add the frozen peas.",
+                "Add water and cook until the potatoes are soft and tender.",
+                "Cut pastry into 4 squares, fill each with curry mix and seal the edges.",
+                "Baked for 30 minutes or until golden brown."
+            ],
+            "tags": [
+                "sides"
+            ]
         }
     ]
 }
