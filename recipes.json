@@ -21460,6 +21460,37 @@
             "tags": [
                 "rice"
             ]
+        },
+        {
+            "title": "Tomato tarte tatin",
+            "image": "tomato-tarte-tatin",
+            "url": "https://www.sainsburysmagazine.co.uk/recipes/mains/tomato-tarte-tatin",
+            "ingredients": [
+                "1 sheet ready-rolled puff pastry",
+                "1 tbsp olive oil",
+                "10-15 small shallots, peeled",
+                "500g-750g cherry tomatoes",
+                "1 tbsp sugar",
+                "1 tbsp balsamic vinegar",
+                "A few sprigs thyme"
+            ],
+            "steps": [
+                "Take an ovensafe pan and cut the pastry into a circle the size of the top of the pan.",
+                "Chill pastry in the fridge.",
+                "Now place the pan over a medium heat with 1 tablespoon of olive oil.",
+                "Once hot, add the shallots and gently brown, shaking the pan occasionally, set aside.",
+                "Add enough cherry tomatoes to the pan so that the whole base of the pan is covered.",
+                "Season then cook until the tomatoes start to soften but are still holding their shape.",
+                "Remove to the plate to cool a little. Meanwhile, preheat the oven to 220°C.",
+                "Add 2 tablespoons of water to the tomato juices in the frying pan.",
+                "Add the sugar and balsamic vinegar. Bubble for about 3 minutes until slightly syrupy, remove from heat.",
+                "Return the shallots and tomatoes to the pan and scatter over the thyme leaves.",
+                "Lay the pastry circle over the tomatoes and tuck in the edges.",
+                "Pierce the pastry with several holes to allow steam to escape then bake for 30 minutes."            ],
+            "tags": [
+                "pastry",
+                "tomato"
+            ]
         }
     ]
 }
