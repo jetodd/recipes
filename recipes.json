@@ -21290,7 +21290,7 @@
                 "2 tsp sesame oil",
                 "2 tsp soy sauce",
                 "150g baby spinach",
-                "Babk pak choi, quartered",
+                "Baby pak choi, quartered",
                 "1 cup unsalted peanuts",
                 "1 tbsp sesame seeds"
             ],
@@ -21325,8 +21325,8 @@
                 "1 knob gaflangal",
                 "1 shallot",
                 "3 lemongrass stalks",
-                "1/2 tsp coriander seeds",
-                "1/2 tsp cumin seeds",
+                "½ tsp coriander seeds",
+                "½ tsp cumin seeds",
                 "75g coriander",
                 "1 tsp turmeric",
                 "500g eggplant",
@@ -21396,18 +21396,18 @@
             "url": "https://foodpassionical.com/oven-baked-vegan-curry-puffs/",
             "ingredients": [
                 "2 potatoes, peeled and diced",
-                "1/4 cup carrot, diced",
+                "¼ cup carrot, diced",
                 "1 onion, chopped",
-                "1/4 cup frozen peas",
+                "¼ cup frozen peas",
                 "1 green chilli, chopped",
                 "1 red chilli, chopped",
                 "4 cloves garlic, minced",
                 "1 tbsp chopped curry leaves",
-                "1 1/2 tbsp curry powder",
-                "1/2 tsp chilli powder",
-                "1/2 tbsp garam masala",
+                "1 ½ tbsp curry powder",
+                "½ tsp chilli powder",
+                "½ tbsp garam masala",
                 "1 tsp cumin",
-                "1/4 tsp tumeric",
+                "¼ tsp tumeric",
                 "1 tsp sugar",
                 "1 tsp mushroom powder",
                 "80ml water",
@@ -21424,6 +21424,41 @@
             ],
             "tags": [
                 "sides"
+            ]
+        },
+        {
+            "title": "Sausage fennel risotto",
+            "image": "sausage-fennel-risotto",
+            "url": "https://www.mob.co.uk/recipes/sausage-fennel-risotto",
+            "ingredients": [            
+                "2 celery sticks, diced",
+                "1 onion, diced",
+                "2 shallots, diced",
+                "6 cloves garlic, sliced",
+                "6 sausages, deskinned",
+                "1 tbsp fennel seeds",
+                "1 tsp chilli flakes" ,
+                "280g arborio",
+                "1L vegetable stock",
+                "175ml white wine",
+                "100g parmesan",
+                "Knob of butter",
+                "Bunch of basil"
+            ],
+            "steps": [
+                "In a pot, bring the stock to a light simmer.",
+                "Heat some oil in the wok, add the sausage and break up into pieces.",
+                "Once browned remove from the pan and set aside.",
+                "In the same pan add the celery and onion with some olive oil, cook until translucent.",
+                "Next, whack in your fennel seeds and chilli flakes and mix together.",
+                "Once combined, pour in your glass of white wine and cook until it has evaporated.",
+                "Tip in the rice and toast in the pan for about 1 minute.",
+                "Add the stock skillet, one ladle at a time until it has absorbed. Stirring continuously.",
+                "Next, add your sausage balls and mix them through.",
+                "Turn off the heat and mix in a knob of butter and 80g of parmesan.",
+                "Chop the basil and add it in and season with salt and pepper."            ],
+            "tags": [
+                "rice"
             ]
         }
     ]
