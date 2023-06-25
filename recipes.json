@@ -21514,6 +21514,51 @@
             "tags": [
                 "sauces"
             ]
+        },
+        {
+            "title": "Gyros",
+            "image": "gyros",
+            "url": "https://www.lazycatkitchen.com/vegan-gyros",
+            "ingredients": [
+                "4 tbsp olive oil",
+                "1 red onion, diced",
+                "4 cloves garlic, diced",
+                "1/8 tsp cloves",
+                "¼ tsp cinnamon",
+                "½ tsp cumin",
+                "2 tsp dry oregano",
+                "½ tsp chilli power",
+                "2 tbsp tomato paste",
+                "2 tins jackfruit",
+                "4 tbsp soy sauce",
+                "2 tbsp maple syrup",
+                "¼ tsp white pepper",
+                "2 tsp apple cider vinegar",
+                "Cherry tomatoes, quartered",
+                "Tzatziki",
+                "6 pitas",
+                "Lettuce, shredded",
+                "1 red onion, finely sliced"
+            ],
+            "steps": [
+                "Drain the jackfruit. Cut the firm, pointy ends off each piece of jackfruit. Set aside.",
+                "Heat oil in the pan. Cook red onion until softened, translucent and lightly caramelised.",
+                "Add garlic and fry off gently until soft and fragrant.",
+                "Add cloves, cinnamon, cumin, and oregano. Cook for a minute, stirring the whole time.",
+                "Mix in the tomato paste.",
+                "Add the jackfruit, soy sauce, maple syrup and apple cider vinegar. Mix well.",
+                "Squash the jackfruit so that the individual fibres separate more.",
+                "Season with white pepper and chilli. Simmer gently for 10-15 minutes then cool and refrigerate.",
+                "Set the oven to 200°C, spread the jackfruit over a baking tray",
+                "Bake for about 20-25 minutes, until a little caramelised and browned around the edges.",
+                "Just before serving, warm pitas up in a low oven.",
+                "Place warmed-up pitas on a work surface, fluffier side down.",
+                "Fill with lettuce, cucumber, tomato, onion, tzatziki and jackfruit."
+            ],
+            "tags": [
+                "bread",
+                "weekend"
+            ]
         }
     ]
 }
