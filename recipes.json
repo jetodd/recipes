@@ -21523,7 +21523,7 @@
                 "4 tbsp olive oil",
                 "1 red onion, diced",
                 "4 cloves garlic, diced",
-                "1/8 tsp cloves",
+                "⅛ tsp cloves",
                 "¼ tsp cinnamon",
                 "½ tsp cumin",
                 "2 tsp dry oregano",
@@ -21558,6 +21558,47 @@
             "tags": [
                 "bread",
                 "weekend"
+            ]
+        },
+        {
+            "title": "Burrata and orzo",
+            "image": "burrata-and-orzo",
+            "url": "https://www.instagram.com/p/Ctwmr5HqWyR/",
+            "ingredients": [
+                "1 red onion, diced",
+                "2 shallots, diced",
+                "4 garlic cloves, sliced",
+                "4 handfuls of orzo",
+                "1 glass white wine",
+                "1.5l vegetable stock",
+                "4 tbsp tomato purée",
+                "1/2 tin chopped tomatoes",
+                "1 tbsp oregano",
+                "1 packet cherry tomatoes",
+                "1 knob of butter",
+                "Burrata",
+                "Salt",
+                "Pepper",
+                "2 tbsp olive oil",
+                "2 garlic cloves",
+                "Bunch of basil",
+                "5 tbsp olive oil"
+            ],
+            "steps": [
+                "In a pan sauté the onion on medium-low with 2 tbsp olive oil and a pinch of salt.",
+                "Once translucent, add the garlic and shallot. Cook until fragrant.",
+                "Add the orzo, toast for 1-2 minutes, then add the wine and cook off.",
+                "Mix the tomato purée in with the simmering veg stock.",
+                "Add the tinned tomatoes and oregano and stir in.",
+                "Add 1 ladle of stock, stir until fully absorbed, then repeat until cooked.",
+                "Meanwhile heat another pan, swirl the bottom with olive oil.",
+                "Add tomatoes and char on all sides, turning occasionally until softened and bursting.",
+                "Finish the orzo off by adding the cherry tomatoes and beating through butter.",
+                "For the basil oil, blitz together garlic, salt, basil & olive oil.",
+                "Serve the orzo in bowls, top with burrata and drizzle over the basil oil"
+            ],
+            "tags": [
+                "pasta"
             ]
         }
     ]
