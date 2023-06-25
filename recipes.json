@@ -21491,6 +21491,29 @@
                 "pastry",
                 "tomato"
             ]
+        },
+        {
+            "title": "Tzatziki",
+            "image": "tzatziki",
+            "url": "https://www.pickuplimes.com/recipe/vegan-tzatziki-2",
+            "ingredients": [
+                "½ cucumber",
+                "1 cup yogurt",
+                "2 cloves garlic, crushed",
+                "¼ cup dill, minced",
+                "½ lemon, juiced",
+                "1 tsp olive oil",
+                "¼ tsp salt",
+                "⅛ tsp black pepper"
+            ],
+            "steps": [
+                "Using a box grater, grate the cucumber.",
+               " Drain off the excess liquid by squeezing the grated cucumber firmly with your hands.",
+               "To a bowl, add the pressed cucumber along with all the other ingredients."
+            ],
+            "tags": [
+                "sauces"
+            ]
         }
     ]
 }
