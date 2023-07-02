@@ -21669,6 +21669,40 @@
             "tags": [
                 "sides"
             ]
+        },
+        {
+            "title": "Braised shiitake mushrooms",
+            "image": "braised-shiitake-mushroom",
+            "url": "https://eatwkriss.com/braised-shiitake-mushrooms-w-bok-choy/",
+            "ingredients": [
+                "14 dried shiitake mushrooms",
+                "6 garlic cloves, minced",
+                "1 knob ginger, minced",
+                "1.5 cups mushroom water",
+                "2 tbsp soy sauce",
+                "1 tbsp vegetarian oyster sauce",
+                "2 tsp sesame oil",
+                "1 tbsp cornstarch",
+                "2 tsp shaoxing wine",
+                "White pepper",
+                "4 heads pak choi, quartered",
+                "Rice"
+            ],
+            "steps": [
+                "Soak shiitake mushrooms in hot water for 1 hour until reconstituted.",
+                "Keep the mushroom water and cut off the hard stems.",
+                "Clean and cook the rice.",
+                "In the wok over medium, cook ginger and garlic with some oil until fragrant.",
+                "Add in the mushrooms and cook for 1 minute.",
+                "Lower the heat and add mushroom water, soy sauce, oyster sauce and sesame oil.",
+                "Cover and simmer for 20 minutes, flipping the mushrooms halfway.",
+                "Blanch the bok choy for 1-2 minutes then submerge in ice cold water.",
+                "Mix cornstarch slurry into the mushroom sauce.",
+                "Finish with shaoxing wine and white pepper to taste."
+            ],
+            "tags": [
+                "rice"
+            ]
         }
     ]
 }
