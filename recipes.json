@@ -21780,6 +21780,43 @@
             "tags": [
                 "tacos"
             ]
+        },
+        {
+            "title": "Tomato & Mint Salad",
+            "image": "tomato-and-mint-salad",
+            "url": "https://www.mob.co.uk/recipes/tomato-mint-salad-with-paprika-vinaigrette",
+            "ingredients": [
+                "500g mixed tomatoes",
+                "2 flatbreads",
+                "1 red onion",
+                "200g sun-dried tomatoes",
+                "25g mint",
+                "Vegan feta",
+                "4 tbsp olive oil",
+                "1 tbsp paprika",
+                "1 tsp agave",
+                "1 tsp dijon mustard",
+                "Juice of 1 lemon",
+                "1 tsp chilli flakes",
+                "2 tbsp toasted sesame seeds"
+            ],
+            "steps": [
+                "Preheat oven to 200°C",
+                "Cut the tomatoes up into roughly the same size.",
+                "Put tomatoes in a sieve set over a bowl and season with salt, then set aside.",
+                "Tear the flatbread into pieces and chuck on a baking sheet.",
+                "Drizzle with olive oil and season with salt and pepper, then put in the oven for 10-12 mins.",
+                "Roughly chop the sundried tomatoes and finely slice the red onion.",
+                "Add olive oil, paprika, honey, dijon, lemon juice and chilli flakes in a jar.",
+                "Season generously with salt and pepper then seal with the lid and shake up until emulsified.",
+                "Add the tomatoes to a bowl with the sundried tomatoes, red onion, flatbread and most of the mint.",
+                "Before adding the dressing - give it a toss and taste for seasoning.",
+                "Crumble over the feta, then scatter over the remaining mint leaves and toasted sesame seeds."
+            ],
+            "tags": [
+                "salad",
+                "tomatoes"
+            ]
         }
     ]
 }
