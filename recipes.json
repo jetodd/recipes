@@ -13940,7 +13940,7 @@
                 "3 cups baby spinach"
             ],
             "steps": [
-                "Preheat the oven to 210C. Line a large baking sheet with parchment paper.",
+                "Preheat the oven to 210°C. Line a large baking sheet with parchment paper.",
                 "Place the cherry tomatoes on the baking sheet, toss in olive oil, season and spread out in a single layer.",
                 "Roast for 25 minutes, moving them around halfway through.",
                 "Place ingredients from pine nuts to salt in the blender and blend until finely chopped.",
@@ -21702,6 +21702,58 @@
             ],
             "tags": [
                 "rice"
+            ]
+        },
+        {
+            "title": "Sundried tomato pesto pasta salad",
+            "image": "sundried-tomato-pesto-pasta-salad",
+            "url": "https://zenaskitchen.com/sundried-tomato-pesto-pasta-salad/",
+            "ingredients": [
+                "4 sweet red peppers, sliced",
+                "2 courgettes, cubed",
+                "2 eggplants, diced",
+                "1 tbsp olive oil",
+                "2 tsp balsamic vinegar",
+                "1 tsp dried Italian herbs",
+                "240g orzo",
+                "50g baby spinach, chopped",
+                "10g basil, sliced",
+                "25g cashews",
+                "15g vegan parmesan",
+                "2 garlic cloves, chopped",
+                "60g sundried tomatoes, drained",
+                "50ml extra-virgin olive oil",
+                "20g basil, roughly chopped",
+                "Zest of 1 lemon"
+            ],
+            "steps": [
+                "Soak the cashews in hot water for 15 minutes.",
+                "Add cashews, parmesan, garlic and sundried tomatoes to the blender.",
+                "Blend until finely chopped then add the olive oil, basil and lemon zest. Blend until smooth.",
+                "Heat the oven to  210°C. Place peppers, courgette and eggplant in a large bowl.",
+                "Add the olive oil, balsamic vinegar and Italian herbs. Season and toss to combine.",
+                "Place vegetables in one layer on the tray. Roast, tossing halfway, 15 to 20 minutes.",
+                "Meanwhile cook the pasta in generously salted water according to package instructions.",
+                "Drain the pasta, rinse under cold water, and drain again.",
+                "Transfer pasta to a bowl, add the vegetables, spinach, basil and pesto and stir to combine."
+            ],
+            "tags": [
+                "pasta",
+                "salad"
+            ]
+        },
+        {
+            "title": "",
+            "image": "",
+            "url": "",
+            "ingredients": [
+                
+            ],
+            "steps": [
+                
+            ],
+            "tags": [
+                
             ]
         }
     ]
