@@ -21817,6 +21817,49 @@
                 "salad",
                 "tomatoes"
             ]
+        },
+        {
+            "title": "Butterbean caponata",
+            "image": "butterbean-caponata",
+            "url": "https://cookieandkate.com/caponata-recipe/",
+            "ingredients": [
+                "1 large eggplant, cubed",
+                "1 tin butterbeans, drained",
+                "2 red peppers, chopped",
+                "5 cloves garlic, minced",
+                "1 onion, chopped",
+                "1 can tomatoes",
+                "Plum tomatoes",
+                "2 tbsp red wine vinegar",
+                "¼ cup pitted green olives, chopped",
+                "2 tbsp capers, drained",
+                "2 tbsp tomato puree",
+                "1 tbsp agave",
+                "½ chilli flakes",
+                "1 bay leaf",
+                "¼ cup chopped parsley",
+                "¼ cup chopped basil",
+                "Ciabatta",
+                "Chimichurri"
+            ],
+            "steps": [
+                "Preheat the oven to 210°C and line a large baking tray with baking paper.",
+                "Place eggplant on the tray then sprinkle with salt and drizzle with olive oil.",
+                "Roast the eggplant for 25 to 30 minutes, stirring halfway, until deeply golden.",
+                "Meanwhile, heat olive oil in the wok. Add the onion and bell pepper.",
+                "Season with salt and pepper and cook until vegetables start to soften, stirring often.",
+                "Add garlic and cook until fragrant. Add tomatoes and stir to combine.",
+                "Add the olives, vinegar, capers, honey, red pepper flakes, and bay leaf. Stir to combine.",
+                "Simmer on medium-low heat for 10 minutes or so, stirring occasionally.",
+                "Discard the bay leaf. Stir in the eggplant and butterbeans and cook for another 2 to 3 minutes.",
+                "Take off heat and stir in the herbs. Taste and season.",
+                "Place ciabatta on a tray and drizzle with olive oil. Bake until lightly toasted.",
+                "Rub the cut side of the ciabatta with a clove of garlic for extra flavour."
+            ],
+            "tags": [
+                "sicilian",
+                "bread"
+            ]
         }
     ]
 }
