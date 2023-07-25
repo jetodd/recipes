@@ -21860,6 +21860,55 @@
                 "sicilian",
                 "bread"
             ]
+        },
+        {
+            "title": "Caribbean jackfruit curry",
+            "image": "caribbean-jackfruit-curry",
+            "url": "https://veganpunks.com/curried-jackfruit/",
+            "ingredients": [
+                "1 onion, chopped",
+                "1 inch ginger, chopped",
+                "5 cloves garlic, diced",
+                "1 scotch bonnet, finely diced",
+                "5 tbsp Jamaican curry powder",
+                "1 tsp allspice",
+                "1 tsp oregano",
+                "½ tsp turmeric",
+                "¼ tsp white pepper",
+                "2 tbsp tomato puree",
+                "4 fresh thyme sprigs",
+                "1 tbsp soy sauce",
+                "400ml coconut milk",
+                "1 cup vegetable stock",
+                "400g chopped tomatoes",
+                "400g young jackfruit",
+                "200g potatoes, peeled and cubed",
+                "200g carrots, peeled and cubed",
+                "1 tin kidney beans",
+                "1 ½ cup rice",
+                "400ml coconut milk",
+                "½ cup water",
+                "½ tsp salt",
+                "½ tsp sugar",
+                "Coriander, chopped"
+            ],
+            "steps": [
+                "Clean the rice. Drain and add coconut milk, water, salt and sugar then cook.",
+                "Add oil to a the wok and bring to a medium-high heat.",
+                "Fry the onion for 4-5 minutes until it has softened.",
+                "Throw in the garlic, ginger, chilli and stir for another minute.",
+                "Add the curry powder, allspice, oregano, turmeric and white pepper. Cook for a minute whilst stirring.",
+                "Stir in the tomato puree and cook until darkened.",
+                "Pour in the coconut milk, tinned tomatoes, stock, soy sauce and thyme. Bring to a simmer.",
+                "Pop in the jackfruit and potatoes and stir it all together.",
+                "Simmer for 20 - 30 minutes, adding the carrot halfway and kidney beans near the end.",
+                "Season with salt and pepper and remove the sprigs of thyme.",
+                "Fluff the rice with a fork and mix in coriander."
+            ],
+            "tags": [
+                "curry",
+                "jamaican"
+            ]
         }
     ]
 }
