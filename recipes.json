@@ -3922,23 +3922,34 @@
             "title": "Japchae",
             "url": "https://pickledplum.com/japchae-recipe/",
             "ingredients": [
+                "1 block tofu",
+                "2 dried shiitake mushrooms, soaked",
+                "2 garlic cloves, minced",
+                "1 tsp sugar",
+                "2 tsp soy sauce",
+                "2 tsp sesame oil",
+                "1/4 tsp white pepper",
                 "200 grams sweet potato noodles",
                 "1 tsp sesame oil",
                 "3 tbsp soy sauce",
                 "1 tbsp dark soy sauce",
                 "2 tsp sugar",
                 "4 cloves garlic",
-                "2 medium onions (thinly sliced)",
-                "6 shiitake mushrooms (sliced into strips)",
-                "1 red bell pepper (sliced into thin strips)",
-                "1 medium carrot (sliced into thin strips)",
+                "2 medium onions, thinly sliced",
+                "6 shiitake mushrooms, sliced",
+                "1 red bell pepper, sliced",
+                "1 medium carrot, sliced",
                 "½ pound baby spinach",
                 "3 stalks scallions",
                 "1 tbsp sesame seeds"
             ],
             "steps": [
+                "Soak the dried shiitake mushrooms in warm water for 2 to 3 hours.",
+                "Drain and press the tofu. Slice thinly then add to a bowl.",
+                "Add ingredients from garlic to white pepper and mix. Cover and refrigerate.",
                 "Bring a pot of water to boil and add noodles. Drain and rinse under cold water.",
                 "Add sesame oil to the noodles and toss. Set aside.",
+                "Add spinach to the water and blanch for 30 seconds. Rinse in cold water and squeeze to remove excess liquid.",
                 "Put all the ingredients for the sauce in a bowl and stir until the sugar has dissolved.",
                 "In the wok cook garlic and onions until onions are translucent.",
                 "Add mushrooms, bell peppers, carrots and cook until vegetables are tender.",
@@ -21910,6 +21921,52 @@
             "tags": [
                 "curry",
                 "jamaican"
+            ]
+        },
+        {
+            "title": "Korean tofu sando",
+            "image": "korean-tofu-sando",
+            "url": "https://www.instagram.com/p/CvPTufBKt9O/",
+            "ingredients": [
+                "2 blocks tofu",
+                "2 tbsp light soy sauce",
+                "6 tbsp plain flour",
+                "2 tbsp corn starch",
+                "1 cup Panko breadcrumbs",
+                "2 tbsp nutritional yeast",
+                "1 tsp MSG",
+                "3 tbsp soy sauce",
+                "1 ½ tbsp maple syrup",
+                "1 ½ tsp gochugaru",
+                "1 tbsp gochujang",
+                "1 ½ tsp rice vinegar",
+                "1/2 cucumber",
+                "1 red onion",
+                "1 ½ tbsp apple cider vinegar",
+                "1 tbsp gochugaru",
+                "½ tsp salt",
+                "1 tsp sugar",
+                "2 tbsp luke warm water",
+                "Bread",
+                "Vegan butter",
+                "Lettuce",
+                "Garlic aioli"
+            ],
+            "steps": [
+                "Add ingredients from cucumber to water to a bowl and mix. Cover and refrigerate.",
+                "Drain and press the tofu. Once pressed slice thinly and cover in soy sauce.",
+                "Mix ingredients from flour to msg in a shallow bowl. Season with salt and white pepper.",
+                "Then place the tofu fillets into the dry mix until fully coated.",
+                "Mix ingredients from soy sauce to rice wine vinegar for the sauce.",
+                "Spray the tofu with oil and cook in the air fryer until crispy.",
+                "Coat the fried fillets in the sauce and set aside.",
+                "Butter your bread and fry in a skillet low and slow until golden.",
+                "Build your sandwich with lettuce, tofu, pickled veggies and garlic aioli."
+            ],
+            "tags": [
+                "bread",
+                "sandwich",
+                "tofu"
             ]
         }
     ]
