@@ -22045,6 +22045,41 @@
             "tags": [
                 "greek"
             ]
+        },
+        {
+            "title": "Miso carrot gnocchi",
+            "image": "miso-carrot-gnocchi",
+            "url": "https://www.bunchbunchbunch.com/recipes/creamy-miso-carrot-gnocchi",
+            "ingredients": [
+                "600g gnocchi",
+                "3 shallots, finely chopped",
+                "8 garlic cloves, sliced",
+                "350g carrots, thinly sliced",
+                "100g cashews",
+                "1 tbsp miso",
+                "30ml olive oil",
+                "¼ cup cashews",
+                "2 cups basil",
+                "2 cloves garlic",
+                "Juice of 1 lemon",    
+                "¼ cup nooch",
+                "½ tsp salt",
+                "4 tbsp olive oil",
+                "1 bunch broccolini"
+            ],
+            "steps": [
+                "Sauté the shallots and garlic in olive oil until fragrant.",
+                "Add the carrots and sauté for another 3-4 mins.",
+                "Add the cashews, 470ml water, salt, pepper and cover. Simmer until the carrots have softened.",
+                "Add the miso and 35ml olive oil and blend until smooth.",
+                "Place ingredients from pine nuts to salt in the blender and blend until finely chopped.",
+                "With the food processor running, slowly drizzle in the olive oil and blend until smooth.",
+                "Cook the gnocchi as per package instructions, put back into the pot.",
+                "Stir the sauce through the gnocchi, add the broccolini and cook until broccolini is done."
+            ],
+            "tags": [
+                "gnocchi"
+            ]
         }
     ]
 }
