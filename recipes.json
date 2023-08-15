@@ -22080,6 +22080,40 @@
             "tags": [
                 "gnocchi"
             ]
+        },
+        {
+            "title": "Broccoli pesto pasta",
+            "image": "broccoli-pesto-pasta",
+            "url": "https://www.bunchbunchbunch.com/recipes/broccoli-pesto-pasta-with-whipped-lemon-tofu",
+            "ingredients": [
+                "2 heads broccoli",
+                "10 garlic cloves",
+                "30g pine nuts",
+                "20g basil",
+                "400g tofu",
+                "3 tbsp olive oil",
+                "3 tsp white miso",
+                "3 tbsp nooch",
+                "½ tsp garlic powder",
+                "200g spaghetti",
+                "2 lemons"
+            ],
+            "steps": [
+                "Blend the basil and pine nuts with a pinch of salt until just pulverised.",
+                "Grate the broccoli, stem and florets. Grate the garlic.",
+                "Heat olive oil in a large pan. Once hot add the garlic and broccoli.",
+                "Add a pinch of salt and cook until starting to char.",
+                "Meanwhile add the tofu, lemon juice, olive oil, miso, nooch, garlic powder and 1 tbsp of water to a blender.",
+                "Blend until smooth and season to taste with salt and pepper. Loosen with water if necessary.",
+                "Add the basil and pine nuts to the pan and cook for another 2-3 mins.",
+                "Meanwhile, cook pasta as per package instructions. Reserve a cup of pasta water.",
+                "Stir the pasta through the broccoli pesto. Add a splash of pasta water and drizzle with olive oil.",
+                "To serve, spoon a generous amount of the whipped tofu onto the bottom of a plate.",
+                "Then layer over the pasta and finish with lemon zest, pepper and a drizzle of olive oil."
+            ],
+            "tags": [
+                "pasta"
+            ]
         }
     ]
 }
