@@ -22187,6 +22187,43 @@
                 "tofu",
                 "rice"
             ]
+        },
+        {
+            "title": "Vegan egg fried rice",
+            "image": "egg-fried-rice",
+            "url": "https://schoolnightvegan.com/home/vegan-egg-fried-rice/",
+            "ingredients": [
+                "250g silken tofu",
+                "4 tbsp chickpea flour",
+                "½ tsp kala namak",
+                "3 tbsp vegetable oil",
+                "5 spring onions, finely chopped",
+                "1 onion, diced",
+                "6 cloves garlic",
+                "2 cups diced vegetables",
+                "2 cups cooked rice",
+                "2 tsp soy sauce",
+                "½ tsp white pepper",
+                "½ tsp five-spice",
+                "¼ teaspoon MSG",
+                "2 tsp sesame oil"
+            ],
+            "steps": [
+                "In a bowl combine the tofu, flour and kala namak.",
+                "Blend with an immersion blender until very smooth.",
+                "Heat wok over medium and add oil. Add tofu and fry until bottom starts to firm.",
+                "Scramble the tofu mixture with a spatula.",
+                "Continue cooking and stir frequently until it resembles scrambled eggs. Set aside.",
+                "Add remaining oil. Once hot add onion and cook until slightly softened.",
+                "Add spring onion whites, mixed vegetables and garlic. Fry gently for a few minutes.",
+                "Add the cooked rice and fry, breaking up large clumps until the rice is cooked through.",
+                "Add the soy sauce, white pepper, five spice, MSG and tofu and stir.",
+                "Remove from heat and add the sesame oil and spring onion greens. Stir thoroughly."
+            ],
+            "tags": [
+                "rice",
+                "chinese"
+            ]
         }
     ]
 }
