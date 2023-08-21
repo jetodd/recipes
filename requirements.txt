@@ -1,6 +1,6 @@
 Django==4.2.4
 django-bootstrap4==23.2
-dj-database-url==2.0.0
+dj-database-url==2.1.0
 gunicorn==21.2.0
 psycopg2==2.9.7
 whitenoise==6.5.0
