@@ -2166,7 +2166,7 @@
                 "2 tbsp peanut butter and 1 tbsp cocoa powder",
                 "1 tsp vanilla bean",
                 "½ cup dark chocolate chips",
-                "½ cup strawberry (75 g), frozen"
+                "½ cup strawberries (75g), frozen"
             ],
             "steps": [
                 "Place all ingredients into a food processor or blender and blend until smooth.",
@@ -22223,6 +22223,36 @@
             "tags": [
                 "rice",
                 "chinese"
+            ]
+        },
+        {
+            "title": "Strawberry mojito",
+            "image": "strawberry-mojito",
+            "url": "https://www.theendlessmeal.com/strawberry-basil-mojito",
+            "ingredients": [
+                "1 cup water",
+                "1 cup granulated sugar",
+                "1 cup chopped strawberries",
+                "6 large mint leaves",
+                "3 large basil leaves",
+                "30ml white rum",
+                "15ml fresh lemon juice",
+                "60ml soda water",
+                "Sliced strawberries",
+                "Mint",
+                "Basil"
+            ],
+            "steps": [
+                "Combine the water, sugar, and strawberries in a pot and bring it to a boil.",
+                "Reduce the heat and simmer for 5 minutes, mashing the strawberries with a spoon once soft.",
+                "Remove from heat, let it cool slightly, then strain it through a fine-mesh sieve.",
+                "Add the mint, basil, and syrup to a cocktail shaker and muddle for about 30 seconds.",
+                "Put a handful of ice into the shaker, add the rum and lemon juice, and stir until it's cold.",
+                "Strain your strawberry mojito into a tall, ice-filled glass, top it with soda water.",
+                "Garnish with strawberries, mint, and basil."
+            ],
+            "tags": [
+                
             ]
         }
     ]
