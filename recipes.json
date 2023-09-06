@@ -22252,7 +22252,42 @@
                 "Garnish with strawberries, mint, and basil."
             ],
             "tags": [
-                
+                "drink"
+            ]
+        },
+        {
+            "title": "Sabzi polo",
+            "image": "sabzi-polo",
+            "url": "https://www.theguardian.com/food/2023/sep/02/vegan-sabzi-polo-herbed-rice-saffron-pistachios-recipe-meera-sodha",
+            "ingredients": [
+                "350g basmati rice",
+                "50g butter, cubed",
+                "20 saffron strands",
+                "1 ¾ tsp salt",
+                "75g parsley, finely chopped",
+                "75g coriander, finely chopped",
+                "7 spring onions, finely sliced",
+                "60g pistachios, chopped",
+                "30g currants",
+                "1 large handful fried onions",
+                "100g tahini",
+                "3 tbsp olive oil",
+                "1 tbsp lemon juice",
+                "1 garlic clove, crushed"
+            ],
+            "steps": [
+                "Wash the rice until the water runs clear. Soak for 10 minutes then drain and set aside.",
+                "Melt the butter in a saucepan on medium heat.",
+                "Stir in the saffron and a teaspoon and a half of salt.",
+                "Add the rice and 600ml water, bring to a boil, cover and simmer for 12 minutes.",
+                "Take off the heat and leave, still covered, to rest for 10 minutes.",
+                "Meanwhile put the tahini in a jar, add olive oil, salt, lemon juice, garlic and six tablespoons of cold water",
+                "Seal the jar and shake it like a person possessed.",
+                "Put the herbs, currants and pistachios in a large bowl",
+                "Add the rested rice and mix really well"
+            ],
+            "tags": [
+                "rice"
             ]
         }
     ]
