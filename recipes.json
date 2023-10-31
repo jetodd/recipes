@@ -22347,6 +22347,44 @@
                 "bread",
                 "vietnamese"
             ]
+        },
+        {
+            "title": "Broccoli cheddar orzo",
+            "image": "broccoli-cheddar-orzo",
+            "url": "https://www.thekitchn.com/broccoli-cheddar-orzo-recipe-23591329",
+            "ingredients": [
+                "1 ½ cups cheddar, grated",
+                "2 heads broccoli",
+                "1 large onion, finely chopped",
+                "6 large cloves garlic, grated",
+                "2 tbsp olive oil",
+                "1 ¾ tsp salt, divided",
+                "½ tsp pepper, divided",
+                "1 ½ tsp mustard",
+                "⅛ tsp cayenne",
+                "450g orzo",
+                "4 cups vegetable stock",
+                "1 cup milk",
+                "2 tbsp unsalted butter",
+                "Chives, chopped"
+            ],
+            "steps": [
+                "Cut the broccoli into florets. Slice the stems into ½cm pieces.",
+                "Heat 2 oil in a large pot over medium heat until shimmering.",
+                "Add the onion and broccoli stems, 1 teaspoon salt, and 1/4 teaspoon of the black pepper.",
+                "Cook, stirring occasionally, until the onion is translucent and the stems are almost tender.",
+                "Add the florets, remaining salt, remaining pepper, mustard, and cayenne  and stir to combine.",
+                "Cook, stirring often, until the florets are vibrant green.",
+                "Add the garlic and cook, stirring constantly, until fragrant, about 30 seconds.",
+                "Add orzo and cook, stirring constantly, until lightly toasted.",
+                "Add stock and stir to combine, scraping up the browned bits from the bottom of the pot. Bring to a boil.",
+                "Reduce heat to a very gentle simmer. Cook, stirring frequently until orzo is almost cooked.",
+                "Add milk, stir to combine, and simmer until the orzo is al dente but still saucy.",
+                "Remove the pot from the heat. Stir in the butter, chives and cheese until cheese is melted."
+            ],
+            "tags": [
+                "orzo"
+            ]
         }
     ]
 }
