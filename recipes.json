@@ -22379,11 +22379,57 @@
                 "Add orzo and cook, stirring constantly, until lightly toasted.",
                 "Add stock and stir to combine, scraping up the browned bits from the bottom of the pot. Bring to a boil.",
                 "Reduce heat to a very gentle simmer. Cook, stirring frequently until orzo is almost cooked.",
-                "Add milk, stir to combine, and simmer until the orzo is al dente but still saucy.",
-                "Remove the pot from the heat. Stir in the butter, chives and cheese until cheese is melted."
+                "Add milk, stir to combine, and simmer until the orzo is al dente but still saucy."
             ],
             "tags": [
                 "orzo"
+            ]
+        },
+        {
+            "title": "Tofu Spinach Saag",
+            "image": "tofu-spinach-saag",
+            "url": "https://www.mob.co.uk/recipes/tofu-spinach-saag-curry",
+            "ingredients": [
+                "Rice",
+                "1 onion, finely chopped",
+                "5cm ginger, minced",
+                "8 clovevs garlic, minced",
+                "1 red chilli, finely chopped",
+                "4 green cardamom seeds",
+                "2 tbsp coriander seeds",
+                "3 tsp cumin seeds",
+                "3 tbsp oil",
+                "900g spinach",
+                "600ml coconut milk",
+                "3 tsp garam masala",
+                "½ tsp chilli powder",
+                "2 blocks tofu",
+                "2 garlic cloves, finely sliced",
+                "2 tbsp oil",
+                "15–20 curry leaves",
+                "2 tbsp mustard seeds",
+                "1 ½ tbsp cumin seeds",
+                "1 lime"
+            ],
+            "steps": [
+                "Clean and cook the rice. Drain and press the tofu, once pressed cut into cubes.",
+                "Bash the cardamom seeds and remove the pods.",
+                "Crush the coriander and cumin seeds and the cardamom seeds in a pestle and mortar.",
+                "Heat oil in the wok. Add the crushed seeds and cook on low until toasted.",
+                "Add the chopped onion and cook until translucent, stirring often.",
+                "Add the garlic and ginger and half of the chilli. Stir and cook until fragrant.",
+                "Add the spinach in batches and a pinch of salt, stir and cook until just wilted.",
+                "Use an immersion blender to blend the spinach into a chunky paste.",
+                "Pour the coconut milk, chilli powder, and garam masala in and stir to combine.",
+                "Add the tofu to the spinach and gently stir to heat through.",
+                "Cook on a low-medium heat for about 10 mins, taste and adjust the seasonings.",
+                "Heat oil in a small saucepan. Add the garlic, chilli, curry leaves, mustard and cumin seeds.",
+                "Fry, stirring often, until the garlic has just turned brown. Quickly remove from heat.",
+                "Serve the curry with the rice and the tarka on top. Finish with a squeeze of lime."
+            ],
+            "tags": [
+                "curry",
+                "indian"
             ]
         }
     ]
