@@ -22370,7 +22370,7 @@
             ],
             "steps": [
                 "Cut the broccoli into florets. Slice the stems into ½cm pieces.",
-                "Heat 2 oil in a large pot over medium heat until shimmering.",
+                "Heat oil in a large pot over medium heat until shimmering.",
                 "Add the onion and broccoli stems, 1 teaspoon salt, and 1/4 teaspoon of the black pepper.",
                 "Cook, stirring occasionally, until the onion is translucent and the stems are almost tender.",
                 "Add the florets, remaining salt, remaining pepper, mustard, and cayenne  and stir to combine.",
@@ -22479,6 +22479,38 @@
                 "rice",
                 "korean",
                 "tofu"
+            ]
+        },
+        {
+            "title": "Creamy cajun pasta",
+            "image": "creamy-cajun-pasta",
+            "url": "https://www.calumharris.com/therecipes/creamy-cajun-pasta",
+            "ingredients": [
+                "500g silken tofu",
+                "8 tbsp nooch",
+                "2 tsp miso paste",
+                "250g rigatoni",
+                "5 tsp cajun seasoning",
+                "2 tbsp tomato paste",
+                "1 onion, sliced",
+                "1 red pepper, thinly sliced",
+                "1 courgette, thinly sliced",
+                "4 garlic cloves, sliced",
+                "4 handfuls spinach",
+                "Juice of 1 lemon"
+            ],
+            "steps": [
+                "Cook pasta according to package instructions. Reserve some pasta water.",
+                "Chuck the tofu, nooch and miso paste into a food processor and blitz.",
+                "Season with salt and pepper to taste. Set aside.",
+                "Heat oil in the wok, once hot add onion and bell pepper, cook until onion is translucent.",
+                "Add courgette and garlic and cook until courgette is golden.",
+                "Add the cajun seasoning. Add tomato paste and cook until darkened.",
+                "Add pasta, tofu mixture and 100ml of pasta water. Mix thouroughly.",
+                "Add spinach and cook until wilted. Squeeze in the lemon juice, taste and season."
+            ],
+            "tags": [
+                "pasta"
             ]
         }
     ]
