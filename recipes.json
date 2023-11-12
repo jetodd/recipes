@@ -22585,6 +22585,38 @@
                 "japanese",
                 "noods"
             ]
+        },
+        {
+            "title": "Cumin chili home fries",
+            "image": "cumin-chilli-home-fries",
+            "url": "https://omnivorescookbook.com/sauteed-potato",
+            "ingredients": [
+                "450g potatoes, cubed",
+                "2 tsp Chinese chili flakes",
+                "2 tsp cumin",
+                "1/4 tsp Sichuan peppercorn",
+                "2 tbsp peanut oil",
+                "1/4 tsp salt",
+                "2 cloves garlic, minced",
+                "2 spring onions, sliced"
+            ],
+            "steps": [
+                "Add potatoes to a medium pot and water to cover potatoes.",
+                "Bring to a boil, and continue to boil until just soft, about 5 minutes.",
+                "Once done, rinse the potatoes with cold tap water to stop cooking.",
+                "Drain potatoes thoroughly and let them dry a bit.",
+                "Mix the chili flakes, cumin, and Sichuan peppercorn powder in a small bowl.",
+                "Heat oil in a large non-stick skillet over medium-high heat until hot.",
+                "Add the potato and sprinkle with the salt.",
+                "Stir a few times to coat well with oil then spread out into a single layer without overlapping.",
+                "Cook, stirring occasionally, until the surfaces turn golden crispy.",
+                "Add the garlic, green onion, and sprinkle with the spice mix.",
+                "Pour in a bit of oil if the potatoes look dry. Cook and stir until everything is mixed."
+            ],
+            "tags": [
+                "chinese",
+                "potato"
+            ]
         }
     ]
 }
