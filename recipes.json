@@ -22550,6 +22550,41 @@
             "tags": [
                 "rice"
             ]
+        },
+        {
+            "title": "Curry udon",
+            "image": "curry-udon",
+            "url": "https://thefoodietakesflight.com/japanese-curry-udon",
+            "ingredients": [
+                "3 onions, sliced",
+                "4 cloves garlic, sliced",
+                "400g mushrooms",
+                "2 carrots, peeled and diced",
+                "1 tbsp sake",
+                "6 cups vegan dashi",
+                "1 block curry sauce mix",
+                "Pinch of sugar to taste",
+                "4 tsp soy sauce",
+                "1 tbsp ketchup",
+                "1 apple peeled and grated",
+                "4 serving udon",
+                "Chilli oil",
+                "Spring onions"
+            ],
+            "steps": [
+                "Heat the wok over medium. Once hot, add oil. Sauté the onion until translucent.",
+                "Add the garlic, app carrot and mushrooms and allow to cook until lightly brown.",
+                "Add the sake and leave to evaporate over medium heat.",
+                "Pour the vegan dashi or stock into the pot.",
+                "Break the cubes up and add them to the wok. Mix to dissolve.",
+                "Season with salt, sugar and soy sauce, to taste. Add the apple.",
+                "Leave the curry to simmer until it starts to thicken.",
+                "Cook noodles according to package instructions.",
+                "Add noodles to bowl, ladle the curry over. Top with chilli oil and spring onion."            ],
+            "tags": [
+                "japanese",
+                "noods"
+            ]
         }
     ]
 }
