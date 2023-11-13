@@ -22457,7 +22457,7 @@
                 "¾ vegetable stock",
                 "½ tsp sesame oil",
                 "⅛ teaspoon ground white pepper",
-                "1 1/2 tbsp cornstarch"
+                "1 ½ tbsp cornstarch"
             ],
             "steps": [
                 "Clean and cook the rice.",
@@ -22530,7 +22530,7 @@
                 "1 tsp sesame oil",
                 "1 tbsp Sichuan chilli oil",
                 "1 tsp sugar",
-                "1/4 tsp ground Sichuan pepper",
+                "¼ tsp ground Sichuan pepper",
                 "1 tbsp peanuts"
             ],
             "steps": [
@@ -22594,9 +22594,9 @@
                 "450g potatoes, cubed",
                 "2 tsp Chinese chili flakes",
                 "2 tsp cumin",
-                "1/4 tsp Sichuan peppercorn",
+                "¼ tsp Sichuan peppercorn",
                 "2 tbsp peanut oil",
-                "1/4 tsp salt",
+                "¼ tsp salt",
                 "2 cloves garlic, minced",
                 "2 spring onions, sliced"
             ],
@@ -22616,6 +22616,46 @@
             "tags": [
                 "chinese",
                 "potato"
+            ]
+        },
+        {
+            "title": "Cheesy gochujang spaghetti",
+            "image": "cheesy-gochujang-spaghetti",
+            "url": "https://ladyandpups.com/2013/09/13/spicy-cheesy-gochujang-spaghetti-eng/",
+            "ingredients": [
+                "450g mushrooms, thinly sliced",
+                "4 tbsp of olive oil",
+                "300 tofu",
+                "1 onion, finely diced",
+                "Spring onions, finely chopped",
+                "4 cloves garlic, finely minced",
+                "1 tbsp tomato paste",
+                "2 tbsp gochujang",
+                "2 tsp flour",
+                "1 cup milk",
+                "½ cup shredded cheddar",
+                "¼ cup of grated parmesan",
+                "300g spaghetti",
+                "Pak choi"
+            ],
+            "steps": [
+                "Heat the frying pan over high-heat and add half the olive oil.",
+                "When the pan is hot, add ½ the mushrooms and scatter them without overlapping too much.",
+                "Let the mushrooms toast in the skillet for a couple of minutes to get a very nice browning.",
+                "Turn them to brown the other side then season with salt and pepper. Repeat with the other half of the mushrooms.",
+                "Bring a large pot of salted water to boil. Cook the spaghetti according to instruction.",
+                "In the wok heat some oil and crumble in the tofu.",
+                "Once tofu is starting to brown add the onion, cook until translucent.",
+                "Add garlic and spring onion whites, season and cook until fragrant.",
+                "Add tomato paste, gochujang and flour, and cook for another couple of minutes.",
+                "Then add the milk.  Cook until the milk starts to simmer and thicken slightly.",
+                "Stir in the mushrooms and cheese until melted.",
+                "Add the spaghetti, and enough pasta-cooking water to loosen the sauce slightly.",
+                "Add the pak choi and cook until bright green."
+            ],
+            "tags": [
+                "noods",
+                "spicy"
             ]
         }
     ]
