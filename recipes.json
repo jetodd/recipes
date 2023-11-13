@@ -22620,7 +22620,7 @@
         },
         {
             "title": "Cheesy gochujang spaghetti",
-            "image": ",",
+            "image": "cheesy-gochujang-spaghetti",
             "url": "https://ladyandpups.com/2013/09/13/spicy-cheesy-gochujang-spaghetti-eng/",
             "ingredients": [
                 "450g mushrooms, thinly sliced",
@@ -22659,7 +22659,7 @@
             ]
         },
         {
-            "title": "Savoury oatmeal with mushrooms",
+            "title": "Chilli crisp broccoli and labneh",
             "image": "chili-crisp-broccoli-and-labneh",
             "url": "https://www.triedandtruerecipe.com/chili-crisp-broccoli-and-labneh/",
             "ingredients": [
@@ -22689,6 +22689,34 @@
             ],
             "tags": [
                 "yogurt"
+            ]
+        },
+        {
+            "title": "Daigaku imo",
+            "image": "daigaku-imo",
+            "url": "https://www.okonomikitchen.com/daigaku-imo-japanese-candied-sweet-potatoes",
+            "ingredients": [
+                "600g kumara",
+                "4 tbsp oil",
+                "4-6 tbsp sugar",
+                "1 tsp soy sauce",
+                "2-4 tsp vegan butter",
+                "Black sesame seeds"
+            ],
+            "steps": [
+                "Cut the potatoes rangiri method by rotating the sweet potato as you cut into 1 inch wedges.",
+                "Soak the sweet potatoes for 10-15 minutes.",
+                "Add oil and sugar to a pan. Add soy sauce and vegan butter if using and mix together.",
+                "Add the potatoes and turn the heat to medium heat.",
+                "Cover with a lid and then when you hear it beginning to bubble, swirl the pan.",
+                "Turn the heat down to medium low - low and let it cook for 8 minutes undisturbed.",
+                "Flip the potatoes and cook for another 5 minutes or until soft.",
+                "Remove the lid and pan fry for another 2-3 minutes or until golden and crispy." ,
+                "Quickly remove from the stove and transfer to parchment paper, garnish with sesame seeds."
+            ],
+            "tags": [
+                "sweet",
+                "japanese"
             ]
         }
     ]
