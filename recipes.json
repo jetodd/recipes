@@ -22718,6 +22718,42 @@
                 "sweet",
                 "japanese"
             ]
+        },
+        {
+            "title": "Tofu donburi",
+            "image": "tofu-donburi",
+            "url": "https://sudachirecipes.com/tofu-donburi/",
+            "ingredients": [
+                "800g firm tofu",
+                "2 green peppers, sliced",
+                "2 onions, roughly sliced",
+                "6 spring onion, diagonally sliced",
+                "6 tbsp cornstarch",
+                "4 tbsp soy sauce",
+                "4 tbsp mirin",
+                "4 tbsp sake",
+                "4 tsp sugar",
+                "1 tbsp garlic paste",
+                "4 portions cooked rice",
+                "sesame seeds",
+                "Finely chopped green onion",
+                "chili oil"
+            ],
+            "steps": [
+                "Drain and press the tofu. Once done pat dry with a paper towel and cut into cubes.",
+                "Heat wok on medium with oil. Fry bell pepper until slightly softened.",
+                "Add the onion and spring onion whites and until lightly charred, set aside.",
+                "In a bowl add cornstarch and season with salt and pepper. Toss tofu in mixture.",
+                "Heat the pan with oil and cook the tofu in a single layer, in batches if necessary. Cook until golden brown.",
+                "In a small bowl mix soy sauce, mirin, sake, sugar and 1 tbsp garlic paste until well combined.",
+                "Add all the tofu to the wok. Pour the sauce into the pan and mix to coat.",
+                "Add the vegetables back, mix in the the sauce and heat through.",
+                "Add rice to bowl, top with tofu and vegetables then sprinkle with sesame seeds, spring onions and chilli oil."
+            ],
+            "tags": [
+                "japanese",
+                "rice"
+            ]
         }
     ]
 }
