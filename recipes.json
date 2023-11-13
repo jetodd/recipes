@@ -22620,7 +22620,7 @@
         },
         {
             "title": "Cheesy gochujang spaghetti",
-            "image": "cheesy-gochujang-spaghetti",
+            "image": ",",
             "url": "https://ladyandpups.com/2013/09/13/spicy-cheesy-gochujang-spaghetti-eng/",
             "ingredients": [
                 "450g mushrooms, thinly sliced",
@@ -22656,6 +22656,39 @@
             "tags": [
                 "noods",
                 "spicy"
+            ]
+        },
+        {
+            "title": "Savoury oatmeal with mushrooms",
+            "image": "chili-crisp-broccoli-and-labneh",
+            "url": "https://www.triedandtruerecipe.com/chili-crisp-broccoli-and-labneh/",
+            "ingredients": [
+                "2 cups vegan yogurt",
+                "½ tsp salt",
+                "1 pound broccoli florets",
+                "2 tbsp avocado oil",
+                "1 tsp lemon juice",
+                "1 tsp maple syrup",
+                "¼ cup chili crisp",
+                "1 tablespoon sesame oil",
+                "¼ cup pistachios crushed",
+                "5 ounces Thai basil."
+            ],
+            "steps": [
+                "Place strainer over the bowl and line with a kitchen towel.",
+                "Mix yogurt with ½ teaspoon salt and then pour it into the strainer.",
+                "Wrap the towel loosely over the yogurt and place into the fridge for 24 to 48 hours.",
+                "Preheat oven to 200ºC. Arrange the broccoli on the baking sheet in an even layer.",
+                "Drizzle with oil and season with salt and pepper and toss to coat.",
+                "Transfer to the oven and bake for 15 minutes, flip once mid-way through.",
+                "Transfer the yogurt to a bowl. Add lemon juice, maple syrup and a big pinch of salt.",
+                "Using a whisk or a hand mixer, mix until smooth and creamy.",
+                "Combine the chili crisp and sesame oil in a bowl and stir to combine.",
+                "Transfer the labneh to a shallow serving platter and spoon the chili crisp across.",
+                "Pile the broccoli on top. Scatter the pistachios and Thai basil all over the dish."
+            ],
+            "tags": [
+                "yogurt"
             ]
         }
     ]
