@@ -22754,6 +22754,75 @@
                 "japanese",
                 "rice"
             ]
+        },
+        {
+            "title": "Rice paper noodles",
+            "image": "rice-paper-noodles",
+            "url": "https://thecheaplazyvegan.com/rice-paper-noodles/",
+            "ingredients": [
+                "30 sheets rice paper",
+                "2 onions, sliced",
+                "8 cloves garlic, minced",
+                "4 tbsp soy sauce",
+                "4 tbsp dark soy sauce",
+                "4 tsp sugar",
+                "8 heads baby bok choy",
+                "4 tsp sesame oil",
+                "2 tsp sesame seeds",
+                "8 stalks green onion chopped"
+            ],
+            "steps": [
+                "Add warm water in a large shallow bowl and lightly grease a cutting board with a little oil.",
+                "Take 5 pieces of rice paper and stack them. Soak them in the warm water for a few seconds until softened.",
+                "Place it onto the cutting board. Using your fingers, try to get rid of any air bubbles.",
+                "Take a sharp knife and cut into around 1-inch wide noodles. Place them in a bowl of cold water.",
+                "Heat oil in the wok on medium-high heat and saute minced garlic for a minute.",
+                "Add onion and cook until just softened.",
+                "Add soy sauces, sugar, rice paper and pak choi with a splash of water.",
+                "Cook for 2-3 minutes while stirring frequently, adding small splashes of water as needed.",
+                "Top with sesame seeds and spring onion."
+            ],
+            "tags": [
+                "asian"
+            ]
+        },
+        {
+            "title": "Mushroom crispy rice",
+            "image": "mushroom-crispy-rice",
+            "url": "https://tifflovestofu.com/side/mushroom-crispy-rice/",
+            "ingredients": [
+                "3-4 shiitake mushrooms, sliced",
+                "100g oyster mushrooms, sliced",
+                "100g shimeji mushrooms",
+                "1 tbsp soy sauce",
+                "1 tbsp maple syrup",
+                "1 tsp black pepper",
+                "1 tbsp oil",
+                "1 cup cooked white rice",
+                "1.5 tsp garlic salt",
+                "1 tbsp light soy sauce",
+                "1 tsp dark soy sauce",
+                "1 tsp white pepper",
+                "2 tbsp oil",
+                "Spring onions, finely chopped"
+            ],
+            "steps": [
+                "Soak mushrooms in a bowl of water with 1 tsp white vinegar. Rinse and pat dry.",
+                "Heat the pan on medium. Add oil and mushrooms. Cook for five minutes.",
+                "Add the soy sauce, maple syrup, and black pepper and mix to coat.",
+                "Cook for another 5 minutes until it absorbs all the sauce and mushrooms are golden brown.",
+                "In the same pan, wipe off any excess sauce with a paper towel. Reheat the pan.",
+                "Add oil and rice. Season with garlic salt, soy sauces, and white pepper.",
+                "Toss the rice until it is fully coated with the sauce.",
+                "Smooth out the rice by pressing it down with a spatula until it is an even layer.",
+                "Allow it to cook for about 10 minutes, monitoring it every few minutes to make sure its not burnt.",
+                "Cook until it has formed a golden crispy layer on the bottom that remains intact when you lift it.",
+                "Gently transfer the rice to a plate by sliding it over. Top with the mushrooms and fresh scallions."
+            ],
+            "tags": [
+                "asian",
+                "rice"
+            ]
         }
     ]
 }
