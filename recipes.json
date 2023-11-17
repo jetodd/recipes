@@ -22823,6 +22823,26 @@
                 "asian",
                 "rice"
             ]
+        },
+        {
+            "title": "Iced lavender green tea",
+            "image": "iced-lavender-green-tea",
+            "url": "https://www.makingthymeforhealth.com/honey-sweetened-lavender-iced-tea",
+            "ingredients": [
+                "2 liters water",
+                "8 small tea bags",
+                "¼ cup agave",
+                "2 tsp culinary lavender"
+            ],
+            "steps": [
+                "In a large pot, bring water to a boil.",
+                "Turn off heat then whisk in agave and lavender.",
+                "Add tea bags and allow to steep for 2 hours.",
+                "Strain out lavender and refrigerate for several hours."
+            ],
+            "tags": [
+                "drink"
+            ]
         }
     ]
 }
