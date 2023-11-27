@@ -22843,6 +22843,31 @@
             "tags": [
                 "drink"
             ]
+        },
+        {
+            "title": "Espresso & Chocolate Mousse",
+            "image": "espresso-and-chocolate-mousse",
+            "url": "https://www.mob.co.uk/recipes/espresso-and-chocolate-mousse",
+            "ingredients": [
+                "115g dark chocolate",
+                "200g silken tofu",
+                "40ml espresso",
+                "20g agave",
+                "40ml oat milk",
+                "100g raspberries"
+            ],
+            "steps": [
+                "Melt the chocolate over a bain-marie on low heat. Stir constantly.",
+                "Blend the tofu in a blender until fully liquidised.",
+                "Let the chocolate cool slightly, then add to the tofu and blend to fully combine",
+                "Add the agave, milk and coffee and blend again. Taste for sweetness.",
+                "Pour the mix into ramekins and refrigerate for at least 30 mins.",
+                "To serve, top with raspberries and some shaved chocolate."
+            ],
+            "tags": [
+                "sweet",
+                "cold"
+            ]
         }
     ]
 }
