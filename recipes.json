@@ -22799,7 +22799,7 @@
                 "1 tsp black pepper",
                 "1 tbsp oil",
                 "1 cup cooked white rice",
-                "1.5 tsp garlic salt",
+                "1½ tsp garlic salt",
                 "1 tbsp light soy sauce",
                 "1 tsp dark soy sauce",
                 "1 tsp white pepper",
@@ -22877,9 +22877,9 @@
                 "240ml unsweetened soy milk",
                 "2 tsp apple cider vinegar",
                 "250g self-raising flour",
-                "1/2 tsp baking soda",
-                "1/2 tsp baking powder",
-                "1/4 tsp fine sea salt",
+                "½ tsp baking soda",
+                "½ tsp baking powder",
+                "¼ tsp fine sea salt",
                 "100g granulated sugar",
                 "70ml coconut oil, melted",
                 "60g condensed milk",
@@ -22928,7 +22928,7 @@
                 "1 whole garlic bulb",
                 "2 tbsp yoghurt",
                 "1 tsp harissa paste",
-                "1/2 pomegranate",
+                "½ pomegranate",
                 "Chopped parsley",
                 "Chopped coriander"
             ],
@@ -22947,6 +22947,41 @@
             ],
             "tags": [
                 "potatoes"
+            ]
+        },
+        {
+            "title": "Mushroom wellington",
+            "image": "mushroom-wellington",
+            "url": "https://georgieeats.co.uk/mushroom-wellington/",
+            "ingredients": [
+                "½ butternut squash, cubed",
+                "250g chestnut mushrooms, finely chopped",
+                "1 onion, finely chopped",
+                "2 shallots, finely chopped",
+                "5 cloves garlic, finely chopped",
+                "180g cooked chestnuts, finely chopped",
+                "50g walnuts, finely chopped",
+                "5 sage leaves, finely chopped",
+                "4 sprigs thyme, leaves picked",
+                "320g sheet puff pastry"
+            ],
+            "steps": [
+                "Preheat the oven to 200°C.",
+                "Combine the butternut squash, olive oil and a sprinkle of salt and black pepper on a baking tray.",
+                "Give everything a good mix, then roast for 35-40 minutes, or until soft.",
+                "Meanwhile heat oil in the wok over medium. Once hot add the mushrooms and onion. Cook until soft.",
+                "Add the chestnuts, walnuts, sage and thyme, season and cook for a further 5 minutes.",
+                "Remove the pan from the heat and add the roasted squash. Mash into a chunky paste. Season to taste.",
+                "Allow the mixture to cool completely.",
+                "Unroll the puff pastry sheet and spoon the filling into a tight log over 1/3 of the width.",
+                "Fold the pastry tightly around the filling, then crimp the sides together to create a tight seal.",
+                "Use the back of a knife to lightly press a diamond pattern into the pastry.",
+                "Then brush the wellington all over with olive oil.",
+                "Transfer the wellington to a lined tray and bake for 30-35 minutes or until golden brown all over.",
+                "Allow to cool for 5 minutes before slicing and serving."
+            ],
+            "tags": [
+                "pastry"
             ]
         }
     ]
