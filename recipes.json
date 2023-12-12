@@ -22983,6 +22983,37 @@
             "tags": [
                 "pastry"
             ]
+        },
+        {
+            "title": "Orange & quinoa salad",
+            "image": "orange-quinoa-salad",
+            "url": "https://www.ocado.com/webshop/recipe/Pomegranate-orange-tahini-quinoa-salad/64289",
+            "ingredients": [
+                "100g quinoa",
+                "6 small carrots, peeled",
+                "4 oranges, small",
+                "Seeds of 1 pomegranate",
+                "25g parsley, chopped",
+                "10g pistachios , chopped",
+                "3 tbsp tahini",
+                "2 tsp soy sauce",
+                "4 tsp white wine vinegar",
+                "1 tbsp lemon juice",
+                "½ tbsp agave",
+                "¼ tsp salt",
+                "1 clove garlic, crushed"
+            ],
+            "steps": [
+                "Cook quinoa as per pack instructions and set aside to cool.",
+                "Meanwhile, use a peeler to slice the carrots into ribbons and place in a large bowl.",
+                "Peel each orange and remove the pith, then slice into rounds.",
+                "Add to the bowl with the pomegranate seeds, parsley and quinoa.",
+                "Mix dressing ingredients from tahini to garlic into a jar and shake well.",
+                "Toss all the salad ingredients together and serve with the dressing and pistachios on top."
+            ],
+            "tags": [
+                "salad"
+            ]
         }
     ]
 }
