@@ -23052,6 +23052,50 @@
                 "iraqi",
                 "rice"
             ]
+        },
+        {
+            "title": "Marry me tofu",
+            "image": "marry-me-tofu",
+            "url": "https://theeburgerdude.com/marry-me-tofu",
+            "ingredients": [
+                "2 blocks tofu",
+                "Chopped parsley",
+                "¼ cup soy sauce",
+                "¼ cup nooch",
+                "1 tsp garlic powder",
+                "1 tsp onion powder",
+                "1 tsp smoked paprika",
+                "2 tbsp hot sauce",
+                "¼ cup neutral oil",
+                "2 tbsp water",
+                "2 tsp lemon juice",
+                "2 tbsp vegan butter",
+                "5 cloves garlic, minced",
+                "1 tbsp Italian seasoning",
+                "1 tsp chilli flakes",
+                "2 cups vegetable stock",
+                "½ cup cream",
+                "2 - 3 tsp dijon mustard",
+                "½ cup vegan parmesan",
+                "⅓ cup sun-dried tomatoes",
+                "Pasta"
+            ],
+            "steps": [
+                "Mix ingredients from soy sauce to lemon juice for the marinade.",
+                "Cut each block of tofu into 3 filets. Lightly score the filets on each side.",
+                "Coat the fillets in the marinade, rest for at least 30 minutes.",
+                "Cook the paste in salted water according to package instructions.",
+                "Heat a pan to medium high, add a little oil and grill the filets for about 5 minutes per side.",
+                "In the same pan, over low heat, add the vegan butter and melt.",
+                "Add the garlic, chilli flakes, and Italian seasoning. Stir to combine and cook for 1 minute.",
+                "Stir in the stock and then the cream. Add in the dijon mustard and whisk to combine.",
+                "Bring to a simmer, add the sundried tomatoes and parmesan and stir to combine.",
+                "Add the tofu back in and simmer for a few minutes."
+            ],
+            "tags": [
+                "rice",
+                "tofu"
+            ]
         }
     ]
 }
