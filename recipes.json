@@ -23122,6 +23122,32 @@
                 "sweet",
                 "drink"
             ]
+        },
+        {
+            "title": "Smashed brussels sprouts",
+            "image": "smashed-brussel-sprouts",
+            "url": "https://iamafoodblog.com/smashed-brussel-sprouts/",
+            "ingredients": [
+                "450g brussels sprouts",
+                "1 tbsp olive oil",
+                "1 tsp garlic powder",
+                "1 tsp chopped thyme",
+                "⅓ cup vegan parmesan",
+                "2 tsp salt",
+                "⅛ tsp cayenne",
+                "Tajin"
+            ],
+            "steps": [
+                "Heat the oven to 220°C and line a baking tray with parchment paper.",
+                "Bring a pot of salted water to a boil. Add sprouts and cook until bright green and tender",
+                "Let sprouts cool slightly and pat dry. Toss with oil, thyme, parmesan and garlic powder.",
+                "Put the sprouts on the baking tray and use a small glass to smash the sprouts.",
+                "Bake until the sprouts are crispy and deeply brown, 20-25 minutes. Flipping halfway through.",
+                "When the sprouts are done, remove from the oven and season generously with Tajin."
+            ],
+            "tags": [
+                "sides"
+            ]
         }
     ]
 }
