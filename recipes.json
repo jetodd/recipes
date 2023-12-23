@@ -23207,6 +23207,46 @@
             "tags": [
                 "pasta"
             ]
+        },
+                {
+            "title": "Swedish meatballs",
+            "image": "swedish-meatballs",
+            "url": "https://theeburgerdude.com/vegan-swedish-meatballs",
+            "ingredients": [
+                "220g plant-based meat",
+                "220g plant-based sausage",
+                "¼ cup plant milk",
+                "⅓ cup breadcrumbs",
+                "2 tbsp parsley, chopped",
+                "1 shallot, finely chopped",
+                "4 cloves garlic, minced",
+                "2 tbsp nooch",
+                "½ tsp paprika",
+                "¼ tsp allspice",
+                "¼ tsp nutmeg",
+                "¼ tsp white pepper",
+                "¼ cup vegan butter",
+                "5 tbsp flour",
+                "2 cups veggie stock",
+                "¼ cup vegan sour cream",
+                "2 tsp soy sauce",
+                "2 tsp vegan worcestershire",
+                "1 tsp Dijon mustard"
+            ],
+            "steps": [
+                "In a bowl, combine ingredients from meat to white pepper and mix with your hands.",
+                "Take a heaped tablespoon of the mixture and roll into a ball. Repeat until no mixture left.",
+                "Add some oil to a pan over medium heat. Once hot add the meatballs and brown on all sides.",
+                "After meatballs have browned, remove from the pan and set aside.",
+                "In the same pan add the vegan butter and melt.",
+                "Once melted, whisk in the flour a tablespoon at a time to form the roux. Cook for a minute or so.",
+                "Add the stock slowly, about ½ cup at a time, whisking the entire time to combine and avoid lumps.",
+                "Then add the soy sauce, Dijon mustard, worcestershire, and vegan sour cream. Adjust to taste.",
+                "Drizzle gravy over meatballs and serve with mashed potatoes and peas."
+            ],
+            "tags": [
+                "swedish"
+            ]
         }
     ]
 }
