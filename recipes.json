@@ -23148,6 +23148,37 @@
             "tags": [
                 "sides"
             ]
+        },
+        {
+            "title": "Baked feta pasta",
+            "image": "vegan-baked-feta-pasta",
+            "url": "https://www.thissavoryvegan.com/vegan-baked-feta-pasta",
+            "ingredients": [
+                "1 block vegan feta",
+                "300g cherry tomatoes",
+                "8 cloves garlic, smashed",
+                "1 tsp dried oregano",
+                "½ tsp chilli flakes",
+                "3 sprigs thyme",
+                "½ tsp pepper",
+                "2 tbsp olive oil",
+                "240g pasta",
+                "1 handful spinach",
+                "Basil",
+                "Zest of 1 lemon"
+            ],
+            "steps": [
+                "Preheat your oven to 200°C. In a baking dish add cherry tomatoes and garlic.",
+                "Drizzle with olive oil. Toss to coat. Add feta to the center of the dish.",
+                "Season with oregano, salt and pepper. Scatter thyme sprigs over tomatoes.",
+                "Bake for 20 minutes. Meanwhile cook pasta according to package instructions, set aside some pasta water.",
+                "Remove dish from the oven.",
+                "Add approximately ⅓ cup of pasta water to feta and tomato dish and mix well.",
+                "Toss cooked pasta into the dish along with fresh basil and stir to coat."
+            ],
+            "tags": [
+                "pasta"
+            ]
         }
     ]
 }
