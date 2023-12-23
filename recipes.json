@@ -23096,6 +23096,32 @@
                 "rice",
                 "tofu"
             ]
+        },
+        {
+            "title": "Iced brown sugar shaken espresso",
+            "image": "iced-brown-sugar-shaken-espresso",
+            "url": "https://masalaandchai.com/iced-brown-sugar-shaken-espresso/",
+            "ingredients": [
+                "2 tbsp brown sugar",
+                "2 tbsp water",
+                "¼ teaspoon vanilla",
+                "¼ tsp ground cinnamon",
+                "1 espresso shot",
+                "¼ cup oat milk",
+                "½ cup ice"
+            ],
+            "steps": [
+                "In a small sauce pan, add ingredients from sugar to cinnamon on medium to low heat.",
+                "Bring to a simmer, whisking every 30 seconds. Simmer until the syrup thickens, remove from heat.",
+                "Pour the espresso shots and brown sugar syrup into a cocktail shaker.",
+                "Shake for a minute until it is foamy on the top.",
+                "Add in a few cubes of ice and continue shaking for another minute.",
+                "Fill a glass halfway with ice. Add the coffee mixture. Top with milk and a sprinkle of cinnamon."
+            ],
+            "tags": [
+                "sweet",
+                "drink"
+            ]
         }
     ]
 }
