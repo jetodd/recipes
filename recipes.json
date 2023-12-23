@@ -23179,6 +23179,34 @@
             "tags": [
                 "pasta"
             ]
+        },
+        {
+            "title": "Courgette bolognese",
+            "image": "courgette-bolognese",
+            "url": "https://www.delish.com/cooking/a58228/zucchini-bolognese-recipe/",
+            "ingredients": [
+                "1 tbsp olive oil",
+                "1 onion, chopped",
+                "5 courgettes, chopped",
+                "1 bouillon cube",
+                "250g rigatoni",
+                "Juice of ½ lemon",
+                "½ grated Parmesan",
+                "Pinch red pepper flakes"
+            ],
+            "steps": [
+                "In a large pot over medium heat, heat oil.",
+                "Add onion and cook until soft, about 6 minutes.",
+                "Stir in courgette, water and bouillon cube. Season with salt and pepper.",
+                "Reduce heat to low and cover. Cook for 4 hours, stirring often, until the courgette is falling apart.",
+                "When the sauce is almost ready, bring a large pot of salted water to a boil.",
+                "Add pasta and cook until al dente according to package instructions.",
+                "Drain and add to pot with zucchini.",
+                "Add lemon juice, Parmesan, and pepper flakes to pasta and stir well to combine."
+            ],
+            "tags": [
+                "pasta"
+            ]
         }
     ]
 }
