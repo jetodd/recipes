@@ -23208,7 +23208,7 @@
                 "pasta"
             ]
         },
-                {
+        {
             "title": "Swedish meatballs",
             "image": "swedish-meatballs",
             "url": "https://theeburgerdude.com/vegan-swedish-meatballs",
@@ -23246,6 +23246,49 @@
             ],
             "tags": [
                 "swedish"
+            ]
+        },
+        {
+            "title": "Udon with buttery tomato broth",
+            "image": "udon-with-buttery-tomato-broth",
+            "url": "https://www.eatingwell.com/udon-noodle-soup-with-buttery-tomato-broth-8385774",
+            "ingredients": [
+                "1 tbsp garlic paste",
+                "1 tsp ginger paste",
+                "1 tsp lemongrass paste",
+                "2 shallots, thinly sliced",
+                "2 tomatoes, grated",
+                "1 tsp five spice",
+                "¼ cup tomato paste",
+                "4 cups vegetable stock",
+                "1 cinnamon stick",
+                "3 whole star anise",
+                "1 tsp black peppercorns",
+                "1 block tofu",
+                "4 tbsp butter, cubed",
+                "2 tsp vegan fish sauce",
+                "250g udon noodles",
+                "4 tsp toasted sesame oil",
+                "¼ cup thinly sliced scallions",
+                "1 tsp toasted sesame seeds",
+                "1 packet shiitake mushrooms, sliced",
+                "Pak choi, chopped"
+            ],
+            "steps": [
+                "Drain and press the tofu. Once done pat dry with a towel and cube.",
+                "Heat oil in a saucepan over medium-high heat.",
+                "Add shallot and cook until starting to soften.",
+                "Add garlic paste, ginger paste and lemongrass paste. Cook, stirring constantly, until fragrant.",
+                "Add tomato paste. Cook, stirring constantly, until slightly darkened.",
+                "Add grated tomato and five spice and cook for a few minutes.",
+                "Stir in stock, cinnamon stick, star anise and peppercorns. Cover and bring to a boil.",
+                "Reduce heat to medium to maintain a simmer. Add tofu and simmer for 10 minutes.",
+                "Meanwhile heat a pan with oil. Cook shiitake mushrooms and pak choi until tender.",
+                "In the soup base add butter and fish sauce, whisking to melt the butter completely.",
+                "Add udon noodles and cook according to package instructions."
+            ],
+            "tags": [
+                "noods"
             ]
         }
     ]
