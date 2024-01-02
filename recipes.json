@@ -23386,6 +23386,42 @@
             "tags": [
                 "tofu"
             ]
+        },
+        {
+            "title": "Grilled broccoli grain bowl",
+            "image": "grilled-broccoli-grain-bowl",
+            "url": "https://www.mob.co.uk/recipes/grilled-broccoli-grain-bowl",
+            "ingredients": [
+                "400g tenderstem broccoli",
+                "150ml olive oil",
+                "¼ cup red onion",
+                "3 garlic cloves",
+                "2 fresh chilis, diced",
+                "1 cup coriander",
+                "½ cup parsley",
+                "Juice of 1 ½ limes",
+                "½ cup olive oil",
+                "¾ tsp dried oregano",
+                "1 tbsp red wine vinegar",
+                "½ salt",
+                "½ tsp pepper",
+                "3 mixed grain pouches",
+                "200g vegan feta"
+            ],
+            "steps": [
+                "Trim and halve the broccoli stems. Lay out in a single layer on a baking tray.",
+                "Drizzle with a splash of extra virgin olive oil and season with salt and black pepper.",
+                "Grill, turning with tongs, until the broccoli is charred on both sides and the stalks are tender.",
+                "Place the onion, garlic and chillies in a blender, blend until finely chopped.",
+                "Add coriander, parsley and oregano and blend.",
+                "Add remaining ingredients and pulse a few more times until well combined.",
+                "Squeeze the grain pouches, then heat in the microwave following the packet instructions.",
+                "Drizzle over most of the chimichurri, then crumble over half the feta and stir together.",
+                "Top with the charred broccoli and crumble over the remaining feta. Drizzle with extra chimichurri."
+            ],
+            "tags": [
+                "broccoli"
+            ]
         }
     ]
 }
