@@ -23422,6 +23422,39 @@
             "tags": [
                 "broccoli"
             ]
+        },
+        {
+            "title": "Cajun cauliflower tacos",
+            "image": "cajun-cauliflower-tacos",
+            "url": "https://www.sainsburysmagazine.co.uk/recipes/mains/crispy-cajun-cauli-tacos-and-slaw",
+            "ingredients": [
+                "1 red onion, thinly sliced",
+                "Juice of 1.5 limes",
+                "600g cauliflower",
+                "200g vegan yogurt",
+                "3 tbsp cajun spice",
+                "1 tbsp vegetable oil",
+                "75g panko crumbs",
+                "Zest and juice ½ lime",
+                "2 tbsp chopped coriander",
+                "1 carrot, peeled",
+                "100g cabbage",
+                "1 avocado, sliced",
+                "8 corn tortillas"
+            ],
+            "steps": [
+                "Place red onion in a bowl with lime juice, seal and refrigerate for at least 4 hours.",
+                "Cut the cauliflower into florets then toss in a bowl with 100g yogurt and 2 tablespoons cajun.",
+                "Mix remaining cajun with the oil and crumbs. Add caluflower and toss to coat.",
+                "Add to the air frier and cook until golden and tender, shaking halfway.",
+                "In the same bowl mix the lime zest and juice, remaining yoghurt and the coriander.",
+                "Grate in the carrot and shred the cabbage. Season with salt and pepper.",
+                "Warm the tortillas following pack instructions.",
+                "Add caulflower to each taco. Top with slaw, pickled onions and a few slices of avocado."
+            ],
+            "tags": [
+                "mexican"
+            ]
         }
     ]
 }
