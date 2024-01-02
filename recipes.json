@@ -23354,6 +23354,38 @@
                 "salad",
                 "bread"
             ]
+        },
+        {
+            "title": "Tofu steaks",
+            "image": "tofu-steaks",
+            "url": "https://schoolnightvegan.com/home/tofu-steak/",
+            "ingredients": [
+                "450g extra firm tofu",
+                "1 stock cube",
+                "4 tbsp boiling water",
+                "2 tbsp light brown sugar",
+                "1 tbsp tomato puree",
+                "1 clove garlic, minced",
+                "1 tsp liquid smoke",
+                "2 tbsp soy sauce",
+                "1 tsp vegan Worcestershire",
+                "½ tsp ground black pepper",
+                "½ tsp fine sea salt",
+                "40g vegan butter"
+            ],
+            "steps": [
+                "Drain and press the tofu. Pat dry and slice into four pieces.",
+                "In a small bowl, whisk together the vegan stock cube, boiling water and light brown sugar.",
+                "Add the remaining ingredients except for the vegan butter and whisk again.",
+                "Pour the marinade over the tofu and use a pastry brush to make sure each steak is coated on all sides.",
+                "Cover the tofu with a lid and leave to marinate in the fridge for up to 24 hours.",
+                "Heat a grill pan or frying pan over medium heat until very hot.",
+                "Add the vegan butter and swirl around in the pan.",
+                "Fry the tofu steaks, two at a time, for around 3-4 minutes on each side, basting as needed."
+            ],
+            "tags": [
+                "tofu"
+            ]
         }
     ]
 }
