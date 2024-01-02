@@ -23290,6 +23290,33 @@
             "tags": [
                 "noods"
             ]
+        },
+        {
+            "title": "Harissa tomato bruschetta",
+            "image": "harissa-tomato-bruschetta",
+            "url": "https://www.mob.co.uk/recipes/harissa-tomato-bruschetta",
+            "ingredients": [
+                "4 slices sourdough",
+                "1 garlic clove, halved",
+                "250g yoghurt",
+                "200g cherry tomatoes",
+                "2 tbsp harissa",
+                "1 lemon",
+                "12g basil",
+                "Olive oil"
+            ],
+            "steps": [
+                "Toast the bread. Once done rub the cut side of the garlic on each piece of bread.",
+                "Spread with a big spoonful of Greek yogurt and put onto plates.",
+                "Get a large frying pan over a super high heat and drizzle in a good glug of olive oil.",
+                "Add the cherry tomatoes and season. Fry for 2 minutes until the tomatoes just begin to burst.",
+                "Stir in the harissa paste to taste, then remove from the heat.",
+                "Spoon the hot tomatoes over the toast, making sure to spoon the flavoured oil from the pan too.",
+                "Finely grate a little lemon zest over each plate of bruschetta and tear over a few basil leaves to finish."
+            ],
+            "tags": [
+                "bread"
+            ]
         }
     ]
 }
