@@ -23503,6 +23503,44 @@
                 "potatoes",
                 "stew"
             ]
+        },
+        {
+            "title": "Hoisin cauliflower bites",
+            "image": "hoisin-cauliflower-bites",
+            "url": "https://itsallgoodvegan.com/2020/08/18/hoisin-cauliflower-bites/",
+            "ingredients": [             
+                "1 head cauliflower",
+                "½ cup all-purpose flour",
+                "¾ cup nut milk",
+                "1 ½ cup panko",
+                "2 tbsp cornstarch",
+                "½ tsp garlic powder",
+                "½ tsp salt",
+                "½ cup hoisin sauce",
+                "1 tsp sesame oil",
+                "2 tbsp soy sauce",
+                "1 tsp rice vinegar",
+                "½ tsp garlic, minced",
+                "1 tbsp cornstarch",
+                "3 tbsp water"
+            ],
+            "steps": [
+                "Preheat the oven to 200°C. Line a tray with parchment paper and set aside.",
+                "In a large bowl combine the garlic powder, salt, flour and milk. Whisk until you have formed a batter.",
+                "Add the cauliflower to the bowl of the batter and mix until the cauliflower is coated.",
+                "Place the panko in a bowl. Add the cauliflower and toss until each bite is completely covered.",
+                "Spread the cauliflower evenly on the baking pan and bake for 20 minutes.",
+                "Meanwhile, combine ingredients from hoisin to garlic in a small saucepan over low heat.",
+                "Bring to a simmer, add the cornstarch slurry, cook whilst stirring until thickened.",
+                "Place the cauliflower in a large bowl and drizzle the hoisin sauce on top of the bites.",
+                "Toss with a large spoon until all of the bites are completely covered with sauce.",
+                "Place the cauliflower bites back in the oven and bake for 5 minutes.",
+                "Take cauliflower bites out of the oven and top with sesame seeds and fresh cilantro."
+            ],
+            "tags": [
+                "sides",
+                "cauliflower"
+            ]
         }
     ]
 }
