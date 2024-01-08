@@ -23431,7 +23431,7 @@
             "url": "https://www.sainsburysmagazine.co.uk/recipes/mains/crispy-cajun-cauli-tacos-and-slaw",
             "ingredients": [
                 "1 red onion, thinly sliced",
-                "Juice of 1.5 limes",
+                "Juice of 1 ½ limes",
                 "600g cauliflower",
                 "200g vegan yogurt",
                 "3 tbsp cajun spice",
@@ -23558,10 +23558,10 @@
                 "1 onion, finely diced",
                 "6 garlic cloves, minced",
                 "1 inch ginger, minced",
-                "1/4 tsp chilli flakes",
+                "¼ tsp chilli flakes",
                 "1 tbsp garam masala",
-                "1/2 tsp turmeric",
-                "1/2 tsp cinnamon",
+                "½ tsp turmeric",
+                "½ tsp cinnamon",
                 "8 tbsp vegan yoghurt",
                 "1 cube vegetable stock",
                 "1 tomato, chopped",
@@ -23587,6 +23587,54 @@
                 "curry",
                 "tofu",
                 "rice"
+            ]
+        },
+        {
+            "title": "Dal with eggplant pickle",
+            "image": "dal-with-aubergine-pickle",
+            "url": "https://www.gousto.co.uk/cookbook/vegan-recipes/sri-lankan-coconut-dal-with-aubergine-pickle",
+            "ingredients": [
+                "200g basmati rice",
+                "2 cups red lentils",
+                "50g creamed coconut",
+                "1 stock cube",
+                "2 eggplants",
+                "1 tsp cumin seeds",
+                "1 tsp fenugreek seeds",
+                "1 tsp mustard seeds",
+                "2 shallots, finely sliced",
+                "4 garlic cloves, sliced",
+                "1 tbsp curry powder",
+                "1 tsp ground turmeric",
+                "1 tbsp tomato paste",
+                "4 garlic cloves, minced",
+                "1 tbsp ginger, minced",
+                "15ml cider vinegar",
+                "1 tbsp black mustard seeds",
+                "1 ½ tbsp sugar",              
+                "40g coriander, chopped",
+                "2 green chillies, sliced",                
+                "2 shallots, cut into wedges",
+                "Coconut yogurt"
+            ],
+            "steps": [
+                "Clean and cook the rice.",
+                "Rinse the lentils in a sieve under cold running water.",
+                "Chop the coconut cream and dissolve in 1 liter of boiling water along with the stock cube.",
+                "Cut the eggplant into strips. Then heat oil over medium in a large pan.",
+                "Once hot, add the eggplant and a pinch of salt and cook, covered, turning occasionally until golden.",
+                "Heat another pot with oil over medium. Once hot add the cumin, mustard and fenugreek seeds and fry for a few seconds.",
+                "Add the sliced shallot, sliced garlic, curry powder, tomato paste and half the turmeric.",
+                "Cook for a minute then add the lentils and cook for another minute.",
+                "Add the stock, bring to the boil, lower to a simmer and then cook until the lentils are tender.",
+                "Combine ingredients from minced garlic to sugar along with most of the coriander for the pickling liquid.",
+                "Once the eggplant is golden, transfer it to kitchen paper and return the pan to a medium heat.",
+                "Add the green chilli and shallot wedges with the remaining ground turmeric and cook for 2-3 min.",
+                "Return the eggplant to the pan with the pickling liquid and cook until all the liquid has evaporated.",
+                "Serve the daal with coriander, pickled eggplant and a drizzle of coconut yogurt."
+            ],
+            "tags": [
+                
             ]
         }
     ]
