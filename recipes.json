@@ -23634,7 +23634,55 @@
                 "Serve the daal with coriander, pickled eggplant and a drizzle of coconut yogurt."
             ],
             "tags": [
-                
+                "curry"
+            ]
+        },
+        {
+            "title": "Malaysian coconut curry",
+            "image": "malaysian-coconut-curry",
+            "url": "https://www.gousto.co.uk/cookbook/recipes/malaysian-style-coconut-meat-free-chicken-pickled-cucumber",
+            "ingredients": [
+                "200g rice",
+                "1 block tofu",
+                "1 tbsp curry paste",
+                "Pinch of white pepper",
+                "2 lemongrass stalks",
+                "2 red chillies",
+                "5 garlic cloves",
+                "3cm ginger, chopped",
+                "3 shallots, chopped",
+                "1 tsp turmeric",
+                "50g creamed coconut, chopped",
+                "500ml vegetable stock",
+                "1 carrot, thinly sliced",
+                "1 bell pepper, diced",
+                "1 courgette, thinly sliced",
+                "30ml rice vinegar",
+                "3 kaffir lime leaves",
+                "2⁄3 cinnamon stick",
+                "2 star anise",
+                "1 tbsp soy sauce",
+                "30g tamarind paste",
+                "Handful coriander, chopped"
+            ],
+            "steps": [
+                "Drain and press the tofu. Clean and cook the rice.",
+                "Rip the tofu into pieces. In a bowl toss the tofu in cornstarch, curry powder and white pepper.",
+                "Heat oil in the frying pan, fry the tofu pieces until golden-brown and crispy. Set aside.",
+                "Bash the lemongrass with a rolling pin, remove the outer layers, then chop the core finely.",
+                "Put the garlic, chillies, lemongrass, ginger and shallots in a food processor to form a paste. Loosen with water.",
+                "Heat the oil in the wok. Add the curry paste, turmeric and tamarind and stir for a few minutes.",
+                "Add the onions and cook, stirring for 5 minutes.",
+                "Add the tofu to the pan, stir to coat in curry paste.",
+                "Add the lime leaves, cinnamon, star anise, coconut milk, stock, sugar, soy and fish sauces and bring to the boil.",
+                "Lower to a simmer and cook for 20 minutes.",
+                "Add carrot and cook until slightly softened. Add bell pepper and simmer for a few minutes.",
+                "Add courgette and cook until just tender.",
+                "Serve over rice and scatter with coriander."
+            ],
+            "tags": [
+                "malaysian",
+                "curry"
             ]
         }
     ]
