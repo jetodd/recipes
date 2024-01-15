@@ -23721,6 +23721,36 @@
             "tags": [
                 "pasta"
             ]
+        },
+        {
+            "title": "Nacho cheese",
+            "image": "nacho-cheese",
+            "url": "https://schoolnightvegan.com/home/vegan-nacho-cheese",
+            "ingredients": [
+                "2 carrots, grated",
+                "480ml soy milk",
+                "40g vegan butter, melted",
+                "3 tbsp tapioca starch",
+                "2 tbsp cornstarch",
+                "3 tbsp pickled jalapeño brine",
+                "1 tbsp lime juice",
+                "1 tbsp chipotle paste",
+                "½ tbsp tomato puree",
+                "4 tbsp nooch",
+                "1 tsp onion powder",
+                "1 tsp garlic powder",
+                "½ tsp fine sea salt"
+            ],
+            "steps": [
+                "Put carrots and soy milk in blender and blend until slightly golden and carrot is finely blended.",
+                "Drain milk through a cloth into a bowl and discard the carrot pulp. Squeeze out excess milk.",
+                "Rinse the blender and return the milk to it. Add the remaining ingredients and blend until smooth.",
+                "Transfer the blended mixture to a medium saucepan and place over medium/low heat.",
+                "Stirring constantly with a silicone spatula, heat the mixture until it thickens enough to coat the back of a spoon."
+            ],
+            "tags": [
+                "cheeze"
+            ]
         }
     ]
 }
