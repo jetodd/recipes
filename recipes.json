@@ -20907,7 +20907,7 @@
                 "Add the oat milk, stock, salt and nooch to a large saucepan and bring up to the boil.",
                 "Slowly pour the polenta into the pan in a steady stream, whisking all the time.",
                 "Turn the heat to low and continue whisking occasionally until the polenta is cooked through.",
-                "Add the butter and parmesan, and nooch and stir until completely combined.",
+                "Add the butter and parmesan and stir until completely combined.",
                 "Remove the pot from the heat, and stir in the herbs."
             ],
             "tags": [
@@ -23815,6 +23815,47 @@
             ],
             "tags": [
                 "tacos"
+            ]
+        },
+        {
+            "title": "Oven baked tofu chilli",
+            "image": "oven-baked-tofu-chilli",
+            "url": "https://www.theguardian.com/food/2024/jan/13/oven-baked-tofu-chilli-vegan-recipe-meera-sodha",
+            "ingredients": [
+                "2 onions, chopped",
+                "3 red peppers, cut into chunks",
+                "280g tofu",
+                "6 garlic cloves, crushed",
+                "140ml oil",
+                "1 tsp salt",
+                "3½ tbsp chipotle paste",
+                "1 tsp oregano",
+                "1 tbsp cumin",
+                "2 tsp cinnamon",
+                "500ml passata",
+                "2 tbsp miso paste",
+                "1 tin kidney beans",
+                "1 tin chickpeas",
+                "2 x 400g tins pulses",
+                "Fresh coriander",
+                "Rice",
+                "Guacamole",
+                "Creme fraiche"
+            ],
+            "steps": [
+                "Drain and press the tofu. Heat the oven to 190°C.",
+                "Working in batches, one ingredient at a time, blend the onions, peppers and tofu to mince size pieces.",
+                "Add minced pieces to the and oven tray. Add the garlic, oil, salt, chipotle, oregano and spices, mix well.",
+                "Pop into the oven for 20 minutes.",
+                "After 20 minutes, stir the passata into the tray, then return it to the oven for another 20 minutes.",
+                "Meanwhile, put the miso in a jug, pour over 500ml just-boiled water and stir to dissolve.",
+                "After the chilli has had another 20 minutes, stir in the beans and chickpeas.",
+                "Pour in the stock and return to the oven, cook until dark red and bubbling.",
+                "Scatter over the shredded coriander and serve with rice, guacamole and creme fraiche."
+            ],
+            "tags": [
+                "rice",
+                "weekend"
             ]
         }
     ]
