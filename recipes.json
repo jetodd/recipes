@@ -23857,6 +23857,43 @@
                 "rice",
                 "weekend"
             ]
+        },
+        {
+            "title": "Jackfruit and walnut wraps",
+            "image": "jackfruit-and-walnut-wraps",
+            "url": "https://www.theguardian.com/food/2024/jan/10/mildreds-vegan-recipes-for-middle-eastern-classics-harira-galette-jackfruit-wraps",
+            "ingredients": [
+                "1 can jackfruit, drained",
+                "2 red onions, finely sliced",
+                "60g toasted walnuts, chopped",
+                "2 tbsp pomegranate seeds",
+                "4 flatbreads, ideally lavash",
+                "4 tbsp plant-based yoghurt",
+                "1 tsp coriander seeds",
+                "1 tsp cumin seeds",
+                "3 tbsp vegetable oil",
+                "1 tbsp apricot harissa",
+                "1 tbsp pomegranate molasses",
+                "2 garlic cloves, peeled",
+                "1 tbsp brown sugar",
+                "¼ tsp salt",
+                "Juice of 1 orange",
+                "20g coriander, chopped",
+                "Tabbouleh"
+            ],
+            "steps": [
+                "Heat the oven to 200°C.",
+                "Toast the coriander and cumin seeds in a dry pan on medium heat for a minute or so, until fragrant.",
+                "Transfer to a food processor. Add ingredients from oil to coriander and blend to combine.",
+                "Toss the jackfruit and sliced onions on a baking tray, pour over the marinade and toss to coat.",
+                "Roast for 15 minutes, stirring halfway, remove from the oven and sprinkle over the walnuts and pomegranate seeds.",
+                "To serve, gently warm the flatbreads in the oven.",
+                "Smear a tablespoon of yoghurt across the middle of each flatbread.",
+                "Top with the jackfruit mixture, followed by some tabbouleh. Roll and serve immediately."
+            ],
+            "tags": [
+                "bread"
+            ]
         }
     ]
 }
