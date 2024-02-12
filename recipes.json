@@ -12361,6 +12361,7 @@
                 "2 sticks dried bean curd",
                 "1 tsp sesame oil",
                 "2 tbsp soy sauce",
+                "1 tsp dark soy sauce",
                 "2 tsp sugar",
                 "½ cup vegetable stock",
                 "1 small bundle mung bean noodles",
@@ -23998,6 +23999,53 @@
             ],
             "tags": [
                 "korean"
+            ]
+        },
+        {
+            "title": "Tofu shawarma flatbread",
+            "image": "tofu-shawarma-flatbread",
+            "url": "https://www.instagram.com/p/COIt-IaJUDb/?img_index=4",
+            "ingredients": [
+                "1 block tofu",
+                "¼ cup olive oil",
+                "1 lemon, juiced",
+                "3 cloves garlic",
+                "2 tbsp agave",
+                "1 ½ tsp cumin",
+                "1 ½ tsp smoked paprika",
+                "¾ tsp cinnamon",
+                "¾ tsp ginger",
+                "¾ tsp oregano",
+                "¾ tsp turmeric",
+                "1 red onion, thinly sliced",
+                "½ cup apple cider vinegar",
+                "1 tbsp brown sugar",
+                "1 ½ tsp salt",
+                "1 cup hot or warm water",
+                "Flatbreads",
+                "Vegan aioli",
+                "Avocado",
+                "Fresh coriander",
+                "Spinach",
+                "Lemon",
+                "Olive oil",
+                "Sea salt"
+            ],
+            "steps": [
+                "Start by pressing the tofu from all its juices and slicing into cubes.",
+                "Add ingredients from olive oil to turmeric to a bowl and mix well.",
+                "Layer your tofu cubes into the marinade and cover them as much as you can.",
+                "Let the tofu sit in there for as long as you can.",
+                "Meanwhile add the red onion, vinegar, sugar and salt to a conta,ner and mix well.",
+                "Add warm water until onions are fully submerged. Refrigerate.",
+                "Now add the tofu pieces to an air fryer pr oven at 200C for 10 mins.",
+                "In a large bowl toss together the spinach, olive oil, lemon and sea salt.",
+                "Layer your plate with a flatbread, spoon some aioli on top of the flatbread.",
+                "Add spinach, pickled red onions, slice avocado and tofu pieces."
+            ],
+            "tags": [
+                "bread",
+                "tofu"
             ]
         }
     ]
