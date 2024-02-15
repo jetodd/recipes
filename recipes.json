@@ -24149,6 +24149,51 @@
                 "weekend",
                 "stew"
             ]
+        },
+        {
+            "title": "Deconstructed wonton soup",
+            "image": "deconstructed-wonton-soup",
+            "url": "https://www.eatfigsnotpigs.com/deconstructed-wonton-soup/",
+            "ingredients": [
+                "2 tbsp oil",
+                "1 ½ cups onion, roughly chopped",
+                "¼ cup ginger, roughly chopped",
+                "6 cloves garlic, smashed",
+                "8 cups vegan chicken stock",
+                "20g dried shiitake mushrooms",
+                "1 tbsp soy sauce",
+                "1 tbsp rice vinegar",
+                "2 tsp sesame oil",
+                "400g vegan ground sausage",
+                "¼ cup panko",
+                "2 vegan eggs",
+                "1 tbsp soy sauce",
+                "1 tbsp grated ginger",
+                "1 tbsp grated garlic",
+                "1 tbsp minced chives",
+                "2 tsp rice vinegar",
+                "½ tsp black pepper",
+                "½ tsp granulated sugar",
+                "3-4 baby bok choy roughly chopped",
+                "15 wonton wrappers, quartered",
+                "Sliced spring onion",
+                "Chili oil"
+            ],
+            "steps": [
+                "Heat the oil in a pot over medium. Once hot add the onion, ginger and garlic, and sauté until browned.",
+                "Pour in 1 cup of the stock and scrape up any brown bits at the bottom of the pot with a wooden spoon.",
+                "Add the remaining stock, dried mushrooms, soy sauce, rice vinegar and sesame oil.",
+                "Once the soup reaches a light boil, cover and simmer, partially covered, for 30 minutes to 1 hour.",
+                "Strain it through a fine-mesh sieve and discard the vegetables and mushrooms.",
+                "Return the strained broth to the pot over medium-high heat.",
+                "Combine ingredients from sausage to sugar, mixing well.",
+                "Drop teaspoon size balls of the mixture into the broth. Cook, covered for 15 minutes",
+                "Stir in the bok choy and simmer until just tender.",
+                "Drop the wonton wrappers into the soup one at a time, whilst stirring. Simmer for a few minutes."
+            ],
+            "tags": [
+                "soup"
+            ]
         }
     ]
 }
