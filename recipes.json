@@ -24108,6 +24108,47 @@
                 "sandwich",
                 "weekend"
             ]
+        },
+        {
+            "title": "Vegan gumbo",
+            "image": "vegan-gumbo",
+            "url": "Vegan gumbo",
+            "ingredients": [
+                "400g vegan sausage, sliced",
+                "1 tsp vegan bouillon powder",
+                "1 cup all-purpose flour",
+                "3 tbsp vegan butter",
+                "1 green pepper. diced",
+                "1 onion, diced",
+                "2 stalks celery, diced",
+                "8 cloves garlic, minced",
+                "6 cups vegan beef broth",
+                "400g fire roasted diced tomatoes",
+                "¼ cup fresh minced parsley",
+                "3 bay leaves",
+                "2 tsp Cajun seasoning",
+                "2 cups frozen or fresh okra sliced",
+                "1 can kidney beans",
+                "1 bunch green onion, sliced",
+                "Rice"
+            ],
+            "steps": [
+                "Heat oil over medium. Once hot add the sausage, cook until crispy around the edges. Set aside.",
+                "In a large pot heat oil over medium, season with bouillon powder.",
+                "Once hot gradually add the flour, stirring constantly with a whisk.",
+                "Keep stirring consistently to avoid burning, about 15 to 25 minutes or until deep brown.",
+                "Add the butter, onion, celery, bell pepper and garlic and cook while stirring, until fragrant.",
+                "Slowly add the broth and stir until all the cubes have melted and the stew becomes thick.",
+                "Add the tomatoes, parsley, and bay leaves, and season with the cajun seasoning.",
+                "Bring to a boil, then reduce the heat to low and simmer for about 30-40 minutes, stirring occasionally.",
+                "Add the okra and beans and cook for an additional 10-15 minutes.",
+                "Add the sausage and green onion, stirring to combine.",
+                "Taste and adjust the seasonings as needed. Remove the bay leaves before serving."
+            ],
+            "tags": [
+                "weekend",
+                "stew"
+            ]
         }
     ]
 }
