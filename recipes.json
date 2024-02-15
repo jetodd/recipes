@@ -63,7 +63,7 @@
                 "Mozzarella"
             ],
             "steps": [
-                "Preheat the oven to 200C and get a baking tray ready.",
+                "Preheat the oven to 200°C and get a baking tray ready.",
                 "Halve the tomatoes and arrange them on the prepared baking tray, cut side up. Sprinkle with olive oil, dried basil, salt and pepper. Bake.",
                 "Heat up the wok on low-medium heat. Once hot, add the pine nuts and dry-roast them until golden. Remove from wok.",
                 "Cook the pasta al dente following the packet instructions.",
@@ -106,7 +106,7 @@
                 "½ tsp lime juice"
             ],
             "steps": [
-                "Preheat the oven to 200 C",
+                "Preheat the oven to 200°C",
                 "Mix together spices to form spice blend.",
                 "Heat oil in a skillet over medium heat. Add onion then garlic and cook until translucent.",
                 "Add flour and spice blend, cook for a minute. Add lime juice and cook for a few seconds.",
@@ -142,7 +142,7 @@
                 "6 wraps"
             ],
             "steps": [
-                "Heat the oven to 200 C and put in hash browns and nuggies.",
+                "Heat the oven to 200°C and put in hash browns and nuggies.",
                 "Cut halloumi into slices and add to oven slightly later.",
                 "Finely chop red onion, garlic, avocado, tomatoes and coriander and mix together for salsa.",
                 "Add cumin and squeeze lime juice over salsa.",
@@ -179,7 +179,7 @@
                 "Cumin"
             ],
             "steps": [
-                "Heat the oven to 200 C and line a baking dish.",
+                "Heat the oven to 200°C and line a baking dish.",
                 "In the frying pan cook garlic then add tinned tomatoes, herbs and spices.",
                 "Cook eggplant, add to a bowl. Then mushrooms. Then bell peppers.",
                 "Cook spinach, when done add ricotta and cheese.",
@@ -24193,6 +24193,55 @@
             ],
             "tags": [
                 "soup"
+            ]
+        },
+        {
+            "title": "Crispy black bean tacos",
+            "image": "crispy-black-bean-tacos",
+            "url": "https://playswellwithbutter.com/crispy-black-bean-tacos/",
+            "ingredients": [
+                "1 red onion, thinly sliced",
+                "Juice of 1 ½ limes",
+                "½ red onion, finely chopped",
+                "1 clove garlic, minced",
+                "Juice of 1 lime",
+                "3 tomatoes, finely diced",
+                "1 green chilli, finely chopped",
+                "Coriander, finely chopped",
+                "1 onion, diced",
+                "4 cloves garlic, grated",
+                "1 tbsp chipotle paste",
+                "2 tbsp tomato paste",
+                "1 ½ tsp chili powder",
+                "1 ½ tsp ground cumin",
+                "1 ½ tsp smoked paprika",
+                "2 cans black beans, drained and rinsed",
+                "½ cup vegetable stock",
+                "1 lime, juiced",
+                "8 tortillas",
+                "1/2 cup shredded vegan cheese",
+                "Shredded lettuce",    
+                "Sour cream"
+            ],
+            "steps": [
+                 "Place red onion in a bowl with lime juice, seal and refrigerate for at least 4 hours.",
+                 "In a medium bowl, mix ingredients from red onion to coriander and set aside.",
+                 "Preheat the oven to 210°C, ensuring a rack is positioned in the center of the oven.",
+                 "Add oil to a pan over medium. Once hot, add the onion. Sprinkle with salt. Cook until translucent.",
+                 "Stir in the garlic and chipotle. Cook just until fragrant, about 30 seconds.",
+                 "Add the chili powder, cumin, smoked paprika, and tomato paste. Stir, coating the onion. Cook until fragrant.",
+                 "Add the black beans, stirring to combine. Cook, stirring occasionally, until warm, 1-2 minutes.",
+                 "Add the stock, then bring to a simmer. Use a wooden spoon to mash the beans slightly.",
+                 "Squeeze the lime juice over. Taste and season. Remove from heat.",
+                 "Wrap the tortillas in a damp paper towel. Microwave 30 seconds to steam. Set aside.",
+                 "Oil a baking tray. Place the tortillas on the tray, flipping to oil on both sides.",
+                 "Spread the black been mixture over half of each tortilla and sprinkle with cheese.",
+                 "Fold the tortillas in half to cover the filling. Carefully flip the tacos.",
+                 "Transfer the sheet pan to the oven and bake the tacos 15-20 minutes, carefully flipping halfway.",
+                 "Fill each taco with lettuce then top with sour cream and pico de gallo."
+            ],
+            "tags": [
+                
             ]
         }
     ]
