@@ -24219,7 +24219,7 @@
                 "½ cup vegetable stock",
                 "1 lime, juiced",
                 "8 tortillas",
-                "1/2 cup shredded vegan cheese",
+                "½ cup shredded vegan cheese",
                 "Shredded lettuce",    
                 "Sour cream"
             ],
@@ -24241,7 +24241,71 @@
                  "Fill each taco with lettuce then top with sour cream and pico de gallo."
             ],
             "tags": [
-                
+                "tacos"
+            ]
+        },
+        {
+            "title": "Ruby curry",
+            "image": "ruby-curry",
+            "url": "https://thelittlelondonvegan.com/dishooms-ruby-murray/",
+            "ingredients": [
+                "10g chopped ginger",
+                "20g chopped garlic",
+                "5g salt",
+                "½ tsp chilli powder",
+                "¼ tsp paprika",
+                "¼ tsp cayenne pepper",
+                "1 ½ tsp ground cumin",
+                "½ tsp garam masala",
+                "2 tsp lime juice",
+                "2 tsp vegetable oil",
+                "75g vegan creme fraiche",
+                "1 block tofu, frozen and defrosted",
+                "20g vegan butter, melted",
+                "80ml vegan cream",
+                "8 cloves garlic, chopped",
+                "20g ginger, grated",
+                "175ml vegetable oil",
+                "800g chopped tomatoes",
+                "2 bay leaves",
+                "6 green cardamom pods",
+                "2 black cardamom pods",
+                "2 cinnamon sticks",
+                "2 tsp salt",
+                "1 tsp chilli powder",
+                "¼ tsp paprika",
+                "¼ tsp cayenne pepper",
+                "30g vegan butter",
+                "1 tsp garam masala",
+                "20g sugar",
+                "1 tbsp maple syrup",
+                "1 tsp ground cumin",
+                "¼ tsp dill",
+                "80ml double cream",
+                "Chopped coriander",
+                "1 tbsp pomegranate seeds",
+                "Rice"
+            ],
+            "steps": [
+                "Warm a large saucepan over a medium-high heat and add the oil.",
+                "Add the garlic and fry until golden and slightly crisp. Remove and drain on kitchen paper.",
+                "Using a blender, blitz the chopped tomatoes to a fine consistency.",
+                "Put the saucepan back on medium and add the bay leaves, cardamom pods and cinnamon.",
+                "Let them crackle for one minute, stirring regularly, then turn down the heat.",
+                "Add the garlic and ginger. Cook for five minutes, allowing the paste to brown but not burn.",
+                "Add the tomatoes, salt and chilli powder. Bring to a simmer and cook until roughly halved.",
+                "Add the butter and simmer for a further five minutes.",
+                "Add the garam masala, sugar, maple syrup, cumin, crisp garlic, kasoori methi and dill, and cook for a further 15 minutes.",
+                "Add the cream and simmer gently for five minutes.",
+                "Blend ingredients from ginger to creme fraiche then add it to a bowl.",
+                "Rip the tofu into chunks, add to the marinade and coat. Cover and refrigerate for at least six hours.",
+                "Heat the grill to medium-high. Put the tofu on the rack and brush with melted butter.",
+                "Grill until cooked and lightly charred.",
+                "Add sauce, cream and tofu to a pan. Heat through."
+            ],
+            "tags": [
+                "curry",
+                "weekend"
             ]
         }
     ]

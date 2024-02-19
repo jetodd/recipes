@@ -13,11 +13,21 @@
 
 		<div class="col-md-6 col-lg-3 order-lg-1">		
 			<center>
-				<a target="_blank" href="{{ recipe.url }}"><img src="/static/img/{{ recipe.image }}.jpg" height="200px" width="200px" class="recipe-image"></a>
+				<a target="_blank" href="{{ recipe.url }}"><img src="/static/img/{{ recipe.image }}.jpg" width="88%" height="auto" class="recipe-image"></a>
 			</center>
 		</div>
 
 		<div class="col-md-6 col-lg-3 order-lg-3">
+			{% if recipe.tags %}
+				{% for tag in recipe.tags.all %}
+				<div class="tags">
+					<a href="{% url 'recipes:tag' tag.id %}">{{ tag.name }}</a>
+				</div>
+				{% endfor %}
+			{% endif %}
+
+			<hr />
+
 			<div class="box pb-1">
 			<form action="" method="post">
 	    		{% csrf_token %}
@@ -35,6 +45,7 @@
 				</form>
 			{% endif %}
 			</div>
+			
 		</div>
 
 		<div class="col-md-12 col-lg-6 order-lg-2">
