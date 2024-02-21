@@ -24307,6 +24307,38 @@
                 "curry",
                 "weekend"
             ]
+        },
+        {
+            "title": "Pesto beans on toast",
+            "image": "pesto-beans-on-toast",
+            "url": "https://www.instagram.com/p/C3kYsFlqrK2/",
+            "ingredients": [
+                "1 can cannellini beans",
+                "Sourdough",
+                "Vegan butter",
+                "Chilli oil",
+                "1 ½ cups frozen peas",
+                "1 large handful spinach",
+                "1 bunch basil",
+                "1 tbsp olive oil",
+                "1 clove garlic",
+                "3 tbsp nooch",
+                "2 tbsp cashew nuts",
+                "Juice of a lemon",
+                "Salt",
+                "Pepper"
+            ],
+            "steps": [
+                "Soak cashews in hot water for 15 minutes.",
+                "Blitz ingredients from peas to pepper, use a splash of water to loosen slightly if needed.",
+                "Mix together your pesto with your cannellini beans in a bowl. Season to taste.",
+                "Add beans and pesto to a pan on medium heat. Cook until heated through.",
+                "Toast and butter the sourdough. Pile the beans on top and drizzle with chilli oil."
+            ],
+            "tags": [
+                "breakfast",
+                "bread"
+            ]
         }
     ]
 }
