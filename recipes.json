@@ -24382,6 +24382,45 @@
             "tags": [
                 "salad"
             ]
+        },
+        {
+            "title": "Thai basil eggplant",
+            "image": "thai-basil-eggplant",
+            "url": "https://cinnamonsnail.com/thai-basil-eggplant/",
+            "ingredients": [
+                "4 Chinese eggplants",
+                "1 cup shallots, minced",
+                "6 cloves garlic, minced",
+                "2 cups Thai basil, chopped",
+                "1 red pepper, sliced",
+                "1 green pepper, sliced",
+                "Garlic shoots",
+                "1 onion, roughly chopped",
+                "3 bird’s eye chilles, sliced",
+                "2 ½ tbsp soy sauce",
+                "1 ½ tbsp sesame oil",
+                "1 ½ tbsp shaoxing wine",
+                "4 tsp sambal",
+                "1 tbsp sugar",
+                "2 tbsp vegan fish sauce",
+                "⅓ cup water",
+                "2 tsp cornstarch",
+                "Garlic chives, thinly sliced",
+                "Rice"
+            ],
+            "steps": [
+                "Slice eggplant into long wedges.",
+                "Mix soy sauce, sesame oil, shaoxing wine, sambal, sugar, fish sauce, water and cornstarch in a bowl.",
+                "Heat oil in the wok over medium-high. Add eggplant and cook until slightly browned, set aside.",
+                "Add a little more oil then add shallots and cook until softened.",
+                "Add garlic, bell peppers, thai basil and chillies. Cook until vegetables have slightly softened.",
+                "Add garlic shoots, eggplant and onion. Pour sauce over the vegetables and stir to coat.",
+                "Simmer it for a few minutes until the sauce has thickened."
+            ],
+            "tags": [
+                "eggplant",
+                "rice"
+            ]
         }
     ]
 }
