@@ -1696,7 +1696,7 @@
                 "400ml vegetable stock",
                 "10 dried apricots halved",
                 "Small handful fresh mint chopped",
-                "300 g dried couscous",
+                "300g dried couscous",
                 "2 cups vegetable stock",
                 "1 tin chickpeas",
                 "2 Tbsp harissa paste",
@@ -24338,6 +24338,49 @@
             "tags": [
                 "breakfast",
                 "bread"
+            ]
+        },
+        {
+            "title": "Harissa tofu salad",
+            "image": "harissa-tofu-salad",
+            "url": "https://www.lazycatkitchen.com/harissa-tofu-salad/#recipe-start",
+            "ingredients": [
+                "1 block tofu",
+                "¼ cup lemon juice",
+                "Zest of 1 lemon",
+                "2 tbsp harissa paste",
+                "2 garlic cloves, minced",
+                "2 tbsp maple syrup",
+                "3 tbsp olive oil",
+                "1 ½ cup couscous",
+                "1 tbsp olive oil",
+                "1 cauliflower, cut into florets",
+                "½ tsp smoked paprika",
+                "½ tsp coriander",
+                "1 tsp cumin",
+                "1 tbsp nooch",
+                "1 red onion, cut into wedges",
+                "Handful of parsley, chopped",
+                "Handful of coriander, chopped",
+                "Seeds of ½ pomegranate",
+                "Slivered almonds"
+            ],
+            "steps": [
+                "Drain and press the tofu. Once done cut into triangles.",
+                "In a bowl combine harissa paste, garlic, lemon juice, maple syrup and olive oil.",
+                "Pour a third of this mixture into a flat dish, season and 1 tbsp water. Mix well.",
+                "Place tofu in the marinade and gently toss to coat. Leave for at least an hour.",
+                "Add couscous to a bowl with 450ml of stock, cover.",
+                "Heat oven to 210°C. Place tofu on a baking tray.",
+                "Coat cauliflower in olive oil. Sprinkle with salt, nooch and spices. Add to the tray.",
+                "Coat the red onion in olive oil, season and add to the tray. Bake for about 20 minutes.",
+                "Remove the onion after 20 minutes. Brush the tofu in remaining marinade, cook for 5-10 minutes.",
+                "Meanwhile, roast almond on low heat in a dry pan until golden.",
+                "Fluff couscous with a fork, stir lemon zest, parsley and coriander through it.",
+                "Top with baked tofu, roasted onion and cauliflower. Decorate with pomegranate seeds and almonds."
+            ],
+            "tags": [
+                "salad"
             ]
         }
     ]
