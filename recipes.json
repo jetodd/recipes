@@ -24421,6 +24421,49 @@
                 "eggplant",
                 "rice"
             ]
+        },
+        {
+            "title": "Pad woon sen",
+            "image": "pad-woon-sen",
+            "url": "https://cinnamonsnail.com/pad-woon-sen-thai-stir-fried-glass-noodles",
+            "ingredients": [
+                "100g dried bean noodles",
+                "2 tbsp vegetable oil",
+                "1 block tofu",
+                "1 tbsp cornstarch",
+                "1 red onion, chopped",
+                "4 cloves garlic, minced",
+                "2 carrots, julienned",
+                "1 red pepper, thinly sliced",
+                "1 cup shredded cabbage",
+                "1 tomato, cut into wedges",
+                "1 sliced bird's eye chili",
+                "3 scallions, diced",
+                "1 ½ tbsp soy sauce",
+                "2 tbsp vegan oyster sauce",
+                "½ tbsp rice vinegar",
+                "2 tsp sugar",
+                "2 tbsp water",
+                "¼ tsp white pepper",
+                "Coriander, chopped",
+                "1 minced bird's eye chili",
+                "Lime wedges"
+            ],
+            "steps": [
+                "Drain and press the tofu. Once done rip into chunks and toss in a bowl with cornstarch.",
+                "Soak the bean thread noodles by in warm water until pliable. Drain and set aside.",
+                "Heat the canola oil or vegetable oil in a large wok or pan over high heat.",
+                "Add the torn tofu to the pan and stir-fry for 8-9 minutes until lightly golden and crispy.",
+                "Lower the heat and add the garlic and red onion. Cook until fragrant.",
+                "Add the carrot, bell pepper, cabbage, tomatoes, chilli and scallion whites. Cook until vegetables are slightly softened.",
+                "In a small bowl whisk ingredients from soy sauce to white pepper for the sauce.",
+                "Add the sauce and noodles to the pan. Stir to coat. Cook until noodles are heated through.",
+                "Remove from heat and garnish with coriander, chilies, scallion greens, and lime wedges."
+            ],
+            "tags": [
+                "thai",
+                "noods"
+            ]
         }
     ]
 }
