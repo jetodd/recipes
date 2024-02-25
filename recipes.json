@@ -24216,11 +24216,12 @@
                 "1 ½ tsp ground cumin",
                 "1 ½ tsp smoked paprika",
                 "2 cans black beans, drained and rinsed",
+                "1 red pepper, diced",
                 "½ cup vegetable stock",
                 "1 lime, juiced",
                 "8 tortillas",
                 "½ cup shredded vegan cheese",
-                "Shredded lettuce",    
+                "Shredded lettuce",
                 "Sour cream"
             ],
             "steps": [
@@ -24228,7 +24229,7 @@
                  "In a medium bowl, mix ingredients from red onion to coriander and set aside.",
                  "Preheat the oven to 210°C, ensuring a rack is positioned in the center of the oven.",
                  "Add oil to a pan over medium. Once hot, add the onion. Sprinkle with salt. Cook until translucent.",
-                 "Stir in the garlic and chipotle. Cook just until fragrant, about 30 seconds.",
+                 "Stir in the garlic, bell pepper and chipotle. Cook just until fragrant, about 30 seconds.",
                  "Add the chili powder, cumin, smoked paprika, and tomato paste. Stir, coating the onion. Cook until fragrant.",
                  "Add the black beans, stirring to combine. Cook, stirring occasionally, until warm, 1-2 minutes.",
                  "Add the stock, then bring to a simmer. Use a wooden spoon to mash the beans slightly.",
@@ -24463,6 +24464,45 @@
             "tags": [
                 "thai",
                 "noods"
+            ]
+        },
+        {
+            "title": "Brown butter tteokbokki",
+            "image": "brown-butter-tteokbokki",
+            "url": "https://justinesnacks.com/brown-butter-tteokbokki",
+            "ingredients": [
+                "450g frozen tteokbokki",
+                "1 block tofu, drained and pressed",
+                "1 tbsp cornstarch",
+                "1 tbsp oil",
+                "4 tbsp salted butter",
+                "3 shallots, sliced",
+                "4 cloves garlic, grated",
+                "1 inch ginger, grated",
+                "1 tsp gochugaru",
+                "2 tbsp gochujang",
+                "1 tbsp soy sauce",
+                "1 tbsp maple syrup",
+                "3 tbsp rice vinegar",
+                "½ cup water",
+                "2 cups kale shredded",
+                "2 stalks scallions, sliced",
+                "1 tbsp white sesame seeds"
+            ],
+            "steps": [
+                "Drain and press the tofu. Once done cut into triangles. Toss in cornstarch.",
+                "Rinse the rice cakes. Add them to a large bowl and cover with water. Set aside.",
+                "In the wok heat oil on medium high. Melt half the butter and cook until it foams.",
+                "Sear the tofu in batches. Cooking until golden brown on each side. Set aside.",
+                "In a small bowl whisk the garlic, ginger, gochugaru, gochujang, soy sauce, maple syrup, rice vinegar and water.",
+                "Turn the heat down and add remaining butter. Once melted add the shallots and cook until softened.",
+                "Add rice cakes and toss to coat in the butter. Cook for a few minutes.",
+                "Add in the sauce and tofu and bring a light simmer. Cook until sauce is reduced.",
+                "Add the pak choi and scallion whites. Cook until vegetables have just softened.",
+                "Top with scallion greens and sesame seeds."
+            ],
+            "tags": [
+                "korean"
             ]
         }
     ]
