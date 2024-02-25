@@ -2210,7 +2210,7 @@
                 "Top em, (creamy garlic mushrooms normally)"
             ],
             "tags": [
-                "Potato"
+                "Potatoes"
             ]
         },
         {
@@ -22636,7 +22636,7 @@
             ],
             "tags": [
                 "chinese",
-                "potato"
+                "potatoes"
             ]
         },
         {
@@ -24503,6 +24503,46 @@
             ],
             "tags": [
                 "korean"
+            ]
+        },
+        {
+            "title": "Nacho fries",
+            "image": "nacho-fries",
+            "url": "https://itslivb.com/2022/12/15/copycat-taco-bell-nacho-fries-vegan",
+            "ingredients": [
+                "3 cups frozen fries",
+                "2 tbsp paprika",
+                "1 tsp salt",
+                "½ tsp chili powder",
+                "½ tsp chipotle powder",
+                "½ tsp garlic powder",
+                "½ tsp onion powder",
+                "½ tsp black pepper",
+                "¾ cup vegan milk",
+                "½ cup raw cashews",
+                "½ cup peeled/chopped carrots",
+                "1 cup peeled/chopped potato",
+                "¼ cup vegan cheese shreds",
+                "¼ cup nutritional yeast",
+                "1 tbsp lemon juice",
+                "½ tsp sea salt",
+                "½ tsp onion powder",
+                "2 tbsp salsa",
+                "3 tsp tabasco",
+                "1 tbsp pickled jalapeno juice"
+            ],
+            "steps": [
+                "Bake frozen French fries according to package instructions in the air fryer.",
+                "Meanwhile add carrot and potato to a pot and add wate until just covered.",
+                "Bring to a boil and cook until fork-tender.",
+                "Drain and rinse until cold water for 30 seconds until vegetables are slightly cooled.",
+                "In a blender, combine ingredients from milk to jalapeno juice and blend until smooth.",
+                "In a small bowl, stir all spices until fully combined.",
+                "Once fries are cooked add to a bowl with 2 tbsp of spice mixture, toss to coat. Add more spices as needed.",
+                "Serve fries with cheese sauce for dipping while warm."
+            ],
+            "tags": [
+                "potatoes"
             ]
         }
     ]
