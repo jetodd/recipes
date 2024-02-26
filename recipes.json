@@ -24035,7 +24035,7 @@
                 "Add ingredients from olive oil to turmeric to a bowl and mix well.",
                 "Layer your tofu cubes into the marinade and cover them as much as you can.",
                 "Let the tofu sit in there for as long as you can.",
-                "Meanwhile add the red onion, vinegar, sugar and salt to a conta,ner and mix well.",
+                "Meanwhile add the red onion, vinegar, sugar and salt to a container and mix well.",
                 "Add warm water until onions are fully submerged. Refrigerate.",
                 "Now add the tofu pieces to an air fryer pr oven at 200C for 10 mins.",
                 "In a large bowl toss together the spinach, olive oil, lemon and sea salt.",
@@ -24643,6 +24643,71 @@
             ],
             "tags": [
                 "pasta"
+            ]
+        },
+        {
+            "title": "Garlic roasted eggplant",
+            "image": "garlic-roasted-eggplant",
+            "url": "https://www.mississippivegan.com/garlic-roasted-eggplant",
+            "ingredients": [
+                "2 large eggplants, halved",
+                "10 cloves of garlic",
+                "⅓ cup olive oil",
+                "½ tsp black pepper",
+                "¼ tsp salt",
+                "1 tsp nooch",
+                "2 tbsp soy sauce",
+                "2 tbsp rice wine vinegar"
+            ],
+            "steps": [
+                "Preheat the oven to 150°C. Line a baking tray.",
+                "Score each eggplant on the skin side most of the way through in a crosshatch pattern.",
+                "Stuff cuts with thinly sliced garlic. Transfer flesh side down to the baking tray.",
+                "Drizzle with olive oil, soy sauce and vinegar.",
+                "Sprinkle with salt, black pepper and nooch.",
+                "Gently move around to get the flesh side coated and roast for 60-75 minutes until tender."
+            ],
+            "tags": [
+                "eggplant",
+                "sides"
+            ]
+        },
+        {
+            "title": "Vegan hamburger helper",
+            "image": "vegan-hamburger-helper",
+            "url": "https://sweetsimplevegan.com/one-pot-vegan-hamburger-helper",
+            "ingredients": [
+                "1 onion, diced",
+                "4 cloves garlic, minced",
+                "450g vegan mince",
+                "1 tbsp cornstarch",
+                "1 tbsp chili powder",
+                "1 tsp oregano",
+                "½ tsp thyme",
+                "1 tsp paprika",
+                "½ teaspoon salt",
+                "1/4 teaspoon pepper",
+                "2 tbsp nooch",
+                "1 ½ cups warm nut milk",
+                "1 cup vegan beef broth",
+                "3 tbsp tomato paste",
+                "2 cups pasta",    
+                "1 cup grated vegan cheddar",
+                "2 tbsp chopped parsley"
+            ],
+            "steps": [
+                "Heat a large skillet over medium high heat and add in the oil, onions and garlic.",
+                "Sauté for 3 to 4 minutes, or until the onions have softened and the garlic is fragrant.",
+                "Add the mince and break it up with the spatula. Cook, stirring often until slightly browned.",
+                "In a small bowl mix ingredients from cornstarch to nooch until uniform.",
+                "Sprinkle the mixture over the mince in the pan and add the tomato paste, stir well to distribute.",
+                "Mix in the nut milk, broth and pasta. Bring to a boil.",
+                "Once boiling, cover, reduce heat to a simmer and cook until pasta is al dente.",
+                "Remove from heat, mix in shredded cheese and stir until melted. Top with parsley."
+            ],
+            "tags": [
+                "american",
+                "unhealthy"
             ]
         }
     ]
