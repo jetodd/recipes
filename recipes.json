@@ -24771,7 +24771,7 @@
                 "Chives"
             ],
             "steps": [
-                "Preheat the oven to 160°C.",
+                "Preheat the oven to 160°C.",   
                 "Put the courgettes and garlic in an ovenproof dish with a lid.",
                 "Drizzle with olive oil and season with salt and pepper. Toss to coat.",
                 "Put courgette flesh side down. Cover and cook in oven for 35 - 40 minutes.",
@@ -24784,6 +24784,36 @@
             ],
             "tags": [
                 "bread"
+            ]
+        },
+        {
+            "title": "Cumin mince with garlic shoots",
+            "image": "cumin-mince-with-garlic-shoots",
+            "url": "https://www.instagram.com/p/C3lUovoKZYf/",
+            "ingredients": [
+                "300g vegan mince",
+                "6 cloves garlic, diced",
+                "1 thumb ginger, minced",
+                "Garlic shoots, 2cm pieces",
+                "2 tsp cumin seeds",
+                "10 dried chillies, cut into pieces",
+                "2 tbsp light soy sauce",
+                "1 tbsp dark soy sauce",
+                "1 tsp sugar",
+                "Rice"
+            ],
+            "steps": [
+                "Clean and cook the rice.",
+                "Heat the wok over medium-high. Once hot add oil and vegna mince.",
+                "Break mince into small pieces and cook until starting to brown.",
+                "Add the garlic and ginger and cook until fragrant.",
+                "Add the cried chilli and cumin seeds and stir for a minute.",
+                "Add garlic shoots and cook until vibrant.",
+                "Pour in soy sauces and sugar and stir to coat."
+            ],
+            "tags": [
+                "chinese",
+                "rice"
             ]
         }
     ]
