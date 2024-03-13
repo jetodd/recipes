@@ -24815,6 +24815,37 @@
                 "chinese",
                 "rice"
             ]
+        },
+        {
+            "title": "Red braised eggplant",
+            "image": "red-braised-eggplant",
+            "url": "https://www.instagram.com/p/C4TZrG_q2Tf/",
+            "ingredients": [
+                "4 eggplants, peeled and diced",
+                "5 tbsp cornstarch",
+                "6 cloves garlic, sliced",
+                "5 tbsp soy sauce",
+                "2 tbsp dark soy sauce",
+                "2 tbsp vegan oyster sauce",
+                "60ml water",
+                "1 tsp sugar",
+                "3 stalks scallion, diced",
+                "1 bell pepper, diced",
+                "Garlic shoots, sliced",
+                "Rice"
+            ],
+            "steps": [
+                "In a large bowl toss the eggplant with cornstarch and a pinch of salt.",
+                "In a bowl mix soy sauces, vegan oyster sauce, water and sugar.",
+                "Heat wok over high. Add oil, once hot, add the eggplant and fry until slightly browned.",
+                "Remove from the wok and set aside.",
+                "Add garlic to the wok. Cook until fragrant.",
+                "Add eggplant, sauce and green pepper. Cook until most of the sauce is gone."
+            ],
+            "tags": [
+                "chinese",
+                "eggplant"
+            ]
         }
     ]
 }
