@@ -24902,6 +24902,42 @@
                 "burger",
                 "weekend"
             ]
+        },
+        {
+            "title": "Chipotle maple skewers",
+            "image": "chipotle-maple-skewers",
+            "url": "https://www.instagram.com/p/Cd3cFHQK3fH/",
+            "ingredients": [
+                "1 block tofu",
+                "1 courgette",
+                "1 red onion",
+                "1 red pepper",
+                "1 orange pepper",
+                "1 pineapple",
+                "2 tbsp chipotle paste",
+                "2 tbsp maple syrup",
+                "1 tbsp soy sauce",
+                "1 tbsp minced garlic",
+                "Juice of half a lime",
+                "1 tbsp olive oil",
+                "Coriander",
+                "Flatbreads",
+                "Aioli"
+            ],
+            "steps": [
+                "Freeze the tofu then defrost it overnight.",
+                "Drain and press the tofu then rip into chunks.",
+                "Cut the bell peppers, pineapple, courgetet and red onion into chunks.",
+                "Mix ingredients from chipotle paste to olive oil.",
+                "Add the tofu and vegetables to a large bowl and coat in the glaze. Refrigerate.",
+                "Assemble skewers until all the ingredients are used.",
+                "On medium heat, add the skewers to a griddle pan and lightly brush with oil.",
+                "Cook for a few mins on each side until slightly charred.",
+                "Drizzle flatbread with aioli, add skewers then top with coriander."
+            ],
+            "tags": [
+                "bread"
+            ]
         }
     ]
 }
