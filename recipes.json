@@ -25172,6 +25172,42 @@
             "tags": [
                 "sides"
             ]
+        },
+        {
+            "title": "Creamy mushroom hotpot",
+            "image": "creamy-mushroom-hotpot",
+            "url": "https://georgieeats.co.uk/creamy-mushroom-hotpot/",
+            "ingredients": [
+                "1kg mushrooms, roughly chopped",
+                "1 large onion, finely chopped",
+                "2 shallots, finely chopped",
+                "8 garlic cloves, minced",
+                "100ml white wine",
+                "250g cooked puy lentils",
+                "1 tbsp miso paste",
+                "400ml vegetable stock",
+                "100ml vegan cream",
+                "1 tbsp cornstarch",
+                "10g parsley, finely chopped",
+                "3-4 potatoes finely sliced"
+            ],
+            "steps": [
+                "Preheat the oven to 180°c.",
+                "Heat the wok over medium heat and add oil.",
+                "Fry the mushrooms in batches until soft and golden. Set aside.",
+                "Add the onion and a pinch of salt, cook until translucent.",
+                "Add the garlic and shallots and cook to soften.",
+                "Add the wine and simmer until almost fully evaporated.",
+                "Lower the heat and add lentils, miso, stock and cream and stir.",
+                "Add the cornflour slurry and simmer until reduced and glossy.",
+                "Stir through the mushrooms and parsley. Season.",
+                "Add mixture to an oven safe dish. Lay the potato slices over in a spiral pattern.",
+                "Brush with oil then bake for 45-55 minutes. Until potatoes and cooked through."
+            ],
+            "tags": [
+                "potatoes",
+                "weekend"
+            ]
         }
     ]
 }
