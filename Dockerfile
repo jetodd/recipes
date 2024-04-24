@@ -1,3 +1,12 @@
+FROM node:21-alpine as frontend
+
+WORKDIR /app
+COPY package.json package-lock.json recipes/tailwind/tailwind.css ./
+COPY recipes/tailwind/tailwind.css recipes/tailwind/tailwind.css
+RUN npm install
+
+RUN npm run tailwind
+
 FROM python:3.11-slim-bookworm
 
 ENV PYTHONDONTWRITEBYTECODE 1
@@ -18,6 +27,8 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
+
+COPY --from=frontend /app/recipes/static/recipes/style.css ./recipes/static/recipes/style.css
 
 RUN python manage.py collectstatic --noinput
 

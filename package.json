@@ -5,9 +5,12 @@
   "main": "index.js",
   "devDependencies": {
     "gulp": "^4.0.0",
-    "gulp-livereload": "^4.0.1"
+    "gulp-livereload": "^4.0.1",
+    "tailwindcss": "^3.4.3"
   },
   "scripts": {
+    "tailwind:dev": "tailwindcss -i ./recipes/tailwind/tailwind.css -o ./recipes/static/recipes/style.css --watch",
+    "tailwind": "tailwindcss -i ./recipes/tailwind/tailwind.css -o ./recipes/static/recipes/style.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
