@@ -25208,6 +25208,42 @@
                 "potatoes",
                 "weekend"
             ]
+        },
+        {
+            "title": "Asparagus and leek galette",
+            "image": "asparagus-and-leek-galette",
+            "url": "https://wickedkitchen.com/asparagus-and-leek-galette/",
+            "ingredients": [
+                "2 leeks, thinly sliced",
+                "1 tbsp olive oil",
+                "150g asparagus, 2cm pieces",
+                "4 cloves garlic, sliced",
+                "½ tsp flaky sea salt",
+                "Pinch black pepper",
+                "320g pre-rolled shortcrust pastry",
+                "150g vegan feta, room temperature",
+                "180ml Greek yogurt, room temperature",
+                "1 tsp lemon zest",
+                "1 tbsp chopped fresh dill",
+                "3 tbsp soy milk",
+                "White sesame seeds"
+            ],
+            "steps": [
+                "Preheat the oven to 185ºC and line a baking tray with baking paper.",
+                "Place a large frying pan over medium heat and add the olive oil.",
+                "Gently fry the leeks until they start to soften up.",
+                "Add the asparagus and garlic and fry for another 2 minutes or so.",
+                "Season with salt and pepper then remove from the pan and set aside.",
+                "Carefully unroll the pastry onto the lined tray and roughly trim into an oval.",
+                "Put the feta, yoghurt, lemon zest and dill in a bowl and mash with a fork.",
+                "Spread the mixture over the pastry, leaving a 5cm gap around the perimeter.",
+                "Top with asparagus and leeks then fold the edge of the pastry over the filling by about 4cm.",
+                "Brush the exposed pastry edges with soy milk and sprinkle with sesame seeds.",
+                "Bake the galette until the pastry and sesame seeds are golden, about 30 minutes."
+            ],
+            "tags": [
+                "pastry"
+            ]
         }
     ]
 }
