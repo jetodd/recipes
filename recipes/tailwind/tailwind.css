@@ -3,29 +3,29 @@
 @tailwind utilities;
 
 :root {
-	--white: #FFF;
-	--cream: #fff9ef;
-	--pink: #EF968F;
-	--pale-pink: #FEECE9;
-	--pale-green: #D0D8C3;
-	--dark-green: #4A695D;
+	--lighter: #FFF9EF;
+	--light: #EDAF9D;
+	--dark: #E15446;
+	--darker: #344259;
 
-	--border-color: var(--pale-green);
-	--text-colour: var(--dark-green);
-	--link-hover: var(--pink);
-	--btn-text-colour: var(--white);
-	--btn-bg-colour: var(--pink);
-	--btn-hover-colour: var(--dark-green);
-	--card-bg-colour: var(--white);
-	--hr-colour: var(--pale-green);
-	--header-colour: var(--pale-green);
-	--main-bg-colour: var(--cream);
+	--border-color: var(--dark);
+	--text-colour: var(--light);
+	--link-hover: var(--lighter);
+	--btn-text-colour: var(--darker);
+	--btn-bg-colour: var(--light);
+	--btn-hover-colour: var(--dark);
+	--card-bg-colour: var(--light);
+	--hr-colour: var(--lighter);
+	--header-colour: var(--lighter);
+	--header-bg-colour: var(--light);
+	--main-bg-colour: var(--darker);
+	--list-colour: var(--dark);
 }
 
 body {
 	font-family: "Century Gothic", CenturyGothic, Tahoma, sans-serif;
 	background-color: var(--main-bg-colour);
-	color: var(--dark-green);
+	color: var(--text-colour);
 	font-size: 1.4rem;
 	margin: 0 auto;
 }
@@ -51,35 +51,6 @@ li a {
 a:hover {
 	color: var(--link-hover);
 	text-decoration: none;
-}
-
-h1 {
-	font-size: 2.5em;
-	color: var(--text-colour);
-}
-
-h2, h3, h4 {
-	letter-spacing: 1px;
-}
-
-h2, h3 {
-	font-size: 1.8em;
-	margin-top: 15px;
-	color: var(--text-colour);
-	text-align: center;
-}
-
-h3 {
-	font-size: 1.6em;
-}
-
-h4 {
-	font-size: 1.2em;
-	color: var(--text-colour);
-}
-
-h5 {
-	text-align: center;
 }
 
 ul.columns {
@@ -109,8 +80,24 @@ ol li {
 ol li:before {
    margin-right: 20px;
    content: counter(item);
-   color: var(--text-colour);
+   color: var(--list-colour);
    font-size: 1.6em;
+}
+
+.bg-pink {
+	background-color: var(--light);
+}
+
+.text-red {
+	color: var(--dark);
+}
+
+.text-blue {
+	color: var(--darker);
+}
+
+.border-red {
+	border: 1px solid var(--dark);
 }
 
 *:focus {
@@ -122,66 +109,7 @@ ol li:before {
 	padding:15px;
 }
 
-/************ Header (navigation) ************/
-.navbar {
-	padding: 1rem 1.5rem;
-	padding-top: 20px;
-	background-color: #D0D8C3;
-}
-
-.navbar-toggler {
-	border-color: var(--border-color);
-}
-
-.navbar-toggler-icon {
-	color: var(--text-colour);
-}
-
-.navbar-brand, .nav-link {
-	font-size: 1em;
-	letter-spacing: 1px;
-}
-
-.navbar-brand {
-	text-transform: uppercase;
-	font-size: 1.6em;
-}
-
-.navbar-dark .navbar-nav .nav-link, .navbar-dark .navbar-brand {
-    color: var(--text-colour);
-}
-
-.navbar-dark .navbar-nav .nav-link:focus, 
-.navbar-dark .navbar-nav .nav-link:hover, 
-.navbar-dark .navbar-brand:hover {
-    color: var(--header-colour);
-}
-
-.navbar-dark .navbar-toggler {
-    border-color: var(--border-color);
-}
-
-/************ Header (link hover) ************/
-.header-link, .header-link:visited {
-  text-decoration: none;
-  position: relative;
-}
-
-.header-link:after, .header-link:visited:after {
-  content: '';
-  height: 2px;
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 0%;
-  background: var(--link-hover);
-  transition: 0.2s;
-}
-
-.header-link:hover:after, .header-link:visited:hover:after {
-  width: 100%;
-}
-
+/************ Header ************/
 .waves {
 	display: block;
 	height: 52px;
@@ -189,10 +117,6 @@ ol li:before {
 	background-size: contain;
 	background-position: center center;
 	background-image: url('../images/waves.svg');
-}
-
-.reverse {
-	transform: rotate(180deg);
 }
 
 /************ Forms ************/
@@ -230,10 +154,8 @@ ol li:before {
     width: 20px;
     justify-content: center;
     align-items: center;
-    border-radius: 50%;
 	color: var(--text-colour);
 	font-size: 20px;
-	margin: 0 0.5em;
 }
 
 .icon-button:hover {
@@ -270,14 +192,6 @@ ol li:before {
 
 	body {
 		font-size: 18px;
-	}
-
-	h2, h3 {
-		font-size: 36px;
-	}
-
-	h4 {
-		font-size: 24px;
 	}
 
 	.form-group > .form-check input:checked + label:after {
@@ -465,7 +379,6 @@ ul.single, ul.block {
 
 .img-card {
 	width: 100%;
-	border-radius: 5px;
 }
 
 .card-horizontal {
@@ -579,17 +492,9 @@ ul.single, ul.block {
 }
 
 .drag-and-drop-ghost {
-	background-color: var(--pale-green) !important;
+	background-color: var(--darker) !important;
 }
 
 .recipe_item > .fas {
 	cursor: grab;
-}
-
-.recipe_item {
-	background-color: white;
-	border: 1px solid var(--border-color);
-	margin-bottom: -1px;
-	padding: .5rem;
-	border-radius: 3px;
 }

@@ -4,43 +4,39 @@
 
 {% block content %}
 
-<div class="row justify-content-center">
-	<div class="col-md-12 col-lg-10">
-		<h2>All Recipes</h2>
-		<div class="infinite-container row">
-		    {% for recipe in recipes %}
-		    <div class="card recipe-card infinite-item">
-								<div class="card-image">
-									<a href="{% url 'recipes:detail' recipe.id %}"><img class="img-card" src="/static/img/{{ recipe.image }}.jpg"></a>
-								</div>
-								<div class="card-body">
-					    			<h5 class="card-title"><a href="{% url 'recipes:detail' recipe.id %}">{{ recipe.title }}</a></h5>
-					    			
-					    			<hr />
-					    			{% if recipe.tags %}
-					    				{% for tag in recipe.tags.all %}
-					    				<div class="tags">
-					    					<a href="{% url 'recipes:tag' tag.id %}">{{ tag.name }}</a>
-					    				</div>
-					    				{% endfor %}
-					    			{% endif %}
-					  			</div>
-							</div>
-		    {% endfor %}
-	    </div>
-	    <div id="more">
-	    	{% if recipes.has_next %}
-				<a class="infinite-more-link btn btn-secondary" href="?page={{ recipes.next_page_number }}">More Recipes</a>
-			{% endif %}
-	    </div>
+	<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mx-12 my-6 infinite-container">
+		{% for recipe in recipes %}
+			<div class="max-w-sm rounded-tl-3xl rounded-br-3xl overflow-hidden bg-pink border-red infinite-item">
+				<div class="card-image">
+					<img class="img-card" src="/static/img/{{recipe.image}}.jpg" alt="{{recipe.title}}">
+				</div>
+				<div class="px-2 pt-2">
+					<p class="text-lg text-red text-center lowercase">{{recipe.title}}</p>
+				</div>
+				<hr />
+				{% if recipe.tags %}
+	    		{% for tag in recipe.tags.all %}
+	    			<div class="tags px-4">
+	    				<a href="{% url 'recipes:tag' tag.id %}">{{ tag.name }}</a>
+	    			</div>
+	    		{% endfor %}
+	    	{% endif %}
+			</div>
+		{% endfor %}
 	</div>
-</div>
 
+	<div id="more">
+		{% if recipes.has_next %}
+			<a class="infinite-more-link btn btn-secondary" href="?page={{ recipes.next_page_number }}">
+				More Recipes
+			</a>
+		{% endif %}
+	</div>
 
-<script>
-var infinite = new Waypoint.Infinite({
-  element: $('.infinite-container')[0]
-});
-</script>
+	<script>
+		var infinite = new Waypoint.Infinite({
+		  element: $('.infinite-container')[0]
+		});
+	</script>
 
 {% endblock %}

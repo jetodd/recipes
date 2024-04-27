@@ -1,73 +1,62 @@
 {% extends 'recipes/base.html' %}
 
 {% block content %}
-<div class="row justify-content-center">
-	<div class="col-md-12 order-md-1 col-lg-8 order-lg-1">
-		<h2>Newest Recipes</h2>
-		{% if latest_recipes_list %}
-			<div class="row home">
-				{% for recipe in latest_recipes_list %}
-  					<div class="card recipe-card">
-  						<div class="card-image">
-      						<a href="{% url 'recipes:detail' recipe.id %}"><img class="img-card" src="/static/img/{{ recipe.image }}.jpg"></a>
-      					</div>
-      					<div class="card-body d-flex flex-column">
-				    		<h5 class="card-title"><a href="{% url 'recipes:detail' recipe.id %}">{{ recipe.title }}</a></h5>
-				    		<hr class="mt-auto" />
-                            <a href="{% url 'recipes:detail' recipe.id %}" class="card-link mt-auto btn btn-primary">View recipe</a>
-				  		</div>
-  					</div>
-				{% endfor %}
-				</div>
-		{% endif %}
-	</div>
+<div class="my-4 xs:mx-4 sm:mx-8 md:mx-12">
+	<div class="grid grid-cols-1 lg:grid-cols-6 gap-4">
+		<div class="lg:col-span-4">
+			<p class="text-red text-center text-xl lowercase my-4">Newest Recipes</p>
 
-	<div class="col-md-12 order-md-2 col-lg-3 order-lg-2">
-		{% if this_week %}
-			<h3>This week</h3>
-			<ul id="this-week" class="single">
-				{% for thisWeekItem in this_week %}
-					<li class="recipe_item" data-recipe-id="{{ thisWeekItem.recipe.id }}"><i class="fas fa-paw mr-1"></i>
-                        <a href="{% url 'recipes:detail' thisWeekItem.recipe.id %}">{{ thisWeekItem.recipe.title }}</a>
-						{% for item in shopping %}
-							{% if item.recipe.id == thisWeekItem.recipe.id %}
-								({{ item.name }})
-							{% endif %}
-						{% endfor %} 
-					</li>
-				{% endfor %}
-			</ul>
-            <form id="this-week-frm" method="post" action="{% url 'recipes:this-week-position' %}">
-                {% csrf_token %}
-                <input type="hidden" id="thisWeekPositionInput" name="position">
-            </form>
-		{% endif %}
-
-		{% if next_week %}
-			<h3>Next week</h3>
-			<ul id="next-week" class="single">
-				{% for nextWeekItem in next_week %}
-					<li class="recipe_item" data-recipe-id="{{ nextWeekItem.recipe.id }}"><i class="fas fa-paw mr-1"></i>
-                    <a href="{% url 'recipes:detail' nextWeekItem.recipe.id %}">{{ nextWeekItem.recipe.title }}</a>
-					{% for item in shopping %}
-						{% if item.recipe.id == nextWeekItem.recipe.id %}
-							({{ item.name }})
-						{% endif %}
+			<div class="columns-1 sm:columns-2 lg:columns-3">
+				{% if latest_recipes_list %}
+					{% for recipe in latest_recipes_list %}
+						<div class="max-w-sm rounded-tl-3xl rounded-br-3xl overflow-hidden bg-pink border-red">
+						  <div class="card-image">
+							<img class="img-card" src="/static/img/{{recipe.image}}.jpg" alt="{{recipe.title}}">
+						  </div>
+						  <div class="px-2 pt-2">
+						    <p class="text-red text-center lowercase">{{recipe.title}}</p>
+						  </div>
+						  <hr />
+						  <a href="/recipes/{{recipe.id}}/detail" class="card-link mt-auto btn btn-primary">View recipe</a>
+						</div>
 					{% endfor %}
-				{% endfor %}
-				</li>
-			</ul>
-            <form id="next-week-frm" method="post" action="{% url 'recipes:next-week-position' %}">
-                {% csrf_token %}
-                <input type="hidden" id="nextWeekPositionInput" name="position">
-            </form>
-			<form action="move" method="post">
-				{% csrf_token %}
-				<input class="btn btn-primary" type="submit" value="Move">
-			</form>
+				{% endif %}
+			</div>
+		</div>
 
-		{% endif %}
+		<div class="lg:col-span-2">
+			{% if this_week %}
+				<p class="text-red text-center text-xl lowercase my-4">This week</p>
+				<ul id="this-week" class="single mx-2">
+					{% for thisWeekItem in this_week %}
+						<li class="recipe_item rounded-tl-xl rounded-br-xl bg-pink border-red my-2 p-1" data-recipe-id="{{ thisWeekItem.recipe.id }}"><i class="fas fa-paw mr-1"></i>
+	                        <a href="{% url 'recipes:detail' thisWeekItem.recipe.id %}">{{ thisWeekItem.recipe.title }}</a>
+							{% for item in shopping %}
+								{% if item.recipe.id == thisWeekItem.recipe.id %}
+									({{ item.name }})
+								{% endif %}
+							{% endfor %} 
+						</li>
+					{% endfor %}
+				</ul>
+			{% endif %}
+
+			{% if next_week %}
+				<p class="text-red text-center text-xl lowercase my-4">Next week</p>
+				<ul id="next-week" class="single mx-2">
+					{% for nextWeekItem in this_week %}
+						<li class="recipe_item rounded-tl-xl rounded-br-xl bg-pink border-red my-2 p-1" data-recipe-id="{{ thisWeekItem.recipe.id }}"><i class="fas fa-paw mr-1"></i>
+	                        <a href="{% url 'recipes:detail' nextWeekItem.recipe.id %}">{{ nextWeekItem.recipe.title }}</a>
+							{% for item in shopping %}
+								{% if item.recipe.id == nextWeekItem.recipe.id %}
+									({{ item.name }})
+								{% endif %}
+							{% endfor %} 
+						</li>
+					{% endfor %}
+				</ul>
+			{% endif %}
+		</div>
 	</div>
 </div>
-
 {% endblock %}

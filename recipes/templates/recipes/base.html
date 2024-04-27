@@ -2,12 +2,10 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
         <link rel="stylesheet" href="{% static 'recipes/style.css' %}">
         <script type="text/javascript" src="http://127.0.0.1:35729/livereload.js"></script>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
-        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
         <script src="https://kit.fontawesome.com/6f9cfabba6.js"></script>
         <script src="{% static 'recipes/script.js' %}" type="text/javascript"></script>
         <script src="{% static 'recipes/Sortable.js' %}" type="text/javascript"></script>
@@ -19,52 +17,63 @@
         <title>{% block title %}Cookbook{% endblock %} | Stitch's recipes</title>
     </head>
     <body>
-      <nav class="navbar navbar-expand-lg">
-        <a class="navbar-brand" href="/recipes">Recipes</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon">
-              <svg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'>
-                  <path stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'></path>
-              </svg>
-          </span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-          <ul class="navbar-nav">
-            <li class="nav-item">
-              <a class="nav-link header-link" href="/recipes/all">All Recipes</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link header-link" href="/recipes/shopping">Shopping</a>
-            </li>
-          </ul>
-        </div>      
-        <form method='GET' action="/recipes/random">
-          <button class="icon-button">
-            <i class="fas fa-random"></i>
-          </button>
-        </form>
-        <button class="icon-button">
-          <i class="fas fa-search" id="toggle_search"></i>
-        </button>
-      </nav>
 
-      <div class="waves"></div>
+       <script>
+        const navLinks = document.querySelector('.nav-links')
+        function onToggleMenu(e){
+            e.name = e.name === 'menu' ? 'close' : 'menu'
+            navLinks.classList.toggle('top-[9%]')
+        }
+    </script>
 
-      <form method='GET' action="/recipes/search" id="search_form" class="d-lg-block search_form">
-          <div class="d-flex justify-content-center">
-            <div class="searchbar">
-              <input class="search_input" type="text" placeholder="Search..." name='q' value="{{ request.GET.q }}">
-              <button class="icon-button">
-                <i class="fas fa-search"></i>
-              </button>
-            </div>
-        </div>
-      </form>
-
-      <div class="content container mt-4">
-        {% block content %}
-        {% endblock %}
+    <nav class="flex items-center justify-between flex-wrap bg-pink p-6 lowercase">
+      <div class="flex items-center flex-shrink-0 text-white mr-6">  
+        <a href="/"><span class="text-2xl text-blue hover:text-white">Recipes</span></a>
       </div>
 
-    </body>
+      <div class="block lg:hidden">
+        <button class="flex items-center px-3 py-2 border rounded text-white border-white-400 hover:text-white hover:border-white">
+          <svg class="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/></svg>
+        </button>
+      </div>
+
+      <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
+        <div class="text-sm lg:flex-grow">
+          <a href="/recipes/all" class="block border rounded-full mt-4 lg:inline-block lg:mt-0 text-red hover:text-white mr-4 px-2 py-1">
+            Menu
+          </a>
+        </div>
+        <div>
+          <form method='GET' action="/recipes/random" class="inline-block text-sm pr-4 py-2 leading-none mt-4 lg:mt-0">
+            <button class="icon-button">
+              <i class="fas fa-random"></i>
+            </button>
+          </form>
+          <a class="inline-block text-sm px-4 py-2 leading-none mt-4 lg:mt-0 icon-button" href="/recipes/shopping">
+            <i class="fas fa-shopping-basket" id="toggle_search"></i>
+          </a>
+          <button class="inline-block text-sm px-4 py-2 leading-none mt-4 lg:mt-0 icon-button">
+            <i class="fas fa-search" id="toggle_search"></i>
+          </button>
+        </div>
+      </div>
+    </nav>
+
+    <div class="waves"></div>
+
+    <form method='GET' action="/recipes/search" id="search_form" class="d-lg-block search_form">
+        <div class="d-flex justify-content-center">
+          <div class="searchbar">
+            <input class="search_input" type="text" placeholder="Search..." name='q' value="{{ request.GET.q }}">
+            <button class="icon-button">
+              <i class="fas fa-search"></i>
+            </button>
+          </div>
+      </div>
+    </form>
+
+    {% block content %}
+    {% endblock %}
+
+  </body>
 </html>
