@@ -229,11 +229,6 @@ ul.horizontal-list li a:hover {
     transition: all 0.25s ease-in-out;
 }
 
-.tags > a:hover {
-	background: var(--btn-bg-hover-colour);
-	color: var(--btn-hover-colour);
-}
-
 .resize {
 	height: 200px;
 	width: auto;

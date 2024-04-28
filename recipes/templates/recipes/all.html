@@ -21,7 +21,7 @@
 				{% if recipe.tags %}
 	    		{% for tag in recipe.tags.all %}
 	    			<div class="tags px-4">
-	    				<a class="py-1 px-2 mb-3 rounded-tl-xl rounded-br-xl lowercase text-xs" href="{% url 'recipes:tag' tag.id %}">{{ tag.name }}</a>
+	    				<a class="hover:bg-navy hover:text-rose py-1 px-2 mb-3 rounded-tl-xl rounded-br-xl lowercase text-xs" href="{% url 'recipes:tag' tag.id %}">{{ tag.name }}</a>
 	    			</div>
 	    		{% endfor %}
 	    	{% endif %}
