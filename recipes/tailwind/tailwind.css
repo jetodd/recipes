@@ -91,10 +91,6 @@ ol li:before {
     align-items: center;
 }
 
-.form-check-input {
-    margin-top: 0px;
-}
-
 /************ Header (search) ************/
 .searchbar {
     padding: 10px;
@@ -277,12 +273,12 @@ ul.single, ul.block {
   padding: 0;
   height: initial;
   width: initial;
-  margin-bottom: 0;
   display: none;
 }
 
 .form-check label {
   position: relative;
+  margin-bottom: 0.2rem;
 }
 
 .form-check label:before {
