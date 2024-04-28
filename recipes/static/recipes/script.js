@@ -1,7 +1,12 @@
 $(document).ready(function () {
   $('#select_all').click(function () {
     const checkBoxes = $("form input[type='checkbox']")
-    checkBoxes.attr("checked", true);
+
+    if (checkBoxes.filter(':checked').length === checkBoxes.length) {
+      checkBoxes.attr("checked", false);
+    } else {
+      checkBoxes.attr("checked", true);
+    }
   });
 
   $('#toggle_search').click(function () {

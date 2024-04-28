@@ -4,7 +4,7 @@
 
 {% block content %}
 
-<div class="my-4 xs:mx-4 sm:mx-8 md:mx-12">
+<div class="lg:m-auto lg:w-4/5 my-4 xs:mx-4 sm:mx-8 md:mx-12">
 	<div class="grid grid-cols-1 lg:grid-cols-2">
 		<div>
 			<p class="text-red text-center text-xl lowercase">Shopping</p>
@@ -19,12 +19,10 @@
 					{% endfor %}
 					</div>
 					{% csrf_token %}
-					<p>
-						<input class="btn btn-danger" type="submit" value="Delete selected">
-					</p>
-					<p>
+
 					<button class="btn btn-primary" type="button" id="select_all">Select all</button>
-					</p>
+					<input class="btn btn-danger" type="submit" value="Delete selected">
+
 				</form>
 			{% else %}
 				<p>Nothing here yet.</p>

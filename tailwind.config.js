@@ -10,6 +10,11 @@ module.exports = {
     },
     extend: {},
   },
+  safelist: [
+    {
+        pattern: /form-control/,
+    }
+],
   plugins: [],
 }
 

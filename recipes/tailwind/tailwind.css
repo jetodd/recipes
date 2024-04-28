@@ -11,11 +11,6 @@
 	--border-color: var(--red);
 	--text-colour: var(--rose);
 	--link-hover: var(--light);
-	--btn-text-colour: var(--navy);
-	--btn-bg-colour: var(--rose);
-	--btn-bg-hover-colour: var(--navy);
-	--btn-hover-colour: var(--rose);
-	--btn-border-colour: var(--navy);
 	--card-bg-colour: var(--rose);
 	--hr-colour: var(--light);
 	--header-colour: var(--light);
@@ -236,37 +231,26 @@ ul.single, ul.block {
 }
 
 /************ Buttons ************/
-.btn {
-	font-size: 1em;
-	letter-spacing:1px;
-	width: 100%;
-	border-radius: 8px;
-}
+@layer components {
+	.btn {
+		@apply mt-2 px-5 text-white rounded-full shadow-md cursor-pointer focus:ring-4 text-lg;
+	}
 
-.btn-primary {
-	background-color: var(--btn-bg-colour);
-	border: none;
-	color: var(--btn-text-colour);
-}
+	.btn-primary {
+	  @apply  bg-rose hover:bg-rose text-navy hover:text-white;
+	}
 
-.btn-primary:hover, .btn-primary:active, .btn-primary:focus {
-	background-color: var(--btn-hover-colour);
-}
+	.btn-danger {
+		@apply bg-red hover:text-rose;
+	}
 
-.btn-secondary {
-	background: none;
-	border: 2px solid var(--pale-pink);
-	color: var(--pink);
-	border-radius: 0;
-	font-size: 0.8rem;
- 	text-transform: uppercase;
-}
+	.form-control {
+		@apply px-3 py-1 border-2 w-full border-rose rounded-md focus:ring-4;
+	}
+  }
 
-.btn-secondary:hover, .btn-secondary:active, .btn-secondary:focus {
-	background-color: var(--pale-pink);
-	color: var(--pink);
-	border: 2px solid var(--pale-pink);
-}
+/************ Form controls ************/
+
 
 /************ Checkboxes ************/
 .form-check input {
@@ -315,11 +299,6 @@ ul.single, ul.block {
 /************ Shopping ************/
 .recipe-image {
 	border-radius: 12px;
-}
-
-/************ Shopping ************/
-.shopping-list {
-	margin-bottom: 1rem;
 }
 
 /************ Pagination ************/
