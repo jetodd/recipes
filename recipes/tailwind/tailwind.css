@@ -91,10 +91,6 @@ ol li:before {
     padding: 10px;
 }
 
-.icon-button {
-  all: unset;
-}
-
 .search_input {
     color: var(--text-colour);
     border: 0;
@@ -209,15 +205,6 @@ ul.horizontal-list li a:hover {
 .tags {
 	display: inline;
 	margin-bottom: 0.05rem;
-}
-
-.tags > a {
-    background: var(--btn-bg-colour);
-    border: 1px solid var(--btn-border-colour);
-    color: var(--btn-text-colour);
-    display: inline-block;
-    align-self: start;
-    transition: all 0.25s ease-in-out;
 }
 
 .resize {
