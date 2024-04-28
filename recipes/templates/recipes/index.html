@@ -11,10 +11,14 @@
 					{% for recipe in latest_recipes_list %}
 						<div class="max-w-sm rounded-tl-3xl rounded-br-3xl overflow-hidden bg-rose border-red pb-4">
 						  <div class="w-full card-image">
-							<img class="w-full" src="/static/img/{{recipe.image}}.jpg" alt="{{recipe.title}}">
+						  	<a href="/recipes/{{recipe.id}}/detail">
+								<img class="w-full" src="/static/img/{{recipe.image}}.jpg" alt="{{recipe.title}}">
+							</a>
 						  </div>
 						  <div class="px-2 pt-2">
-						    <p class="text-red text-center lowercase">{{recipe.title}}</p>
+						  	<a href="/recipes/{{recipe.id}}/detail">
+						    	<p class="text-red text-center lowercase">{{recipe.title}}</p>
+							</a>
 						  </div>
 						  <hr />
 						  <div class="items-center">
