@@ -9,7 +9,7 @@
 			<div class="columns-1 sm:columns-2 lg:columns-3">
 				{% if latest_recipes_list %}
 					{% for recipe in latest_recipes_list %}
-						<div class="max-w-sm rounded-tl-3xl rounded-br-3xl overflow-hidden bg-rose border-red pb-4">
+						<div class="max-w-sm rounded-tl-3xl rounded-br-3xl overflow-hidden bg-rose border-red pb-4 mb-4">
 						  <div class="w-full card-image">
 						  	<a href="/recipes/{{recipe.id}}/detail">
 								<img class="w-full" src="/static/img/{{recipe.image}}.jpg" alt="{{recipe.title}}">
@@ -21,7 +21,7 @@
 							</a>
 						  </div>
 						  <hr />
-						  <div class="items-center">
+						  <div class="text-center">
 						  	<a href="/recipes/{{recipe.id}}/detail" class="text-navy hover:text-rose border-navy text-sm rounded-tl-xl rounded-br-xl px-5 py-1 hover:bg-navy">View recipe</a>
 						  </div>
 						</div>
