@@ -32,16 +32,6 @@ form {
 	    margin-block-end: 0;
 }
 
-a, li a {
-	color: var(--text-colour);
-	text-decoration: none;
-}
-
-a:hover, li a:hover {
-	color: var(--link-hover);
-	text-decoration: none;
-}
-
 ul.columns {
   columns: 2;
 }
