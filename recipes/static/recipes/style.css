@@ -1290,6 +1290,11 @@ ul.single, ul.block {
   border-color: rgb(255 249 239 / var(--tw-border-opacity));
 }
 
+.hover\:border-navy:hover {
+  --tw-border-opacity: 1;
+  border-color: rgb(52 66 89 / var(--tw-border-opacity));
+}
+
 .hover\:bg-navy:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(52 66 89 / var(--tw-bg-opacity));
