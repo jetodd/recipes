@@ -9,15 +9,17 @@
 			<div class="columns-1 sm:columns-2 lg:columns-3">
 				{% if latest_recipes_list %}
 					{% for recipe in latest_recipes_list %}
-						<div class="max-w-sm rounded-tl-3xl rounded-br-3xl overflow-hidden bg-pink border-red">
-						  <div class="card-image">
-							<img class="img-card" src="/static/img/{{recipe.image}}.jpg" alt="{{recipe.title}}">
+						<div class="max-w-sm rounded-tl-3xl rounded-br-3xl overflow-hidden bg-rose border-red pb-4">
+						  <div class="w-full card-image">
+							<img class="w-full" src="/static/img/{{recipe.image}}.jpg" alt="{{recipe.title}}">
 						  </div>
 						  <div class="px-2 pt-2">
 						    <p class="text-red text-center lowercase">{{recipe.title}}</p>
 						  </div>
 						  <hr />
-						  <a href="/recipes/{{recipe.id}}/detail" class="card-link mt-auto btn btn-primary">View recipe</a>
+						  <div class="items-center">
+						  	<a href="/recipes/{{recipe.id}}/detail" class="text-navy border-navy text-sm rounded-tl-xl rounded-br-xl px-5 py-2 hover:bg-navy">View</a>
+						  </div>
 						</div>
 					{% endfor %}
 				{% endif %}
@@ -26,10 +28,10 @@
 
 		<div class="lg:col-span-2">
 			{% if this_week %}
-				<p class="text-red text-center text-xl lowercase my-4">This week</p>
+				<p class="text-red text-center text-xl lowercase my-1">This week</p>
 				<ul id="this-week" class="single mx-2">
 					{% for thisWeekItem in this_week %}
-						<li class="recipe_item rounded-tl-xl rounded-br-xl bg-pink border-red my-2 p-1" data-recipe-id="{{ thisWeekItem.recipe.id }}"><i class="fas fa-paw mr-1"></i>
+						<li class="recipe_item rounded-tl-xl rounded-br-xl border-red my-2 p-1 text-navy hover:bg-rose hover:text-navy" data-recipe-id="{{ thisWeekItem.recipe.id }}"><i class="fas fa-paw mr-1"></i>
 	                        <a href="{% url 'recipes:detail' thisWeekItem.recipe.id %}">{{ thisWeekItem.recipe.title }}</a>
 							{% for item in shopping %}
 								{% if item.recipe.id == thisWeekItem.recipe.id %}
@@ -42,10 +44,10 @@
 			{% endif %}
 
 			{% if next_week %}
-				<p class="text-red text-center text-xl lowercase my-4">Next week</p>
+				<p class="text-red text-center text-xl lowercase my-1">Next week</p>
 				<ul id="next-week" class="single mx-2">
 					{% for nextWeekItem in this_week %}
-						<li class="recipe_item rounded-tl-xl rounded-br-xl bg-pink border-red my-2 p-1" data-recipe-id="{{ thisWeekItem.recipe.id }}"><i class="fas fa-paw mr-1"></i>
+						<li class="recipe_item rounded-tl-xl rounded-br-xl border-red my-2 p-1" data-recipe-id="{{ thisWeekItem.recipe.id }}"><i class="fas fa-paw mr-1"></i>
 	                        <a href="{% url 'recipes:detail' nextWeekItem.recipe.id %}">{{ nextWeekItem.recipe.title }}</a>
 							{% for item in shopping %}
 								{% if item.recipe.id == nextWeekItem.recipe.id %}

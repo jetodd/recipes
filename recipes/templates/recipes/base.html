@@ -16,7 +16,7 @@
         <script src="{% static 'recipes/infinite.min.js' %}"></script>
         <title>{% block title %}Cookbook{% endblock %} | Stitch's recipes</title>
     </head>
-    <body>
+    <body class="bg-navy text-rose mx-auto my-0">
 
        <script>
         const navLinks = document.querySelector('.nav-links')
@@ -26,9 +26,9 @@
         }
     </script>
 
-    <nav class="flex items-center justify-between flex-wrap bg-pink p-6 lowercase">
+    <nav class="flex items-center justify-between flex-wrap bg-rose p-6 lowercase">
       <div class="flex items-center flex-shrink-0 text-white mr-6">  
-        <a href="/"><span class="text-2xl text-blue hover:text-white">Recipes</span></a>
+        <a href="/"><span class="text-2xl text-navy hover:text-white">Recipes</span></a>
       </div>
 
       <div class="block lg:hidden">
@@ -39,27 +39,27 @@
 
       <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
         <div class="text-sm lg:flex-grow">
-          <a href="/recipes/all" class="block border rounded-full mt-4 lg:inline-block lg:mt-0 text-red hover:text-white mr-4 px-2 py-1">
+          <a href="/recipes/all" class="block border rounded-full mt-4 lg:inline-block lg:mt-0 text-red hover:text-white hover:bg-red mr-4 px-2 py-1">
             Menu
           </a>
         </div>
         <div>
           <form method='GET' action="/recipes/random" class="inline-block text-sm pr-4 py-2 leading-none mt-4 lg:mt-0">
-            <button class="icon-button">
+            <button class="icon-button text-navy">
               <i class="fas fa-random"></i>
             </button>
           </form>
-          <a class="inline-block text-sm px-4 py-2 leading-none mt-4 lg:mt-0 icon-button" href="/recipes/shopping">
+          <a class="inline-block text-sm px-4 py-2 leading-none mt-4 lg:mt-0 icon-button text-navy" href="/recipes/shopping">
             <i class="fas fa-shopping-basket" id="toggle_search"></i>
           </a>
-          <button class="inline-block text-sm px-4 py-2 leading-none mt-4 lg:mt-0 icon-button">
+          <button class="inline-block text-sm px-4 py-2 leading-none mt-4 lg:mt-0 icon-button text-navy">
             <i class="fas fa-search" id="toggle_search"></i>
           </button>
         </div>
       </div>
     </nav>
 
-    <div class="waves"></div>
+    <div class="waves block bg-repeat-x bg-contain bg-center"></div>
 
     <form method='GET' action="/recipes/search" id="search_form" class="d-lg-block search_form">
         <div class="d-flex justify-content-center">

@@ -22,8 +22,8 @@
 		<div class="sm:order-2 lg:col-span-2 lg:order-3">
 			{% if recipe.tags %}
 				{% for tag in recipe.tags.all %}
-				<div class="tags">
-					<a href="{% url 'recipes:tag' tag.id %}">{{ tag.name }}</a>
+				<div class="inline mb-1">
+					<a class="text-rose hover:text-navy hover:bg-rose py-1 px-2 mb-3 rounded-tl-xl rounded-br-xl lowercase border-rose" href="{% url 'recipes:tag' tag.id %}">{{ tag.name }}</a>
 				</div>
 				{% endfor %}
 			{% endif %}

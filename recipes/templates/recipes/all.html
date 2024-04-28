@@ -6,18 +6,22 @@
 
 	<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mx-12 my-6 infinite-container">
 		{% for recipe in recipes %}
-			<div class="max-w-sm rounded-tl-3xl rounded-br-3xl overflow-hidden bg-pink border-red infinite-item">
+			<div class="max-w-sm rounded-tl-3xl rounded-br-3xl overflow-hidden bg-rose border-red infinite-item">
 				<div class="card-image">
-					<img class="img-card" src="/static/img/{{recipe.image}}.jpg" alt="{{recipe.title}}">
+					<a href="/recipes/{{recipe.id}}/detail">
+						<img class="img-card" src="/static/img/{{recipe.image}}.jpg" alt="{{recipe.title}}">
+					</a>
 				</div>
-				<div class="px-2 pt-2">
-					<p class="text-lg text-red text-center lowercase">{{recipe.title}}</p>
+				<div class="p-2">
+					<a href="/recipes/{{recipe.id}}/detail">
+						<p class="text-red text-center lowercase hover:text-white">{{recipe.title}}</p>
+					</a>
 				</div>
 				<hr />
 				{% if recipe.tags %}
 	    		{% for tag in recipe.tags.all %}
 	    			<div class="tags px-4">
-	    				<a href="{% url 'recipes:tag' tag.id %}">{{ tag.name }}</a>
+	    				<a class="py-1 px-2 mb-3 rounded-tl-xl rounded-br-xl lowercase text-xs" href="{% url 'recipes:tag' tag.id %}">{{ tag.name }}</a>
 	    			</div>
 	    		{% endfor %}
 	    	{% endif %}

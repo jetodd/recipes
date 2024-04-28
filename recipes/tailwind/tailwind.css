@@ -3,52 +3,41 @@
 @tailwind utilities;
 
 :root {
-	--lighter: #FFF9EF;
-	--light: #EDAF9D;
-	--dark: #E15446;
-	--darker: #344259;
+	--light: #FFF9EF;
+	--rose: #EDAF9D;
+	--red: #ef4444;
+	--navy: #344259;
 
-	--border-color: var(--dark);
-	--text-colour: var(--light);
-	--link-hover: var(--lighter);
-	--btn-text-colour: var(--darker);
-	--btn-bg-colour: var(--light);
-	--btn-hover-colour: var(--dark);
-	--card-bg-colour: var(--light);
-	--hr-colour: var(--lighter);
-	--header-colour: var(--lighter);
-	--header-bg-colour: var(--light);
-	--main-bg-colour: var(--darker);
-	--list-colour: var(--dark);
+	--border-color: var(--red);
+	--text-colour: var(--rose);
+	--link-hover: var(--light);
+	--btn-text-colour: var(--navy);
+	--btn-bg-colour: var(--rose);
+	--btn-bg-hover-colour: var(--navy);
+	--btn-hover-colour: var(--rose);
+	--btn-border-colour: var(--navy);
+	--card-bg-colour: var(--rose);
+	--hr-colour: var(--light);
+	--header-colour: var(--light);
+	--header-bg-colour: var(--rose);
+	--main-bg-colour: var(--navy);
+	--list-colour: var(--red);
 }
 
 body {
 	font-family: "Century Gothic", CenturyGothic, Tahoma, sans-serif;
-	background-color: var(--main-bg-colour);
-	color: var(--text-colour);
-	font-size: 1.4rem;
-	margin: 0 auto;
 }
 
 form {
 	    margin-block-end: 0;
 }
 
-.content {
-	width: 85%;
-	background-color: var(--main-bg-colour);
-}
-
-a {
+a, li a {
 	color: var(--text-colour);
 	text-decoration: none;
 }
 
-li a {
-	color: var(--text-colour);
-}
-
-a:hover {
+a:hover, li a:hover {
 	color: var(--link-hover);
 	text-decoration: none;
 }
@@ -84,38 +73,25 @@ ol li:before {
    font-size: 1.6em;
 }
 
-.bg-pink {
-	background-color: var(--light);
-}
-
-.text-red {
-	color: var(--dark);
-}
-
-.text-blue {
-	color: var(--darker);
-}
-
 .border-red {
-	border: 1px solid var(--dark);
+	border: 1px solid var(--red);
+}
+
+.border-navy {
+	border: 1px solid var(--navy);
+}
+
+.border-rose {
+	border: 1px solid var(--rose);
 }
 
 *:focus {
     outline: 0 !important;
 }
 
-.box {
-	background-color: var(--main-bg-colour);
-	padding:15px;
-}
-
 /************ Header ************/
 .waves {
-	display: block;
 	height: 52px;
-	background-repeat: repeat-x;
-	background-size: contain;
-	background-position: center center;
 	background-image: url('../images/waves.svg');
 }
 
@@ -124,6 +100,7 @@ ol li:before {
     display: flex;
     align-items: center;
 }
+
 .form-check-input {
     margin-top: 0px;
 }
@@ -154,7 +131,6 @@ ol li:before {
     width: 20px;
     justify-content: center;
     align-items: center;
-	color: var(--text-colour);
 	font-size: 20px;
 }
 
@@ -223,10 +199,6 @@ ol li:before {
 
 }
 
-#toggle_search {
-	color: var(--header-search-icon);
-}
-
 /************ Tags ************/
 ul.horizontal-list {
 	list-style: none;
@@ -259,24 +231,17 @@ ul.horizontal-list li a:hover {
 }
 
 .tags > a {
-    padding: 8px 12px 6px;
     background: var(--btn-bg-colour);
-    border-radius: 100px;
-    text-transform: uppercase;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 0.8rem;
-    letter-spacing: 0.07em;
+    border: 1px solid var(--btn-border-colour);
     color: var(--btn-text-colour);
     display: inline-block;
-    text-decoration: none;
     align-self: start;
     transition: all 0.25s ease-in-out;
-	margin-bottom: 0.5rem
 }
 
 .tags > a:hover {
-	background: var(--btn-hover-colour);
+	background: var(--btn-bg-hover-colour);
+	color: var(--btn-hover-colour);
 }
 
 .resize {
@@ -361,59 +326,9 @@ ul.single, ul.block {
 }
 
 /************ Recipe cards ************/
-.card {
-	border-radius: 5px;
-}
-
-.recipe-card {
-	margin: 0.8rem 2%;
-	border: none;
-	background-color: var(--white);
-}
-
 .card-image {
-	width: 100%;
 	height: 140px;
 	overflow: hidden;
-}
-
-.img-card {
-	width: 100%;
-}
-
-.card-horizontal {
-    display: flex;
-    flex: 1 1 auto;
-}
-
-.all img {
-	height:100%;
-	width: auto;
-}
-
-.card-all {
-	min-height: 100px;
-	color: #3bd3cc;
-}
-
-.card-img {
-	height: 130px;
-	width: 130px;
-}
-
-.card-img-top {
-	margin-top: -140px;
-}
-
-.card-body {
-	padding: 0.9rem;
-}
-
-.card-title {
-	text-align: center;
-	font-size: 0.9rem;
-	letter-spacing: 1px;
-	text-transform: uppercase;
 }
 
 /************ Shopping ************/
@@ -452,25 +367,8 @@ ul.single, ul.block {
 }
 
 /************ Media queries ************/
-@media (min-width: 576px) 
-{
-	.card {
-		width:46%;
-	}
-}
-
-@media (min-width: 768px) 
-{
-	.card {
-		width: 46%;
-	}
-}
-
 @media (min-width: 992px) 
 {
-	.card {
-		width: 29%;
-	}
 	body {
 		font-size: 0.9rem;
 	}
@@ -482,19 +380,13 @@ ul.single, ul.block {
 		-webkit-columns: 1;
 		-moz-columns: 1;
 	}
-	#tag .card {
-		width: 19%;
-	}
-}
-
-@media (min-width: 1200px) 
-{
 }
 
 .drag-and-drop-ghost {
-	background-color: var(--darker) !important;
+	background-color: var(--navy) !important;
 }
 
 .recipe_item > .fas {
 	cursor: grab;
+	color: var(--list-colour);
 }
