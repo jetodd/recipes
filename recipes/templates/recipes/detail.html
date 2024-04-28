@@ -32,13 +32,13 @@
 	    		{% csrf_token %}
 	    		{% bootstrap_form this_week %}
 	    		{% bootstrap_form next_week %}
-	    		<input class="btn btn-primary mt-4 py-2" type="submit" value="Update">
+	    		<input class="btn btn-primary mt-4 py-2 text-sm w-full" type="submit" value="Update">
 			</form>
 
 			{% if recipe.this_week %}
 				<form action="cooked" method="post">
 					{% csrf_token %}
-					<input class="btn btn-primary mt-4 py-2" type="submit" value="Cooked">
+					<input class="btn btn-primary mt-4 py-2 text-sm w-full" type="submit" value="Cooked">
 				</form>
 			{% endif %}
 		</div>
