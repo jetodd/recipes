@@ -18,7 +18,7 @@
 						  </div>
 						  <hr />
 						  <div class="items-center">
-						  	<a href="/recipes/{{recipe.id}}/detail" class="text-navy border-navy text-sm rounded-tl-xl rounded-br-xl px-5 py-2 hover:bg-navy">View</a>
+						  	<a href="/recipes/{{recipe.id}}/detail" class="text-navy border-navy text-sm rounded-tl-xl rounded-br-xl px-5 py-1 hover:bg-navy">View recipe</a>
 						  </div>
 						</div>
 					{% endfor %}
@@ -47,7 +47,7 @@
 				<p class="text-red text-center text-xl lowercase my-1">Next week</p>
 				<ul id="next-week" class="single mx-2">
 					{% for nextWeekItem in this_week %}
-						<li class="recipe_item rounded-tl-xl rounded-br-xl border-red my-2 p-1" data-recipe-id="{{ thisWeekItem.recipe.id }}"><i class="fas fa-paw mr-1"></i>
+						<li class="recipe_item rounded-tl-xl rounded-br-xl border-red my-2 p-1 text-navy hover:bg-rose hover:text-navy" data-recipe-id="{{ thisWeekItem.recipe.id }}"><i class="fas fa-paw mr-1"></i>
 	                        <a href="{% url 'recipes:detail' nextWeekItem.recipe.id %}">{{ nextWeekItem.recipe.title }}</a>
 							{% for item in shopping %}
 								{% if item.recipe.id == nextWeekItem.recipe.id %}
