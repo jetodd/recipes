@@ -3,7 +3,7 @@
 {% block content %}
 	<p class="text-red text-center text-xl lowercase my-4 font-extrabold">tag: {{ tag.name }}</p>
 	{% if recipes %}
-		<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mx-12 my-6">
+		<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 my-6">
 			{% for recipe in recipes %}
 				<div class="max-w-sm rounded-tl-3xl rounded-br-3xl overflow-hidden bg-rose border-red infinite-item">
 					<div class="w-full card-image">
