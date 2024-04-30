@@ -8,7 +8,7 @@
 {% if queryset_list %}
 	<p class="text-red text-center text-xl lowercase my-4">Search results: {{ query }}</p>
 
-	<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 my-6">
+	<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 my-6 lg:mx-8">
 		{% for recipe in queryset_list %}
 			<div class="max-w-sm rounded-tl-3xl rounded-br-3xl overflow-hidden bg-rose border-red infinite-item">
 				<div class="w-full card-image">
