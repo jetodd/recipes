@@ -4,7 +4,7 @@
 <div class="my-4 xs:mx-4 sm:mx-8 md:mx-12">
 	<div class="grid grid-cols-1 lg:grid-cols-6 gap-4">
 		<div class="lg:col-span-4">
-			<p class="text-red text-center text-xl lowercase my-4">Newest Recipes</p>
+			<p class="text-red text-center text-xl lowercase my-4 font-extrabold">Newest Recipes</p>
 
 			<div class="columns-1 sm:columns-2 lg:columns-3">
 				{% if latest_recipes_list %}
@@ -17,7 +17,7 @@
 						  </div>
 						  <div class="px-2 pt-2">
 						  	<a href="/recipes/{{recipe.id}}/detail">
-						    	<p class="text-red text-center lowercase">{{recipe.title}}</p>
+						    	<p class="text-red text-center lowercase font-extrabold">{{recipe.title}}</p>
 							</a>
 						  </div>
 						  <hr />
@@ -32,7 +32,7 @@
 
 		<div class="lg:col-span-2">
 			{% if this_week %}
-				<p class="text-red text-center text-xl lowercase my-1">This week</p>
+				<p class="text-red text-center text-xl lowercase my-1 font-extrabold">This week</p>
 				<ul id="this-week" class="single mx-2">
 					{% for thisWeekItem in this_week %}
 						<li class="recipe_item rounded-tl-xl rounded-br-xl border-red my-2 p-1 text-rose hover:bg-rose hover:text-navy" data-recipe-id="{{ thisWeekItem.recipe.id }}"><i class="fas fa-paw mr-1"></i>
@@ -48,7 +48,7 @@
 			{% endif %}
 
 			{% if next_week %}
-				<p class="text-red text-center text-xl lowercase my-1">Next week</p>
+				<p class="text-red text-center text-xl lowercase my-1 font-extrabold">Next week</p>
 				<ul id="next-week" class="single mx-2">
 					{% for nextWeekItem in this_week %}
 						<li class="recipe_item rounded-tl-xl rounded-br-xl border-red my-2 p-1 text-rose hover:bg-rose hover:text-navy" data-recipe-id="{{ thisWeekItem.recipe.id }}"><i class="fas fa-paw mr-1"></i>

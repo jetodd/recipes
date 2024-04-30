@@ -5,8 +5,8 @@
 :root {
 	--light: #FFF9EF;
 	--rose: #EDAF9D;
-	--red: #ef4444;
-	--navy: #344259;
+	--red: #E55937;
+	--navy: #313849;
 
 	--border-color: var(--red);
 	--text-colour: var(--rose);
@@ -224,7 +224,7 @@ ul.single, ul.block {
 	}
 
 	.btn-primary {
-	  @apply  bg-rose hover:bg-rose text-navy hover:text-white;
+	  @apply bg-rose hover:bg-rose text-navy hover:text-white;
 	}
 
 	.btn-danger {

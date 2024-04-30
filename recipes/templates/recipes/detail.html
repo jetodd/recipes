@@ -6,7 +6,7 @@
 
 {% block content %}
 <div class="my-4 xs:mx-4 sm:mx-8 md:mx-12">
-	<p class="text-red text-center text-xl lowercase">
+	<p class="text-red text-center text-2xl lowercase font-extrabold">
 		{{ recipe.title }}
 	</p>
 
@@ -44,7 +44,7 @@
 		</div>
 
 		<div class="sm:col-span-2 lg:col-span-4 sm:order-3 lg:order-2">
-			<p class="text-red text-xl lowercase">Ingredients</p>
+			<p class="text-red text-lg lowercase font-extrabold">Ingredients</p>
 			<p>
 				{% if ingredients %}
 					<ul class="columns block" data-columns="2">
@@ -57,7 +57,7 @@
 		</div>
 
 		<div class="sm:order-4 sm:col-span-2 lg:col-span-8">
-			<p class="text-red text-xl lowercase">Steps</p>
+			<p class="text-red text-lg lowercase font-extrabold">Steps</p>
 			<ol>
 				{% if steps %}
 					{% for step in steps %}

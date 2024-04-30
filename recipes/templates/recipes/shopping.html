@@ -7,7 +7,7 @@
 <div class="lg:m-auto lg:w-3/4 my-4 xs:mx-4 sm:mx-8 md:mx-12">
 	<div class="grid grid-cols-1 lg:grid-cols-2">
 		<div>
-			<p class="text-red text-center text-xl lowercase">Shopping</p>
+			<p class="text-red text-center text-xl lowercase font-extrabold">Shopping</p>
 			{% if items %}
 				<form action="deleteitems" method="post">
 					<div class="shopping-list">
@@ -30,7 +30,7 @@
 		</div>
 
 		<div>
-			<p class="text-red text-center text-xl lowercase">Add item</p>
+			<p class="text-red text-center text-xl lowercase font-extrabold">Add item</p>
 			<form action="" method="post">
 				{% csrf_token %}
 				{{ form.as_p }}

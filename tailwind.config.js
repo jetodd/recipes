@@ -3,9 +3,9 @@ module.exports = {
   content: ['./recipes/templates/recipes/*.html'],
   theme: {
     colors: {
-      'red': '#ef4444',
-      'rose': '#EDAF9D',
-      'navy': '#344259',
+      'red': '#E55937',
+      'rose': '#eab7a8',
+      'navy': '#313849',
       'white': '#FFF9EF'
     },
     extend: {},
