@@ -50,7 +50,7 @@
 			{% if next_week %}
 				<p class="text-red text-center text-xl lowercase my-1 font-extrabold">Next week</p>
 				<ul id="next-week" class="single mx-2">
-					{% for nextWeekItem in this_week %}
+					{% for nextWeekItem in next_week %}
 						<li class="recipe_item rounded-tl-xl rounded-br-xl border-red my-2 p-1 text-rose hover:bg-rose hover:text-navy" data-recipe-id="{{ thisWeekItem.recipe.id }}"><i class="fas fa-paw mr-1"></i>
 	                        <a class="hover:text-white" href="{% url 'recipes:detail' nextWeekItem.recipe.id %}">{{ nextWeekItem.recipe.title }}</a>
 							{% for item in shopping %}
