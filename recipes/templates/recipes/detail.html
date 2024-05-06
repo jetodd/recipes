@@ -5,51 +5,46 @@
 {% block title %}{{ recipe.title }}{% endblock %}
 
 {% block content %}
-	<div class="row justify-content-center">
-		<div class="col-lg-12">
-			<h3>{{ recipe.title }}</h3>
-			<hr />
+<div class="my-4 xs:mx-4 sm:mx-8 md:mx-12">
+	<p class="text-red text-center text-2xl lowercase font-extrabold">
+		{{ recipe.title }}
+	</p>
+
+	<hr />
+
+	<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-8 gap-4">
+		<div class="lg:col-span-2">
+			<a target="_blank" href="{{recipe.url}}"><img class="lg:w-11/12 rounded-3xl" src="/static/img/{{ recipe.image }}.jpg" class="recipe-image" alt="{{recipe.title}}"></a>
 		</div>
 
-		<div class="col-md-6 col-lg-3 order-lg-1">		
-			<center>
-				<a target="_blank" href="{{ recipe.url }}"><img src="/static/img/{{ recipe.image }}.jpg" width="88%" height="auto" class="recipe-image"></a>
-			</center>
-		</div>
-
-		<div class="col-md-6 col-lg-3 order-lg-3">
+		<div class="sm:order-2 lg:col-span-2 lg:order-3">
 			{% if recipe.tags %}
 				{% for tag in recipe.tags.all %}
-				<div class="tags">
-					<a href="{% url 'recipes:tag' tag.id %}">{{ tag.name }}</a>
+				<div class="inline mb-1">
+					<a class="text-rose hover:text-navy hover:bg-rose py-1 px-2 mb-3 rounded-tl-xl rounded-br-xl lowercase border-rose" href="{% url 'recipes:tag' tag.id %}">{{ tag.name }}</a>
 				</div>
 				{% endfor %}
 			{% endif %}
 
 			<hr />
 
-			<div class="box pb-1">
 			<form action="" method="post">
 	    		{% csrf_token %}
 	    		{% bootstrap_form this_week %}
 	    		{% bootstrap_form next_week %}
-	    		<input class="btn btn-primary" type="submit" value="Update">
+	    		<input class="btn btn-primary mt-4 py-2 text-sm w-full" type="submit" value="Update">
 			</form>
-			</div>
 
-			<div class="box pt-1">
 			{% if recipe.this_week %}
 				<form action="cooked" method="post">
 					{% csrf_token %}
-					<input class="btn btn-primary" type="submit" value="Cooked">
+					<input class="btn btn-primary mt-4 py-2 text-sm w-full" type="submit" value="Cooked">
 				</form>
 			{% endif %}
-			</div>
-			
 		</div>
 
-		<div class="col-md-12 col-lg-6 order-lg-2">
-			<h4>Ingredients</h4>
+		<div class="sm:col-span-2 lg:col-span-4 sm:order-3 lg:order-2">
+			<p class="text-red text-lg lowercase font-extrabold">Ingredients</p>
 			<p>
 				{% if ingredients %}
 					<ul class="columns block" data-columns="2">
@@ -59,10 +54,10 @@
 					</ul>
 				{% endif %}
 			</p>
-		</div>	
+		</div>
 
-		<div class="col-12 order-lg-4 mt-4">
-			<h4>Steps</h4>
+		<div class="sm:order-4 sm:col-span-2 lg:col-span-8">
+			<p class="text-red text-lg lowercase font-extrabold">Steps</p>
 			<ol>
 				{% if steps %}
 					{% for step in steps %}
@@ -71,5 +66,6 @@
 				{% endif %}
 			</ol>
 		</div>
-	</div>
+	</div>	
+</div>
 {% endblock %}

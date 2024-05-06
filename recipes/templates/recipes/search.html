@@ -6,36 +6,47 @@
 
 
 {% if queryset_list %}
-	<h2>Search results: {{ query }}</h2>
-	<div class="row justify-content-center">
-		<div class="col-md-12 col-lg-10">
-			<div class="row">
-			{% for recipe in queryset_list %}
-				<div class="card recipe-card">
-					<div class="card-image">
-						<a href="{% url 'recipes:detail' recipe.id %}"><img class="img-card" src="/static/img/{{ recipe.image }}.jpg"></a>
-					</div>
-					<div class="card-body">
-		    			<h5 class="card-title"><a href="{% url 'recipes:detail' recipe.id %}">{{ recipe.title }}</a></h5>
-		    			<hr />
-		    			<a href="{% url 'recipes:detail' recipe.id %}" class="card-link btn btn-primary">View recipe</a>
-		  			</div>
+	<p class="text-red text-center text-xl lowercase my-4">Search results: {{ query }}</p>
+
+	<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 my-6 lg:mx-8">
+		{% for recipe in queryset_list %}
+			<div class="max-w-sm rounded-tl-3xl rounded-br-3xl overflow-hidden bg-rose border-red infinite-item">
+				<div class="w-full card-image">
+					<a href="/recipes/{{recipe.id}}/detail">
+						<img class="w-full" src="/static/img/{{recipe.image}}.jpg" alt="{{recipe.title}}">
+					</a>
 				</div>
-			{% endfor %}
+				<div class="px-2 pt-2">
+					<a href="/recipes/{{recipe.id}}/detail">
+						<p class="text-red text-center lowercase hover:text-navy">{{recipe.title}}</p>
+					</a>
+				</div>
+				<hr />
+				{% if recipe.tags %}
+	    		{% for tag in recipe.tags.all %}
+	    			<div class="tags px-4">
+	    				<a class="bg-rose text-navy transition-all ease-in-out delay-200 inline-block border-navy hover:bg-navy hover:text-rose py-1 px-2 mb-3 rounded-tl-xl rounded-br-xl lowercase text-xs" href="{% url 'recipes:tag' tag.id %}">{{ tag.name }}</a>
+	    			</div>
+	    		{% endfor %}
+	    	{% endif %}
 			</div>
-		</div>
+		{% endfor %}
 	</div>
 {% else %}
-	<h3>No results found for:</h3>
-	<h1>{{ query }}</h1>
+	<p class="text-red text-center text-xl lowercase my-4">No results found for:</p>
+	<p class="text-pink text-center text-xl lowercase my-4">{{ query }}</p>
 {% endif %}
 
 {% if tags_list %}
-	<h3>Tags</h3>
-	<ul class="horizontal-list">
-	    {% for tag in tags_list %}
-	        <li><a href="{% url 'recipes:tag' tag.id %}">{{ tag.name }}</a></li>
-	    {% endfor %}
-	</ul>
+	<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 mx-12 my-6">
+		<div>
+			<p class="text-red text-center text-xl lowercase my-4">Tags</p>
+			<ul class="horizontal-list">
+			    {% for tag in tags_list %}
+			        <li><a href="{% url 'recipes:tag' tag.id %}">{{ tag.name }}</a></li>
+			    {% endfor %}
+			</ul>
+		</div>
+	</div>
 {% endif %}
 {% endblock %}
