@@ -1,9 +1,9 @@
 FROM node:21-alpine as frontend
 
 WORKDIR /app
-COPY package.json package-lock.json recipes/tailwind/tailwind.css ./
-COPY recipes/tailwind/tailwind.css recipes/tailwind/tailwind.css
+COPY package.json package-lock.json ./
 RUN npm install
+COPY . .
 
 RUN npm run tailwind
 
