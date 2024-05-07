@@ -11,7 +11,9 @@
   "scripts": {
     "tailwind:dev": "tailwindcss -i ./recipes/tailwind/tailwind.css -o ./recipes/static/recipes/style.css --watch",
     "tailwind": "tailwindcss -i ./recipes/tailwind/tailwind.css -o ./recipes/static/recipes/style.css",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "prettier --check .",
+    "lint:fix": "prettier --write ."
   },
   "author": "",
   "license": "",

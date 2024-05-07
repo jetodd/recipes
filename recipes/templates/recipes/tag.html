@@ -1,33 +1,51 @@
 {% extends 'recipes/base.html' %}
 
 {% block content %}
-	<p class="text-red text-center text-xl lowercase my-4 font-extrabold">tag: {{ tag.name }}</p>
-	{% if recipes %}
-		<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 my-6 lg:mx-8">
-			{% for recipe in recipes %}
-				<div class="max-w-sm rounded-tl-3xl rounded-br-3xl overflow-hidden bg-rose border-red infinite-item">
-					<div class="w-full card-image">
-						<a href="/recipes/{{recipe.id}}/detail">
-							<img class="w-full" src="/static/img/{{recipe.image}}.jpg" alt="{{recipe.title}}">
-						</a>
-					</div>
-					<div class="px-2 pt-2">
-						<a href="/recipes/{{recipe.id}}/detail">
-							<p class="text-red text-center lowercase hover:text-navy">{{recipe.title}}</p>
-						</a>
-					</div>
-					<hr />
-					{% if recipe.tags %}
-		    		{% for tag in recipe.tags.all %}
-		    			<div class="tags px-4">
-		    				<a class="bg-rose text-navy transition-all ease-in-out delay-200 inline-block border-navy hover:bg-navy hover:text-rose py-1 px-2 mb-3 rounded-tl-xl rounded-br-xl lowercase text-xs" href="{% url 'recipes:tag' tag.id %}">{{ tag.name }}</a>
-		    			</div>
-		    		{% endfor %}
-		    	{% endif %}
-				</div>
-			{% endfor %}
-		</div>
-	{% else %}
-		<p class="text-red text-center text-xl lowercase my-4">Nothing here yet, don't get hangry.</p>
-	{% endif %}
+  <p class="text-red text-center text-xl lowercase my-4 font-extrabold">
+    tag: {{ tag.name }}
+  </p>
+  {% if recipes %}
+    <div
+      class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 my-6 lg:mx-8"
+    >
+      {% for recipe in recipes %}
+        <div
+          class="max-w-sm rounded-tl-3xl rounded-br-3xl overflow-hidden bg-rose border-red infinite-item"
+        >
+          <div class="w-full card-image">
+            <a href="/recipes/{{ recipe.id }}/detail">
+              <img
+                class="w-full"
+                src="/static/img/{{ recipe.image }}.jpg"
+                alt="{{ recipe.title }}"
+              />
+            </a>
+          </div>
+          <div class="px-2 pt-2">
+            <a href="/recipes/{{ recipe.id }}/detail">
+              <p class="text-red text-center lowercase hover:text-navy">
+                {{ recipe.title }}
+              </p>
+            </a>
+          </div>
+          <hr />
+          {% if recipe.tags %}
+            {% for tag in recipe.tags.all %}
+              <div class="tags px-4">
+                <a
+                  class="bg-rose text-navy transition-all ease-in-out delay-200 inline-block border-navy hover:bg-navy hover:text-rose py-1 px-2 mb-3 rounded-tl-xl rounded-br-xl lowercase text-xs"
+                  href="{% url 'recipes:tag' tag.id %}"
+                  >{{ tag.name }}</a
+                >
+              </div>
+            {% endfor %}
+          {% endif %}
+        </div>
+      {% endfor %}
+    </div>
+  {% else %}
+    <p class="text-red text-center text-xl lowercase my-4">
+      Nothing here yet, don't get hangry.
+    </p>
+  {% endif %}
 {% endblock %}

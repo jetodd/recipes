@@ -3,44 +3,59 @@
 {% block title %}All recipes{% endblock %}
 
 {% block content %}
+  <div
+    class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 my-6 infinite-container lg:mx-8"
+  >
+    {% for recipe in recipes %}
+      <div
+        class="max-w-sm rounded-tl-3xl rounded-br-3xl overflow-hidden bg-rose border-red infinite-item"
+      >
+        <div class="card-image">
+          <a href="/recipes/{{ recipe.id }}/detail">
+            <img
+              class="img-card"
+              src="/static/img/{{ recipe.image }}.jpg"
+              alt="{{ recipe.title }}"
+            />
+          </a>
+        </div>
+        <div class="p-2">
+          <a href="/recipes/{{ recipe.id }}/detail">
+            <p class="text-red text-center lowercase hover:text-navy">
+              {{ recipe.title }}
+            </p>
+          </a>
+        </div>
+        <hr />
+        {% if recipe.tags %}
+          {% for tag in recipe.tags.all %}
+            <div class="tags px-4">
+              <a
+                class="bg-rose text-navy transition-all ease-in-out delay-200 inline-block border-navy hover:bg-navy hover:text-rose py-1 px-2 mb-3 rounded-tl-xl rounded-br-xl lowercase text-xs"
+                href="{% url 'recipes:tag' tag.id %}"
+                >{{ tag.name }}</a
+              >
+            </div>
+          {% endfor %}
+        {% endif %}
+      </div>
+    {% endfor %}
+  </div>
 
-	<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 my-6 infinite-container lg:mx-8">
-		{% for recipe in recipes %}
-			<div class="max-w-sm rounded-tl-3xl rounded-br-3xl overflow-hidden bg-rose border-red infinite-item">
-				<div class="card-image">
-					<a href="/recipes/{{recipe.id}}/detail">
-						<img class="img-card" src="/static/img/{{recipe.image}}.jpg" alt="{{recipe.title}}">
-					</a>
-				</div>
-				<div class="p-2">
-					<a href="/recipes/{{recipe.id}}/detail">
-						<p class="text-red text-center lowercase hover:text-navy">{{recipe.title}}</p>
-					</a>
-				</div>
-				<hr />
-				{% if recipe.tags %}
-	    		{% for tag in recipe.tags.all %}
-	    			<div class="tags px-4">
-	    				<a class="bg-rose text-navy transition-all ease-in-out delay-200 inline-block border-navy hover:bg-navy hover:text-rose py-1 px-2 mb-3 rounded-tl-xl rounded-br-xl lowercase text-xs" href="{% url 'recipes:tag' tag.id %}">{{ tag.name }}</a>
-	    			</div>
-	    		{% endfor %}
-	    	{% endif %}
-			</div>
-		{% endfor %}
-	</div>
+  <div id="more">
+    {% if recipes.has_next %}
+      <a
+        class="infinite-more-link btn btn-secondary"
+        href="?page={{ recipes.next_page_number }}"
+      >
+        More Recipes
+      </a>
+    {% endif %}
+  </div>
 
-	<div id="more">
-		{% if recipes.has_next %}
-			<a class="infinite-more-link btn btn-secondary" href="?page={{ recipes.next_page_number }}">
-				More Recipes
-			</a>
-		{% endif %}
-	</div>
-
-	<script>
-		var infinite = new Waypoint.Infinite({
-		  element: $('.infinite-container')[0]
-		});
-	</script>
-
+  <script>
+    var infinite = new Waypoint.Infinite({
+      element: $(".infinite-container")[0],
+    });
+  </script>
 {% endblock %}

@@ -1,71 +1,88 @@
 {% extends 'recipes/base.html' %}
-
 {% load bootstrap4 %}
 
 {% block title %}{{ recipe.title }}{% endblock %}
 
 {% block content %}
-<div class="my-4 xs:mx-4 sm:mx-8 md:mx-12">
-	<p class="text-red text-center text-2xl lowercase font-extrabold">
-		{{ recipe.title }}
-	</p>
+  <div class="my-4 xs:mx-4 sm:mx-8 md:mx-12">
+    <p class="text-red text-center text-2xl lowercase font-extrabold">
+      {{ recipe.title }}
+    </p>
 
-	<hr />
+    <hr />
 
-	<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-8 gap-4">
-		<div class="lg:col-span-2">
-			<a target="_blank" href="{{recipe.url}}"><img class="lg:w-11/12 rounded-3xl" src="/static/img/{{ recipe.image }}.jpg" class="recipe-image" alt="{{recipe.title}}"></a>
-		</div>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-8 gap-4">
+      <div class="lg:col-span-2">
+        <a target="_blank" href="{{ recipe.url }}"
+          ><img
+            class="lg:w-11/12 rounded-3xl"
+            src="/static/img/{{ recipe.image }}.jpg"
+            class="recipe-image"
+            alt="{{ recipe.title }}"
+        /></a>
+      </div>
 
-		<div class="sm:order-2 lg:col-span-2 lg:order-3">
-			{% if recipe.tags %}
-				{% for tag in recipe.tags.all %}
-				<div class="inline mb-1">
-					<a class="text-rose hover:text-navy hover:bg-rose py-1 px-2 mb-3 rounded-tl-xl rounded-br-xl lowercase border-rose" href="{% url 'recipes:tag' tag.id %}">{{ tag.name }}</a>
-				</div>
-				{% endfor %}
-			{% endif %}
+      <div class="sm:order-2 lg:col-span-2 lg:order-3">
+        {% if recipe.tags %}
+          {% for tag in recipe.tags.all %}
+            <div class="inline mb-1">
+              <a
+                class="text-rose hover:text-navy hover:bg-rose py-1 px-2 mb-3 rounded-tl-xl rounded-br-xl lowercase border-rose"
+                href="{% url 'recipes:tag' tag.id %}"
+                >{{ tag.name }}</a
+              >
+            </div>
+          {% endfor %}
+        {% endif %}
 
-			<hr />
+        <hr />
 
-			<form action="" method="post">
-	    		{% csrf_token %}
-	    		{% bootstrap_form this_week %}
-	    		{% bootstrap_form next_week %}
-	    		<input class="btn btn-primary mt-4 py-2 text-sm w-full" type="submit" value="Update">
-			</form>
+        <form action="" method="post">
+          {% csrf_token %}
+          {% bootstrap_form this_week %}
+          {% bootstrap_form next_week %}
+          <input
+            class="btn btn-primary mt-4 py-2 text-sm w-full"
+            type="submit"
+            value="Update"
+          />
+        </form>
 
-			{% if recipe.this_week %}
-				<form action="cooked" method="post">
-					{% csrf_token %}
-					<input class="btn btn-primary mt-4 py-2 text-sm w-full" type="submit" value="Cooked">
-				</form>
-			{% endif %}
-		</div>
+        {% if recipe.this_week %}
+          <form action="cooked" method="post">
+            {% csrf_token %}
+            <input
+              class="btn btn-primary mt-4 py-2 text-sm w-full"
+              type="submit"
+              value="Cooked"
+            />
+          </form>
+        {% endif %}
+      </div>
 
-		<div class="sm:col-span-2 lg:col-span-4 sm:order-3 lg:order-2">
-			<p class="text-red text-lg lowercase font-extrabold">Ingredients</p>
-			<p>
-				{% if ingredients %}
-					<ul class="columns block" data-columns="2">
-						{% for ingredient in ingredients %}
-							<li>{{ ingredient }}</li>
-						{% endfor %}
-					</ul>
-				{% endif %}
-			</p>
-		</div>
+      <div class="sm:col-span-2 lg:col-span-4 sm:order-3 lg:order-2">
+        <p class="text-red text-lg lowercase font-extrabold">Ingredients</p>
+        <p>
+          {% if ingredients %}
+            <ul class="columns block" data-columns="2">
+              {% for ingredient in ingredients %}
+                <li>{{ ingredient }}</li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </p>
+      </div>
 
-		<div class="sm:order-4 sm:col-span-2 lg:col-span-8">
-			<p class="text-red text-lg lowercase font-extrabold">Steps</p>
-			<ol>
-				{% if steps %}
-					{% for step in steps %}
-						<li>{{ step }}</li>
-					{% endfor %}
-				{% endif %}
-			</ol>
-		</div>
-	</div>	
-</div>
+      <div class="sm:order-4 sm:col-span-2 lg:col-span-8">
+        <p class="text-red text-lg lowercase font-extrabold">Steps</p>
+        <ol>
+          {% if steps %}
+            {% for step in steps %}
+              <li>{{ step }}</li>
+            {% endfor %}
+          {% endif %}
+        </ol>
+      </div>
+    </div>
+  </div>
 {% endblock %}

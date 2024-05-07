@@ -3,41 +3,59 @@
 {% block title %}Shopping{% endblock %}
 
 {% block content %}
+  <div class="lg:m-auto lg:w-3/4 my-4 xs:mx-4 sm:mx-8 md:mx-12">
+    <div class="grid grid-cols-1 lg:grid-cols-2">
+      <div>
+        <p class="text-red text-center text-xl lowercase font-extrabold">
+          Shopping
+        </p>
+        {% if items %}
+          <form action="deleteitems" method="post">
+            <div class="shopping-list">
+              {% for item in items %}
+                <div class="form-check form-group">
+                  <input
+                    class="form-check-input"
+                    name="item"
+                    type="checkbox"
+                    value="{{ item.name }}"
+                    id="shoppingItem{{ item.id }}"
+                  />
+                  <label
+                    class="form-check-label"
+                    for="shoppingItem{{ item.id }}"
+                    >{{ item.name }}
+                    {% if item.recipe != None %}({{ item.recipe }}){% endif %}</label
+                  >
+                </div>
+              {% endfor %}
+            </div>
+            {% csrf_token %}
 
-<div class="lg:m-auto lg:w-3/4 my-4 xs:mx-4 sm:mx-8 md:mx-12">
-	<div class="grid grid-cols-1 lg:grid-cols-2">
-		<div>
-			<p class="text-red text-center text-xl lowercase font-extrabold">Shopping</p>
-			{% if items %}
-				<form action="deleteitems" method="post">
-					<div class="shopping-list">
-					{% for item in items %}
-						<div class="form-check form-group">
-							<input class="form-check-input" name="item" type="checkbox" value="{{item.name}}" id="shoppingItem{{item.id}}" />	
-							<label class="form-check-label" for="shoppingItem{{item.id}}">{{item.name}} {% if item.recipe != None %}({{item.recipe}}){% endif %}</label>
-						</div>
-					{% endfor %}
-					</div>
-					{% csrf_token %}
+            <button class="btn btn-primary" type="button" id="select_all">
+              Select all
+            </button>
+            <input
+              class="btn btn-danger"
+              type="submit"
+              value="Delete selected"
+            />
+          </form>
+        {% else %}
+          <p>Nothing here yet.</p>
+        {% endif %}
+      </div>
 
-					<button class="btn btn-primary" type="button" id="select_all">Select all</button>
-					<input class="btn btn-danger" type="submit" value="Delete selected">
-
-				</form>
-			{% else %}
-				<p>Nothing here yet.</p>
-			{% endif %}
-		</div>
-
-		<div>
-			<p class="text-red text-center text-xl lowercase font-extrabold">Add item</p>
-			<form action="" method="post">
-				{% csrf_token %}
-				{{ form.as_p }}
-				<input class="btn btn-primary" type="submit" value="Add">
-			</form>
-		</div>
-	</div>
-</div>
-
+      <div>
+        <p class="text-red text-center text-xl lowercase font-extrabold">
+          Add item
+        </p>
+        <form action="" method="post">
+          {% csrf_token %}
+          {{ form.as_p }}
+          <input class="btn btn-primary" type="submit" value="Add" />
+        </form>
+      </div>
+    </div>
+  </div>
 {% endblock %}

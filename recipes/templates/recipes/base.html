@@ -1,59 +1,106 @@
 {% load static %}
-<!DOCTYPE html>
+<!doctype html>
 <html>
-    <head>
-        <link rel="stylesheet" href="{% static 'recipes/style.css' %}">
-        <script type="text/javascript" src="http://127.0.0.1:35729/livereload.js"></script>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
-        <script src="https://kit.fontawesome.com/6f9cfabba6.js"></script>
-        <script src="{% static 'recipes/script.js' %}" type="text/javascript"></script>
-        <script src="{% static 'recipes/Sortable.js' %}" type="text/javascript"></script>
-        <link rel="shortcut icon" type="image/png" href="{% static '/img/pineapple.ico' %}"/>
-        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <head>
+    <link rel="stylesheet" href="{% static 'recipes/style.css' %}" />
+    <script
+      type="text/javascript"
+      src="http://127.0.0.1:35729/livereload.js"
+    ></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"
+      integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut"
+      crossorigin="anonymous"
+    ></script>
+    <script src="https://kit.fontawesome.com/6f9cfabba6.js"></script>
+    <script
+      src="{% static 'recipes/script.js' %}"
+      type="text/javascript"
+    ></script>
+    <script
+      src="{% static 'recipes/Sortable.js' %}"
+      type="text/javascript"
+    ></script>
+    <link
+      rel="shortcut icon"
+      type="image/png"
+      href="{% static '/img/pineapple.ico' %}"
+    />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
+    />
 
-        <script src="{% static 'recipes/jquery.waypoints.min.js' %}"></script>
-        <script src="{% static 'recipes/infinite.min.js' %}"></script>
-        <title>{% block title %}Cookbook{% endblock %} | Stitch's recipes</title>
-    </head>
-    <body class="bg-navy text-rose mx-auto my-0">
-
-       <script>
-        const navLinks = document.querySelector('.nav-links')
-        function onToggleMenu(e){
-            e.name = e.name === 'menu' ? 'close' : 'menu'
-            navLinks.classList.toggle('top-[9%]')
-        }
+    <script src="{% static 'recipes/jquery.waypoints.min.js' %}"></script>
+    <script src="{% static 'recipes/infinite.min.js' %}"></script>
+    <title>{% block title %}Cookbook{% endblock %} | Stitch's recipes</title>
+  </head>
+  <body class="bg-navy text-rose mx-auto my-0">
+    <script>
+      const navLinks = document.querySelector(".nav-links");
+      function onToggleMenu(e) {
+        e.name = e.name === "menu" ? "close" : "menu";
+        navLinks.classList.toggle("top-[9%]");
+      }
     </script>
 
-    <nav class="flex items-center justify-between flex-wrap bg-rose p-6 lowercase">
-      <div class="flex items-center flex-shrink-0 text-white mr-6">  
-        <a href="/"><span class="text-2xl text-navy hover:text-white">Recipes</span></a>
+    <nav
+      class="flex items-center justify-between flex-wrap bg-rose p-6 lowercase"
+    >
+      <div class="flex items-center flex-shrink-0 text-white mr-6">
+        <a href="/"
+          ><span class="text-2xl text-navy hover:text-white">Recipes</span></a
+        >
       </div>
 
       <div class="block lg:hidden">
-        <button class="flex items-center px-3 py-2 border rounded text-white border-white-400 hover:text-white hover:border-white">
-          <svg class="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/></svg>
+        <button
+          class="flex items-center px-3 py-2 border rounded text-white border-white-400 hover:text-white hover:border-white"
+        >
+          <svg
+            class="fill-current h-3 w-3"
+            viewBox="0 0 20 20"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <title>Menu</title>
+            <path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z" />
+          </svg>
         </button>
       </div>
 
       <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
         <div class="text-sm lg:flex-grow">
-          <a href="/recipes/all" class="block border rounded-full mt-4 lg:inline-block lg:mt-0 text-navy hover:text-white hover:bg-navy hover:border-navy mr-4 px-2 py-1">
+          <a
+            href="/recipes/all"
+            class="block border rounded-full mt-4 lg:inline-block lg:mt-0 text-navy hover:text-white hover:bg-navy hover:border-navy mr-4 px-2 py-1"
+          >
             Menu
           </a>
         </div>
         <div>
-          <form method='GET' action="/recipes/random" class="inline-block text-sm py-2 leading-none mt-4 lg:mt-0">
+          <form
+            method="GET"
+            action="/recipes/random"
+            class="inline-block text-sm py-2 leading-none mt-4 lg:mt-0"
+          >
             <button class="icon-button">
               <i class="fas fa-random text-navy hover:text-white"></i>
             </button>
           </form>
-          <a class="inline-block text-sm mx-0.5 px-4 py-2 leading-none mt-4 lg:mt-0 icon-button text-navy" href="/recipes/shopping">
+          <a
+            class="inline-block text-sm mx-0.5 px-4 py-2 leading-none mt-4 lg:mt-0 icon-button text-navy"
+            href="/recipes/shopping"
+          >
             <i class="fas fa-shopping-basket text-navy hover:text-white"></i>
           </a>
-          <button class="inline-block text-sm px-4 py-2 leading-none mt-4 lg:mt-0 icon-button text-navy">
-            <i class="fas fa-search text-navy hover:text-white" id="toggle_search"></i>
+          <button
+            class="inline-block text-sm px-4 py-2 leading-none mt-4 lg:mt-0 icon-button text-navy"
+          >
+            <i
+              class="fas fa-search text-navy hover:text-white"
+              id="toggle_search"
+            ></i>
           </button>
         </div>
       </div>
@@ -62,20 +109,30 @@
     <div class="waves block bg-repeat-x bg-contain bg-center"></div>
 
     <main class="max-lg:w-11/12 max-lg:m-auto">
-      <form method='GET' action="/recipes/search" id="search_form" class="d-lg-block search_form">
+      <form
+        method="GET"
+        action="/recipes/search"
+        id="search_form"
+        class="d-lg-block search_form"
+      >
         <div class="d-flex justify-content-center">
           <div class="searchbar">
-            <input class="search_input" type="text" placeholder="Search..." name='q' value="{{ request.GET.q }}">
+            <input
+              class="search_input"
+              type="text"
+              placeholder="Search..."
+              name="q"
+              value="{{ request.GET.q }}"
+            />
             <button class="icon-button">
               <i class="fas fa-search"></i>
             </button>
           </div>
-      </div>
-    </form>
+        </div>
+      </form>
 
       {% block content %}
       {% endblock %}
     </main>
-
   </body>
 </html>
