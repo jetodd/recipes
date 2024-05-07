@@ -229,7 +229,7 @@ ul.block {
   }
 
   .form-control {
-    @apply px-3 py-1 border-2 w-full border-rose rounded-md focus:ring-4;
+    @apply px-3 py-1 border-2 w-full border-rose rounded-md focus:ring-4 text-navy;
   }
 }
 
