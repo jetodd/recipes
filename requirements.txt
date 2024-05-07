@@ -1,4 +1,4 @@
-Django==4.2.7
+Django==5.0.6
 django-bootstrap4==24.3
 dj-database-url==2.1.0
 gunicorn==22.0.0
