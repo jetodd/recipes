@@ -45,6 +45,10 @@
 						</li>
 					{% endfor %}
 				</ul>
+				<form id="this-week-frm" method="post" action="{% url 'recipes:this-week-position' %}">
+                	{% csrf_token %}
+                	<input type="hidden" id="thisWeekPositionInput" name="position">
+            	</form>
 			{% endif %}
 
 			{% if next_week %}
@@ -60,6 +64,14 @@
 							{% endfor %} 
 						</li>
 					{% endfor %}
+					<form id="next-week-frm" method="post" action="{% url 'recipes:next-week-position' %}">
+						{% csrf_token %}
+						<input type="hidden" id="nextWeekPositionInput" name="position">
+					</form>
+					<form action="move" method="post">
+						{% csrf_token %}
+						<input class="btn btn-primary" type="submit" value="Move">
+					</form>
 				</ul>
 			{% endif %}
 		</div>
