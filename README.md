@@ -52,14 +52,19 @@ Application will run by default locally on http://127.0.0.1:8000/
 
 ## Updating production
 
-Production is deployed to heroku automatically on a push to master
+Production is deployed to fly.io automatically on a push to main
 
-### Setup for interacting with heroku
+### Setup for interacting with fly.io
 
 ```bash
-$ brew tap heroku/brew && brew install heroku
-$ heroku login
-$ heroku git:remote -a stitchs-recipes
-$ heroku logs --tail
+brew install flyctl
+fly auth login
+```
 
+### Connecting to the database
+
+```bash
+fly postgres connect -a stitches-recipes-db -d stitches_recipes
+select id from recipes_recipe where id = 1;
+delete from recipes_recipe where id = 1;
 ```
