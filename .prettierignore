@@ -1,0 +1,4 @@
+recipes/static/recipes/*.min.js
+recipes/static/recipes/Sortable.js
+*.html
+venv/

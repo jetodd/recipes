@@ -3,28 +3,28 @@
 @tailwind utilities;
 
 :root {
-	--light: #FFF9EF;
-	--rose: #EDAF9D;
-	--red: #E55937;
-	--navy: #313849;
+  --light: #fff9ef;
+  --rose: #edaf9d;
+  --red: #e55937;
+  --navy: #313849;
 
-	--border-color: var(--red);
-	--text-colour: var(--rose);
-	--link-hover: var(--light);
-	--card-bg-colour: var(--rose);
-	--hr-colour: var(--light);
-	--header-colour: var(--light);
-	--header-bg-colour: var(--rose);
-	--main-bg-colour: var(--navy);
-	--list-colour: var(--red);
+  --border-color: var(--red);
+  --text-colour: var(--rose);
+  --link-hover: var(--light);
+  --card-bg-colour: var(--rose);
+  --hr-colour: var(--light);
+  --header-colour: var(--light);
+  --header-bg-colour: var(--rose);
+  --main-bg-colour: var(--navy);
+  --list-colour: var(--red);
 }
 
 body {
-	font-family: "Century Gothic", CenturyGothic, Tahoma, sans-serif;
+  font-family: "Century Gothic", CenturyGothic, Tahoma, sans-serif;
 }
 
 form {
-	    margin-block-end: 0;
+  margin-block-end: 0;
 }
 
 ul.columns {
@@ -32,212 +32,208 @@ ul.columns {
 }
 
 hr {
-    height: 2px;
-    color: var(--hr-colour);
-    background: var(--hr-colour);
-    font-size: 0;
-    border: 0;
-    width: 50%;
-    margin: 15px auto;
+  height: 2px;
+  color: var(--hr-colour);
+  background: var(--hr-colour);
+  font-size: 0;
+  border: 0;
+  width: 50%;
+  margin: 15px auto;
 }
 
 ol {
-   list-style: none;
-   counter-reset: item;
-   padding-left: 0;
+  list-style: none;
+  counter-reset: item;
+  padding-left: 0;
 }
 
 ol li {
-   counter-increment: item;
+  counter-increment: item;
 }
 
 ol li:before {
-   margin-right: 20px;
-   content: counter(item);
-   color: var(--list-colour);
-   font-size: 1.6em;
+  margin-right: 20px;
+  content: counter(item);
+  color: var(--list-colour);
+  font-size: 1.6em;
 }
 
 .border-red {
-	border: 1px solid var(--red);
+  border: 1px solid var(--red);
 }
 
 .border-navy {
-	border: 1px solid var(--navy);
+  border: 1px solid var(--navy);
 }
 
 .border-rose {
-	border: 1px solid var(--rose);
+  border: 1px solid var(--rose);
 }
 
 *:focus {
-    outline: 0 !important;
+  outline: 0 !important;
 }
 
 /************ Header ************/
 .waves {
-	height: 52px;
-	background-image: url('../images/waves.svg');
+  height: 52px;
+  background-image: url("../images/waves.svg");
 }
 
 /************ Forms ************/
 .form-check {
-    display: flex;
-    align-items: center;
+  display: flex;
+  align-items: center;
 }
 
 /************ Header (search) ************/
 .searchbar {
-    padding: 10px;
+  padding: 10px;
 }
 
 .search_input {
-    color: var(--text-colour);
-    border: 0;
-    outline: 0;
-    background: none;
-    line-height: 30px;
-    font-size:30px;
-    width: 80%;
-    caret-color: var(--text-colour);
-    border-bottom: 2px solid var(--text-colour);
+  color: var(--text-colour);
+  border: 0;
+  outline: 0;
+  background: none;
+  line-height: 30px;
+  font-size: 30px;
+  width: 80%;
+  caret-color: var(--text-colour);
+  border-bottom: 2px solid var(--text-colour);
 }
 
 .icon-button {
-	height: 20px;
-    width: 20px;
-    justify-content: center;
-    align-items: center;
-	font-size: 20px;
+  height: 20px;
+  width: 20px;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
 }
 
 .icon-button:hover {
-	cursor: pointer;
+  cursor: pointer;
 }
 
 ::placeholder {
-	color: var(--text-colour);
+  color: var(--text-colour);
 }
 
 .search_form {
-	background-color: var(--main-bg-colour);
-	overflow:hidden;
-	height:0;
-	-webkit-transition: all .2s linear 0s;
-	transition: all .2s linear 0s;
+  background-color: var(--main-bg-colour);
+  overflow: hidden;
+  height: 0;
+  -webkit-transition: all 0.2s linear 0s;
+  transition: all 0.2s linear 0s;
 }
 
 .search_form.show {
-	height: 60px;
+  height: 60px;
 }
 
 .search_form .fas {
-	color: var(--text-colour);
-	margin-top:10px;
+  color: var(--text-colour);
+  margin-top: 10px;
 }
 
-@media only screen 
-  and (max-device-width: 812px) 
-  and (orientation: portrait) { 
-	.navbar > .searchbutton {
-		display:none;
-	}
+@media only screen and (max-device-width: 812px) and (orientation: portrait) {
+  .navbar > .searchbutton {
+    display: none;
+  }
 
-	body {
-		font-size: 18px;
-	}
+  body {
+    font-size: 18px;
+  }
 
-	.form-group > .form-check input:checked + label:after {
-		top: 11px !important;
-	}
+  .form-group > .form-check input:checked + label:after {
+    top: 11px !important;
+  }
 
+  .search_form {
+    height: 100px;
+  }
 
-	.search_form {
-		height: 100px;
-	}
+  .search_input {
+    font-size: 40px;
+    margin-top: 20px;
+  }
 
-	.search_input {
-		font-size:40px;
-		margin-top: 20px;
-	}
+  .searchbutton > .fa-search {
+    font-size: 30px;
+    margin-top: 15px;
+  }
 
-	.searchbutton > .fa-search {
-		font-size: 30px;
-		margin-top: 15px;
-	}
+  .search_form .fas {
+    margin-top: 25px;
+  }
 
-	.search_form .fas {
-		margin-top: 25px;
-	}
-
-	.search_form.show {
-		height: 100px;
-	}
-
+  .search_form.show {
+    height: 100px;
+  }
 }
 
 /************ Tags ************/
 ul.horizontal-list {
-	list-style: none;
-	columns: 1;
-	-webkit-columns: 1;
-	-moz-columns: 1;
+  list-style: none;
+  columns: 1;
+  -webkit-columns: 1;
+  -moz-columns: 1;
 }
 
 ul.horizontal-list li {
-	display: inline-block;
-	height: 50px;
+  display: inline-block;
+  height: 50px;
 }
 
 ul.horizontal-list li a {
-	color: var(--btn-text-colour);
-	text-decoration: none;
-	margin:0 5px;
-	background: var(--btn-bg-colour);
-	padding: 6px 8px;
-	border-radius: 8px;
+  color: var(--btn-text-colour);
+  text-decoration: none;
+  margin: 0 5px;
+  background: var(--btn-bg-colour);
+  padding: 6px 8px;
+  border-radius: 8px;
 }
 
 ul.horizontal-list li a:hover {
-	background-color: var(--btn-hover-colour);
+  background-color: var(--btn-hover-colour);
 }
 
 .tags {
-	display: inline;
-	margin-bottom: 0.05rem;
+  display: inline;
+  margin-bottom: 0.05rem;
 }
 
 .resize {
-	height: 200px;
-	width: auto;
+  height: 200px;
+  width: auto;
 }
 
-ul.single, ul.block {
-	list-style-type: none;
-	padding:0;
+ul.single,
+ul.block {
+  list-style-type: none;
+  padding: 0;
 }
 
 /************ Buttons ************/
 @layer components {
-	.btn {
-		@apply mt-2 px-5 text-white rounded-full shadow-md cursor-pointer focus:ring-4 text-lg;
-	}
-
-	.btn-primary {
-	  @apply bg-rose hover:bg-rose text-navy hover:text-white;
-	}
-
-	.btn-danger {
-		@apply bg-red hover:text-rose;
-	}
-
-	.form-control {
-		@apply px-3 py-1 border-2 w-full border-rose rounded-md focus:ring-4;
-	}
+  .btn {
+    @apply mt-2 px-5 text-white rounded-full shadow-md cursor-pointer focus:ring-4 text-lg;
   }
 
-/************ Form controls ************/
+  .btn-primary {
+    @apply bg-rose hover:bg-rose text-navy hover:text-white;
+  }
 
+  .btn-danger {
+    @apply bg-red hover:text-rose;
+  }
+
+  .form-control {
+    @apply px-3 py-1 border-2 w-full border-rose rounded-md focus:ring-4;
+  }
+}
+
+/************ Form controls ************/
 
 /************ Checkboxes ************/
 .form-check input {
@@ -253,7 +249,7 @@ ul.single, ul.block {
 }
 
 .form-check label:before {
-  content:'';
+  content: "";
   -webkit-appearance: none;
   border: 2px solid var(--text-colour);
   padding: 10px;
@@ -265,7 +261,7 @@ ul.single, ul.block {
 }
 
 .form-check input:checked + label:after {
-  content: '';
+  content: "";
   display: block;
   position: absolute;
   top: 4px;
@@ -279,61 +275,60 @@ ul.single, ul.block {
 
 /************ Recipe cards ************/
 .card-image {
-	height: 140px;
-	overflow: hidden;
+  height: 140px;
+  overflow: hidden;
 }
 
 /************ Shopping ************/
 .recipe-image {
-	border-radius: 12px;
+  border-radius: 12px;
 }
 
 /************ Pagination ************/
 .pagination {
-	margin-top: 1rem;
+  margin-top: 1rem;
 }
 
-.page-link {    
-	border: none;
-	color: var(--text-colour);
+.page-link {
+  border: none;
+  color: var(--text-colour);
 }
 
 .page-link:hover {
-    color: var(--text-colour);
-    background-color: var(--main-bg-colour);
+  color: var(--text-colour);
+  background-color: var(--main-bg-colour);
 }
 
 .page-item.active .page-link {
-    background-color: var(--text-colour);
+  background-color: var(--text-colour);
 }
 
 #more {
-	text-align: center;
-	width: 40%;
-	margin:20px auto;
+  text-align: center;
+  width: 40%;
+  margin: 20px auto;
 }
 
 /************ Media queries ************/
-@media (min-width: 992px) 
-{
-	body {
-		font-size: 0.9rem;
-	}
-	ul#horizontal-list li {
-		height: 40px;
-	}
-	ul.single {
-		columns: 1;
-		-webkit-columns: 1;
-		-moz-columns: 1;
-	}
+@media (min-width: 992px) {
+  body {
+    font-size: 0.9rem;
+  }
+  ul#horizontal-list li {
+    height: 40px;
+  }
+  ul.single {
+    columns: 1;
+    -webkit-columns: 1;
+    -moz-columns: 1;
+  }
 }
 
 .drag-and-drop-ghost {
-	background-color: var(--navy) !important;
+  background-color: var(--navy) !important;
 }
 
 .recipe_item > .fas {
-	cursor: grab;
-	color: var(--list-colour);
+  cursor: grab;
+  color: var(--list-colour);
 }
