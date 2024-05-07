@@ -1,6 +1,7 @@
 *
 !recipes/
 !fly.toml
+!tailwind.config.js
 !manage.py
 !package.json
 !package-lock.json
