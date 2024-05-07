@@ -6,6 +6,10 @@
   "devDependencies": {
     "gulp": "^4.0.0",
     "gulp-livereload": "^4.0.1",
+    "husky": "^9.0.11",
+    "lint-staged": "^15.2.2",
+    "prettier": "^3.2.5",
+    "prettier-plugin-jinja-template": "^1.4.0",
     "tailwindcss": "^3.4.3"
   },
   "scripts": {
@@ -13,9 +17,13 @@
     "tailwind": "tailwindcss -i ./recipes/tailwind/tailwind.css -o ./recipes/static/recipes/style.css",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "prettier --check .",
-    "lint:fix": "prettier --write ."
+    "lint:fix": "prettier --write .",
+    "prepare": "husky install"
   },
   "author": "",
   "license": "",
-  "private": "true"
+  "private": "true",
+  "lint-staged": {
+    "*.{js,css,md,html,json,yml,yaml}": "prettier --write"
+  }
 }
