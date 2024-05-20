@@ -1,69 +1,41 @@
-# fly.toml app configuration file generated for stitches-recipes-db on 2023-08-12T15:18:12+01:00
+# fly.toml app configuration file generated for stitches-recipes-db-2 on 2024-05-14T22:04:16+01:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = "stitches-recipes-db"
-kill_signal = "SIGTERM"
-kill_timeout = 300
-processes = []
-services = []
+app = 'stitches-recipes-db-2'
+primary_region = 'lhr'
+
+[env]
+  FLY_RESTORED_FROM = 'vol_4yjwepo7eyjm2z94'
+  PRIMARY_REGION = 'lhr'
+
+[[mounts]]
+  source = 'pg_data'
+  destination = '/data'
 
 [checks]
   [checks.pg]
-    grace_period = "30s"
-    headers = []
-    interval = "15s"
-    method = "get"
-    path = "/flycheck/pg"
     port = 5500
-    protocol = "http"
-    restart_limit = 0
-    timeout = "10s"
-    tls_skip_verify = false
-    type = "http"
+    type = 'http'
+    interval = '15s'
+    timeout = '10s'
+    path = '/flycheck/pg'
+
   [checks.role]
-    grace_period = "30s"
-    headers = []
-    interval = "15s"
-    method = "get"
-    path = "/flycheck/role"
     port = 5500
-    protocol = "http"
-    restart_limit = 0
-    timeout = "10s"
-    tls_skip_verify = false
-    type = "http"
+    type = 'http'
+    interval = '15s'
+    timeout = '10s'
+    path = '/flycheck/role'
+
   [checks.vm]
-    grace_period = "1s"
-    headers = []
-    interval = "1m"
-    method = "get"
-    path = "/flycheck/vm"
     port = 5500
-    protocol = "http"
-    restart_limit = 0
-    timeout = "10s"
-    tls_skip_verify = false
-    type = "http"
+    type = 'http'
+    interval = '15s'
+    timeout = '10s'
+    path = '/flycheck/vm'
 
-[env]
-  PRIMARY_REGION = "lhr"
-
-[experimental]
-  auto_rollback = false
-  cmd = []
-  enable_consul = true
-  entrypoint = []
-  exec = []
-  private_network = true
-
-[metrics]
-  path = "/metrics"
+[[metrics]]
   port = 9187
-
-[[mounts]]
-  destination = "/data"
-  encrypted = false
-  processes = []
-  source = "pg_data"
+  path = '/metrics'
