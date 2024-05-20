@@ -25,7 +25,9 @@
                 </div>
                 <div class="px-2 pt-2">
                   <a href="/recipes/{{ recipe.id }}/detail">
-                    <p class="text-red text-center lowercase font-extrabold hover:text-navy">
+                    <p
+                      class="text-red text-center lowercase font-extrabold hover:text-navy"
+                    >
                       {{ recipe.title }}
                     </p>
                   </a>
@@ -87,7 +89,7 @@
             {% for nextWeekItem in next_week %}
               <li
                 class="recipe_item rounded-tl-xl rounded-br-xl border-red my-2 p-1 text-rose hover:bg-rose hover:text-navy"
-                data-recipe-id="{{ thisWeekItem.recipe.id }}"
+                data-recipe-id="{{ nextWeekItem.recipe.id }}"
               >
                 <i class="fas fa-paw mr-1"></i>
                 <a
