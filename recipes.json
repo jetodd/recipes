@@ -23334,6 +23334,33 @@
           "rice",
           "chinese"
       ]
+    },
+    {
+      "title": "Shallot garlic bread",
+      "image": "shallot-garlic-bread",
+      "url": "https://butterhand.com/shallot-garlic-bread/",
+      "ingredients": [
+          "1 loaf of bread",
+          "3 shallots",
+          "2 garlic bulbs",
+          "125g butter, softened",
+          "1 tbsp miso",
+          "½ tbsp chilli flakes",
+          "Cheese",
+          "Parsley, chopped",
+          "1-2 tbsp agave"
+      ],
+      "steps": [
+          "Chop the tops off of the garlic bulbs and shallots. Place on foil and drizzle with olive oil. Season with salt and pepper.",
+          "Fold up the foil and bake at 180°C for 1hr. Leave to cool.",
+          "In a bowl, squeeze out the garlic and shallots. Add butter, miso, chilli flakes, salt and pepper. Mix well until combined.",
+          "Make slits in the bread and add the mixture into them. Top with cheese and grill at 180°C or until golden brown.",
+          "Once golden and crunchy, top with parsley and agave. Slice to serve."
+      ],
+      "tags": [
+          "sides",
+          "bread"
+      ]
     }
   ]
 }
