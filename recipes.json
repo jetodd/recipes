@@ -23290,6 +23290,50 @@
             "rice",
             "bowl"
         ]
+    },
+    {
+      "title": "Black pepper tofu rice",
+      "image": "black-pepper-tofu-rice",
+      "url": "https://daigasikfaan.co/hong-kong-black-pepper-chicken-rice/",
+      "ingredients": [
+          "1 large block tofu",
+          "2 tbsp light soy sauce",
+          "2 tbsp Shaoxing cooking wine",
+          "1 tbsp oyster sauce",
+          "2 tsp cornstarch",
+          "2 tsp sesame oil",
+          "½ tsp sugar",
+          "White pepper",
+          "Salt",
+          "4 garlic cloves, minced",
+          "3 shallots, diced",
+          "1 red onion, diced",
+          "2 tbsp plain flour + 2 tbsp oil",
+          "1 tbsp tomato paste",
+          "1 tbsp light soy sauce",
+          "2 tsp Worcestershire sauce",
+          "1 tsp dark soy sauce",
+          "1 tsp sugar",
+          "2 tsp ground black peppercorns",
+          "2 cups chicken stock",
+          "1 onion, roughly chopped",
+          "1 bell pepper, diced",
+          "Rice"
+      ],
+      "steps": [
+        "Drain and press the tofu. Mix ingredients from soy sauce to salt and marinate tofu in it for at least 30 minutes.",
+        "Heat pan over medium heat. Add neutral oil and once hot add the tofu in a single layer.",
+        "Cook until bottom is golden brown then flip and cook until both sides are golden brown. Set aside.",
+        "In the same pan cook bell pepper until starting to soften then add onion and cook until softened. Set aside.",
+        "In a saucepan sauté garlic and shallots until softened. Add onion and cook until translucent. Stir in black pepper.",
+        "Add a bit more oil, then add plain flour and whisk everything until it forms a roux. Stir in tomato paste and cook briefly.",
+        "Add stock, soy sauces, sugar and worcestershire sauce. Cook whilst stirring until sauce thickens.",
+        "Serve tofu, vegetables and sauce over rice. Garnish with an extra sprinkle of black pepper."
+      ],
+      "tags": [
+          "rice",
+          "chinese"
+      ]
     }
   ]
 }
