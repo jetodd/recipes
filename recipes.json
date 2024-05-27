@@ -23361,6 +23361,74 @@
           "sides",
           "bread"
       ]
+    },
+    {
+      "title": "Spiced veggie gyros",
+      "image": "spiced-veggie-gyros",
+      "url": "https://www.mob.co.uk/recipes/spiced-veggie-gyros",
+      "ingredients": [
+        "2 tsp garam masala",
+          "2 tsp cayenne",
+          "240g tinned chickpeas",
+          "1 red onion",
+          "2 courgettes",
+          "2 bell peppers",
+          "1 cauliflower",
+          "1 bulb garlic",
+          "1 cucumber, grated",
+          "1 clove garlic, grated",
+          "25g mint, finely chopped",
+          "Juice of 1 lemon",
+          "400g yoghurt",
+          "30g pomegranate seeds",
+          "4 pitta breads"
+      ],
+      "steps": [
+          "Preheat oven to 180°C.",
+          "Chop the courgettes, red onion and peppers into bite-size pieces. Break the cauliflower into florets. Peel the garlic.",
+          "Place on a baking tray. Pour in a tin of chickpeas with some of the starchy water.",
+          "Mix with olive oil, cayenne, garam masala, salt and pepper. Place in oven for 30 minutes.",
+          "Meanwhile add yogurt to a bowl. Add mint, lemon juice, cucumber and garlic. Mix until combined then season to taste.",
+          "Warm the pitta. Load it with vegetables, tzatziki and pomegranate seeds."
+      ],
+      "tags": [
+          "bread"
+      ]
+    },
+    {
+      "title": "Spicy chipotle burger",
+      "image": "spicy-chipotle-burger",
+      "url": "https://www.mob.co.uk/recipes/spicy-chipotle-burger",
+      "ingredients": [
+          "2 red onions, thinly sliced",
+          "4 tbsp cornflour",
+          "4 tsp cumin",
+          "1 avocado, mashed",
+          "½ mango, diced",
+          "½ red onion, finely chopped",
+          "1 green chilli, finely chopped",
+          "15g coriander, chopped",
+          "½ lime",
+          "4 tbsp chipotle paste",
+          "2 tsp garlic powder",
+          "1 tsp smoked paprika",
+          "4 burger buns",
+          "4 burger patties"
+      ],
+      "steps": [
+          "Add red onions to a bowl. Add the cornflour and ground cumin and toss to seperate the onion and coat.",
+          "Shake off excess cornflour then airfry the onion until golden brown and crispy. Season with salt.",
+          "In a bowl mix the avocado, mango, red onion, green chilli and coriander. Squeeze over lime juice.",
+          "Combine the chipotle paste, garlic powder and smoked paprika vegetable oil and a pinch of salt and pepper.",
+          "Heat a non-stick frying pan over medium heat. Toast the buns then set aside.",
+          "Brush the burger patties with a little vegetable oil. Heat the same pan and add the patties and cook for 2 minutes.",
+          "Flip and spoon a third of the chipotle sauce over the burgers. Cook for a further 2 mins.",
+          "Flip again, spoon another third of the chipotle sauce over the burgers, and cook for a further 2 mins.",
+          "Flip one last time, spooning the remaining chipotle sauce over the burgers, and cook for a final 2 mins."
+      ],
+      "tags": [
+          "burger"
+      ]
     }
   ]
 }
