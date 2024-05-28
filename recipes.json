@@ -23429,6 +23429,39 @@
       "tags": [
           "burger"
       ]
-    }
+    },
+    {
+      "title": "Harissa ragu",
+      "image": "harissa-ragu",
+      "url": "https://www.mob.co.uk/recipes/vegan-harissa-ragu",
+      "ingredients": [
+          "1 onion",
+          "1 carrot",
+          "2 sticks celery",
+          "6 cloves garlic",
+          "1kg mushrooms, roughly chopped",
+          "250g cooked lentils",
+          "150g rose harissa paste",
+          "800g chopped tomatoes",
+          "3 tbsp tomato paste",
+          "1 stock cube, crumbled",
+          "½ cup red wine",
+          "3 sprigs thyme",
+          "2 bay leaves",
+          "500g pasta",
+          "15g parsley"
+      ],
+      "steps": [
+          "Pulse the onion, carrot, celery and garlic in a food processor until roughly chopped for the soffritto.",
+          "Add a glug of olive oil to a large pot. Add soffritto and season with salt. Cook until softened.",
+          "Add harissa paste to the pot and cook for a few minutes.",
+          "Then add the mushrooms and lentils and cook until the water has evaporated from the mushrooms.",
+          "Add chopped tomatoes, tomato paste, wine, stock cube and herbs. Simmer on medium low for 30 minutes.",
+          "Cook your pasta and add this to the sauce with 200ml of pasta water, tossing until it is totally coated."
+      ],
+      "tags": [
+          "pasta"
+      ]
+    } 
   ]
 }
