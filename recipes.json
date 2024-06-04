@@ -23462,6 +23462,37 @@
       "tags": [
           "pasta"
       ]
-    } 
+    },
+    {
+      "title": "Garlicky beans and sausages",
+      "image": "garlicky-beans-and-sausages",
+      "url": "https://www.mob.co.uk/recipes/garlic-beans-quorn-sausages",
+      "ingredients": [
+          "12 sausages",
+          "1 lemon, zest and juice",
+          "5g oregano, leaves only",
+          "25g parsley, finely chopped",
+          "2 shallots, thinly sliced",
+          "1 bulb garlic, thinly sliced",
+          "500g white beans, drained",
+          "150g spinach",
+          "60g croutons",
+          "1 lemon",
+          "Chilli flakes",
+          "Chives"
+      ],
+      "steps": [
+        "Preheat the oven to 180°C.",
+        "In a bowl add zest of half the lemon. Add the oregano and parsley and mix together.",
+        "Add ¼ cup olive oil and squeeze in the lemon juice. Season with salt and pepper, mix and set aside.",
+        "Add the sausages to a tray and drizzle with oil, toss to coat. Roast in the oven until golden and cooked through.",
+        "Add olive oil to a frying pan with the shallots and garlic. Put on medium heat and cook until lightly golden.",
+        "Add the beans and spinach, cook until wilted. Remove from heat. Season with salt, pepper and lemon juice.",
+        "Serve the beans into bowls, top with the sausages, some salmoriglio, crushed croutons and chilli flakes."
+      ],
+      "tags": [
+          "beans"
+      ]
+    }
   ]
 }
