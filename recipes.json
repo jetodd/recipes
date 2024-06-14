@@ -23700,6 +23700,41 @@
           "weekend",
           "taco"
       ]
+    },
+    {
+      "title": "Mushroom and leek pie",
+      "image": "mushroom-and-leek-pie",
+      "url": "https://www.sainsburysmagazine.co.uk/recipes/mains/one-pan-mushroom-and-leek-pie",
+      "ingredients": [
+        "600g mushrooms, roughly sliced",
+        "2 leeks, sliced",
+        "2 shallots, chopped",
+        "6 garlic cloves, crushed",
+        "2 sprigs rosemary, chopped",
+        "1 sprig thyme, chopped",
+        "150g young spinach",
+        "2 tbsp vegan butter",
+        "2 tbsp plain flour",
+        "400ml oat milk",
+        "½ tsp ground nutmeg",
+        "1 ½ tbsp wholegrain mustard",
+        "½ tbsp light soy sauce",
+        "1 vegetable stock cube",
+        "4 sheets of filo pastry",
+        "½ tbsp sesame seeds"
+      ],
+      "steps": [
+        "Add olive oil to a large pan on medium-high heat. Fry mushrooms until there is no moisture left.",
+        "Add the leeks, shallots, garlic, rosemary, thyme and season. Turn the heat down slightly and cook until softened.",
+        "Add the spinach and cook until wilted then transfer to a bowl. Preheat the oven to 180°C.",
+        "Wipe the pan. Then pop back on medium heat and melt the butter. Add the flour, stirring until combined and cook for 2 minutes.",
+        "Gradually pour in the oat milk. Add the nutmeg, mustard, soy sauce and crumbled stock cube. Simmer until slightly thickened.",
+        "In an oven safe dish add the mushroom mixture and sauce and stir. Cover the pie with the filo sheets.",
+        "Brush with oil then sprinkle over the sesame seeds. Bake in the oven for 15-20 minutes or until golden and crisp."
+      ],
+      "tags": [
+          "pie"
+      ]
     }
   ]
 }
