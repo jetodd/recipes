@@ -22974,7 +22974,7 @@
         "Mash the avocado with a fork. Stir in the lime juice and coriander. Season to taste.",
         "Assemble tacos by spreading with mashed avocado. Top with salsa, tofu and red onion."
       ],
-      "tags": ["taco", "tofu", "mexican"]
+      "tags": ["taco", "tofu"]
     },
     {
       "title": "Miso glazed sweet potato",
@@ -23831,8 +23831,39 @@
           "Add spring onion greens and stir."
       ],
       "tags": [
-          "rice",
-          "chinese"
+          "rice", "chinese"
+      ]
+    },
+    {
+      "title": "Creamy tomato orzo",
+      "image": "creamy-tomato-orzo",
+      "url": "https://ginabnutrition.com/dinner/one-pot-creamy-tomato-orzo",
+      "ingredients": [
+        "330g cherry tomatoes",
+        "1/2 onion, diced",
+        "4 cloves garlic, minced",
+        "3 tbsp tomato paste",
+        "2 ½ tsp italian herbs",
+        "½ tsp chilli flakes",
+        "1 cup orzo",
+        "1 tin chickpeas, drained and rinsed",
+        "800ml vegetable stock",
+        "2 tbsp olive oil",
+        "4 tbsp vegan cream",
+        "1 handful basil, chopped",
+        "2 large handfuls spinach",
+        "Vegan parmesan"
+      ],
+      "steps": [
+        "Preheat the oven to 200C.",
+        "Add ingredients from cherry tomatoes to olive oil to a large oven proof dish and mix well.",
+        "Cover with tin foil and place in the oven to bake for 30 minutes, stirring half-way through.",
+        "Remove from the oven and add any salt and pepper to taste.",
+        "Add in the chopped basil and stir in the baby spinach until it wilts.",
+        "Serve with extra virgin olive oil, lots of parmesan and more fresh basil. Enjoy!"
+      ],
+      "tags": [
+          "pasta", "orzo"
       ]
     }
   ]
