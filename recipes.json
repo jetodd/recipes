@@ -1352,33 +1352,35 @@
       "title": "Green curry",
       "url": "https://tasty.co/recipe/thai-green-curry-with-chicken-by-chef-fern",
       "ingredients": [
-        "1 block tofu",
-        "1 to 2 carrots",
-        "1 courgette",
-        "Mushrooms",
-        "6 cloves garlic",
-        "1 inch ginger",
-        "Chillies",
-        "2 tbsp curry paste",
-        "1 tbsp lime juice",
-        "2 tbsp sugar",
-        "1 can bamboo shoots",
+        "1 tbsp cornstarch",
+        "½ tsp white pepper",
+        "1 tbsp vegan oyster sauce",
+        "1 block tofu, pressed",
         "5 kaffir lime leaves",
-        "1 red pepper",
-        "1 green pepper",
-        "2 cans coconut milk",
+        "200g curry paste",
+        "600ml coconut milk",
+        "1 tsp vegan fish sauce",
+        "1 tbsp sugar",
+        "250ml vegan chicken stock",
+        "1 carrot, thinly sliced",
+        "150g green beans",
+        "1 red pepper, chopped",
+        "1 green pepper, chopped",
+        "1 head broccoli, cut into florets",
         "1 cup thai basil",
         "Rice"
       ],
       "steps": [
-        "Drain and press the tofu.",
-        "Add oil, green curry paste and a splash of coconut milk to the wok, stirring to form a paste.",
-        "Cook the rice.",
-        "In the frying pan cook the tofu until golden.",
-        "Add the ginger, garlic, carrot and chilli, cook a little. Add bell peppers, then courgette the rest of the coconut milk and the mushrooms.",
-        "Add lime juice, kaffir lime leaves and sugar.",
-        "Add the tofu and bamboo shoots then increase the heat to medium high and simmer for 2-3 minutes.",
-        "Turn off heat and mix in the Thai basil."
+        "Prepare marinade by whisking cornstarch, oyster sauce, 1 tablespoon water, and white pepper in a bowl.",
+        "Cut the tofu into slices and coat the slices in the marinade.",
+        "Heat a pan and add oil. Pan-fry the tofu in a single layer until golden brown, then transfer to a plate.",
+        "For the curry, fry the lime leaves in hot oil in the wok for a minute. Keep stirring and don’t let them burn.",
+        "Add the curry paste, stirring briskly until it starts to split into oil and smells fragrant, about 1-2 minutes.",
+        "Add half the coconut milk and keep stirring to prevent it from sticking to the bottom of the pan and burning.",
+        "Reduce the sauce by a third. Add fish sauce, sugar, the remaining coconut milk and the stock, and bring to a boil.",
+        "Add the tofu to the wok and lower to a simmer. Add the carrots and beans and cook for a few minutes.",
+        "Add the bell pepper and broccoli and cook until tender then turn off the heat.",
+        "Add thai basil leaves."
       ],
       "tags": ["Vegan", "Thai", "Curry"]
     },
@@ -1423,12 +1425,13 @@
       "ingredients": [
         "2 tsp coriander seeds",
         "1 tsp cumin seeds",
-        "1 tsp white peppercorn",
-        "3 serranos, thinly sliced",
+        "1 tsp black peppercorns",
+        "3 serranos, sliced",
         "9 Thai green chilies, sliced",
-        "2 shallots, finely chopped",
-        "1 lemongrass stalk, rough chopped",
-        "2 inches Galangal, finely chopped",
+        "2 shallots, chopped",
+        "2 lemongrass stalks, chopped",
+        "2 inches galangal, chopped",
+        "1 inch tumeric, chopped",
         "4 kaffir lime leaves",
         "8 cloves garlic",
         "4 sprigs coriander",
@@ -21110,6 +21113,7 @@
         "50g walnuts, finely chopped",
         "5 sage leaves, finely chopped",
         "4 sprigs thyme, leaves picked",
+        "1 sprig rosemary, chopped",
         "320g sheet puff pastry"
       ],
       "steps": [
@@ -21117,7 +21121,7 @@
         "Combine the butternut squash, olive oil and a sprinkle of salt and black pepper on a baking tray.",
         "Give everything a good mix, then roast for 35-40 minutes, or until soft.",
         "Meanwhile heat oil in the wok over medium. Once hot add the mushrooms and onion. Cook until soft.",
-        "Add the chestnuts, walnuts, sage and thyme, season and cook for a further 5 minutes.",
+        "Add the chestnuts, walnuts, sage, rosemary and thyme, season and cook for a further 5 minutes.",
         "Remove the pan from the heat and add the roasted squash. Mash into a chunky paste. Season to taste.",
         "Allow the mixture to cool completely.",
         "Unroll the puff pastry sheet and spoon the filling into a tight log over 1/3 of the width.",
@@ -23840,7 +23844,7 @@
       "url": "https://ginabnutrition.com/dinner/one-pot-creamy-tomato-orzo",
       "ingredients": [
         "330g cherry tomatoes",
-        "1/2 onion, diced",
+        "½ onion, diced",
         "4 cloves garlic, minced",
         "3 tbsp tomato paste",
         "2 ½ tsp italian herbs",
@@ -23855,7 +23859,7 @@
         "Vegan parmesan"
       ],
       "steps": [
-        "Preheat the oven to 200C.",
+        "Preheat the oven to 200°C.",
         "Add ingredients from cherry tomatoes to olive oil to a large oven proof dish and mix well.",
         "Cover with tin foil and place in the oven to bake for 30 minutes, stirring half-way through.",
         "Remove from the oven and add any salt and pepper to taste.",
@@ -23900,7 +23904,37 @@
         "Add cream, a ladle of pasta water, the orzo and parmesan. Toss to coat and season with salt and pepper."
       ],
       "tags": [
-          
+          "orzo"
+      ]
+    },
+    {
+      "title": "Kumara, peanut and chilli salad",
+      "image": "kumara-peanut-chilli-salad",
+      "url": "https://www.theguardian.com/food/article/2024/jul/18/quick-easy-roast-sweet-potato-salad-recipe-peanut-chilli-georgina-hayden",
+      "ingredients": [
+        "3 kumara, peeled",
+        "40g peanuts",
+        "1 ½ tsp brown sugar",
+        "100ml coconut milk",
+        "2 tbsp vegan fish sauce",
+        "Juice of 1 lime",
+        "½ garlic clove, grated",
+        "1 bunch coriander, roughly chopped",
+       " ½ bunch mint, roughly chopped",
+        "1 bunch spring onions, finely sliced",
+        "1 green chilli, finely chopped"
+      ],
+      "steps": [  
+          "Heat the oven to 200°C.",
+          "Cut the kumara into 1½cm thick rounds and put in a large roasting tray in a single layer.",
+          "Season generously, then pour over the vegetable oil and toss to coat.",
+          "Roast for 20 minutes, until the potatoes are golden, starting to brown at the edges and cooked through.",
+          "Meanwhile in a bowl whisk the coconut milk, fish sauce, lime juice, remaining sugar and garlic.",
+          "Scatter peanuts and a teaspoon of sugar over the kumara, then roast for five minutes more. Leave to cool.",
+          "Once cool add kumara to a bowl along with herbs and chilli and toss. Drizzle over dressing and toss again."
+      ],
+      "tags": [
+          "kumara"
       ]
     }
   ]
