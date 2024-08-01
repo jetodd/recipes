@@ -24067,7 +24067,46 @@
           "Mix the spring onions, cucumber and coriander together with the lime juice and a good pinch of salt.",
           "Top eggplant with the salad, then drizzle over some chilli oil and serve with extra lime wedges alongside."
       ],
-      "tags": ["eggplant", "asian"]
+      "tags": ["eggplant", "asian", "weekend"]
+    },
+    {
+      "title": "Oyster mushroom tacos with chipotle crema",
+      "image": "oyster-mushroom-taco-chipotle-crema",
+      "url": "https://www.ixta.world/recipes/blog-post-title-one-6jttk-f4szd-j9hbl-5b22r-d545k",
+      "ingredients": [
+        "4 shallots, thinly sliced",
+        "100g lemon juice",
+        "1 tsp sugar",
+        "½ tsp salt",
+        "100g mayo",
+        "40g chipotle paste",
+        "10g maple syrup",
+        "8g lime zest",
+        "4 garlic cloves",
+        "4 tbsp soy sauce",
+        "3 tbsp maple syrup",
+        "8g achiote seeds",
+        "10g chipotle paste",
+        "4g black pepper",
+        "800g oyster mushrooms, torn into strips",
+        "80g spring onion greens, julienned",
+        "80g tomato, finely chopped",
+        "20g coriander",
+        "1 lime, cut into wedges",
+        "8 soft corn tortillas"
+      ],
+      "steps": [
+          "Combine ingredients from shallots to salt in a container and leave to pickle overnight, refrigerated.",
+          "Mix ingredients from mayo to lime zest for the crema and set aside.",
+          "Preheat the oven to 220°C fan.",
+          "In the blender, blitz ingredient from garlic to black pepper until smooth.",
+          "Add to a bowl with the mushrooms and mix well. Don’t leave too long before roasting or they’ll get soggy.",
+          "Spread the mushrooms out on a lined tray and roast for about 17 mins, or until golden-brown and crispy around the edges.",
+          "Mix the spring onions, tomatoes and coriander with a good squeeze of lime and a pinch of salt.",
+          "Toast the corn tortillas in a hot pan that’s lightly greased with oil.",
+          "Spoon some crema on a tortilla then top with mushrooms. Finish with the salsa, pickled shallots and a squeeze of lime."
+      ],
+      "tags": ["shrooms"]
     }
   ]
 }
