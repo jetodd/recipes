@@ -24192,6 +24192,41 @@
         "Garnish with parsley and the crushed peanuts."
       ],
       "tags": ["sudanese", "bread"]
+    },
+    {
+      "title": "Black eyed peas with chard",
+      "image": "black-eyed-peas-with-chard",
+      "url": "https://www.epicurious.com/recipes/food/views/black-eyed-peas-with-chard-and-green-herb-smash",
+      "ingredients": [
+        "1 leek, cleaned and sliced",
+        "4 cloves garlic",
+        "½ chilli powder",
+        "1 can black-eyed peas",
+        "½ stock cube",
+        "¼ tsp nutmeg",
+        "½ lemon",
+        "200g chard",
+        "1 large bunch coriander",
+        "2 green chilies",
+        "2 cloves garlic",
+        "30g walnuts",
+        "1 tbsp maple syrup",
+        "1 tbsp olive oil",
+        "Juice of ½ lemon",
+        "Rice"
+      ],
+      "steps": [
+        "Heat the wok over medium with some olive oil. Once hot add the leek and cook until softened.",
+        "Add the garlic chilli powder and cook until fragrant.",
+        "Add the black-eyed peas with their liquid, the stock, and 200ml hot water and bring to a simmer.",
+        "Add the nutmeg and juice of ½ lemon. Simmer for ten minutes.",
+        "Meanwhile strip the leaves from the chard. Finely slice the stalks and add them to the pan. Shred the leaves and set aside.",
+        "Put ingredients from coriander to lemon juice in the blender and blend until it forms a smooth paste. Season with salt and pepper.",
+        "Once the peas are soft and liquid has reduced stir in the chard leaves.",
+        "Season with salt and pepper and cook for a few minutes until leaves are wilted.",
+        "Serve in bowls over rice and top with the herb mix."
+      ],
+      "tags": ["rice"]
     }
   ]
 }
