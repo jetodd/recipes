@@ -24261,7 +24261,31 @@
         "Meanwhile mix ingredients from yogurt to olive oil for the yogurt sauce.",
         "Serve kebabs on flatbread and garnish with parsley, pomegranate seeds & yogurt sauce."
       ],
-      "tags": []
+      "tags": ["bread"]
+    },
+    {
+      "title": "Peach iced tea",
+      "image": "peach-iced-tea",
+      "url": "https://www.ohhowcivilized.com/peach-iced-tea/",
+      "ingredients": [
+        "4 cups ice",
+        "2 cups water",
+        "2 english breakfast teabags",
+        "1 earl grey teabag",
+        "1 ½ cups water",
+        "1 ½ cups diced peaches",
+        "2 tbsp white sugar",
+        "Sliced peaches",
+        "Mint"
+      ],
+      "steps": [
+        "In a large heatproof bowl add the teabags to two cups of boiling water and let steep. Set aside to cool.",
+        "Add water, diced peaches and sugar to a pot. Bring to a boil then lower heat and simmer for ten minutes.",
+        "Use the hand blender to blend the peaches until smooth. Strain the peach syrup through a sieve.",
+        "Leave the syrup to cool. Once cool remove teabags from tea and combine the syrup with the tea.",
+        "Pour over ice and garnish with sliced peach wedges and mint."
+      ],
+      "tags": ["drink", "sweet", "cold", "tea"]
     }
   ]
 }
