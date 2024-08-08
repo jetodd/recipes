@@ -23953,7 +23953,7 @@
           "To make the marinade, blend the garlic, ginger, and green chiles with a splash of water in a blender.",
           "In a large bowl add the paste, yogurt, chile powder, coriander, turmeric, mustard oil, fenugreek and sugar, then season to taste.",
           "Set aside half the marinade. Add the eggplant, red onion and bell pepper to the marinade in the large mixing bowl. Stir to coat.",
-          "Meanwhile, tip the reserved marinadeinto a pan. Cook, stirring continuously until it thickens and changes colour. Set aside.",
+          "Meanwhile, tip the reserved marinade into a pan. Cook, stirring continuously until it thickens and changes colour. Set aside.",
           "Thread the eggplant, peppers and onion onto wooden skewers.",
           "Heat the griddle with some butter, add the skewers. Cook until lightly charred on each side, basting with butter.",
           "Serve with naan and the remaining marinade smothered over the kabobs, add a pinch of garam masala."
@@ -24286,6 +24286,77 @@
         "Pour over ice and garnish with sliced peach wedges and mint."
       ],
       "tags": ["drink", "sweet", "cold", "tea"]
+    },
+    {
+      "title": "Hoisin 'duck' wrap",
+      "image": "hoisin-duck-wrap",
+      "url": "https://www.instagram.com/p/C9-FMxZqtHl/",
+      "ingredients": [
+        "½ a cucumber, julienned",
+        "¼ cup apple cider vinegar",
+        "¼ cup water",
+        "½ tbsp sugar",
+        "¼ tsp salt",
+        "300g oyster mushrooms",
+        "4 tbsp cornstarch",
+        "1 tsp five spice",
+        "½ tsp garlic granules",
+        "½ tsp onion granules",
+        "½ tsp salt",
+        "½ cup hoisin sauce",
+        "4 flatbreads",
+        "Sriracha mayo",
+        "Spinach, shredded",
+        "Spring onion, thinly sliced",
+        "Sesame seeds"
+      ],
+      "steps": [
+        "Add the cucumber, sugar, salt, vinegar & water to a dish, give it a good mix then set aside to pickle.",
+        "Tear the mushrooms into strips then add to a bowl with the cornstarch, five spice, garlic and onion granules & salt then mix to coat.",
+        "Fry in the air fryer until golden brown and extra crispy. Put on a paper towel lined plate to soak up excess oil.",
+        "Add mushrooms to a bowl along with the hoisin sauce & toss to coat evenly.",
+        "Assemble your wraps with sriracha mayo, spinach, hoisin mushrooms, pickled cucumber, spring onion & sesame seeds."
+      ],
+      "tags": ["asian", "chinese", "bread"]
+    },
+    {
+      "title": "Mushroom asada tacos",
+      "image": "mushroom-asada-tacos",
+      "url": "https://www.eatfigsnotpigs.com/mushroom-asada-tacos/",
+      "ingredients": [
+        "1 cup chopped coriander",
+        "½ cup orange juice",
+        "6 tbsp soy sauce",
+        "¼ cup lime juice",
+        "¼ cup olive oil",
+        "6 cloves minced garlic",
+        "2 tbap chipotle paste",
+        "2 tsp cumin",
+        "2 tsp oregano",
+        "1 tsp salt",
+        "800g portobello mushrooms, thinly sliced",
+        "4 tomatoes, finely chopped",
+        "½ red onion, finely chopped",
+        "1 garlic clove, minced",
+        "½ lime, juiced",
+        "½ bunch coriander, chopped",
+        "8 tortillas",
+        "Minced white onion",
+        "Roughly chopped coriander",
+        "Lime wedges"
+              ],
+      "steps": [
+          "Place the coriander, orange juice, soy sauce, lime juice, olive oil, chipotles, cumin, and oregano in a large bowl and mix to combine.",
+          "Add the mushrooms and gently toss until they’re fully coated. Set in the refrigerate to marinate for at least 2 hours.",
+          "Combine the tomato, red onion, garlic, lime juice and coriander in a bowl. Stir, then refrigerate until ready to serve.",
+          "Drain the mushrooms, reserving 1 cup of the marinade.",
+          "Add oil to a large pan over medium-high heat. Once hot, place the mushrooms in an even layer and cook until most of the moisture is cooked out.",
+          "While the mushrooms are sautéing, heat the tacos on the griddle.",
+          "Add ½ of the reserved marinade to the mushrooms and cook, stirring, until most of the marinade has evaporated.",
+          "Add remaining maq to the pan and cook, stirring often until they start to slightly caramelize.",
+          "Place a few spoonfuls of mushrooms on a tortilla and top with white onion, coriander and salsa. Serve with lime wedges."
+      ],
+      "tags": ["tacos", "shrooms"]
     }
   ]
 }
