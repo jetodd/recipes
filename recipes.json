@@ -24357,6 +24357,33 @@
           "Place a few spoonfuls of mushrooms on a tortilla and top with white onion, coriander and salsa. Serve with lime wedges."
       ],
       "tags": ["tacos", "shrooms"]
+    },
+    {
+      "title": "Scarpaccia",
+      "image": "scarpaccia",
+      "url": "https://plantyou.com/scarpaccia-zucchini-tart/",
+      "ingredients": [
+        "3 courgettes, thinly sliced",
+        "½ red onion, thinly sliced",
+        "1 tsp salt",
+        "½ tsp rosemary",
+        "2 tbsp nutritional yeast",
+        "1 cup all-purpose flour",
+        "¼ cup cornmeal",
+        "3 tbsp olive oil",
+        "½ - ¾ cup water"
+      ],
+      "steps": [
+          "Place the zucchini and red onion in a bowl, and add the salt. Disperse evenly.",
+          "Place a weight over top with a can in it to help the zucchini and onion release liquid. Allow to sit for 2 hours.",
+          "Preheat the oven to 200°C and spray a small baking sheet with oil.",
+          "Transfer courgette and onion to a tea towel and squeeze out as much liquid as possible into a bowl. Set aside.",
+          "Add ingredients from flour to olive oil to the liquid and gently mix until a batter forms adding additional water as needed to thin.",
+          "Add the vegetables into the batter and mix until evenly dispersed.",
+          "Transfer the batter to the oiled baking dish and spread so it is in an even layer.",
+          "Spray the top with more oil, then place in the oven for 35 minutes, until lightly crisped."
+      ],
+      "tags": [ "sides", "italian" ]
     }
   ]
 }
