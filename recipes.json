@@ -24418,7 +24418,35 @@
           "Heat the sauce in the pan for a minute, stirring, until bubbling, then add the beans, until hot and take off the heat.",
           "ently stir in the tofu and herbs, divide between four shallow bowls and serve with lime wedges."
       ],
-      "tags": []
+      "tags": [ "rice", "libyan" ]
+    },
+    {
+      "title": "Paratha",
+      "image": "paratha",
+      "url": "https://theguardian.com/food/2022/jun/19/red-fish-curry-tomato-rasam-prawn-curry-sri-lankan-recipes-rambutan",
+      "ingredients": [
+        "240g plain white flour",
+        "½ tsp salt",
+        "½ tsp granulated sugar",
+        "80ml vegetable oil",
+        "70ml water"
+      ],
+      "steps": [
+        "Put all ingredients in a mixing bowl. Using your hands, bring it together to form a dough.",
+        "Knead for 5 minutes on an oiled surface. It should be smooth and little sticky. If too crumbly add a tablespoon each of water and oil.",
+        "Leave the dough in the bowl covered with a damp clean tea towel to rest at room temperature for 2 hours.",
+        "Divide and shape the dough into 4–6 balls and rest for a further 5 minutes under the damp tea towel.",
+        "Drip a little oil on to a rolling pin and lightly oil your work surface. Roll out each ball into a disc, 12–15cm in diameter. Sprinkle with a little oil.",
+        "Use your fingers to lift and gently stretch out the dough until it is 1mm or so thin.",
+        "Pinch together a corner between one thumb and index finger, and an opposite corner in your other hand, and pull the two ends into a single line, so you get a kind of pleated effect.",
+        "Then curl the line of dough round to make a snail or pain au raisin shape. Repeat with all the dough discs.",
+        "Rest the snails for 5 minutes on a baking tray, covered in a damp clean tea towel.",
+        "When you’re ready to cook, roll out the dough snails with a rolling pin to make roughly 15cm circles.",
+        "Oil up a frying pan with a little drizzle of oil, and place over a high heat.",
+        "When hot, cook each paratha for about 1 minute on each side until nice and golden.",
+        "Then turn the heat right down and cook for 1 minute on each side on a low heat."
+      ],
+      "tags": [ "bread", "indian" ]
     }
   ]
 }
