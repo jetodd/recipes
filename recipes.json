@@ -24478,7 +24478,40 @@
           "When hot, add the curry leaves, which should crisp up, and mustard seeds, and cook until they splutter.",
           "Pour the whole lot, oil and all, on to your rasam and serve."
       ],
-      "tags": []
+      "tags": [ "soup", "side" ]
+    },
+    {
+      "title": "Roast celeriac with chive chilli oil",
+      "image": "roast-celeriac-chive-chilli-oil",
+      "url": "https://www.theguardian.com/food/2023/oct/28/meera-sodha-vegan-recipe-roast-celeriac-chive-chilli-oil",
+      "ingredients": [
+        "1 celeriac (750g)",
+        "2 tbsp rapeseed oil",
+        "¾ tsp fine sea salt",
+        "1 tbsp cornflour",
+        "75ml light soy sauce",
+        "4 tbsp crispy chilli in oil",
+        "3 tbsp black rice vinegar",
+        "50g salted roast peanuts, finely chopped",
+        "3 tbsp toasted sesame oil",
+        "2 tbsp rapeseed oil",
+        "4cm ginger, grated",
+        "4 garlic cloves, minced",
+        "50g chives, finely chopped",
+        "Rice"
+      ],
+      "steps": [
+          "Heat the oven to 180°C. Wash and scrub the celeriac. Cut off any hairy bits.",
+          "Put the celeriac on a sheet of foil large enough to wrap it in, rub all over with the oil and then the salt.",
+          "Wrap the celeriac in the foil, pop the parcel on an oven tray and bake for an hour and a half.",
+          "Meanwhile in a bowl combine the cornsstarch with 50ml water. Add the soy sauce, crispy chilli oil and black vinegar. Set aside.",
+          "In a dry pan toast the peanuts on medium heat stirring frequently, until golden brown. Set aside.",
+          "Pour the sesame oil and rapeseed oil into the pan and, once hot, add the ginger and garlic. Cook until fragrant.",
+          "Add half the chives, cook, stirring, for a minute. Then add the soy mixture, cook, stirring, for a minute, then take off the heat.",
+          "Unwrap the celeriac and put it on a board. Turn it upside down then cut into 1 ½ cm-thick slices.",
+          "Serve fanned out celeriac slices over rice, pour the sauce all over them and sprinkle with remining chives and chopped peanuts."
+      ],
+      "tags": [ "rice" ]
     }
   ]
 }
