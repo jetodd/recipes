@@ -24447,6 +24447,38 @@
         "Then turn the heat right down and cook for 1 minute on each side on a low heat."
       ],
       "tags": [ "bread", "indian" ]
+    },
+    {
+      "title": "Tomato rasam broth",
+      "image": "tomato-rasam-broth",
+      "url": "https://www.theguardian.com/food/2022/jun/19/red-fish-curry-tomato-rasam-prawn-curry-sri-lankan-recipes-rambutan",
+      "ingredients": [
+        "6 tbsp tamarind paste",
+        "2 tbsp coconut oil",
+        "200g tomatoes, roughly chopped",
+        "1 tsp salt",
+        "1 leek, sliced",
+        "Handful coriander, roughly chopped",
+        "3 tsp cumin seeds",
+        "2 tsp black peppercorns",
+        "3 dried red chillies",
+        "5 garlic cloves, halved",
+        "1 inch ginger, roughly chopped",
+        "2 tbsp coconut oil",
+        "10 fresh curry leaves",
+        "1 tsp mustard seeds"
+      ],
+      "steps": [
+          "In a small pan over medium heat add the cumin seeds, peppercorns, chillies, garlic and ginger. Heat, stirring occasionally for 1-2 minutes until fragrant.",
+          "Once cool, put all the ingredients in the food processor, and blitz to a coarse paste, adding a little water if necessary.",
+          "Heat the oil in a small saucepan, and when hot add the tomatoes. Saute for about 4 minutes, until they begin to soften.",
+          "Then add the tamarind paste, rasam spice mix, salt and leek. Simmer gently over a low heat for 4-5 minutes; it should be very fragrant.",
+          "Remove from the heat and pour into serving bowls. Add a couple of tablespoons of cold water, and stir in the coriander leaves.",
+          "Heat the oil in a small frying pan set over medium heat.",
+          "When hot, add the curry leaves, which should crisp up, and mustard seeds, and cook until they splutter.",
+          "Pour the whole lot, oil and all, on to your rasam and serve."
+      ],
+      "tags": []
     }
   ]
 }
