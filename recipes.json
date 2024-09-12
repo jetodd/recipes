@@ -24524,7 +24524,7 @@
         "Salt",
         "Juice of 1 lemon",
         "200ml white wine",
-        "1 tbsp caper brine",
+        "1 tbsp miso paste",
         "½  tsp fine sea salt",
         "½ sheet nori, ground",
         "½ tsp rice vinegar",
@@ -24539,7 +24539,7 @@
       "steps": [
         "Press the tofu for at least 30 minutes. Once done pat dry drain the liquid and pat the tofu dry with a paper towel.",
         "Slice each block into three rectangles. Place a chopstick on either side of each block and score in a diamond pattern.",
-        "Mix together the wine, caper juice, nori, rice vinegar, fish sauce and salt. Add the tofu, turning to cover. Set aside to marinate, flipping occasionally.",
+        "Mix together the wine, miso paste, nori, rice vinegar, fish sauce and salt. Add the tofu, turning to cover. Set aside to marinate, flipping occasionally.",
         "Bring a large pan of water to the boil. Cut the potatoes into 1cm thick chips, add to the pan and bring it back to the boil, then cook for 5 minutes.",
         "Drain the chips, spread them out over a clean tea towel and leave to dry.",
         "In a large bowl add the flour, cornflour, salt and pepper and mix. Slowly pour in the ale so no lumps form. Mix until smooth then set aside.",
@@ -24551,6 +24551,46 @@
         "Repeat the process again so that all the tofu blocks are double-dipped and fried in 2 coats of batter."
       ],
       "tags": ["potatoes", "british", "tofu", "weekend"]
+    },
+    {
+      "title": "French onion skillet lasagna",
+      "image": "french-onion-skillet-lasagna",
+      "url": "https://www.veganricha.com/french-onion-skillet-lasagna",
+      "ingredients": [
+        "2 onions, thinly sliced",
+        "2 tbsp vegan butter",
+        "4 cloves garlic, minced",
+        "½ tsp dried thyme",
+        "¼ tsp salt",
+        "¼ tsp black pepper",
+        "1 ½ tbsp balsamic vinegar",
+        "1 cup mushrooms, thinly sliced",
+        "½ cup raw cashews",
+        "1 cup stock",
+        "2 tsp lemon juice",
+        "2 tbsp nooch",
+        "1 tsp italian seasoning",
+        "½ tsp salt",
+        "1 tsp miso",
+        "⅛ tsp black pepper",
+        "5 lasagna sheets, broken into pieces",
+        "2 cups spinach",
+        "2 cups broth",
+        "Red pepper flakes",
+        "Garlic bread"
+      ],
+      "steps": [
+        "Soak the cashews in hot water for at least 20 minutes.",
+        "Heat a skillet over medium and add the butter, once melted add the onion and cook until starting to look translucent.",
+        "Add in the garlic, thyme, salt and pepper and continue to cook until onions turn a golden color.",
+        "Add the vinegar and mix. Cook until onions begins to caramelize. Remove ¾ of the mixture and set aside.",
+        "Add the mushrooms and mix. Continue to cook for a few minutes.",
+        "Blend ingredients from cashews to pepper until smooth. Add to the onion mixture.",
+        "Add the lasagna sheets and stock. Press down the sheets so they are submerged. Cover and cook until lasagna sheets are cooked, stirring occasionally.",
+        "Taste the mixture and season. Mix in the spinach and remove from heat, mix until spinach has wilted.",
+        "Top with remaining onion mixture and red pepper flakes. Serve with garlic bread."
+      ],
+      "tags": ["pasta"]
     }
   ]
 }
