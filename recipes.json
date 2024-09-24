@@ -24832,6 +24832,43 @@
         "If you'd like more sauce add a splash of oat milk, mix well and simmer."
       ],
       "tags": ["tofu", "chinese", "rice"]
+    },
+    {
+      "title": "Smashed cheeseburger tacos",
+      "image": "smashed-cheeseburger-tacos",
+      "url": "https://browngirlveganeats.com/viral-smashed-cheeseburger-tacos/",
+      "ingredients": [
+        "200g vegan mince",
+        "4 slices vegan cheese",
+        "1.5 cups shredded lettuce",
+        "¼ cup sliced pickles",
+        "4 tortilla wraps or corn tortillas",
+        "½ cup vegan mayo",
+        "1 tsp paprika",
+        "½ tsp garlic powder",
+        "½ tsp onion powder",
+        "1 tsp mustard",
+        "2 small diced pickles",
+        "1 tbsp pickle juice",
+        "1 tsp worchestershire sauce"
+      ],
+      "steps": [
+        "Divide the ground beef into 4 equal portions and roll them into balls.",
+        "Press each ball gently on a tortilla until fully spread across.",
+        "Add oil to a pan and cook patty side until the edges are crispy and the patty is cooked through.",
+        "Place a slice of cheese on the patty during the last minute of cooking to melt. Add a splash of water and cover.",
+        "Combine ingredients from mayo to worcestershire sauce for the burger sauce. Season with pepper.",
+        "Add shredded lettuce, pickles, and drizzle the burger sauce on the tacos."
+      ],
+      "tags": ["tacos"]
+    },
+    {
+      "title": "",
+      "image": "",
+      "url": "",
+      "ingredients": [],
+      "steps": [],
+      "tags": []
     }
   ]
 }
