@@ -24863,11 +24863,35 @@
       "tags": ["tacos"]
     },
     {
-      "title": "",
-      "image": "",
-      "url": "",
-      "ingredients": [],
-      "steps": [],
+      "title": "Caramelised coconut chicken (or tofu)",
+      "image": "caramelized-coconut-chicken",
+      "url": "https://www.mob.co.uk/recipes/caramelised-coconut-chicken",
+      "ingredients": [
+        "4 chicken thigh fillets",
+        "1 block tofu",
+        "160ml coconut cream",
+        "3 tbsp soy sauce",
+        "1 tbsp agave",
+        "4 garlic cloves, grated",
+        "2 limes",
+        "2 chillies",
+        "Fish sauce",
+        "15g coriander",
+        "1 mango, cut into matchsticks",
+        "350g tomatoes, diced",
+        "1 shallot, thinly sliced",
+        "Rice"
+      ],
+      "steps": [
+        "Drain and press the tofu. Once done pat dry and slice.",
+        "Pick the coriander leaves and thinly slice the stalks.",
+        "In a bowl mix the coconut cream, soy sauce, agave, garlic, coriander stalks. Season with fish sauce and pepper.",
+        "Divide the marinade into two. Add the chicken to one half and tofu to the other.",
+        "Heat the griddle on medium high heat. Once preheated, brush lightly with olive oil.",
+        "Place tofu on griddle and cook until starting to char. Flip and cook the other side, basting with the marinade.",
+        "Set tofu aside and repeat with the chicken.",
+        "In a bowl mix the coriander leaves, mango, tomatoes and shallot."
+      ],
       "tags": []
     }
   ]
