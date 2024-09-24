@@ -24607,7 +24607,7 @@
         "150g baby new potatoes",
         "2 onions, thinly sliced",
         "5 cloves garlic, minced",
-        "½inch ginger, minced",
+        "½ inch ginger, minced",
         "1 tsp salt",
         "1 bay leaf",
         "1 star anise",
@@ -24798,6 +24798,40 @@
         "Serve the cabbage with sauce and top with charred onions and garlic. Top with crispy curry leaves."
       ],
       "tags": ["indian"]
+    },
+    {
+      "title": "Salted egg yolk tofu",
+      "image": "salted-egg-yolk-tofu",
+      "url": "https://browngirlveganeats.com/vegan-salted-egg-yolk-tofu",
+      "ingredients": [
+        "2 block tofu",
+        "¼ tsp salt",
+        "½ tsp white pepper",
+        "1 tsp garlic powder",
+        "3-4 tbsp cornstarch",
+        "2 tbsp vegan butter",
+        "4 cloves garlic, minced",
+        "2 sprigs curry leaves",
+        "1 red chilli, sliced",
+        "1 tbsp light soy sauce",
+        "½ tsp turmeric",
+        "3 tbsp nooch",
+        "3 tbsp coconut cream",
+        "½ cup oat milk",
+        "Black salt",
+        "Rice"
+      ],
+      "steps": [
+        "Drain your tofu and press out the excess water. Break them apart into small chunks.",
+        "In a bowl combine cornstarch, salt, white pepper and garlic powder. Coat the tofu chunks in this mixture.",
+        "Air fry the tofu in a single layer in multiple batches if necessary. Flipping halfway.",
+        "Heat a pan and add the butter. Once melted add the garlic and saute until fragrant. Add the chilli and sauté for another minute.",
+        "Add curry leaves. Once crisp add oat milk and mix well. Add soy sauce.",
+        "Turn down heat to low and mix well. Add black salt and turmeric.",
+        "Mix in the nooch and then add the tofu. Mix well then let the tofu cook in the sauce for a few minutes.",
+        "If you'd like more sauce add a splash of oat milk, mix well and simmer."
+      ],
+      "tags": ["tofu", "chinese", "rice"]
     }
   ]
 }
