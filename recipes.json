@@ -25154,7 +25154,34 @@
         "Once rice is cooked add the butter and pepper and stir in until butter is melted.",
         "Top with spring onions."
       ],
-      "tags": []
+      "tags": ["japanese", "rice"]
+    },
+    {
+      "title": "Kimchi fried rice",
+      "image": "kimchi-fried-rice",
+      "url": "https://www.instagram.com/p/B9wfw5Jpyfs/?hl=en",
+      "ingredients": [
+        "3 cups cooked rice, cooled",
+        "1 1/2 tbsp oil",
+        "300g tofu, sliced into squares",
+        "1 cup kimchi, roughly chopped",
+        "2 tbsp juice from kimchi jar",
+        "1 tbsp gochujang",
+        "1 tbsp soy sauce",
+        "1 tsp sesame oil",
+        "4 scallions, thinly sliced",
+        "Toasted sesame seeds",
+        "Crumbled roasted seaweed"
+      ],
+      "steps": [
+        "Heat 1 tbsp oil in a skillet over high heat until shimmering, then pan-fry tofu slices with a dash of soy sauce.",
+        "Remove from pan, heat a bit more oil, add kimchi, and cook for 3 minutes until edges are caramelized.",
+        "Add kimchi juice, gochujang, and soy sauce, and stir until combined, then add cooked rice.",
+        "Reduce heat to medium low and cook for 3 minutes, stirring constantly, until the rice has absorbed the flavors.",
+        "Stir in sesame oil and scallions and remove from heat.",
+        "To serve, transfer to plates and top with remaining green onions, sesame seeds, and shredded roasted seaweed."
+      ],
+      "tags": ["rice"]
     }
   ]
 }
