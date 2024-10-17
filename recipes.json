@@ -20752,7 +20752,7 @@
       ],
       "steps": [
         "Heat the wok over medium. Once hot, add oil. Sauté the onion until translucent.",
-        "Add the garlic, app carrot and mushrooms and allow to cook until lightly brown.",
+        "Add the garlic, carrot and mushrooms and allow to cook until lightly brown.",
         "Add the sake and leave to evaporate over medium heat.",
         "Pour the vegan dashi or stock into the pot.",
         "Break the cubes up and add them to the wok. Mix to dissolve.",
@@ -25216,6 +25216,39 @@
         "Top with chopped basil before serving."
       ],
       "tags": ["pasta", "oven"]
+    },
+    {
+      "title": "Kimchi soup with braised tofu",
+      "image": "kimchi-soup-braised-tofu",
+      "url": "https://www.theguardian.com/food/2024/oct/12/yotam-ottolenghi-midweek-meals-recipes-squash-carbonara-kimchi-soup",
+      "ingredients": [
+        "1 tbsp sesame oil",
+        "2 tbsp gochujang",
+        "1 tsp sugar",
+        "3 spring onions, thinly sliced",
+        "2cm ginger, cut into matchsticks",
+        "2 cloves garlic, crushed",
+        "1 onion, roughy diced",
+        "1 tbsp gochugaru",
+        "160g kimchi",
+        "1 litre vegetable stock",
+        "30g dry shiitake mushrooms",
+        "450g braised tofu",
+        "2 tbsp rice-wine vinegar",
+        "200g broccoli florets",
+        "Pak choi",
+        "Fine sea salt",
+        "25g coriander"
+      ],
+      "steps": [
+        "Add ingredients from sesame oil to onion to the wok over medium heat. Cook stirring occasionally until the vegetables start to soften.",
+        "Stir in the kimchi, gochugaru, stock, mushrooms and tofu and bring to a boil.",
+        "Turn down the heat to a simmer and leave to cook for about 15 minutes, until the mushrooms are soft.",
+        "Add the broccoli and simmer until the broccoli becomes brint green.",
+        "Add the vinegar, pak choi and salt to taste. Take off the heat and stir to combine.",
+        "Stir in the coriander, divide the soup between four large bowls and serve at once."
+      ],
+      "tags": ["soup"]
     }
   ]
 }
