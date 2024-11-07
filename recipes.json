@@ -22100,7 +22100,7 @@
         "Let the tofu sit in there for as long as you can.",
         "Meanwhile add the red onion, vinegar, sugar and salt to a container and mix well.",
         "Add warm water until onions are fully submerged. Refrigerate.",
-        "Now add the tofu pieces to an air fryer pr oven at 200C for 10 mins.",
+        "Now add the tofu pieces to an air fryer or oven at 200C for 10 mins.",
         "In a large bowl toss together the spinach, olive oil, lemon and sea salt.",
         "Layer your plate with a flatbread, spoon some aioli on top of the flatbread.",
         "Add spinach, pickled red onions, slice avocado and tofu pieces."
@@ -25284,6 +25284,111 @@
         "Remove kumara from oven. Split each kumara down the middle. Ladle over ¼ of the lentils mixture on top. Garnish with coriander."
       ],
       "tags": ["kumara", "lentils"]
+    },
+    {
+      "title": "Herby kumara soup with peanuts",
+      "image": "herby-kumara-soup",
+      "url": "https://12ft.io/https://cooking.nytimes.com/recipes/1024547-herby-sweet-potato-soup-with-peanuts",
+      "ingredients": [
+        "2 tsp cumin seeds",
+        "1 onion, finely chopped",
+        "5 garlic cloves, grated",
+        "2 kumara, peeled and cubed",
+        "1 tsp five-spice",
+        "1 cup bulgur",
+        "2 cups vegetable stock",
+        "¼ cup finely chopped parsley",
+        "⅓ cup finely chopped coriander",
+        "⅓ cup finely chopped chives",
+        "1 tsp Aleppo pepper flakes",
+        "1 tsp sugar",
+        "⅓ cup roasted peanuts, roughly chopped",
+        "½ tsp sesame oil",
+        "1 lemon, halved"
+      ],
+      "steps": [
+        "Heat olive oil in the wok, add cumin seeds and cook until toasted and fragrant.",
+        "Reduce the heat, add onions, two-thirds of the garlic, salt and pepper. Cook until onions is translucent.",
+        "Add the kumara and cook for 4 minutes, stirring occasionally until lightly caramelised. Add the five spice and cook for a minute.",
+        "Add the bulgur, stock and 4 ¼ cups water. Bring to the boil, then cook for 15 minutes, undisturbed, until the bulgur is cooked through.",
+        "Stir in the parsley, cilantro and chives, and cook for 1 minute more, then remove the pan from the heat.",
+        "Set the pepper flakes, sugar and the remaining garlic in a small heatproof bowl.",
+        "Place the peanuts and the remaining olive oil in a small pan over medium-high heat. Cook until peanuts just start to turn golden brown.",
+        "Pour the peanuts and oil over the chile-garlic mixture. Stir to combine, then, once slightly cooled, add the sesame oil.",
+        "Season the soup with lemon juice then ladle into bowls. Spoon over the peanut topping."
+      ],
+      "tags": ["kumara", "soup"]
+    },
+    {
+      "title": "Sticky carrot & harissa tart",
+      "image": "sticky-carrot-harissa-tart",
+      "url": "https://www.instagram.com/deliciouslyella/reel/CoPVGBRDP2U/",
+      "ingredients": [
+        "12 carrots, peeled",
+        "100ml water",
+        "1 tbsp olive oil",
+        "2 tbsp maple syrup",
+        "3 tbsp rose harissa",
+        "1 sheet puff pastry",
+        "Splash of oat milk",
+        "Chopped parsley",
+        "Sea salt"
+      ],
+      "steps": [
+        "Cut the carrots into ½cm coins. Place in a saucepan with water, olive oil, a tablespoon of maple syrup and salt.",
+        "Cover, place over medium heat and bring to a gentle simmer. Cook until water is absorbed and carrots are tender, stirring occasionally.",
+        "Turn off the heat and stir through the rose harissa and the remaining tablespoon of maple syrup. Adjust seasoning to taste.",
+        "Unroll the puff pastry and score the edges to give a 2cm / 1″ border. Prick the centre all over with a fork.",
+        "Spread the carrots evenly over the pastry, within the border. Brush the edges with a splash of oat milk.",
+        "Bake at 200°C for 20 - 25 minutes. Until the pastry is puffed and golden brown. Cool slightly then top with parsley and salt."
+      ],
+      "tags": ["tart"]
+    },
+    {
+      "title": "Tofu tikka sandwich",
+      "image": "tofu-tikka-sandwich",
+      "url": "https://www.instagram.com/p/DBtmzpLSO1_/",
+      "ingredients": [
+        "500g tofu",
+        "4 tbsp vegan yogurt",
+        "2 tbsp chickpea flour",
+        "1 tbsp chili powder",
+        "1 tbsp coriander",
+        "½ tbsp cumin",
+        "½ tbsp garlic powder",
+        "½ tbsp onion powder",
+        "1 tsp fenugreek",
+        "1 tsp turmeric",
+        "½ tbsp sunflower oil",
+        "1 red onion, thinly sliced",
+        "½ cup apple cider vinegar",
+        "1 tbsp brown sugar",
+        "1 ½ tsp salt",
+        "1 cup hot or warm water",
+        "Salt to taste",
+        "½ cup coconut yogurt",
+        "3 tbsp lemon juice",
+        "1 bunch coriander",
+        "1 cup mint leaves",
+        "1 medium jalapeno, sliced",
+        "2 tsp sliced ginger",
+        "1 garlic clove",
+        "¼ tsp salt",
+        "½ tsp sugar",
+        "1 red onion",
+        "Bread"
+      ],
+      "steps": [
+        "Drain and press the tofu. In a large bowl mix ingredients from yogurt to oil.",
+        "Meanwhile add the red onion, vinegar, sugar and salt to a container and mix well.",
+        "Add warm water until onions are fully submerged. Refrigerate.",
+        "Rip the tofu into chunks and add to the marinade. Marinate overnight.",
+        "Skewer the tofu then place on an oiled griddle pan on medium-high heat. Cook until nicely charred on each side.",
+        "Meanwhile blend ingredients from yogurt to sugar in a blender until relatively smooth. Taste and adjust seasonings.",
+        "Once the tofu is done grill the bread in the griddle.",
+        "Slather bread with chutney, add tofu, pickled onions and more chutney."
+      ],
+      "tags": ["bread", "tofu", "indian"]
     }
   ]
 }
