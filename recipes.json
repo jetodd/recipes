@@ -2281,7 +2281,7 @@
       "url": "https://www.theendlessmeal.com/creamy-coconut-lentil-curry/",
       "ingredients": [
         "Rice",
-        "2 tsps coconut oil",
+        "2 tsp coconut oil",
         "1 tbsp cumin seeds",
         "1 tbsp coriander seeds",
         "10 cloves garlic",
@@ -25389,6 +25389,41 @@
         "Slather bread with chutney, add tofu, pickled onions and more chutney."
       ],
       "tags": ["bread", "tofu", "indian"]
+    },
+    {
+      "title": "Creamy garlic mushroom orzo",
+      "image": "creamy-garlic-mushroom-orzo",
+      "url": "https://www.instagram.com/p/CkwEJY6qccY/?hl=en",
+      "ingredients": [
+        "8 cloves garlic, minced",
+        "4 shallots, finely chopped",
+        "600g mixed mushrooms, roughly chopped",
+        "240g orzo",
+        "1 litre vegetable stock",
+        "4 tbsp nooch",
+        "4 tbsp vegan yoghurt",
+        "12 sprigs thyme, leaves picked",
+        "3 tbsp olive oil",
+        "2 large garlic cloves, smashed",
+        "1 cup panko",
+        "¼ tsp kosher salt",
+        "¼ tsp black pepper",
+        "2 handfuls spinach",
+        "Zest and juice of 1 lemon",
+        "Chopped parsley"
+      ],
+      "steps": [
+        "Heat olive oil in a large pan with a pinch of salt. Add garlic and shallots and cook until softened and lightly golden. Add the thyme.",
+        "Add mushrooms to the pan. Cook until lightly golden.",
+        "Add the orzo, mix well and then add the stock and nooch. Simmer until the orzo is al dente and stock has reduced.",
+        "Meanwhile heat the olive oil in a medium pan over medium heat. Add the garlic and sauté, stirring often, until fragrant and lightly golden brown.",
+        "Add the panko bread crumbs to the pan and stir to coat evenly in the oil mixture.",
+        "Continue cooking, stirring and tossing frequently, until deeply golden in color. Season with the salt and pepper.",
+        "Immediately transfer to a large bowl to cool. Discard the garlic.",
+        "Stir through the yoghurt, lemon zest and juice and spinach make sure it’s well combined and spinach is wilted.",
+        "Sprinkle with parsley and breadcrumbs."
+      ],
+      "tags": ["pasta"]
     }
   ]
 }
