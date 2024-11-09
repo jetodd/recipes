@@ -25424,6 +25424,66 @@
         "Sprinkle with parsley and breadcrumbs."
       ],
       "tags": ["pasta"]
+    },
+    {
+      "title": "Lemon & herb tofu",
+      "image": "lemon-herb-tofu",
+      "url": "https://www.instagram.com/p/CtE8I5xq49G/?hl=en",
+      "ingredients": [
+        "Zest of 1 lemon",
+        "Juice of 2 lemons",
+        "2 tbsp agave",
+        "2 tbsp olive oil",
+        "2 tbsp dijon mustard",
+        "4 tbsp finely chopped coriander",
+        "1 tsp smoked paprika",
+        "1 tsp cumin",
+        "4 cloves garlic, grated",
+        "400g extra firm tofu",
+        "250g cooked rice",
+        "Zest of 1 lemon",
+        "Drizzle of olive oil",
+        "2 tbsp chopped parsley",
+        "2 tbsp chopped coriander",
+        "2 tsp za’atar",
+        "½ tsp chilli flakes",
+        "Heaped tbsp chopped pistachios"
+      ],
+      "steps": [
+        "Drain and press the tofu. Add ingredients from lemon zest to garlic to a bowl and mix until fully combined.",
+        "Pat the tofu fry. Tear it into chunks and season well with salt and pepper.",
+        "Add the tofu to the marinade bowl and mix until all the chunks are covered. Leave to marinate overnight.",
+        "Put the chunks onto skewers in an ovenproof dish. Spoon over half of the remaining marinade, putting the rest to one side.",
+        "Roast the skewers for 25-30 minutes or until golden, turning and adding more marinade half way through.",
+        "Meanwhile mix remaining ingredients then taste and season.",
+        "Serve the skewers on top of the rice and drizzle with the remaining marinade."
+      ],
+      "tags": ["rice", "kabob"]
+    },
+    {
+      "title": "Stir-fried squash with tofu",
+      "image": "stir-fried-squash-with-tofu",
+      "url": "https://www.theguardian.com/food/2024/nov/02/vegan-recipe-stir-fried-squash-tofu-black-pepper-basil-meera-sodha",
+      "ingredients": [
+        "1 large butternut squash",
+        "6 garlic cloves, peeled and crushed",
+        "500g tofu",
+        "5 tbsp mushroom stir-fry sauce",
+        "1 tbsp light soy sauce",
+        "1 tsp coarsely ground pepper",
+        "50g Thai basil, leaves picked",
+        "Rice"
+      ],
+      "steps": [
+        "Drain and press the tofu. Once done pat dry with a paper towel and crumble.",
+        "Top and tail the squash. Half and peel it, remove the seeds and cut into 2 ½ cm pieces.",
+        "Put the squash in a frying pan. Add 200ml water, pop on the lid and turn on the heat to medium. Leave to cook until tender, set aside.",
+        "Pour the water away and dry the pan. Add oil to the pan and put it over medium high heat. Once hot add the garlic and cook until fragrant.",
+        "Return the drained squash to the pan and cook, stirring, for four or five minutes.",
+        "Add the tofu, stir-fry sauce, soy sauce and black pepper, mix and heat through, then take off the heat.",
+        "Rip the basil leaves, fold them through the squash mix, and serve with hot rice."
+      ],
+      "tags": ["rice"]
     }
   ]
 }
