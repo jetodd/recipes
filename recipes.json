@@ -25594,6 +25594,43 @@
         "Ladle the broth over rice. Top with crispy tofu and garnish with sesame oil."
       ],
       "tags": ["tofu", "rice", "soup"]
+    },
+    {
+      "title": "Sweet potato breakfast hash",
+      "image": "sweet-potato-breakfast-hash",
+      "url": "https://makeitdairyfree.com/vegan-mexican-sweet-potato-breakfast-hash/",
+      "ingredients": [
+        "Vegan chorizo",
+        "¼ cup vegan butter",
+        "2 medium kumara, cubed",
+        "1 cup green pepper, diced",
+        "1 onion, finely chopped",
+        "4 cloves garlic, minced",
+        "1 tsp chili powder",
+        "1 ½ tsp oregano",
+        "1 ½ tsp cumin",
+        "1 tsp paprika",
+        "1 tsp red pepper flakes",
+        "¼ tsp garlic powder",
+        "1 teaspoon pepper",
+        "¼ teaspoon salt",
+        "1 can sweet corn, drained",
+        "1 can black beans, drained",
+        "Coriander",
+        "Juice of 1 lime",
+        "Jalapenos",
+        "Vegan sour cream"
+      ],
+      "steps": [
+        "Pat potatoes dry with a towel if any moisture present.",
+        "Heat oil in a pan over medium heat, once hot crumble in the chorizo and cook until browned. Transfer to a plate.",
+        "Over medium high heat, melt vegan butter in the pan. Once hot add kumara in a single layer, if necessary cook in batches.",
+        "Cook for 2 minutes without touching. Flip, cook another 2 minutes. Repeat a few times.",
+        "Reduce heat, add in the peppers, onions. Cook until onion is translucent.",
+        "Add in garlic and seasonings and stir to combine. Add corn and black beans and cook until heated through.",
+        "Top with coriander, jalapenos and lime juice."
+      ],
+      "tags": ["kumara"]
     }
   ]
 }
