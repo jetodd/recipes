@@ -25631,6 +25631,62 @@
         "Top with coriander, jalapenos and lime juice."
       ],
       "tags": ["kumara"]
+    },
+    {
+      "title": "Sayur lemak",
+      "image": "sayur-lemak",
+      "url": "https://www.theguardian.com/food/2024/nov/16/meera-sodha-vegan-coconut-vegetable-curry-or-sayur-lemak-recipe-tempeh-spinach",
+      "ingredients": [
+        "600g eggplant, 2½cm wedges",
+        "400g tempeh, 2½cm cubes",
+        "2 shallots, roughly chopped",
+        "4 garlic cloves, roughly chopped",
+        "4 kaffir lime leaves, deveined",
+        "2 lemongrass stalks, roughly chopped",
+        "1 tsp turmeric",
+        "3 tbsp sambal oelek",
+        "1 tbsp muscovado sugar",
+        "400ml tin coconut milk",
+        "200g baby spinach",
+        "Steamed jasmine rice"
+      ],
+      "steps": [
+        "Heat the oven to 180°C, and line two baking trays with baking paper.",
+        "Put the eggplan wedges in a bowl, add two tablespoons of oil and a quarter-teaspoon of salt, and toss well with your hands to coat.",
+        "Tip out on to one of the baking trays and spread out the pieces so they’re not on top of each other.",
+        "Put the pieces of tempeh in the same bowl, pour over a tablespoon of oil and sprinkle with a quarter-teaspoon of salt, then toss to coat.",
+        "Tip the tempeh on to the second baking tray and spread it out. Roast both trays in the oven for 30 minutes, then remove and set aside.",
+        "Meanwhile put the shallots, garlic, lime leaves, lemongrass, turmeric, sambal, sugar and two tablespoons of oil in the blender and blend until smooth.",
+        "Once eggplant is cooked put the wok on medium heat. Once hot add the curry paste and cook, stirring often for five minutes.",
+        "Add half a teaspoon of salt, coconut milk, 100ml of water and stir to mix. Add the eggplant and tempeh and mix again.",
+        "Add the spinach and cook until wilter. Cover the wok and leave to simmer for five minutes then server over rice."
+      ],
+      "tags": ["malaysian"]
+    },
+    {
+      "title": "Waffles",
+      "image": "waffles",
+      "url": "waffles",
+      "ingredients": [
+        "1 ½ cups nut milk",
+        "2 tsp apple cider vinegar",
+        "2 cups all-purpose flour",
+        "1 tbsp baking powder",
+        "½ tsp sea salt",
+        "1 tbsp maple syrup",
+        "¼ cup melted vegan butter",
+        "½ tsp vanilla extract",
+        "Toppings"
+      ],
+      "steps": [
+        "Mix the milk, vanilla extract and vinegar in a small bowl. Set aside for about five minutes.",
+        "In a large bowl sift the flour, baking powder and salt.",
+        "Add the sugar, butter and milk mixture into the dry ingredients and gently fold together until just combined.",
+        "Preheat the waffle iron. Once heated spray with oil.",
+        "Scoop out batter into the waffle iron. Close and let cook until done.",
+        "Remove each waffle and place on a baking sheet in the oven on 95°C. Continue until batter is used."
+      ],
+      "tags": ["breakfast"]
     }
   ]
 }
