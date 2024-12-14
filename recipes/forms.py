@@ -26,6 +26,26 @@ class ShoppingForm(forms.ModelForm):
         self.fields['name'].widget.attrs.update({'class': 'form-control'})
         self.fields['recipe'].widget.attrs.update({'class': 'form-control'})
 
-        available_recipe = Q(this_week__isnull=False) | Q(next_week__isnull=False)
+        this_week_recipe = Q(this_week__isnull=False)
+        next_week_recipe = Q(next_week__isnull=False)
 
-        self.fields['recipe'].queryset = Recipe.objects.filter(available_recipe)
+        self.fields['recipe'].choices = (
+            ('------', (
+                ('', 'No recipe'),
+            )
+             ),
+            ('This week', (
+                (
+                    (sc.id, sc.title)
+                    for sc in Recipe.objects.filter(this_week_recipe).order_by('title')
+                )
+            )
+             ),
+            ('Next week', (
+                (
+                    (sc.id, sc.title)
+                    for sc in Recipe.objects.filter(next_week_recipe).order_by('title')
+                )
+            )
+             ),
+        )
