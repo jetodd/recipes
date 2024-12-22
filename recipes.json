@@ -1424,22 +1424,23 @@
       "url": "https://www.connoisseurusveg.com/vegan-green-curry-paste/",
       "ingredients": [
         "2 tsp coriander seeds",
+        "1 tsp fennel seeds",
         "1 tsp cumin seeds",
         "1 tsp black peppercorns",
-        "3 serranos, sliced",
-        "9 Thai green chilies, sliced",
+        "15g green chillies, sliced",
+        "15g green bird's eye chillies, sliced",
         "2 shallots, chopped",
         "2 lemongrass stalks, chopped",
-        "2 inches galangal, chopped",
+        "20g galangal, chopped",
         "1 inch tumeric, chopped",
-        "4 kaffir lime leaves",
-        "8 cloves garlic",
+        "10 kaffir lime leaves",
+        "4 cloves garlic",
         "4 sprigs coriander",
         "Zest of 1 lime",
-        "½ tsp miso paste"
+        "1 tbsp miso paste"
       ],
       "steps": [
-        "Cook the coriander and cumin seeds in a dry pan until fragrant.",
+        "Cook the coriander, fennel, cumin and peppercorns in a dry pan until fragrant.",
         "Starting with the hardest ingredients first grind the ingredients into a paste in a mortar and pestle."
       ],
       "tags": ["Asian", "Vegan", "Thai"]
@@ -25687,6 +25688,55 @@
         "Remove each waffle and place on a baking sheet in the oven on 95°C. Continue until batter is used."
       ],
       "tags": ["breakfast"]
+    },
+    {
+      "title": "Vegan cheese bread",
+      "image": "cheese-bread",
+      "url": "https://veggiekinsblog.com/2021/02/08/vegan-pao-de-queijo/#wprm-recipe-container-7786",
+      "ingredients": [
+        "1-2 potatoes",
+        "½ cup potato boiling water",
+        "¼ cup plant milk",
+        "⅓ cup olive oil",
+        "2 cups tapioca starch",
+        "¼ cup nooch",
+        "½ tsp garlic powder",
+        "¼ tsp onion powder",
+        "1 tsp salt",
+        "⅓ cup grated vegan cheese"
+      ],
+      "steps": [
+        "Preheat your oven to 180°C and bring a large pot of water to a boil. Line a baking tray with parchment.",
+        "Peel and chop potatoes, then boil until fork tender. Drain and set aside, reserving ½ cup of the boiling water.",
+        "Pour the reserved water into a bowl and whisk along with plant milk and olive oil.",
+        "In another bowl whisk together remaining ingredients except the cheese. Add to the liquid ingredients and mix. Fold in the cheese.",
+        "Start with a spatula and then work the dough using your hands. It may be a little dry at first but just compact the dough and pack it tightly.",
+        "Roll tablespoon sized balls of dough. Space them evenly on the baking tray, leaving at least 1 inch between each ball of dough.",
+        "Bake for 25-30 minutes, or until the bottom of the bread is golden brown and small cracks start to form on the surface."
+      ],
+      "tags": ["bread", "sides"]
+    },
+    {
+      "title": "Macho peas",
+      "image": "macho-peas",
+      "url": "https://routetolongevity.com/macho-peas/",
+      "ingredients": [
+        "2 cups peas",
+        "2 tbsp mint, finely chopped",
+        "2 tbsp parsley, finely chopped",
+        "1 red chili, finely chopped",
+        "1 tbsp butter, unsalted",
+        "1 tbsp olive oil",
+        "Salt & pepper"
+      ],
+      "steps": [
+        "Boil water in a saucepan, add the peas and boil for three minutes.",
+        "Drain the peas using a sieve. Divide the peas into two bowls.",
+        "In one bowl drizzle the olive oil and butter. Use a fork to mash the peas.",
+        "Add the chopped herbs and chilli to the bowl containing the mashed peas.",
+        "Mix the mashed peas with the whole peas. Stir to combine."
+      ],
+      "tags": ["sides", "vegetables"]
     }
   ]
 }
