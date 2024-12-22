@@ -25737,6 +25737,79 @@
         "Mix the mashed peas with the whole peas. Stir to combine."
       ],
       "tags": ["sides", "vegetables"]
+    },
+    {
+      "title": "Feijoada",
+      "image": "feijoada",
+      "url": "https://cheapandcheerfulcooking.com/vegan-feijoada-brazilian-national-dish/",
+      "ingredients": [
+        "400g black beans, dried",
+        "2 bay leaves",
+        "1 onion, finely chopped",
+        "4 garlic cloves, minced",
+        "300g smoked tofu, cubed",
+        "2 vegan chorizo, cubed",
+        "200g mushrooms, diced",
+        "200g kumara, cubed",
+        "½ tsp paprika",
+        "½ tsp thyme",
+        "¾ tsp rosemary",
+        "½ tsp cumin",
+        "2 tbsp soy sauce",
+        "1 tbsp liquid smoke",
+        "1 tsp smoked paprika",
+        "Salt & pepper",
+        "Olive oil",
+        "1 orange",
+        "1 bunch kale",
+        "2 tsp olive oil",
+        "4 garlic cloves, minced",
+        "Lemon wedge",
+        "Rice"
+      ],
+      "steps": [
+        "Put the black beans in a bowl, cover with water and let them soak for at least 8 hours or overnight. Drain.",
+        "Add the beans and 1 ¼ litres of water in a large saucepan and bring to a boil. Skim off any foam.",
+        "Add the bay leaves and simmer covered for 9 - 100 minutes until the beans are cooked.",
+        "Heat oil in a pan and cook the tofu and chorizo until browned. Add the kumara, mushrooms, onion and garlic. Cook for a few minutes.",
+        "Fry for another 2-3 minutes. Season with soy sauce, spices and liquid smoke.",
+        "Use the hand blender to briefly puree a small part of the beans.",
+        "Add the contents of the pan to the beans and simmer uncovered until the kumara is cooked. Season with salt and pepper.",
+        "Meanwhile remove and discard the coarse parts of the kale stems. Chop or tear the leaves.",
+        "In a large skillet, heat the oil over medium heat. Add the kale leaves, garlic, pinches of salt, and several grinds of pepper. Sauté until wilted.",
+        "Turn off the heat, squeeze a little lemon juice over the kale, and toss. Season to taste.",
+        "Serve feijoada with kale, rice and orange slices."
+      ],
+      "tags": ["stew", "rice"]
+    },
+    {
+      "title": "Caramelised onion pasta",
+      "image": "caramelised-onion-pasta",
+      "url": "https://plantyou.com/one-pan-caramelized-onion-pasta/",
+      "ingredients": [
+        "5 onions, sliced",
+        "1 head garlic, top sliced off",
+        "½ cup sun dried tomatoes, chopped",
+        "1 tsp salt",
+        "1 tsp black pepper",
+        "1 tbsp paprika",
+        "1 tsp dried parsley",
+        "½ cup coconut milk",
+        "3 cups farfalle, cooked",
+        "1 handful parsley, chopped",
+        "1 handful basil, chopped",
+        "1 lemon, juiced"
+      ],
+      "steps": [
+        "Preheat the oven to 200°C.",
+        "In a casserole dish add the onion, sundried tomatoes, paprika, salt, pepper and parsley.",
+        "Toss, and then place the whole garlic head in the middle. Drizzle with olive oil and cover with foil.",
+        "Pop in the oven for 1 hour, tossing halfway through. If the onion is not yet caramelized cook a little longer.",
+        "About 20 minutes before the casserole dish is done, prepare the pasta according to package directions, reserve a cup of pasta water.",
+        "Remove the garlic from the casserole dish, and when safe to handle, squeeze out the cloves.",
+        "Add the parsley, basil, lemon juice coconut milk, pasta and pasta water as needed. Mix to combine."
+      ],
+      "tags": ["pasta"]
     }
   ]
 }
