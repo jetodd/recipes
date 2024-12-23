@@ -12,65 +12,22 @@
         {% if items %}
           <form action="deleteitems" method="post">
             <div class="shopping-list">
-              <h2 class="text-red text-lg lowercase font-bold">This week</h2>
               {% for item in items %}
-                {% if item.recipe.this_week %}
-                  <div class="form-check form-group">
-                    <input
-                      class="form-check-input"
-                      name="item"
-                      type="checkbox"
-                      value="{{ item.id }}"
-                      id="shoppingItem{{ item.id }}"
-                    />
-                    <label
-                      class="form-check-label"
-                      for="shoppingItem{{ item.id }}"
-                      >{{ item.name }}
-                      {% if item.recipe != None %}({{ item.recipe }}){% endif %}</label
-                    >
-                  </div>
-                {% endif %}
-              {% endfor %}
-              <h2 class="text-red text-lg lowercase font-bold">Next week</h2>
-              {% for item in items %}
-                {% if item.recipe.next_week %}
-                  <div class="form-check form-group">
-                    <input
-                      class="form-check-input"
-                      name="item"
-                      type="checkbox"
-                      value="{{ item.id }}"
-                      id="shoppingItem{{ item.id }}"
-                    />
-                    <label
-                      class="form-check-label"
-                      for="shoppingItem{{ item.id }}"
-                      >{{ item.name }}
-                      {% if item.recipe != None %}({{ item.recipe }}){% endif %}</label
-                    >
-                  </div>
-                {% endif %}
-              {% endfor %}
-              <h2 class="text-red text-lg lowercase font-bold">Other</h2>
-              {% for item in items %}
-                {% if not item.recipe.this_week and not item.recipe.next_week %}
-                  <div class="form-check form-group">
-                    <input
-                      class="form-check-input"
-                      name="item"
-                      type="checkbox"
-                      value="{{ item.id }}"
-                      id="shoppingItem{{ item.id }}"
-                    />
-                    <label
-                      class="form-check-label"
-                      for="shoppingItem{{ item.id }}"
-                      >{{ item.name }}
-                      {% if item.recipe != None %}({{ item.recipe }}){% endif %}</label
-                    >
-                  </div>
-                {% endif %}
+                <div class="form-check form-group">
+                  <input
+                    class="form-check-input"
+                    name="item"
+                    type="checkbox"
+                    value="{{ item.id }}"
+                    id="shoppingItem{{ item.id }}"
+                  />
+                  <label
+                    class="form-check-label"
+                    for="shoppingItem{{ item.id }}"
+                    >{{ item.name }}
+                    {% if item.recipe != None %}({{ item.recipe }}){% endif %}</label
+                  >
+                </div>
               {% endfor %}
             </div>
             {% csrf_token %}
