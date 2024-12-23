@@ -89,9 +89,13 @@ def cooked(request, recipe_id):
 
 
 def shopping(request):
-    shopping_list = ShoppingItem.objects.all()
+    this_week = ShoppingItem.objects.filter(recipe__this_week__isnull=False)
+    next_week = ShoppingItem.objects.filter(recipe__next_week__isnull=False)
+
+    other = ShoppingItem.objects.filter(recipe__next_week__isnull=True, recipe__this_week__isnull=True)
+
     form = ShoppingForm()
-    context = {'items': shopping_list, 'form': form}
+    context = {'this_week': this_week, 'next_week': next_week, 'other': other, 'form': form}
 
     if request.method == 'POST':
         if form.is_valid:

@@ -6,13 +6,56 @@
   <div class="lg:m-auto lg:w-3/4 my-4 xs:mx-4 sm:mx-8 md:mx-12">
     <div class="grid grid-cols-1 lg:grid-cols-2">
       <div>
-        <p class="text-red text-center text-xl lowercase font-extrabold">
+        <h1 class="text-red text-center text-xl lowercase font-extrabold">
           Shopping
-        </p>
-        {% if items %}
+        </h1>
+        {% if this_week or next_week or other %}
           <form action="deleteitems" method="post">
             <div class="shopping-list">
-              {% for item in items %}
+              {% if this_week %}
+                <h2 class="text-red text-lg lowercase font-bold">This week</h2>
+              {% endif %}
+              {% for item in this_week %}
+                <div class="form-check form-group">
+                  <input
+                    class="form-check-input"
+                    name="item"
+                    type="checkbox"
+                    value="{{ item.id }}"
+                    id="shoppingItem{{ item.id }}"
+                  />
+                  <label
+                    class="form-check-label"
+                    for="shoppingItem{{ item.id }}"
+                    >{{ item.name }}
+                    {% if item.recipe != None %}({{ item.recipe }}){% endif %}</label
+                  >
+                </div>
+              {% endfor %}
+              {% if next_week %}
+                <h2 class="text-red text-lg lowercase font-bold">Next week</h2>
+              {% endif %}
+              {% for item in next_week %}
+                <div class="form-check form-group">
+                  <input
+                    class="form-check-input"
+                    name="item"
+                    type="checkbox"
+                    value="{{ item.id }}"
+                    id="shoppingItem{{ item.id }}"
+                  />
+                  <label
+                    class="form-check-label"
+                    for="shoppingItem{{ item.id }}"
+                    >{{ item.name }}
+                    {% if item.recipe != None %}({{ item.recipe }}){% endif %}</label
+                  >
+                </div>
+              {% endfor %}
+              {% if other %}
+                <h2 class="text-red text-lg lowercase font-bold">Other</h2>
+              {% endif %}
+              {% for item in other %}
                 <div class="form-check form-group">
                   <input
                     class="form-check-input"
