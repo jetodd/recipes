@@ -24685,6 +24685,7 @@
     {
       "title": "Jerk skewers with wedges",
       "image": "jerk-skewer-with-wedges",
+      "prep": true,
       "url": "https://www.spicekitchenuk.com/blogs/recipes/jerk-chicken-skewers-garlic-thyme-potato-wedges-blue-cheese-slaw-mango-chilli-lime-salsa",
       "ingredients": [
         "1 block tofu",
@@ -24870,6 +24871,7 @@
     {
       "title": "Caramelised coconut chicken (or tofu)",
       "image": "caramelized-coconut-chicken",
+      "prep": true,
       "url": "https://www.mob.co.uk/recipes/caramelised-coconut-chicken",
       "ingredients": [
         "4 chicken thigh fillets",
@@ -25063,6 +25065,7 @@
     {
       "title": "Vegan mutton curry",
       "image": "vegan-mutton-curry",
+      "prep": true,
       "url": "https://www.instagram.com/p/CydzSlnMg6x/",
       "ingredients": [
         "2 tins jackfruit",
@@ -25164,6 +25167,7 @@
     {
       "title": "Kimchi fried rice",
       "image": "kimchi-fried-rice",
+      "prep": true,
       "url": "https://www.instagram.com/p/B9wfw5Jpyfs/?hl=en",
       "ingredients": [
         "3 cups cooked rice, cooled",
@@ -25352,6 +25356,7 @@
     {
       "title": "Tofu tikka sandwich",
       "image": "tofu-tikka-sandwich",
+      "prep": true,
       "url": "https://www.instagram.com/p/DBtmzpLSO1_/",
       "ingredients": [
         "500g tofu",
@@ -25433,6 +25438,7 @@
     {
       "title": "Lemon & herb tofu",
       "image": "lemon-herb-tofu",
+      "prep": true,
       "url": "https://www.instagram.com/p/CtE8I5xq49G/?hl=en",
       "ingredients": [
         "Zest of 1 lemon",
@@ -25657,7 +25663,7 @@
       ],
       "steps": [
         "Heat the oven to 180°C, and line two baking trays with baking paper.",
-        "Put the eggplan wedges in a bowl, add two tablespoons of oil and a quarter-teaspoon of salt, and toss well with your hands to coat.",
+        "Put the eggplant wedges in a bowl, add two tablespoons of oil and a quarter-teaspoon of salt, and toss well with your hands to coat.",
         "Tip out on to one of the baking trays and spread out the pieces so they’re not on top of each other.",
         "Put the pieces of tempeh in the same bowl, pour over a tablespoon of oil and sprinkle with a quarter-teaspoon of salt, then toss to coat.",
         "Tip the tempeh on to the second baking tray and spread it out. Roast both trays in the oven for 30 minutes, then remove and set aside.",
@@ -25745,6 +25751,7 @@
     {
       "title": "Feijoada",
       "image": "feijoada",
+      "prep": true,
       "url": "https://cheapandcheerfulcooking.com/vegan-feijoada-brazilian-national-dish/",
       "ingredients": [
         "400g black beans, dried",
@@ -25892,6 +25899,7 @@
       "title": "Walnut taquitos",
       "image": "walnut-taquitos",
       "url": "https://www.facebook.com/reel/9139637619409284",
+      "prep": true,
       "ingredients": [
         "1 red onion, thinly sliced",
         "Juice of 1 ½ limes",
@@ -25951,6 +25959,7 @@
       "title": "Jollof rice",
       "image": "jollof-rice",
       "url": "https://www.instagram.com/p/C5EYnZ6KE7l/",
+      "prep": false,
       "ingredients": [
         "Big splash of vegetable oil",
         "2 large red onions",
@@ -25981,6 +25990,41 @@
         "Take off heat and leave covered to steam for another 10 minutes. Remove the bay leaves, stir and serve."
       ],
       "tags": ["sides", "rice"]
+    },
+    {
+      "title": "Baked gnocchi",
+      "image": "baked-gnocchi",
+      "url": "https://www.instagram.com/p/DC4WnqnMWF6/",
+      "ingredients": [
+        "400g brussels sprouts, halved",
+        "1 bunch kale, chopped",
+        "1 leek, sliced",
+        "500g gnocchi",
+        "5 cloves garlic, minced",
+        "2 tbsp flour",
+        "2 tbsp oil",
+        "600ml milk",
+        "Vegan parmesan",
+        "A few sprigs thyme",
+        "Zest of one lemon",
+        "Pinch of nutmeg",
+        "Salt & pepper",
+        "30g panko",
+        "10g parsley, finely chopped"
+      ],
+      "steps": [
+        "Heat a large pan over medium heat. Add a splash of olive oil, a dash of salt and the sprouts, cook until almost done.",
+        "Remove sprouts from the pan and place in a large bowl.",
+        "Toss the kale into the same pan with a little water, steam for a few minutes, and add to the bowl with the sprouts.",
+        "Wipe out the pan, add more olive oil, and cook the gnocchi until golden and crispy on all sides. Add to the sprouts and kale.",
+        "In a large pot sauté the leeks in olive oil with a pinch of salt until soft. Stir in the garlic and thyme and cook until fragrant.",
+        "Sprinkle in the flour and cook for 2–3 minutes, then slowly whisk in the milk. Simmer until thickened.",
+        "Finish with a generous handful of Parmesan, a pinch of nutmeg, lemon zest, salt and pepper.",
+        "Add the gnocchi and vegetables to an oven safe dish. Pour over the béchamel. Top with grated cheese and bake at 180°C for 25–30 minutes.",
+        "Heat a frying pan over a medium heat with a good drizzle of olive oil.",
+        "Add the panko with a pinch of salt and the parsley, fry for a few mins until crisp and golden. Remove from heat."
+      ],
+      "tags": ["gnocchi"]
     }
   ]
 }
