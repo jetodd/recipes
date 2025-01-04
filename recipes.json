@@ -22971,7 +22971,8 @@
         "Coriander, finely chopped",
         "1 large avocado",
         "Coriander, roughly chopped",
-        "Juice of 1/4 lime"
+        "Juice of 1/4 lime",
+        "Tortillas"
       ],
       "steps": [
         "Place red onion in a bowl with lime juice, seal and refrigerate for at least 4 hours.",
@@ -25279,7 +25280,7 @@
         "2 cups finely sliced kale",
         "Salt & pepper",
         "½ cup coriander, chopped",
-        ":emon wedges"
+        "Lemon wedges"
       ],
       "steps": [
         "Preheat the oven to 200°C. Prick some holes in the kumara  with a fork.",
@@ -26054,6 +26055,35 @@
         "Finish with a few shakes of kala namak. Taste and season with salt as needed."
       ],
       "tags": ["sides", "breakfast"]
+    },
+    {
+      "title": "Orzo with spinach & feta",
+      "image": "orzo-with-spinach-and-feta",
+      "url": "https://cooking.nytimes.com/recipes/1021485-one-pan-orzo-with-spinach-and-feta",
+      "ingredients": [
+        "2 tbsp butter",
+        "2 shallots, finely chopped",
+        "4 scallions, thinly sliced",
+        "4 garlic cloves, minced",
+        "8 cups baby spinach, chopped",
+        "1 tsp salt",
+        "1 ¾ cups vegetable stock",
+        "1 cup orzo",
+        "1 tsp lemon zest",
+        "¾ cup crumbled feta",
+        "½ cup frozen peas, defrosted",
+        "½ cup chopped coriander",
+        "½ cup chopped parsley"
+      ],
+      "steps": [
+        "Heat the wok over medium heat and melt butter. Add the shallots and cook until translucent.",
+        "Stir in the scallions and garlic and cook until softened.",
+        "Stir in the spinach in batches, and ½ teaspoon salt. Continue to cook, stirring occasionally, until spinach is wilted.",
+        "Pour in the stock and bring to a simmer. Add orzo, lemon zest and remaining salt.",
+        "Cover and simmer over medium-low heat until orzo is nearly cooked and most liquid is absorbed, stirring occasionally.",
+        "Stir in cheese, peas and herbs. Cook for another minute to warm the peas."
+      ],
+      "tags": ["pasta", "orzo"]
     }
   ]
 }
