@@ -22939,7 +22939,7 @@
       "steps": [
         "Freeze the tofu then defrost it overnight.",
         "Drain and press the tofu then rip into chunks.",
-        "Cut the bell peppers, pineapple, courgetet and red onion into chunks.",
+        "Cut the bell peppers, pineapple, courgette and red onion into chunks.",
         "Mix ingredients from chipotle paste to olive oil.",
         "Add the tofu and vegetables to a large bowl and coat in the glaze. Refrigerate.",
         "Assemble skewers until all the ingredients are used.",
@@ -26077,13 +26077,40 @@
       ],
       "steps": [
         "Heat the wok over medium heat and melt butter. Add the shallots and cook until translucent.",
-        "Stir in the scallions and garlic and cook until softened.",
-        "Stir in the spinach in batches, and ½ teaspoon salt. Continue to cook, stirring occasionally, until spinach is wilted.",
-        "Pour in the stock and bring to a simmer. Add orzo, lemon zest and remaining salt.",
+        "Stir in the scallions and garlic and cook until softened. Add the orzo and toast until light golden brown.",
+        "Pour in the stock and bring to a simmer. Add lemon zest and remaining salt.",
         "Cover and simmer over medium-low heat until orzo is nearly cooked and most liquid is absorbed, stirring occasionally.",
+        "Add the spinach, in batches if necessary and cook until wilted.",
         "Stir in cheese, peas and herbs. Cook for another minute to warm the peas."
       ],
       "tags": ["pasta", "orzo"]
+    },
+    {
+      "title": "Burnt courgette & whipped tofu",
+      "image": "burnt-courgette-and-whipped-tofu",
+      "url": "https://www.gazoakleychef.com/recipes/burnt-courgette-with-whipped-tofu/",
+      "ingredients": [
+        "3 tbsp olive oil",
+        "Pinch of salt",
+        "4-5 courgettes",
+        "2 tbsp oregano",
+        "1 block silken tofu",
+        "1 lemon, zest & juice",
+        "2 garlic cloves, minced",
+        "3 tbsp nooch",
+        "1 tbsp miso paste",
+        "Pinch sea salt",
+        "6 tbsp chives, finely chopped",
+        "Toasted croissants"
+      ],
+      "steps": [
+        "Brush the courgettes with oil and season with salt and pepper. Place them over the grill and allow them to cook slowly, turning occasionally.",
+        "Meanwhile in a large bowl combine the tofu, lemon zest and juice, garlic, nooch, miso and salt. Whisk until smooth and creamy.",
+        "Just before the courgettes are charred all over, sprinkle with oregano.",
+        "Slice the toasted crossaints in half and spread a thick layer of tofu over them and a sprinkle of chives.",
+        "Arrange the charred courgettes on top, then drizzle over some extra olive oil to serve."
+      ],
+      "tags": ["courgette"]
     }
   ]
 }
