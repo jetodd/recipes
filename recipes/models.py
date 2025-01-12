@@ -18,6 +18,8 @@ class Recipe(models.Model):
     steps = models.TextField()
     tags = models.ManyToManyField(Tag)
     cooked_count = models.IntegerField(default=0)
+    prep = models.BooleanField(default=False)
+    related = models.ManyToManyField('self', symmetrical=False)
 
     def __str__(self):
         return self.title

@@ -19815,7 +19815,8 @@
         "Place warmed-up pitas on a work surface, fluffier side down.",
         "Fill with lettuce, cucumber, tomato, onion, tzatziki and jackfruit."
       ],
-      "tags": ["bread", "weekend"]
+      "tags": ["bread", "weekend"],
+      "related": ["tzatziki"]
     },
     {
       "title": "Burrata and orzo",
@@ -25068,6 +25069,7 @@
       "image": "vegan-mutton-curry",
       "prep": true,
       "url": "https://www.instagram.com/p/CydzSlnMg6x/",
+      "related": ["rice-and-peas"],
       "ingredients": [
         "2 tins jackfruit",
         "2 tbsp hot curry powder",
@@ -26208,7 +26210,8 @@
         "Add the kale, garlic, salt, and pepper. Sauté until wilted. turn off the heat and squeeze over a little lemon juice.",
         "Serve tofu with rice and peas and kale."
       ],
-      "tags": ["caribbean", "tofu"]
+      "tags": ["caribbean", "tofu"],
+      "related": ["jerk-sauce", "rice-and-peas"]
     }
   ]
 }

@@ -4,10 +4,10 @@
 {% block title %}{{ recipe.title }}{% endblock %}
 
 {% block content %}
-  <div class="my-4 xs:mx-4 sm:mx-8 md:mx-12">
-    <p class="text-red text-center text-2xl lowercase font-extrabold">
+  <article class="my-4 xs:mx-4 sm:mx-8 md:mx-12">
+    <h1 class="text-red text-center text-2xl lowercase font-extrabold">
       {{ recipe.title }}
-    </p>
+    </h1>
 
     <hr />
 
@@ -24,6 +24,7 @@
 
       <div class="sm:order-2 lg:col-span-2 lg:order-3">
         {% if recipe.tags %}
+          <h2 class="text-red text-lg lowercase font-extrabold mb-2">Tags</h2>
           {% for tag in recipe.tags.all %}
             <div class="inline mb-1">
               <a
@@ -33,9 +34,24 @@
               >
             </div>
           {% endfor %}
+          <hr />
         {% endif %}
 
-        <hr />
+        {% if recipe.related.all %}
+          <h2 class="text-red text-lg lowercase font-extrabold mb-2">Sides</h2>
+          {% for r in recipe.related.all %}
+            <div class="inline mb-1">
+              <a
+                class="text-rose hover:text-navy hover:bg-rose py-1 px-2 mb-3 rounded-tl-xl rounded-br-xl lowercase border-rose"
+                href="/recipes/{{ r.id }}/detail"
+                >{{ r.title }}</a
+              >
+            </div>
+          {% endfor %}
+          <hr />
+        {% endif %}
+
+        <h2 class="text-red text-lg lowercase font-extrabold mb-2">Cook</h2>
 
         <form action="" method="post">
           {% csrf_token %}
@@ -84,5 +100,5 @@
         </ol>
       </div>
     </div>
-  </div>
+  </article>
 {% endblock %}
