@@ -26177,6 +26177,38 @@
         "Add all the ingredients to a high speed blender and blend until completely incorporated. Pour into a sanitised jar and place in your fridge."
       ],
       "tags": ["sauce"]
+    },
+    {
+      "title": "Jamaican jerk tofu",
+      "image": "jamaican-jerk-tofu",
+      "url": "https://jessicainthekitchen.com/jamaican-jerk-tofu",
+      "prep": true,
+      "ingredients": [
+        "1 block tofu",
+        "⅓ cup vegetable stock",
+        "1 tsp bbq seasoning",
+        "1 ½ tsp poultry seasoning",
+        "1 ½ tbsp cornstarch",
+        "⅓ cup bbq sauce",
+        "1 tbsp jerk sauce",
+        "2 tsp oil",
+        "1 bunch kale",
+        "2 tsp olive oil",
+        "4 garlic cloves, minced",
+        "Lemon wedge",
+        "Rice"
+      ],
+      "steps": [
+        "Press your tofu for 30 mins. Tear into uneven pieces and place in a large bowl.",
+        "Add vegetable stock, bbq seasoning and poultry seasoning. Mix until tofu is coated and let season for at least 30 minutes.",
+        "Add cornstarch to tofu and mix to coat.",
+        "Cook the tofu in the air frier until golden brown and crispy on all sides.",
+        "In a bowl add the bbq sauce to the jerk sauce 1 teaspoon at a time, tasting for heat. Add the tofu and toss to coat.",
+        "In a large skillet, heat the oil over medium heat. Add the garlic and cook until fragrant.",
+        "Add the kale, garlic, salt, and pepper. Sauté until wilted. turn off the heat and squeeze over a little lemon juice.",
+        "Serve tofu with rice and peas and kale."
+      ],
+      "tags": ["caribbean", "tofu"]
     }
   ]
 }
