@@ -26322,6 +26322,45 @@
       ],
       "tags": ["beans", "soup"],
       "related": ["arroz-verde"]
+    },
+    {
+      "title": "Mushroom Étouffée",
+      "image": "mushroom-etouffee",
+      "url": "https://cooking.nytimes.com/recipes/1018977-vegan-mushroom-etouffee",
+      "ingredients": [
+        "3 tbsp coconut oil",
+        "3 tbsp flour",
+        "1 onion, diced",
+        "4 garlic cloves, minced",
+        "1 green pepper, diced",
+        "2 celery stalks, diced",
+        "½ tsp salt",
+        "1 cup diced tomatoes",
+        "2 ½ cups vegetable stock",
+        "1 bay leaf",
+        "1 tsp seaweed flakes",
+        "1 tsp paprika",
+        "1 tsp thyme",
+        "½ tsp dried oregano",
+        "½ tsp cayenne pepper",
+        "½ tsp garlic powder",
+        "½ tsp onion powder",
+        "½ tsp white pepper",
+        "½ tsp ground black pepper",
+        "1 tbsp Old Bay seasoning",
+        "450g oyster mushrooms, roughly chopped",
+        "Cooked rice",
+        "Lemon wedges",
+        "½ cup chopped parsley"
+      ],
+      "steps": [
+        "In a large pot heat oil over medium heat until it ripples. Sprinkle in the flour, stirring constantly. Cook until mixture toasts and turns golden brown.",
+        "Add the onion, garlic, bell pepper, celery, salt and stir. Cook, stirring until the onion is translucent.",
+        "Add tomatoes, stock, bay leaf, seaweed, spices, and Old Bay. Stir well and bring the pot to a simmer.",
+        "Add mushrooms and simmer, stirring occasionally, until tender, about 15 minutes. Taste and adjust the seasonings with salt and Old Bay.",
+        "Serve étouffée spooned over rice, garnished with lemon and parsley."
+      ],
+      "tags": ["creole"]
     }
   ]
 }
