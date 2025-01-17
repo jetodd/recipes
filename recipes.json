@@ -1382,7 +1382,8 @@
         "Add the bell pepper and broccoli and cook until tender then turn off the heat.",
         "Add thai basil leaves."
       ],
-      "tags": ["Vegan", "Thai", "Curry"]
+      "tags": ["Vegan", "Thai", "Curry"],
+      "related": ["green-curry-paste"]
     },
     {
       "image": "ratatouille",
@@ -7580,7 +7581,8 @@
         "Place the potatoes back in the pot and mash with some of the hot water (start with ¼ cup), salt, spices and oil.",
         "Warm the tortillas and then assemble like a burrito."
       ],
-      "tags": ["Indian", "wrap"]
+      "tags": ["Indian", "wrap"],
+      "related": ["coriander-mint-chutney"]
     },
     {
       "title": "Egg tarts",
@@ -8658,7 +8660,8 @@
         "Season to taste with additional salt and black pepper. You can add a bit more of the reserved pasta cooking water to loosen up the sauce, if desired",
         "Sprinkle the remaining cheese on top of the individual servings, followed by some extra fresh basil. For added richness, drizzle the servings lightly with olive oil"
       ],
-      "tags": ["Italian", "Vegetarian", "Pasta"]
+      "tags": ["Italian", "Vegetarian", "Pasta"],
+      "related": ["marinara-sauce"]
     },
     {
       "title": "Mango ginger rice bowl",
@@ -12899,7 +12902,8 @@
         "Drain in a sieve, then set aside to steam off its excess moisture and cool down.",
         "Once the quinoa has cooled, mix with kale, lemon juice, olive oil and a little salt."
       ],
-      "tags": ["Eggplant"]
+      "tags": ["Eggplant"],
+      "related": ["muhammara"]
     },
     {
       "title": "Chocolate cake",
@@ -14311,7 +14315,8 @@
         "Pour in the lemon sauce over medium low. Allow the sauce to come to boil then lower to a simmer.",
         "Add in the chicken and vegetables. Pour in the cornstarch slurry. Cook until sauce thickens."
       ],
-      "tags": ["chinese"]
+      "tags": ["chinese"],
+      "related": ["garlic-green-beans"]
     },
     {
       "title": "Garlic pepper stir fry",
@@ -26212,6 +26217,71 @@
       ],
       "tags": ["caribbean", "tofu"],
       "related": ["jerk-sauce", "rice-and-peas"]
+    },
+    {
+      "title": "Spicy Peanut Stew",
+      "image": "spicy-peanut-stew",
+      "url": "https://cooking.nytimes.com/recipes/1017949-spicy-peanut-stew-with-ginger-and-tomato",
+      "ingredients": [
+        "1 eggplant, diced",
+        "1 tsp salt",
+        "1 tsp cumin",
+        "1 tsp coriander",
+        "¼ tsp turmeric",
+        "⅛ tsp cayenne",
+        "⅛ cup peanut oil",
+        "2 shallots, thinly sliced",
+        "2 inches ginger, minced",
+        "1 to 2 chilies, minced",
+        "1 onion, chopped",
+        "⅓ cup tomato paste",
+        "1 can diced tomatoes",
+        "3 cups vegetable stock",
+        "¼ cup peanut butter",
+        "1 courgette, diced",
+        "2 tbsp lemon juice",
+        "⅓ cup coriander, chopped",
+        "Cooked rice",
+        "Chopped roasted peanuts"
+      ],
+      "steps": [
+        "Toss eggplant with 1 teaspoon salt, set aside for 30 minutes. Rinse, drain and set aside.",
+        "In a large pot heat oil over medium-high heat. Add shallots and fry, stirring often, until soft, crisp and caramelized.",
+        "Using a slotted spoon, transfer shallots to a large bowl, leaving oil in pot. Set aside.",
+        "Raise heat to high and add eggplant. Cook, stirring often until lightly browned. Transfer to shallot bowl.",
+        "Add a little more oil. Lower heat and add ginger and chilli and cook, stirring for 30 seconds. Add spices and cook, stirring, 30 seconds more.",
+        "Add onion and cook, stirring to scrape up any browned bits, until softened and translucent.",
+        "Add tomato paste and cook, stirring, 1 minute. Add diced tomatoes, stock, eggplant, shaoxing and season with salt. Bring to a boil and simmer for five minutes.",
+        "Place peanut butter in a bowl, add one or two ladlefuls of hot soup, and stir until emulsified, then pour mixture back into soup.",
+        "Reduce heat to a simmer, add courgette, cover and cook for 10 to 15 minutes. Turn off heat and add lemon juice and coriander.",
+        "Let cool slightly and taste; add salt if necessary. Serve in bowls with rice, garnish with coriander and chopped peanuts."
+      ],
+      "tags": ["stew", "rice"]
+    },
+    {
+      "title": "Arroz verde",
+      "image": "arroz-verde",
+      "url": "https://cooking.nytimes.com/recipes/1019201-green-rice-arroz-verde",
+      "ingredients": [
+        "1 cup rice",
+        "¼ cup olive oil",
+        "½ cup chopped onion",
+        "½ cup chopped poblano pepper",
+        "1 jalapeño, roughly chopped",
+        "2 cloves garlic, peeled",
+        "½ cup coriander leaves",
+        "¼ cup parsley leaves",
+        "1 teaspoon kosher salt",
+        "1 ¼ cups stock"
+      ],
+      "steps": [
+        "Rinse the rice a few times, until the water that drains from it runs almost completely clear. Set aside.",
+        "Put the onion, poblano, jalapeño, garlic, cilantro, parsley and salt in a food processor with a splash of the stock or water. Purée until smooth.",
+        "Heat oil over medium-high heat, add the rice and stir well, cook until starting to toast. Add the blender mixture and remaining stock.",
+        "When the liquid comes to a rolling boil, give it a good stir, scraping at the bottom of the pot.",
+        "Put a lid on the pot and turn the heat down to low. Cook until rice is done. Let sit for a few minutes then gently mix with a spatula."
+      ],
+      "tags": ["sides", "rice"]
     }
   ]
 }
