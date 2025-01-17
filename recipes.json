@@ -26282,6 +26282,46 @@
         "Put a lid on the pot and turn the heat down to low. Cook until rice is done. Let sit for a few minutes then gently mix with a spatula."
       ],
       "tags": ["sides", "rice"]
+    },
+    {
+      "title": "Black bean soup",
+      "image": "black-bean-soup",
+      "url": "https://downshiftology.com/recipes/black-bean-soup",
+      "ingredients": [
+        "1 red onion, chopped",
+        "1 carrot, peeled and diced",
+        "2 celery ribs, diced",
+        "1 jalapeno, diced",
+        "4 garlic cloves, minced",
+        "1 cup red wine",
+        "2 tsp cumin",
+        "1 tsp oregano",
+        "1 tsp coriander",
+        "1 tsp salt",
+        "⅛ tsp cayenne",
+        "2 bay leaves",
+        "1 tbsp chipotle paste",
+        "3 cans black beans, drained",
+        "3 cups stock",
+        "1 ½ tbsp lime juice",
+        "Coriander, chopped",
+        "Red onion, finely chopped",
+        "Avocado",
+        "Lime wedges",
+        "Arroz verde"
+      ],
+      "steps": [
+        "Heat oil over medium-high heat. Add the onion, carrot, celery and garlic. Cook until softened.",
+        "Add the garlic, cumin, oregano, coriander, cayenne pepper, and salt, and stir together for another minute, until fragrant.",
+        "Pour in wine and let simmer until pan is almost dry and vegetables are coated.",
+        "Add jalapeños and cook, stirring, just until softened, 2 minutes.",
+        "Push the vegetables to the edges of the pot and add chipotle paste in the center. Let fry for a minute then stir together.",
+        "Add the beans, bay leaves and stock, stir, and bring to a boil. Reduce the heat to low, cover, and simmer for 15 minutes.",
+        "Using an immersion blender, puree the soup a few times to blend a small amount of the beans. Taste and season with salt and pepper.",
+        "Serve rice in a bowl then ladle over soup. Top with coriander, red onion, avocado and serve with lime wedges."
+      ],
+      "tags": ["beans", "soup"],
+      "related": ["arroz-verde"]
     }
   ]
 }
