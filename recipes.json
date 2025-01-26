@@ -26388,6 +26388,26 @@
         "Season with black pepper and red chili flakes."
       ],
       "tags": ["pasta"]
+    },
+    {
+      "title": "Airfryer tangyuan",
+      "image": "airfryer-tangyuan",
+      "url": "https://www.youtube.com/watch?v=89BmtaDfoHA",
+      "ingredients": [
+        "6 frozen tangyuan",
+        "1 sheet puff pastry",
+        "2 tbsp milk",
+        "1 tsp sesame seeds"
+      ],
+      "steps": [
+        "Roll out the puff pastry and cut it into six rectangles.",
+        "Place a tangyuan in the center of a pasty square.",
+        "Fold in the corners to the top of the ball and tuck in the seams as much as possible.",
+        "Repeat until all pastry squares are used. Use a knife to gently add a 'x' to the top of each ball.",
+        "Brush on milk to the top of each ball and sprinkle with sesame seeds. Space out evenly in the air frier.",
+        "Cook for ten minutes at 180°C."
+      ],
+      "tags": ["sweet"]
     }
   ]
 }
