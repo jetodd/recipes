@@ -3525,31 +3525,39 @@
       "title": "Korean BBQ tofu",
       "url": "https://www.rabbitandwolves.com/vegan-crispy-korean-bbq-tofu/",
       "ingredients": [
-        "1 block tofu",
-        "½ cup tomato puree",
-        "¼ cup rice wine vinegar",
-        "¼ cup soysauce",
-        "2 tsp sugar",
-        "2 tsp gochujang",
-        "1 small apple, finely grated",
-        "4 cloves garlic, finely grated",
-        "1 inch ginger, finely grated",
+        "1 large block tofu",
+        "1 tsp gochujang",
+        "1 tbsp soy sauce",
+        "1 tbsp water",
+        "2 tsp cornstarch",
+        "1 tbsp sunflower oil",
+        "½ tsp white pepper",
+        "1 tbsp ketchup",
+        "2 tbsp rice wine vinegar",
+        "½ cup soy sauce",
+        "4 tsp brown sugar",
+        "2 tbsp gochujang",
+        "6 cloves garlic, minced",
+        "1 inch ginger, minced",
+        "½ tbsp sesame oil",
+        "240ml water",
         "1 tbsp sesame seeds",
-        "½ cup cornflour",
+        "1 tbsp cornstarch",
         "½ tsp salt",
-        "Scallions",
+        "Scallions, finely sliced",
         "Pak choi",
-        "Broccoli",
-        "Rice"
+        "Broccoli, steamed",
+        "Cooked rice"
       ],
       "steps": [
-        "Drain and press the tofu.",
-        "Cook the rice.",
-        "Whisk the tomato puree, rice wine vinegar, soy sauce, sugar, gochujang, apple, garlic, ginger and sesame seeds.",
-        "Cube the tofu and in a bowl toss to coat with the cornflour.",
-        "Cook the tofu in the frying pan, in multiple batches if necessary, browning on all sides.",
-        "Steam the vegetables.",
-        "Remove tofu from pan along with excess oil then add half the sauce. Heat it then add the tofu back, tossing to coat."
+        "Drain and press the tofu. Once done pat dry with a paper towel and pull apart into nuggets.",
+        "Combine gochujang, soy sauce, water, cornstarch, oil and white pepper in a bowl. Add the tofu and toss until fully coated. Cook in the airfryer until crispy.",
+        "Meanwhile combine ingredients from ketchup to water in a bowl for the sauce.",
+        "Place a medium frying pan over medium heat and add the whisked ingredients. Bring to a simmer, stirring often, then cook for around 5 minutes or until reduced.",
+        "In a small bowl, whisk cornstarch and 2 tablespoons water then add to the sauce. Stir until the sauce thickens then remove from the heat.",
+        "Remove tofu from pan along with excess oil then add half the sauce. Heat it then add the tofu back, tossing to coat.",
+        "Remove the crispy tofu from the oven/air fryer and add directly to the Korean BBQ sauce. Stir to combine.",
+        "Serve hot, topped with toasted sesame seeds and sliced spring onions with a side of cooked rice and steamed vegetables."
       ],
       "tags": ["Korean", "Vegan", "tofu"]
     },
@@ -22775,6 +22783,25 @@
         "Cook in the oven at 190C for 15 mins or until crispy on top."
       ],
       "tags": ["pasta"]
+    },
+    {
+      "title": "Pico de gallo",
+      "image": "pico-de-gallo",
+      "url": "https://cookieandkate.com/classic-pico-de-gallo-recipe",
+      "ingredients": [
+        "2 cups diced tomatoes",
+        "¾ cup diced white onion",
+        "½ cup chopped coriander",
+        "¼ cup lime juice",
+        "2 garlic cloves, minced",
+        "1 chilli, finely chopped",
+        "½ tsp salt"
+      ],
+      "steps": [
+        "In a medium bowl combine all ingredients. Taste and add more salt to season as needed.",
+        "Let the mixture marinate for 15 minutes or several hours in the fridge."
+      ],
+      "tags": ["sides", "sauces"]
     },
     {
       "title": "Garlicky courgette and butterbeans",
