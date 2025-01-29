@@ -10,11 +10,11 @@
     "lint-staged": "^15.2.10",
     "prettier": "^3.3.3",
     "prettier-plugin-jinja-template": "^2.0.0",
-    "tailwindcss": "^3.4.17"
+    "tailwindcss": "^4.0.0"
   },
   "scripts": {
-    "tailwind:dev": "tailwindcss -i ./recipes/tailwind/tailwind.css -o ./recipes/static/recipes/style.css --watch",
-    "tailwind": "tailwindcss -i ./recipes/tailwind/tailwind.css -o ./recipes/static/recipes/style.css",
+    "tailwind:dev": "npx @tailwindcss/cli -i ./recipes/tailwind/tailwind.css -o ./recipes/static/recipes/style.css --watch",
+    "tailwind": "npx @tailwindcss/cli -i ./recipes/tailwind/tailwind.css -o ./recipes/static/recipes/style.css",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "prettier --check .",
     "lint:fix": "prettier --write .",
@@ -25,5 +25,8 @@
   "private": "true",
   "lint-staged": {
     "*.{js,css,md,html,json,yml,yaml}": "prettier --write"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.0"
   }
 }
