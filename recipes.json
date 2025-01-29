@@ -25674,7 +25674,7 @@
         "Cook for 2 minutes without touching. Flip, cook another 2 minutes. Repeat a few times.",
         "Reduce heat, add in the peppers, onions. Cook until onion is translucent.",
         "Add in garlic and seasonings and stir to combine. Add corn and black beans and cook until heated through.",
-        "Top with coriander, jalapenos and lime juice."
+        "Top with coriander, jalapenos, sour cream and lime juice."
       ],
       "tags": ["kumara"]
     },
@@ -25816,7 +25816,7 @@
       "steps": [
         "Put the black beans in a bowl, cover with water and let them soak for at least 8 hours or overnight. Drain.",
         "Add the beans and 1 ¼ litres of water in a large saucepan and bring to a boil. Skim off any foam.",
-        "Add the bay leaves and simmer covered for 9 - 100 minutes until the beans are cooked.",
+        "Add the bay leaves and simmer covered for 90 - 100 minutes until the beans are cooked.",
         "Heat oil in a pan and cook the tofu and chorizo until browned. Add the kumara, mushrooms, onion and garlic. Cook for a few minutes.",
         "Fry for another 2-3 minutes. Season with soy sauce, spices and liquid smoke.",
         "Use the hand blender to briefly puree a small part of the beans.",
@@ -26435,6 +26435,46 @@
         "Cook for ten minutes at 180°C."
       ],
       "tags": ["sweet"]
+    },
+    {
+      "title": "Tofu fajitas",
+      "image": "tofu-fajitas",
+      "url": "https://schoolnightvegan.com/home/tofu-fajitas/",
+      "ingredients": [
+        "2 tsp paprika",
+        "1 tsp cumin",
+        "1 tsp garlic powder",
+        "1 tsp coriander",
+        "1 tsp oregano",
+        "1 tsp ancho chilli powder",
+        "¼ tsp cayenne",
+        "2 tsp brown sugar",
+        "2 tbsp olive oil",
+        "450g extra firm tofu",
+        "200ml vegan chicken stock",
+        "½ red onion, finely sliced",
+        "1 red pepper, sliced into strips",
+        "½ green pepper, sliced into strips",
+        "½ yellow pepper, sliced into strips",
+        "1 tsp salt",
+        "Juice of 1 lime",
+        "8 flour tortillas",
+        "200g guacamole",
+        "200g pico de gallo",
+        "100g shredded vegan cheese"
+      ],
+      "steps": [
+        "Drain and press the tofu. Once done pat down with a paper towel and cut into strips.",
+        "In a small bowl, mix together ingredients from paprika to sugar for the fajita seasoning and set aside.",
+        "Heat the skillet over medium heat. Once hot, add half the olive oil. Fry the tofu, stirring often, until lightly browned.",
+        "Add the vegan chicken stock and bring to a simmer. Cook until all the stock has evaporated, around 7 minutes.",
+        "Add the remaining olive oil to a frying pan followed by the red onion, peppers, 4 teaspoons of the fajita seasoning and the salt.",
+        "Stir to combine and cook for a further 5 minutes or until the peppers and onion have softened slightly.",
+        "Squeeze the juice of the lime over the tofu and peppers and stir.",
+        "Serve the tofu mixture hot with toasted flour tortillas, guacamole, pico de gallo salsa and shredded vegan cheese."
+      ],
+      "tags": ["Mexican"],
+      "related": ["guacamole", "pico-de-gallo"]
     }
   ]
 }
