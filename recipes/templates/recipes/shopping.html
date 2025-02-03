@@ -76,14 +76,14 @@
             {% csrf_token %}
 
             <button
-              class="btn btn-primary w-full md:w-auto"
+              class="btn btn-primary w-full md:w-auto mt-3"
               type="button"
               id="select_all"
             >
               Select all
             </button>
             <input
-              class="btn btn-danger w-full md:w-auto"
+              class="btn btn-danger w-full md:w-auto mt-3 mb-3"
               type="submit"
               value="Delete selected"
             />
@@ -101,7 +101,7 @@
           {% csrf_token %}
           {{ form.as_p }}
           <input
-            class="btn btn-primary w-full md:w-auto"
+            class="btn btn-primary w-full md:w-auto mt-3 mb-3"
             type="submit"
             value="Add"
           />

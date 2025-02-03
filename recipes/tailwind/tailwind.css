@@ -30,7 +30,7 @@
   @apply bg-red hover:text-rose;
 }
 @utility form-control {
-  @apply px-3 py-1 border-2 w-full border-rose rounded-md focus:ring-4 text-navy;
+  @apply px-3 py-1 border-2 w-full border-rose rounded-md focus:ring-2 text-rose;
 }
 
 @layer utilities {
