@@ -26497,6 +26497,41 @@
         "Pour the soy sauce mixture that was set aside onto the spinach, and toss to combine."
       ],
       "tags": ["sides", "korean", "vegetable"]
+    },
+    {
+      "title": "Tofu bulgogi",
+      "image": "tofu-bulgogi",
+      "url": "https://thefoodietakesflight.com/shredded-tofu-bulgogi/",
+      "ingredients": [
+        "500g tofu",
+        "1 onion, sliced",
+        "1 cup grated asian pear",
+        "3 tbsp soy sauce",
+        "2 tbsp gochujang",
+        "½ tsp black pepper",
+        "2 tbsp sesame oil",
+        "2 tbsp sesame seeds",
+        "1 tbsp dark soy sauce",
+        "3 tbsp brown sugar",
+        "2 tbsp rice vinegar",
+        "4 tbsp water",
+        "2 tsp ginger, minced",
+        "6 cloves garlic, minced",
+        "Chopped green onions",
+        "Sesame seeds",
+        "Steamed rice",
+        "Steamed vegetables"
+      ],
+      "steps": [
+        "Drain and press the tofu. Once done pat dry with a paper towel and grate into shreds.",
+        "Line the air fryer basket with baking paper and spread out the tofu in it. Air fry until lightly golden brown.",
+        "Meanwhile prepare the sauce by mixing ingredients from pear to garlic.",
+        "Once the tofu is lightly golden brown and crisp on the edges, transfer it to the sauce. Mix well to coat.",
+        "Heat the wok over medium heat. Add the tofu and sliced onion. Cook until onion is translucent. Remove from heat.",
+        "Serve hot over rice with steamed vegetables and garnish with sliced spring onions & sesame seeds."
+      ],
+      "tags": ["korean", "rice", "asian", "tofu"],
+      "related": ["seasoned-spinach"]
     }
   ]
 }
