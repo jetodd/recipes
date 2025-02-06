@@ -26475,6 +26475,28 @@
       ],
       "tags": ["Mexican"],
       "related": ["guacamole", "pico-de-gallo"]
+    },
+    {
+      "title": "Seasoned spinach",
+      "image": "seasoned-spinach",
+      "url": "https://carmyy.com/korean-seasoned-spinach/",
+      "ingredients": [
+        "2 tbsp soy sauce",
+        "1 tbsp sesame oil",
+        "1 tbsp garlic, minced",
+        "1 tbsp toasted sesame seeds",
+        "½ tsp salt",
+        "300g baby spinach"
+      ],
+      "steps": [
+        "In a small bowl combine the soy sauce, garlic, sesame oil, sesame seeds, and salt. Mix and then set aside.",
+        "Bring a pot of salted water to a boil and then add the spinach in for 30 seconds.",
+        "Drain the spinach and run it under some cold water to stop the cooking process.",
+        "With clean hands, squeeze the spinach, a handful at a time, to remove any excess liquid.",
+        "Spread the spinach out/loosen it from the balls that you just made from squeezing the water out.",
+        "Pour the soy sauce mixture that was set aside onto the spinach, and toss to combine."
+      ],
+      "tags": ["sides", "korean", "vegetable"]
     }
   ]
 }
