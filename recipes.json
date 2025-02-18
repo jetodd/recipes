@@ -25097,6 +25097,39 @@
       "tags": ["rice", "Mongolian"]
     },
     {
+      "title": "Rice & peas",
+      "image": "rice-and-peas",
+      "url": "https://mealsbymavis.com/jamaican-rice-and-peas-with-canned-beans",
+      "ingredients": [
+        "1 tbsp oil",
+        "1 onion, diced",
+        "2 cloves garlic, minced",
+        "½ bean juice",
+        "1 cup water",
+        "¼ cup vegetable stock",
+        "1 tsp ginger, minced",
+        "½ tsp allspice",
+        "2 stalks scallions, chopped",
+        "3 stalks thyme, de-stemmed",
+        "1 scotch bonnet pepper",
+        "½ tsp salt",
+        "½ tsp ground black pepper",
+        "1 cup brown rice",
+        "1 can red kidney beans",
+        "½ cup coconut milk"
+      ],
+      "steps": [
+        "Rinse the rice until the tap water runs clear.",
+        "Heat oil in a pot at medium heat. Add the onion and garlic. Cook until onion is translucent.",
+        "Add the bean juice, water, stock, ginger, allspice, scallions, thyme, and scotch bonnet pepper.",
+        "Cover the pot with a lid and let the liquid come to a boil.",
+        "Remove the scotch bonnet pepper from the pot; you can discard it or use it for something else.",
+        "Pour the rice, beans, and coconut milk into the pot. Mix, then cover.",
+        "Let the liquid come to a boil. Lower the heat to simmer and simmer until rice is cooked."
+      ],
+      "tags": ["rice", "caribbean"]
+    },
+    {
       "title": "Vegan mutton curry",
       "image": "vegan-mutton-curry",
       "prep": true,
@@ -25139,39 +25172,6 @@
         "Continue to simmer until curry has thickened and potatoes are cooked. Serve with rice."
       ],
       "tags": ["curry", "rice", "caribbean"]
-    },
-    {
-      "title": "Rice & peas",
-      "image": "rice-and-peas",
-      "url": "https://mealsbymavis.com/jamaican-rice-and-peas-with-canned-beans",
-      "ingredients": [
-        "1 tbsp oil",
-        "1 onion, diced",
-        "2 cloves garlic, minced",
-        "½ bean juice",
-        "1 cup water",
-        "¼ cup vegetable stock",
-        "1 tsp ginger, minced",
-        "½ tsp allspice",
-        "2 stalks scallions, chopped",
-        "3 stalks thyme, de-stemmed",
-        "1 scotch bonnet pepper",
-        "½ tsp salt",
-        "½ tsp ground black pepper",
-        "1 cup brown rice",
-        "1 can red kidney beans",
-        "½ cup coconut milk"
-      ],
-      "steps": [
-        "Rinse the rice until the tap water runs clear.",
-        "Heat oil in a pot at medium heat. Add the onion and garlic. Cook until onion is translucent.",
-        "Add the bean juice, water, stock, ginger, allspice, scallions, thyme, and scotch bonnet pepper.",
-        "Cover the pot with a lid and let the liquid come to a boil.",
-        "Remove the scotch bonnet pepper from the pot; you can discard it or use it for something else.",
-        "Pour the rice, beans, and coconut milk into the pot. Mix, then cover.",
-        "Let the liquid come to a boil. Lower the heat to simmer and simmer until rice is cooked."
-      ],
-      "tags": ["rice", "caribbean"]
     },
     {
       "title": "Rice cooker corn rice",
