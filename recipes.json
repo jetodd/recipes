@@ -1348,6 +1348,33 @@
       "tags": ["Vegan", "Asian", "Vietnamese"]
     },
     {
+      "image": "green-curry-paste",
+      "title": "Green curry paste",
+      "url": "https://www.connoisseurusveg.com/vegan-green-curry-paste/",
+      "ingredients": [
+        "2 tsp coriander seeds",
+        "1 tsp fennel seeds",
+        "1 tsp cumin seeds",
+        "1 tsp black peppercorns",
+        "15g green chillies, sliced",
+        "15g green bird's eye chillies, sliced",
+        "2 shallots, chopped",
+        "2 lemongrass stalks, chopped",
+        "20g galangal, chopped",
+        "1 inch tumeric, chopped",
+        "10 kaffir lime leaves",
+        "4 cloves garlic",
+        "4 sprigs coriander",
+        "Zest of 1 lime",
+        "1 tbsp miso paste"
+      ],
+      "steps": [
+        "Cook the coriander, fennel, cumin and peppercorns in a dry pan until fragrant.",
+        "Starting with the hardest ingredients first grind the ingredients into a paste in a mortar and pestle."
+      ],
+      "tags": ["Asian", "Vegan", "Thai"]
+    },
+    {
       "image": "green-curry",
       "title": "Green curry",
       "url": "https://tasty.co/recipe/thai-green-curry-with-chicken-by-chef-fern",
@@ -1418,33 +1445,6 @@
         "Mix herb seasoning ingredients and pour over the cooked ratatouille."
       ],
       "tags": ["Vegan", "French"]
-    },
-    {
-      "image": "green-curry-paste",
-      "title": "Green curry paste",
-      "url": "https://www.connoisseurusveg.com/vegan-green-curry-paste/",
-      "ingredients": [
-        "2 tsp coriander seeds",
-        "1 tsp fennel seeds",
-        "1 tsp cumin seeds",
-        "1 tsp black peppercorns",
-        "15g green chillies, sliced",
-        "15g green bird's eye chillies, sliced",
-        "2 shallots, chopped",
-        "2 lemongrass stalks, chopped",
-        "20g galangal, chopped",
-        "1 inch tumeric, chopped",
-        "10 kaffir lime leaves",
-        "4 cloves garlic",
-        "4 sprigs coriander",
-        "Zest of 1 lime",
-        "1 tbsp miso paste"
-      ],
-      "steps": [
-        "Cook the coriander, fennel, cumin and peppercorns in a dry pan until fragrant.",
-        "Starting with the hardest ingredients first grind the ingredients into a paste in a mortar and pestle."
-      ],
-      "tags": ["Asian", "Vegan", "Thai"]
     },
     {
       "image": "asian-burger-patties",
