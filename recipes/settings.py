@@ -34,10 +34,10 @@ SECRET_KEY = 'g4^0or9-1$v4y@k@ya8mk@go(fcoae63iuris8mro5ii)q1v1y'
 DEBUG = True
 
 ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'stitches-recipes.fly.dev', 'stitchs-recipes.herokuapp.com',
-                 'stitchs-recipes.timja.dev']
+                 'stitchs-recipes.timja.dev', 'recipes-demo.timja.dev']
 
 CSRF_TRUSTED_ORIGINS = ['https://stitchs-recipes.herokuapp.com', 'https://stitches-recipes.fly.dev',
-                        'https://stitchs-recipes.timja.dev']
+                        'https://stitchs-recipes.timja.dev', 'https://recipes-demo.timja.dev']
 
 # Application definition
 
